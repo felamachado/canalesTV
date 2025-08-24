@@ -142,32 +142,17 @@ def m3u8_slow(iframe_url: str) -> Optional[str]:
                 print(f"  🔍 Found HLS stream: {request.url}")
                 return request.url
                 
-        # Si no encuentra .m3u8, buscar .mpd e intentar convertir
+        # Si no encuentra .m3u8, buscar .mpd y usar el tokenizado más reciente
+        dash_urls = []
         for request in driver.requests:
             if ".mpd" in request.url:
-                mpd_url = request.url
-                print(f"  📺 Found DASH stream: {mpd_url}")
+                dash_urls.append(request.url)
                 
-                # Intentar convertir a HLS
-                hls_candidates = [
-                    mpd_url.replace('_dash_enc', '_hls_enc').replace('.mpd', '.m3u8'),
-                    mpd_url.replace('/dash/', '/hls/').replace('.mpd', '.m3u8'),
-                    mpd_url.replace('.mpd', '.m3u8'),
-                ]
-                
-                for hls_url in hls_candidates:
-                    try:
-                        import requests
-                        resp = requests.head(hls_url, timeout=5)
-                        if resp.status_code in [200, 302]:  # 302 = redirect válido
-                            print(f"  ✅ Converted to HLS: {hls_url}")
-                            return hls_url
-                    except:
-                        continue
-                
-                # Si no se puede convertir, devolver el .mpd original
-                print(f"  ⚠️ Could not convert to HLS, using DASH: {mpd_url}")
-                return mpd_url
+        if dash_urls:
+            # Usar la URL tokenizada (la más larga es generalmente la más reciente)
+            best_dash = max(dash_urls, key=len)
+            print(f"  📺 Using DASH stream: {best_dash}")
+            return best_dash
     except Exception as e:
         LOGS.write_text(f"ERROR: {e}\n", encoding="utf-8")
         return None
