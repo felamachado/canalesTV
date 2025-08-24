@@ -22,7 +22,7 @@ MIRROR_AGENDA2 = "https://roja-directahd.com/"
 # Directorio del repo local donde se realiza el push (asume que aquí está el repositorio git)
 REPO_DIR       = Path(__file__).parent
 EVENT_FILE     = "eventos.m3u"
-CDN_URL        = f"https://cdn.jsdelivr.net/gh/felamachado/canalesTV@main/{EVENT_FILE}"
+CDN_URL        = f"https://raw.githubusercontent.com/felamachado/canalesTV/main/{EVENT_FILE}"
 PURGE_URL      = f"https://purge.jsdelivr.net/gh/felamachado/canalesTV@main/{EVENT_FILE}"
 QUICK_TIMEOUT  = 3   # segundos para intento rápido
 SLOW_WAIT      = 4   # segundos de espera en Selenium
@@ -228,6 +228,42 @@ def get_m3u8_selenium_enhanced(url: str) -> str:
     finally:
         drv.quit()
 
+# ───────────── Combined Playlist Generation ─────────────
+def create_combined_playlist(eventos_entries: list[str]) -> None:
+    """Crea una playlist combinada con eventos deportivos + canales fijos"""
+    varios_file = REPO_DIR / "varios.m3u"
+    combined_file = REPO_DIR / "playlist.m3u"
+    
+    # Leer canales fijos si existe varios.m3u
+    canales_fijos = []
+    if varios_file.exists():
+        try:
+            varios_content = varios_file.read_text(encoding="utf-8").strip()
+            if varios_content and not varios_content == "#EXTM3U":
+                # Extraer solo las entradas (sin #EXTM3U inicial)
+                varios_lines = varios_content.split('\n')[1:]  # Skip #EXTM3U
+                if varios_lines and any(line.strip() for line in varios_lines):
+                    canales_fijos = [line for line in varios_lines if line.strip()]
+        except Exception as e:
+            print(f"  ⚠️ Error leyendo varios.m3u: {e}")
+    
+    # Construir playlist combinada
+    combined_entries = ["#EXTM3U"]
+    
+    # Agregar canales fijos primero
+    if canales_fijos:
+        combined_entries.extend(canales_fijos)
+        print(f"  → Agregados {len([l for l in canales_fijos if l.startswith('#EXTINF')])} canales fijos")
+    
+    # Agregar eventos deportivos (omitir #EXTM3U inicial)
+    if len(eventos_entries) > 1:  # Más que solo #EXTM3U
+        combined_entries.extend(eventos_entries[1:])  # Skip #EXTM3U
+    
+    # Guardar playlist combinada
+    combined_file.write_text("\n".join(combined_entries), encoding="utf-8")
+    total_channels = len([l for l in combined_entries if l.startswith('#EXTINF')])
+    print(f"Guardado playlist.m3u combinada con {total_channels} canales totales")
+
 # ───────────── Main ─────────────
 def main():
     # obtener eventos y ordenar por liga y hora
@@ -262,18 +298,31 @@ def main():
             print(f"  ⚠️ error en {hora} {liga} – {partido} – {chan}: {e}")
             continue
 
+    # Guardar eventos.m3u (solo eventos deportivos)
     out = REPO_DIR / EVENT_FILE
     out.write_text("\n".join(entries), encoding="utf-8")
     print(f"Guardado {out} con {len(entries)-1} entradas")
+    
+    # Crear playlist combinada con canales fijos
+    create_combined_playlist(entries)
 
     # Git: push directo al repositorio conocido
     try:
         repo = Repo(REPO_DIR)
-        repo.index.add([str(out)])
+        # Agregar tanto eventos.m3u como playlist.m3u
+        files_to_add = [str(out)]
+        combined_file = REPO_DIR / "playlist.m3u"
+        if combined_file.exists():
+            files_to_add.append(str(combined_file))
+        
+        repo.index.add(files_to_add)
         repo.index.commit('AutoScraper update playlist')
         repo.remote(name='origin').push()
-        requests.get(PURGE_URL)
-        print(f"Subido y purgado CDN: {CDN_URL}")
+        print(f"Subido a GitHub RAW: {CDN_URL}")
+        
+        if combined_file.exists():
+            combined_url = f"https://raw.githubusercontent.com/felamachado/canalesTV/main/playlist.m3u"
+            print(f"Playlist combinada: {combined_url}")
     except git_exc.GitError as git_err:
         print(f"⚠️ Error con Git: {git_err}")
     except Exception as e:

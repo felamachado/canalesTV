@@ -45,6 +45,8 @@ from urllib.parse import urlparse
 from seleniumwire import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
 # ---------------------------------------------------------------------------
 # Configuración editable
@@ -111,7 +113,9 @@ _DRIVER: Optional[webdriver.Chrome] = None
 
 def _init_driver() -> webdriver.Chrome:
     opts = _chrome_options()
-    driver = webdriver.Chrome(options=opts)
+    driver_path = '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver'
+    service = Service(driver_path)
+    driver = webdriver.Chrome(service=service, options=opts)
     driver.scopes = ['.*']
     return driver
 
@@ -133,7 +137,8 @@ def m3u8_slow(iframe_url: str) -> Optional[str]:
         LOGS.write_text("\n".join(lines), encoding="utf-8")
 
         for request in driver.requests:
-            if ".m3u8" in request.url:
+            if ".m3u8" in request.url or ".mpd" in request.url:
+                print(f"  🔍 Found stream: {request.url}")
                 return request.url
     except Exception as e:
         LOGS.write_text(f"ERROR: {e}\n", encoding="utf-8")
