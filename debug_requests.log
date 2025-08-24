@@ -1,4 +1,4 @@
-GET http://clients2.google.com/time/1/current?cup2key=9:ye9IZuFCuCcFgZn1NLudasC5b3CitzkrVCvJmFndyBo&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -> 200
+GET http://clients2.google.com/time/1/current?cup2key=9:Q0Qz6RyvjocLoAxwwJ4OeZiQFzchkHy6O8icL_b38NY&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -> 200
 POST https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&laf=b64bin&json=standard -> 200
 GET https://bestleague.one/cvatt.html?get=Q2FuYWwxMF9VUlU=&lang=1 -> 200
 GET https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js -> 200
@@ -7,9 +7,9 @@ GET https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.core.controls.js -> 200
 GET https://ssl.p.jwpcdn.com/player/v/8.26.0/provider.shaka.js -> 200
 GET https://ssl.p.jwpcdn.com/player/v/8.26.0/translations/es.json -> 200
 GET https://bestleague.one/favicon.ico -> 404
-GET https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd -> 302
+GET https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd -> 302
 GET https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM5LjAuNzI1OC4xMzgSGQlaknKqiLJnuxIFDQbtu_8hektnk8hVoAk=?alt=proto -> 200
-GET https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI1MTg5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImZmODFhODAyZTQ5YzUzNmIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.KG7YSsKSA-Ub5hUWj5N1-WekLAEnLrk-O02uLZBfNfziu_g-UNpiUeXoNS4VLHPZjf6JlqPre7dn_vf3zoWdsQ==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd -> 200
+GET https://edge7-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI2NTUxIiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImY0ZjcyZDc4NjA2YWRjMzUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiMjI0Iiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.xb24_37LjSAAD4dj-UepN94OoXDl2R06zwY7PbD29DMYzsXkKeYLhzFDjzhpFcYrAbq4Wl0nD7Fzc2GjUgLvDA==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd -> 200
 POST https://android.clients.google.com/checkin -> 200
 POST https://android.clients.google.com/c2dm/register3 -> 200
 POST https://android.clients.google.com/c2dm/register3 -> 200
