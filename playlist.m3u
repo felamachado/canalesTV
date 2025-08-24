@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="ESPN 5Calidad 720p" group-title="Premier League", 16:30 Premier League – Fulham vs Manchester United – ESPN 5Calidad 720p
 https://24a1.crackstreamslivehd.com/global/espn5/index.m3u8?token=3b583d81ec0dd6f7b22c075b74c290a438f2096e-dc-1756097585-1756043585&ip=179.26.111.160
 #EXTINF:-1 tvg-name="Disney+Calidad 720p" group-title="Premier League", 16:30 Premier League – Fulham vs Manchester United – Disney+Calidad 720p
