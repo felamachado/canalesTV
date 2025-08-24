@@ -1,0 +1,64 @@
+name: Auto Update Sports Playlist
+
+on:
+  schedule:
+    # Ejecutar cada 30 minutos
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Permitir ejecución manual
+  push:
+    branches: [ main ]
+    paths: 
+      - 'pelota_builder.py'
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install Chrome
+      run: |
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+        
+    - name: Install Python dependencies
+      run: |
+        pip install --upgrade pip
+        pip install requests beautifulsoup4 GitPython selenium-wire==5.1.0 blinker==1.7.0 webdriver-manager
+        
+    - name: Configure git
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        
+    - name: Run playlist updater
+      env:
+        DISPLAY: :99
+      run: |
+        # Iniciar display virtual para Chrome headless
+        sudo apt-get install -y xvfb
+        export DISPLAY=:99
+        Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+        
+        # Ejecutar el script
+        python3 pelota_builder.py
+        
+    - name: Check if playlist was updated
+      run: |
+        if git diff --name-only | grep -q eventos.m3u; then
+          echo "Playlist updated successfully"
+          git status
+        else
+          echo "No changes to playlist"
+        fi
