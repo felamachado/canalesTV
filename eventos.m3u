@@ -1,9 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ESPN 5Calidad 720p" group-title="Premier League", 16:30 Premier League – Fulham vs Manchester United – ESPN 5Calidad 720p
-https://24a1.crackstreamslivehd.com/global/espn5/index.m3u8?token=3b583d81ec0dd6f7b22c075b74c290a438f2096e-dc-1756097585-1756043585&ip=179.26.111.160
-#EXTINF:-1 tvg-name="Disney+Calidad 720p" group-title="Premier League", 16:30 Premier League – Fulham vs Manchester United – Disney+Calidad 720p
-https://14c51.crackstreamslivehd.com/global/disney15/index.m3u8?token=1b0a5164cf9adabb91d9c01e81115d1b15e25fa3-3a-1756097596-1756043596&ip=179.26.111.160
-#EXTINF:-1 tvg-name="USA NetworkCalidad 720p" group-title="Premier League", 16:30 Premier League – Fulham vs Manchester United – USA NetworkCalidad 720p
-https://florcd1.crackstreamslivehd.com/global/usa_network/index.m3u8?token=398387a1df68ae92ad53fab844324417874d4a00-9b-1756097605-1756043605&ip=179.26.111.160
-#EXTINF:-1 tvg-name="Eventos TVCalidad 720p" group-title="Premier League", 16:30 Premier League – Fulham vs Manchester United – Eventos TVCalidad 720p
-https://nio1.dbcast.live/ako03xj0LaE4-9bEtSMoXg/1756081478/3137392e32362e3131312e313630/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Real Madrid – Canal 1
+https://d3.merichunidya.com:1686/hls/capodeportes.m3u8?md5=Av8CrCScdRWmqen2M40iQg&expires=1756074487
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Real Madrid – Canal 2
+https://uhjjaa.1396168994.live:8443/hls/tyh9ei.m3u8?s=klVSBqKk8xuwgndpzCIdKQ&e=1756088898
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Real Madrid – Canal 3 (HD)
+https://24a1.crackstreamslivehd.com/global/espnplus10/index.m3u8?token=a47b7de1b62b70eb5716b10d192a5b0e1916ff25-5d-1756112306-1756058306&ip=172.174.165.2
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Real Madrid – Canal 4 (HD)
+https://florcd1.crackstreamslivehd.com/global/disney6/index.m3u8?token=21b341cb123d3173ea8cc759acdbae148a464dcc-6b-1756112314-1756058314&ip=172.174.165.2
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Real Madrid – Canal 5 (HD)
+https://nio2.dbcast.live/dzjBPIvjN57CRKsjShJDAg/1756096122/3137322e3137342e3136352e32/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Real Madrid – Canal 6 (HD)
+https://muc200.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=2c79ccd41039230d97b67344786ef656ae0cc5c963f2f79b8f3e0d0d060b4dcaeb5ec658cef3c00c9e29c8a9cd0f6135b3d51405ea42876ce5e7d9f99ab240ef
+#EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Real Sociedad B – Deportes Plus 4
+https://d3.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=ZBCOcroueLeEc8ymE4ZqwQ&expires=1756074531
+#EXTINF:-1 tvg-name="Canal 40" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Real Sociedad B – Canal 40
+https://uhjjaa.1396168994.live:8443/hls/s6kdue.m3u8?s=LJ4pvKM70xmv_dVNL7wTwA&e=1756088945
+#EXTINF:-1 tvg-name="Canal 41 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Real Sociedad B – Canal 41 (HD)
+https://57b1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=94d137cdf6fa63c49ec749d053712885205cab52-3b-1756112353-1756058353&ip=172.174.165.2
+#EXTINF:-1 tvg-name="Canal 42 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Real Sociedad B – Canal 42 (HD)
+https://nio1.dbcast.live/kajGshFJw9dGLoMWS1a52Q/1756096161/3137322e3137342e3136352e32/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 14:15 Liga de Argentina – Argentinos Juniors vs Racing Club – ESPN Premium
+https://d4.merichunidya.com:1686/hls/capespnprem.m3u8?md5=OaD_zvR_GV6rrC8G-_WqBQ&expires=1756074563
+#EXTINF:-1 tvg-name="Canal 9" group-title="Liga de Argentina", 14:15 Liga de Argentina – Argentinos Juniors vs Racing Club – Canal 9
+https://uhjjaa.1396168994.live:8443/hls/o9mkcz3mo.m3u8?s=MGHDQLIH_M0JKEWXWQk-XQ&e=1756088976
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Argentina", 14:15 Liga de Argentina – Argentinos Juniors vs Racing Club – Canal 10 (HD)
+https://ca8s9.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=ddfe05b01ab6aa0e1d88ea841de85dc3bfe69867-3c-1756112385-1756058385&ip=172.174.165.2
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Liga de Argentina", 14:15 Liga de Argentina – Argentinos Juniors vs Racing Club – Canal 11 (HD)
+https://nio1.dbcast.live/4Ld6UCFsV3K5At9efILvdw/1756096193/3137322e3137342e3136352e32/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Cerro vs Liverpool Montevideo – VTV Uruguay
+https://nio1.dbcast.live/W0lhQkJ3PNpS5DR3XdRIDg/1756096201/3137322e3137342e3136352e32/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 30" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Cerro vs Liverpool Montevideo – Canal 30
+https://uhjjaa.1396168994.live:8443/hls/543hcacrbrvfw.m3u8?s=R2j2m_NL2iYa9G0EBU3Vcg&e=1756089010
+#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Cerro vs Liverpool Montevideo – Canal 31 (HD)
+https://8c51.crackstreamslivehd.com/global/disney1/index.m3u8?token=01648a9c977af1ae1efd827739cee37043379eb8-7b-1756112418-1756058418&ip=172.174.165.2
+#EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Cerro vs Liverpool Montevideo – Canal 32 (HD)
+https://nio1.dbcast.live/qEwba9uHGh4720pNCTgYwg/1756096225/3137322e3137342e3136352e32/ff999/playlist.m3u8
