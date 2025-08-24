@@ -1,0 +1,12 @@
+GET http://clients2.google.com/time/1/current?cup2key=9:NvXht-TC_y3cWbw4GTBFZsUjylB4BB9ePw4RGpLyNtg&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 -> 200
+GET https://bestleague.one/cvatt.html?get=Q2FuYWwxMF9VUlU=&lang=1 -> 200
+POST https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard -> 200
+GET https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js -> 200
+GET https://ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.core.controls.js -> 200
+GET https://ssl.p.jwpcdn.com/player/v/8.26.0/jwpsrv.js -> 200
+GET https://ssl.p.jwpcdn.com/player/v/8.26.0/provider.shaka.js -> 200
+GET https://ssl.p.jwpcdn.com/player/v/8.26.0/translations/es.json -> 200
+GET https://chromecast.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd -> 302
+GET https://bestleague.one/favicon.ico -> NO RESP
+GET https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM2LjAuNzEwMy45MhIZCVqScqqIsme7EgUNBu27_yF6S2eTyFWgCQ==?alt=proto -> NO RESP
+GET https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzQ3NzQ0MzI3Iiwic2lwIjoiMTg2LjQ4LjQ0LjI0OCIsInBhdGgiOiIvbGl2ZS9jNGVkcy9DYW5hbDEwX1VSVS9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiMGRhYWZlYWFmNTViNjFiNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjIyMCIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==._Mv_dyu0T1w5GrnxYA6t5_rBwuuJc09hcd04wlJ3pCpf4tU9R2ACdP40Ruzt8qVJ2PH85L3S9hP0fkIPlY9C_A==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd -> NO RESP

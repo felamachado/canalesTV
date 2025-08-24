@@ -11,11 +11,14 @@ import requests
 from bs4 import BeautifulSoup
 from seleniumwire import webdriver
 from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
 
 # ───────────── Configuración ─────────────
 BASE_URL       = "https://www.rojadirectaenvivo.pl/"
-# URL espejo que ofrece la agenda en /agenda.php
+# URLs espejo que ofrecen la agenda
 MIRROR_AGENDA  = "https://tarjetarojaa.com/agenda.php"
+MIRROR_AGENDA2 = "https://roja-directahd.com/"
 # Directorio del repo local donde se realiza el push (asume que aquí está el repositorio git)
 REPO_DIR       = Path(__file__).parent
 EVENT_FILE     = "eventos.m3u"
@@ -32,7 +35,7 @@ EXCLUDED_LEAGUES = [
     "Liga Expansion MX", "Liga de Paraguay", "Liga MX"
 ]
 # Ligas a incluir (solo procesar estas). Vacío = procesar todo menos excluidas.
-INCLUDE_LEAGUES = ["Formula 1", "Liga de Argentina", "Liga de Uruguay"]
+INCLUDE_LEAGUES = ["Formula 1", "Liga de Argentina", "Liga de Uruguay", "Premier League"]
 
 # ───────────── Helpers ─────────────
 def normalize(url: str) -> str:
@@ -59,7 +62,7 @@ def get_today_events() -> list[tuple[str,str,str,str,str]]:
         print(f"Usando fuente principal: {BASE_URL}")
     except Exception as e:
         print(f"⚠️ Error conectando a {BASE_URL}: {e}")
-    # Si falló, intentar mirror
+    # Si falló, intentar mirror 1
     if html is None:
         try:
             resp = requests.get(MIRROR_AGENDA, timeout=10)
@@ -68,12 +71,38 @@ def get_today_events() -> list[tuple[str,str,str,str,str]]:
             print(f"Usando espejo agenda: {MIRROR_AGENDA}")
         except Exception as e:
             print(f"⚠️ Error conectando a mirror {MIRROR_AGENDA}: {e}")
+    # Si falló, intentar mirror 2
+    if html is None:
+        try:
+            resp = requests.get(MIRROR_AGENDA2, timeout=10)
+            resp.raise_for_status()
+            html = resp.text
+            print(f"Usando espejo agenda 2: {MIRROR_AGENDA2}")
+        except Exception as e:
+            print(f"⚠️ Error conectando a mirror 2 {MIRROR_AGENDA2}: {e}")
     if html is None:
         print("⚠️ No se pudo obtener la programación de ninguna fuente.")
         return []
 
     soup = BeautifulSoup(html, "html.parser")
     events: list[tuple[str,str,str,str,str]] = []
+
+    # Verificar si hay un iframe con agenda (como en roja-directahd.com)
+    iframe = soup.find("iframe", src=lambda x: x and "agenda.php" in x)
+    if iframe and html and "roja-directahd.com" in resp.url:
+        # Obtener la agenda desde el iframe
+        iframe_src = iframe.get("src")
+        if iframe_src.startswith("/"):
+            iframe_url = "https://roja-directahd.com" + iframe_src
+        else:
+            iframe_url = iframe_src
+        try:
+            resp_iframe = requests.get(iframe_url, timeout=10)
+            resp_iframe.raise_for_status()
+            soup = BeautifulSoup(resp_iframe.text, "html.parser")
+            print(f"  → Usando iframe agenda: {iframe_url}")
+        except Exception as e:
+            print(f"  ⚠️ Error cargando iframe {iframe_url}: {e}")
 
     for li in soup.select("ul.menu > li"):
         t = li.find("span", class_="t")
@@ -87,20 +116,30 @@ def get_today_events() -> list[tuple[str,str,str,str,str]]:
         if ":" not in raw:
             continue
         liga, partido = map(str.strip, raw.split(":", 1))
+        # canales (sin filtros aquí)
+        for chan_link in li.select("ul > li > a"):
+            href = chan_link.get("href", "").strip()
+            # Manejar URLs internas de roja-directahd.com ANTES de normalize
+            if href.startswith('/eventos.html'):
+                chan_url = "https://roja-directahd.com" + href
+            else:
+                chan_url = normalize(href)
+            if not chan_url:
+                continue
+            chan_name = chan_link.text.strip()
+            events.append((liga, hora, partido, chan_name, chan_url))
+    
+    # Aplicar filtros DESPUÉS de extraer todos los eventos
+    filtered_events = []
+    for liga, hora, partido, chan_name, chan_url in events:
         # filtros
         if any(liga.startswith(exc) for exc in EXCLUDED_LEAGUES):
             continue
         if INCLUDE_LEAGUES and not any(liga.startswith(inc) for inc in INCLUDE_LEAGUES):
             continue
-        # canales
-        for chan_link in li.select("ul > li > a"):
-            href = chan_link.get("href", "").strip()
-            chan_url = normalize(href)
-            if not chan_url:
-                continue
-            chan_name = chan_link.text.strip()
-            events.append((liga, hora, partido, chan_name, chan_url))
-    return events
+        filtered_events.append((liga, hora, partido, chan_name, chan_url))
+    
+    return filtered_events
 
 # ───────────── Extracción de stream ─────────────
 def get_m3u8_simple(url: str) -> str:
@@ -119,7 +158,9 @@ def init_driver() -> webdriver.Chrome:
     opts.add_argument("--disable-gpu")
     opts.add_argument("--no-sandbox")
     opts.add_argument("--disable-dev-shm-usage")
-    return webdriver.Chrome(options=opts)
+    driver_path = '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver'
+    service = Service(driver_path)
+    return webdriver.Chrome(service=service, options=opts)
 
 def get_m3u8_selenium(url: str) -> str:
     """Fallback: abre la URL y captura peticiones con '.m3u8'"""
@@ -134,6 +175,59 @@ def get_m3u8_selenium(url: str) -> str:
     drv.quit()
     return stream_url
 
+def get_m3u8_selenium_enhanced(url: str) -> str:
+    """Método mejorado para URLs de roja-directahd.com con más interacciones"""
+    drv = init_driver()
+    try:
+        drv.get(url)
+        
+        # Esperar carga inicial
+        time.sleep(2)
+        
+        # Buscar y hacer clic en elementos comunes de players de video
+        try:
+            # Intentar hacer clic en el player o elementos de play
+            play_elements = drv.find_elements("css selector", 
+                "button[aria-label*='play'], .play-button, .vjs-play-control, "
+                ".jwplayer .jw-display-icon-container, .plyr__control--overlaid, "
+                "button.vjs-big-play-button")
+            
+            for element in play_elements[:2]:  # Probar máximo 2 elementos
+                try:
+                    if element.is_displayed() and element.is_enabled():
+                        drv.execute_script("arguments[0].click();", element)
+                        time.sleep(1)
+                        break
+                except:
+                    continue
+        except:
+            pass
+        
+        # Esperar más tiempo para cargar streams
+        time.sleep(SLOW_WAIT + 2)
+        
+        # Buscar .m3u8 URLs en requests
+        stream_url = ''
+        for req in drv.requests:
+            if '.m3u8' in req.url and 'master.m3u8' not in req.url.lower():
+                stream_url = req.url
+                break
+        
+        # Si no encontró, buscar master.m3u8 como fallback
+        if not stream_url:
+            for req in drv.requests:
+                if '.m3u8' in req.url:
+                    stream_url = req.url
+                    break
+        
+        return stream_url
+    
+    except Exception as e:
+        print(f"  ⚠️ Error en Selenium mejorado: {e}")
+        return ''
+    finally:
+        drv.quit()
+
 # ───────────── Main ─────────────
 def main():
     # obtener eventos y ordenar por liga y hora
@@ -143,7 +237,18 @@ def main():
     entries = ["#EXTM3U"]
     for liga, hora, partido, chan, url in events:
         try:
-            stream = get_m3u8_simple(url) or get_m3u8_selenium(url)
+            # Método 1: Intento rápido
+            stream = get_m3u8_simple(url)
+            
+            # Método 2: Selenium estándar si no encontró nada
+            if not stream:
+                stream = get_m3u8_selenium(url)
+            
+            # Método 3: Selenium mejorado para URLs específicas
+            if not stream and (any(domain in url for domain in ['roja-directahd.com', 'rojadirecta']) or url.startswith('/eventos.html')):
+                print(f"  → Probando método mejorado para {chan}")
+                stream = get_m3u8_selenium_enhanced(url)
+            
             if not stream:
                 print(f"  ⚠️ sin .m3u8 para {hora} {liga} – {partido} – {chan}")
                 continue
