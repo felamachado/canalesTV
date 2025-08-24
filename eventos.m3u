@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – Progreso vs Danubio – Liga de Campeones 7
-https://d5.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=JFqNenjzjV1W2XxCH8eLIw&expires=1756057564
-#EXTINF:-1 tvg-name="Canal 27" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – Progreso vs Danubio – Canal 27
-https://srvagu.6522236688.shop:8443/hls/vk1xq.m3u8?s=dMzYvfrH8iTa3z0iehp9nA&e=1756071977
-#EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – Progreso vs Danubio – Canal 28 (HD)
-https://98ca2.crackstreamslivehd.com/global/goltv/index.m3u8?token=e4a31f6433227f16893bf40ec25b519a2b27510c-c9-1756095390-1756041390&ip=179.26.111.160
-#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – Progreso vs Danubio – Canal 29 (HD)
-https://rm8zcvk3.fubohd.com/disney9/mono.m3u8?token=30a6a76dd4c3a138ea70ec4c67036dc608351629-6a-1756067501-1756049501
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 12:00 Liga de Argentina – Union Santa Fe vs Huracan – ESPN Premium
+https://d9.merichunidya.com:1686/hls/capespnprem.m3u8?md5=6h-MP8O21zy-2zz3WAUemA&expires=1756057762
+#EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 12:00 Liga de Argentina – Union Santa Fe vs Huracan – Canal 11
+https://a2vlca.fubohd.com/foxsports2/mono.m3u8?token=ad4b596c88e95cdc9a0af5bcb01a00d5d8830de3-ce-1756067673-1756049673
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 12:00 Liga de Argentina – Union Santa Fe vs Huracan – Canal 12 (HD)
+https://srvagu.6522236688.shop:8443/hls/tyh9ei.m3u8?s=PdhFFKad-Rb-fwyCfcc37w&e=1756072185
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 12:00 Liga de Argentina – Union Santa Fe vs Huracan – Canal 13 (HD)
+https://98ca2.crackstreamslivehd.com/global/espn/index.m3u8?token=a3b5dc3ee2476b5573be7ddc40de2ee950c7eda1-41-1756095598-1756041598&ip=179.26.111.160
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 10:30 Premier League – Fulham vs Manchester United – Canal 1
+https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=6mYbwLkUViMyv1gGU2Iorg&expires=1756057807
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 10:30 Premier League – Fulham vs Manchester United – Canal 2
+https://srvagu.6522236688.shop:8443/hls/pugwrp0w9za0j7.m3u8?s=8IlJjD_L6SakPBV1Y6U3Nw&e=1756072221
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 10:30 Premier League – Fulham vs Manchester United – Canal 3 (HD)
+https://pecdl1.crackstreamslivehd.com/global/espn5/index.m3u8?token=ea35d6b55799e59367eb582ef2df4d62764c3c8d-c8-1756095635-1756041635&ip=179.26.111.160
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 10:30 Premier League – Fulham vs Manchester United – Canal 4 (HD)
+https://24a1.crackstreamslivehd.com/global/disney15/index.m3u8?token=1a4a52a306aff70ae56d0d65c7510d7c352307db-de-1756095647-1756041647&ip=179.26.111.160
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 10:30 Premier League – Fulham vs Manchester United – Canal 5 (HD)
+https://muc200.myluck1.top:8088/live/premierhn1/playlist.m3u8?id=122640&pk=855453742321d224866c4e3c8513a82722dabcc8b02d74818bd4946b9439905ceb5ec658cef3c00c9e29c8a9cd0f6135b3d51405ea42876ce5e7d9f99ab240ef
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 10:30 Premier League – Fulham vs Manchester United – Canal 6 (HD)
+https://a2vlca.fubohd.com/espn5/mono.m3u8?token=ecd26a13116f758a77537b634e88c92fe628e48e-5e-1756067774-1756049774
