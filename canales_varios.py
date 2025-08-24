@@ -112,9 +112,23 @@ def _chrome_options() -> Options:
 _DRIVER: Optional[webdriver.Chrome] = None
 
 def _init_driver() -> webdriver.Chrome:
+    import os
+    from webdriver_manager.chrome import ChromeDriverManager
+    
     opts = _chrome_options()
-    driver_path = '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver'
-    service = Service(driver_path)
+    
+    # Try local path first (for local development), fallback to webdriver-manager
+    try:
+        local_driver_path = '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver'
+        if os.path.exists(local_driver_path):
+            service = Service(local_driver_path)
+        else:
+            # Use webdriver-manager for GitHub Actions
+            service = Service(ChromeDriverManager().install())
+    except:
+        # Fallback to webdriver-manager
+        service = Service(ChromeDriverManager().install())
+    
     driver = webdriver.Chrome(service=service, options=opts)
     driver.scopes = ['.*']
     return driver

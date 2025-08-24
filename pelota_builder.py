@@ -5,6 +5,7 @@ pelota_builder.py – Generador de eventos.m3u desde Rojadirecta con filtrado y 
 """
 import re
 import time
+import os
 from pathlib import Path
 from git import Repo, exc as git_exc
 import requests
@@ -35,7 +36,7 @@ EXCLUDED_LEAGUES = [
     "Liga Expansion MX", "Liga de Paraguay", "Liga MX"
 ]
 # Ligas a incluir (solo procesar estas). Vacío = procesar todo menos excluidas.
-INCLUDE_LEAGUES = ["Formula 1", "Liga de Argentina", "Liga de Uruguay", "Premier League"]
+INCLUDE_LEAGUES = ["Formula 1", "Liga de Argentina", "Liga de Uruguay", "Premier League", "LaLiga"]
 
 # ───────────── Helpers ─────────────
 def normalize(url: str) -> str:
@@ -158,8 +159,21 @@ def init_driver() -> webdriver.Chrome:
     opts.add_argument("--disable-gpu")
     opts.add_argument("--no-sandbox")
     opts.add_argument("--disable-dev-shm-usage")
-    driver_path = '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver'
-    service = Service(driver_path)
+    opts.add_argument("--disable-web-security")
+    opts.add_argument("--disable-features=VizDisplayCompositor")
+    
+    # Try local path first (for local development), fallback to webdriver-manager
+    try:
+        local_driver_path = '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver'
+        if os.path.exists(local_driver_path):
+            service = Service(local_driver_path)
+        else:
+            # Use webdriver-manager for GitHub Actions
+            service = Service(ChromeDriverManager().install())
+    except:
+        # Fallback to webdriver-manager
+        service = Service(ChromeDriverManager().install())
+    
     return webdriver.Chrome(service=service, options=opts)
 
 def get_m3u8_selenium(url: str) -> str:

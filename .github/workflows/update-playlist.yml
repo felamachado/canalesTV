@@ -13,6 +13,8 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repository
@@ -25,12 +27,20 @@ jobs:
       with:
         python-version: '3.10'
         
-    - name: Install Chrome
+    - name: Install Chrome and ChromeDriver
       run: |
+        # Install Chrome
         wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
         sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
         sudo apt-get update
-        sudo apt-get install -y google-chrome-stable
+        sudo apt-get install -y google-chrome-stable xvfb
+        
+        # Get Chrome version and install matching ChromeDriver
+        CHROME_VERSION=$(google-chrome --version | cut -d " " -f3 | cut -d "." -f1-3)
+        echo "Chrome version: $CHROME_VERSION"
+        
+        # Download and install ChromeDriver using webdriver-manager approach
+        mkdir -p /home/runner/.wdm/drivers/chromedriver/linux64/
         
     - name: Install Python dependencies
       run: |
@@ -39,26 +49,30 @@ jobs:
         
     - name: Configure git
       run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@github.com'
         
     - name: Run playlist updater
       env:
         DISPLAY: :99
       run: |
-        # Iniciar display virtual para Chrome headless
-        sudo apt-get install -y xvfb
+        # Start virtual display
         export DISPLAY=:99
-        Xvfb :99 -screen 0 1024x768x24 > /dev/null 2>&1 &
+        Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 &
+        sleep 3
         
-        # Ejecutar el script
+        # Install ChromeDriver using webdriver-manager
+        python3 -c "from webdriver_manager.chrome import ChromeDriverManager; ChromeDriverManager().install()"
+        
+        # Run the script
         python3 pelota_builder.py
         
-    - name: Check if playlist was updated
+    - name: Commit and push changes
       run: |
-        if git diff --name-only | grep -q eventos.m3u; then
-          echo "Playlist updated successfully"
-          git status
+        git add eventos.m3u playlist.m3u
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
         else
-          echo "No changes to playlist"
+          git commit -m "AutoScraper update playlist - $(date -u +%Y-%m-%d\ %H:%M\ UTC)"
+          git push
         fi
