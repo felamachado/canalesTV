@@ -1,23 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:30 LaLiga – Valencia vs Getafe – Canal 1
-https://d5.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=rq5Ye84-7vo80wXR_oXulw&expires=1756513255
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:30 LaLiga – Valencia vs Getafe – Canal 2
-https://spiimc.7380990745.xyz:8443/hls/xe3kpthdw5hw.m3u8?s=SCvcijCbGdHb6soFPmDoog&e=1756527663
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:30 LaLiga – Valencia vs Getafe – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/espn4/index.m3u8?token=4b41ea727f1d64c727b81e93d7359a1ae491f5f2-b6-1756551072-1756497072&ip=145.132.100.177
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:30 LaLiga – Valencia vs Getafe – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/canal5mx/index.m3u8?token=1bfbc997c1bdb39723824d6c37386a33de5b25dc-3e-1756551079-1756497079&ip=145.132.100.177
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:30 LaLiga – Valencia vs Getafe – Canal 5 (HD)
-https://maz2.dbcast.live/_dBfFsnfRipQmCt-UPMhBA/1756534887/3134352e3133322e3130302e313737/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:30 LaLiga – Valencia vs Getafe – Canal 6 (HD)
-https://mut100.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=7bed1e42e83d9387f5a21f03c692417e1fbc62ce7ce2d86dea91b33165a991a4e4e6165e6406e57e81cb313bf9e81233d2787dce20e5eec718dba8ed051a20ed
-#EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 14:30 LaLiga 2 – Sporting Gijon vs Cultural Leonesa – Deportes Plus 4
-https://d7.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=4BNUEI9l9VOdb_u5t7TrsA&expires=1756513302
-#EXTINF:-1 tvg-name="Canal 34" group-title="LaLiga 2", 14:30 LaLiga 2 – Sporting Gijon vs Cultural Leonesa – Canal 34
-https://spiimc.7380990745.xyz:8443/hls/s6kdue.m3u8?s=77Eoc7pnbI6OcUrZAPJNtA&e=1756527711
-#EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Sporting Gijon vs Cultural Leonesa – Canal 35 (HD)
-https://99a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=92bc4ef6c7556ac1a859a90d51130afc1bc25a74-fc-1756551119-1756497119&ip=145.132.100.177
-#EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Sporting Gijon vs Cultural Leonesa – Canal 36 (HD)
-https://maz1.dbcast.live/ILK-HCaMFGEcB7voPYOsvg/1756534927/3134352e3133322e3130302e313737/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Newell's Old Boys vs Barracas Central – TNT Sports Argentina
+https://d7.merichunidya.com:1686/hls/captntarg.m3u8?md5=tn1geS3Bq--73OLFXi4t4Q&expires=1756514513
+#EXTINF:-1 tvg-name="Canal 13" group-title="Liga de Argentina", 17:00 Liga de Argentina – Newell's Old Boys vs Barracas Central – Canal 13
+https://vuunov.1396168994.live:8443/hls/6cby7ib.m3u8?s=EYaj_wAS7vb3kIRgUScLQw&e=1756528923
+#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Newell's Old Boys vs Barracas Central – Canal 14 (HD)
+https://florcd1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=6dcfbef7fc19e2423228c8cf3e9fac559540982b-90-1756552332-1756498332&ip=20.109.36.225
+#EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Newell's Old Boys vs Barracas Central – Canal 15 (HD)
+https://maz1.dbcast.live/vgJ5YEpzRiRfLNEjVHa59w/1756536140/32302e3130392e33362e323235/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Tigre – ESPN Premium
+https://d9.merichunidya.com:1686/hls/capespnprem.m3u8?md5=F4bQBzjtBhSaO0OQGz-ojA&expires=1756514548
+#EXTINF:-1 tvg-name="Canal 16" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Tigre – Canal 16
+https://vuunov.1396168994.live:8443/hls/o9mkcz3mo.m3u8?s=xgggMD9gFNWncRZB1bxSxA&e=1756528958
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Tigre – Canal 17 (HD)
+https://ca8s9.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=95db88fe958c173f800ccc7e67d30fc11a9079c3-28-1756552367-1756498367&ip=20.109.36.225
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Tigre – Canal 18 (HD)
+https://maz1.dbcast.live/PuLZFZ-9IzSIi7U38Lu4zg/1756536175/32302e3130392e33362e323235/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Instituto vs Independiente – TNT Sports Argentina
+https://d4.merichunidya.com:1686/hls/captntarg.m3u8?md5=zalGx9kSuGl4ocF4xG56Ww&expires=1756514580
+#EXTINF:-1 tvg-name="Canal 28" group-title="Liga de Argentina", 19:15 Liga de Argentina – Instituto vs Independiente – Canal 28
+https://vuunov.1396168994.live:8443/hls/6cby7ib.m3u8?s=xIXDuZnDgcp0wc86W9rNUg&e=1756528993
+#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Instituto vs Independiente – Canal 29 (HD)
+https://8c51.crackstreamslivehd.com/global/tntsports/index.m3u8?token=2f0154425cd7c75883994b6ac93df183f5a3d343-20-1756552402-1756498402&ip=20.109.36.225
+#EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Instituto vs Independiente – Canal 30 (HD)
+https://maz2.dbcast.live/_PVh3K9tQLAo8byjCn6igQ/1756536239/32302e3130392e33362e323235/ff999/playlist.m3u8
