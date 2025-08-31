@@ -1,47 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 1
-https://d10.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=QKGM3ZE1eV6usbsVtHYw6w&expires=1756683559
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 2
-https://fsocak.5606087801.art:8443/hls/tyh9ei.m3u8?s=VQ_RkFA9xGgd1jIa-PAuEg&e=1756697970
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=125995e82fe251bcaab865c38e40c46630fde112-51-1756721380-1756667380&ip=20.161.70.160
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=ce15a02f145310514b1e17e28efc0d15ce9feefb-fd-1756721388-1756667388&ip=20.161.70.160
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 5 (HD)
-https://dja2.dbcast.live/EuodDxUhxdMcGVaQE5QW0A/1756705226/32302e3136312e37302e313630/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 6 (HD)
-https://muc200.myluck1.top:8088/live/ligaes3/playlist.m3u8?id=122668&pk=9543871f204a58c54d3a84c3933e1d596d62b12e730edddb95518d29b08305daf19a03d6a6473329cb6fd800440e27428fa50f9f82658843cb77caf43ece7993
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 14:30 LaLiga – Rayo Vallecano vs Barcelona – Canal 7 (HD)
-https://ym9yzq.fubohd.com/espndeportes/mono.m3u8?token=18740591efc068aaf70e47ac08813d8bd46461d5-4f-1756693541-1756675541
-#EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 14:30 LaLiga 2 – Granada vs Mirandes – Deportes Plus 4
-https://d6.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=2JdWLbKdqMs6o7epzA_TWg&expires=1756683641
-#EXTINF:-1 tvg-name="Canal 44" group-title="LaLiga 2", 14:30 LaLiga 2 – Granada vs Mirandes – Canal 44
-https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=9543871f204a58c54d3a84c3933e1d596d62b12e730edddb95518d29b08305daf19a03d6a6473329cb6fd800440e27428fa50f9f82658843cb77caf43ece7993
-#EXTINF:-1 tvg-name="Canal 45 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Granada vs Mirandes – Canal 45 (HD)
-https://51a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=a336ba10e83363c5f5341f3069c65a01504df1ad-83-1756721466-1756667466&ip=20.161.70.160
-#EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Granada vs Mirandes – Canal 46 (HD)
-https://dja2.dbcast.live/obDvMK6qOV44_NNfDogwZQ/1756705274/32302e3136312e37302e313630/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 14:45 Liga de Argentina – Defensa y Justicia vs Belgrano – TNT Sports Argentina
-https://d4.merichunidya.com:1686/hls/captntarg.m3u8?md5=BdWTHNo7lPSsSheNPM2IuQ&expires=1756683680
-#EXTINF:-1 tvg-name="Canal 50" group-title="Liga de Argentina", 14:45 Liga de Argentina – Defensa y Justicia vs Belgrano – Canal 50
-https://fsocak.5606087801.art:8443/hls/6cby7ib.m3u8?s=7ssWJ97no57iAPnj8EqI7Q&e=1756698121
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Defensa y Justicia vs Belgrano – Canal 6 (HD)
-https://pecdl1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=bca75ee7094c8369cfc7804b18fdbeee09448034-c8-1756721558-1756667558&ip=20.161.70.160
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Defensa y Justicia vs Belgrano – Canal 7 (HD)
-https://dja2.dbcast.live/Me8_cIpKpjRBe7GpTL0LYA/1756705366/32302e3136312e37302e313630/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Deportivo Riestra – ESPN Premium
-https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=4YQYWvdbl43NmWSH_ZVtdg&expires=1756683773
-#EXTINF:-1 tvg-name="Canal 8" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Deportivo Riestra – Canal 8
-https://fsocak.5606087801.art:8443/hls/o9mkcz3mo.m3u8?s=3zN9ky8IVv6auhCmPA_hQA&e=1756698184
-#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Deportivo Riestra – Canal 9 (HD)
-https://99a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=e9a785e058cf4f47e4b0a1fcc897497e65c1c71e-a1-1756721591-1756667591&ip=20.161.70.160
-#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Deportivo Riestra – Canal 10 (HD)
-https://dja2.dbcast.live/tz8xm0cAXal-ynMHzrDBmA/1756705399/32302e3136312e37302e313630/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Liga de Argentina", 17:15 Liga de Argentina – River Plate vs San Martin – Capo Deportes 2
+https://d6.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=vEnp7RpLaCCSw8n1UUJlOQ&expires=1756686045
+#EXTINF:-1 tvg-name="Canal 39" group-title="Liga de Argentina", 17:15 Liga de Argentina – River Plate vs San Martin – Canal 39
+https://katweo.5606087801.art:8443/hls/tyh9ei.m3u8?s=cyA8uHVDIdkh3q3RCtkPWg&e=1756700458
+#EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Liga de Argentina", 17:15 Liga de Argentina – River Plate vs San Martin – Canal 40 (HD)
+https://57b1.crackstreamslivehd.com/global/espn/index.m3u8?token=475cd963a53a0aa7ea70ffc852c215937e68bb9d-07-1756723866-1756669866&ip=4.227.174.178
+#EXTINF:-1 tvg-name="Canal 41 (HD)" group-title="Liga de Argentina", 17:15 Liga de Argentina – River Plate vs San Martin – Canal 41 (HD)
+https://dja2.dbcast.live/7t5oFWFYOXpW1sy-MEvejQ/1756707675/342e3232372e3137342e313738/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – ESPN Premium
+https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=pmRtI_h3yYSWK7CimmWbuw&expires=1756686083
+#EXTINF:-1 tvg-name="Canal 12" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – Canal 12
+https://florcd1.crackstreamslivehd.com/global/liga1max/index.m3u8?token=211958b79ac27ec4fb22b6ecaeefcfac3064d227-28-1756723892-1756669892&ip=4.227.174.178
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – Canal 13 (HD)
+https://dja2.dbcast.live/7ikqenvnnhe5E_ND5uk4Bw/1756707700/342e3232372e3137342e313738/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – Canal 14 (HD)
+https://katweo.5606087801.art:8443/hls/robqzyh3cy.m3u8?s=J26LJvdbV2qm6W49Bo7PsQ&e=1756700537
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Racing Montevideo vs PeÃ±arol – VTV Uruguay
-https://dja1.dbcast.live/BdJMeOxgqWA7XQcD_EZLfg/1756705408/32302e3136312e37302e313630/ff999/playlist.m3u8
+https://dja1.dbcast.live/MsZw7QTD3ipF1zu1XyXpaQ/1756707747/342e3232372e3137342e313738/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Racing Montevideo vs PeÃ±arol – Canal 20
-https://fsocak.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=w2SfaUkocjKawN-vHcbH2Q&e=1756698216
+https://katweo.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=-bv-B5OZXhcEYJvfRb0ytg&e=1756700555
 #EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Racing Montevideo vs PeÃ±arol – Canal 21 (HD)
-https://pecdl1.crackstreamslivehd.com/global/disney3/index.m3u8?token=567dcf17e882fa2383514ccb4667bf0b848b4b5d-30-1756721653-1756667653&ip=20.161.70.160
+https://doc1.crackstreamslivehd.com/global/disney3/index.m3u8?token=ac3cd117846ed90676c814611760f22791cc3866-95-1756723963-1756669963&ip=4.227.174.178
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Racing Montevideo vs PeÃ±arol – Canal 22 (HD)
-https://dja1.dbcast.live/EEwzJIZV5rcxsKwK4JZ_Sw/1756705460/32302e3136312e37302e313630/ff999/playlist.m3u8
+https://dja2.dbcast.live/79H8M1jPfX0k3oarVsqKGg/1756707771/342e3232372e3137342e313738/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Liga de Campeones 7
+https://d7.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=wCbpD0pmZdzvBNNgV5Bb7w&expires=1756686170
+#EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Canal 48
+https://katweo.5606087801.art:8443/hls/vk1xq.m3u8?s=h1kdyhLKmUFvi-0PBYVusQ&e=1756700616
+#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Canal 49 (HD)
+https://florcd1.crackstreamslivehd.com/global/goltv/index.m3u8?token=aff953c0380f13e9003b631ed7c385259797e590-59-1756724025-1756670025&ip=4.227.174.178
+#EXTINF:-1 tvg-name="Canal 50 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Canal 50 (HD)
+https://dja2.dbcast.live/9O1s9eeojXNuoWdKyfivuA/1756707834/342e3232372e3137342e313738/ff999/playlist.m3u8
