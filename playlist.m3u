@@ -1,19 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – ESPN Premium
-https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=LEzcABKPkBUIZR5xz8uVsw&expires=1756699118
-#EXTINF:-1 tvg-name="Canal 12" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – Canal 12
-https://nurumn.6670391863.store:8443/hls/o9mkcz3mo.m3u8?s=hM9yu28RABDwqPtwnHJXkw&e=1756713532
-#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – Canal 13 (HD)
-https://pecdl1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=0be978855ac27ff60d2eefc0010b74c12690f1b0-73-1756736943-1756682943&ip=52.173.219.149
-#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs Union Santa Fe – Canal 14 (HD)
-https://dja2.dbcast.live/hoRzweuO-Zv3AEaLsXRkLw/1756720751/35322e3137332e3231392e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Liga de Campeones 7
-https://d1.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=pM7WQZ0UvcG-FIzKgCkzvA&expires=1756699160
-#EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Canal 48
-https://nurumn.6670391863.store:8443/hls/vk1xq.m3u8?s=H8B68qziHL6DzAgSySflFQ&e=1756713570
-#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Canal 49 (HD)
-https://99a1.crackstreamslivehd.com/global/goltv/index.m3u8?token=fc2e0501b6026bd092976472431bc16a794f7a49-2a-1756736979-1756682979&ip=52.173.219.149
-#EXTINF:-1 tvg-name="Canal 50 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Progreso – Canal 50 (HD)
-https://dja2.dbcast.live/oBGVxqqq1u-TYE8GQ-IbTQ/1756720787/35322e3137332e3231392e313439/ff999/playlist.m3u8
