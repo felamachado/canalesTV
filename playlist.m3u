@@ -2,24 +2,30 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 14:30 LaLiga 2 – Leganes vs Deportivo La CoruÃ±a – Deportes Plus 4
-https://d6.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=2nS9vC7m2FuPv33nIUvtAQ&expires=1756844933
+https://d3.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=GLwyP1LT043p5mWNyznqBQ&expires=1756846134
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Leganes vs Deportivo La CoruÃ±a – Canal 13 (HD)
-https://99a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=45df55d89b3f3d1ee51d1babaa9a9c0dbc537bb9-40-1756882751-1756828751&ip=52.173.163.129
+https://24a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=327b40d33b37358cd85447fbe23966b609244d28-46-1756883949-1756829949&ip=172.177.209.209
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 15:00 Liga de Argentina – Gimnasia La Plata vs Atletico Tucuman – ESPN Premium
-https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=iRSal0z3F2fCuTPCAWAEIw&expires=1756844971
+https://d6.merichunidya.com:1686/hls/capespnprem.m3u8?md5=nDaDg97NKLDh8xrcw184iQ&expires=1756846164
+#EXTINF:-1 tvg-name="Canal 15" group-title="Liga de Argentina", 15:00 Liga de Argentina – Gimnasia La Plata vs Atletico Tucuman – Canal 15
+https://srvagu.6522236688.shop:8443/hls/o9mkcz3mo.m3u8?s=AFqlQGCPRQSYsTjHMCDfAg&e=1756860572
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Gimnasia La Plata vs Atletico Tucuman – Canal 16 (HD)
-https://pecdl1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=66b16a26bc7b2bfc1f4c5201ecc418e99b474024-90-1756882788-1756828788&ip=52.173.163.129
+https://99a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=dff2c29e2bd46ead9a6d5f4046d056009a1f0a5f-2f-1756883980-1756829980&ip=172.177.209.209
 #EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Gimnasia La Plata vs Atletico Tucuman – Canal 17 (HD)
-https://dla1.dbcast.live/E6gzog0cY0ZrLQIY2dmT2w/1756866598/35322e3137332e3136332e313239/ff999/playlist.m3u8
+https://dla2.dbcast.live/SH0M9Eei2ifBFlk1QAzLxg/1756867788/3137322e3137372e3230392e323039/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:15 Liga de Argentina – Platense vs Godoy Cruz – TNT Sports Argentina
-https://d7.merichunidya.com:1686/hls/captntarg.m3u8?md5=IlAKvn-UPBh3lwFg8NWpTQ&expires=1756845008
+https://d6.merichunidya.com:1686/hls/captntarg.m3u8?md5=geONg4BrqBeNuz7kha1jaw&expires=1756846195
+#EXTINF:-1 tvg-name="Canal 21" group-title="Liga de Argentina", 17:15 Liga de Argentina – Platense vs Godoy Cruz – Canal 21
+https://srvagu.6522236688.shop:8443/hls/6cby7ib.m3u8?s=v5vybnkPBJNZrAGSkrVvnw&e=1756860603
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 17:15 Liga de Argentina – Platense vs Godoy Cruz – Canal 22 (HD)
-https://8c51.crackstreamslivehd.com/global/tntsports/index.m3u8?token=962fbba907a14b949755ee90cf2d7d2dcf91a82c-42-1756882826-1756828826&ip=52.173.163.129
+https://florcd1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=aa271aa6489e955d0fcea00ae5e6c76da907d5bd-66-1756884012-1756830012&ip=172.177.209.209
 #EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Liga de Argentina", 17:15 Liga de Argentina – Platense vs Godoy Cruz – Canal 23 (HD)
-https://dla2.dbcast.live/SCreQbZI3pScHkt_e2px3w/1756866636/35322e3137332e3136332e313239/ff999/playlist.m3u8
+https://dla2.dbcast.live/zpO7YQEkNed0SyhrwcfaQg/1756867819/3137322e3137372e3230392e323039/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro Largo vs Montevideo Wanderers – Liga de Campeones 7
-https://d4.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=t7Pf7zdEbKGpRHoLjwjmiw&expires=1756845045
+https://d2.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=N0I_Rg4S3LVKGR8YdkJHgg&expires=1756846227
+#EXTINF:-1 tvg-name="Canal 18" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro Largo vs Montevideo Wanderers – Canal 18
+https://srvagu.6522236688.shop:8443/hls/vk1xq.m3u8?s=W92vRQeIV3jsZ-SBhCrpvw&e=1756860635
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro Largo vs Montevideo Wanderers – Canal 19 (HD)
-https://ca8s9.crackstreamslivehd.com/global/goltv/index.m3u8?token=0935ba92ccc42d2e596655fbedb656be97fe56a5-f1-1756882863-1756828863&ip=52.173.163.129
+https://99a1.crackstreamslivehd.com/global/goltv/index.m3u8?token=37396fa8e0deb2fa895a0c144f48fd2ca0a61855-c4-1756884043-1756830043&ip=172.177.209.209
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro Largo vs Montevideo Wanderers – Canal 20 (HD)
-https://dla1.dbcast.live/n_vh9u68nuQuodgoCLnkiw/1756866673/35322e3137332e3136332e313239/ff999/playlist.m3u8
+https://dla1.dbcast.live/KNPqFy38KcWnVxCSCxAItg/1756867851/3137322e3137372e3230392e323039/ff999/playlist.m3u8
