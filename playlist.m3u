@@ -1,9 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 05:30 Formula 1 – F1 Gran Premio de Italia, Practicas Libres – Formula 1
-https://d8.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=uSbaJZVs83rWuaz4kBz1WA&expires=1757173078
-#EXTINF:-1 tvg-name="Canal 11" group-title="Formula 1", 05:30 Formula 1 – F1 Gran Premio de Italia, Practicas Libres – Canal 11
-https://sbqqhg.5606087801.art:8443/hls/2twhx.m3u8?s=QeRSyyAP4PJ1XepgG24tRg&e=1757187490
-#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Formula 1", 05:30 Formula 1 – F1 Gran Premio de Italia, Practicas Libres – Canal 12 (HD)
-https://98ca2.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=63f04b5bb33835928c7a58dc29feb20656de61f9-b3-1757210898-1757156898&ip=68.154.115.177
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 09:00 Formula 1 – F1 Gran Premio de Italia, Clasificacion – Formula 1
+https://d10.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=Df8pwESi8-QuxrBJT22XlQ&expires=1757175485
+#EXTINF:-1 tvg-name="Canal 11" group-title="Formula 1", 09:00 Formula 1 – F1 Gran Premio de Italia, Clasificacion – Canal 11
+https://mut100.myluck1.top:8088/live/f1xfutdhn20/playlist.m3u8?id=122387&pk=0af30ef4475babcd06685d6d2935707bb47627effc370966643397a6d870194d2ae63b80a302c85dd3211e2f0a6a98d741d2acc340e922f76d27c82e5800db8f
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Formula 1", 09:00 Formula 1 – F1 Gran Premio de Italia, Clasificacion – Canal 12 (HD)
+https://99a1.crackstreamslivehd.com/global/disney11/index.m3u8?token=30f8e3545775fc41d99c85009b7cef465bedff6a-20-1757213308-1757159308&ip=64.236.134.210
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Formula 1", 09:00 Formula 1 – F1 Gran Premio de Italia, Clasificacion – Canal 13 (HD)
+https://maz1.dbcast.live/VpkfX1ska0_D66HoG1w7pA/1757197116/36342e3233362e3133342e323130/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 09:15 LaLiga 2 – Deportivo La CoruÃ±a vs Sporting Gijon – Deportes Plus 4
+https://d5.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=2FC_xMJdfrYh2R-oaA5PDw&expires=1757175526
+#EXTINF:-1 tvg-name="Canal 9" group-title="LaLiga 2", 09:15 LaLiga 2 – Deportivo La CoruÃ±a vs Sporting Gijon – Canal 9
+https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=0af30ef4475babcd06685d6d2935707bb47627effc370966643397a6d870194d2ae63b80a302c85dd3211e2f0a6a98d741d2acc340e922f76d27c82e5800db8f
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Deportivo La CoruÃ±a vs Sporting Gijon – Canal 10 (HD)
+https://8c51.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=c87c566342d2ec1ace99e96de39d08f268228074-4c-1757213347-1757159347&ip=64.236.134.210
+#EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Deportivo La CoruÃ±a vs Sporting Gijon – Canal 15 (HD)
+https://maz1.dbcast.live/nssQ93lK17H6abs8z0ztVw/1757197155/36342e3233362e3133342e323130/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Zaragoza vs Real Valladolid – Deportes Plus 4
+https://d3.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=RhH0QZFVwEXNd6EJ0EeBVQ&expires=1757175559
+#EXTINF:-1 tvg-name="Canal 9" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Zaragoza vs Real Valladolid – Canal 9
+https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=0af30ef4475babcd06685d6d2935707bb47627effc370966643397a6d870194d2ae63b80a302c85dd3211e2f0a6a98d741d2acc340e922f76d27c82e5800db8f
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Zaragoza vs Real Valladolid – Canal 10 (HD)
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=b02190d58df3185926d789ae84dde628adaf3c60-8f-1757213379-1757159379&ip=64.236.134.210
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Zaragoza vs Real Valladolid – Canal 18 (HD)
+https://dreoap.6522236688.shop:8443/hls/wwcujo0oiatyw93.m3u8?s=ErWgRjnwsd0lDJTOZkftGA&e=1757189987
+#EXTINF:-1 tvg-name="Deportes Plus 4" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Granada – Deportes Plus 4
+https://d7.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=IHdrZlPZg5QXUQfOMblBsQ&expires=1757175592
+#EXTINF:-1 tvg-name="Canal 9" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Granada – Canal 9
+https://mut100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=0af30ef4475babcd06685d6d2935707bb47627effc370966643397a6d870194d2ae63b80a302c85dd3211e2f0a6a98d741d2acc340e922f76d27c82e5800db8f
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Granada – Canal 10 (HD)
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=7e7ee51a173feb11be3519bbd110bf44a7df141b-f1-1757213411-1757159411&ip=64.236.134.210
+#EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Malaga vs Granada – Canal 30 (HD)
+https://51a1.crackstreamslivehd.com/global/eventos1/index.m3u8?token=32fa12391c904db6d24cbcabea65dcb1bbf5ad35-8a-1757213419-1757159419&ip=64.236.134.210
+#EXTINF:-1 tvg-name="Canal 19" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Montevideo Wanderers vs Danubio – Canal 19
+https://dreoap.6522236688.shop:8443/hls/543hcacrbrvfw.m3u8?s=Ex77rukRHWNzma3msyF1vg&e=1757190034
+#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Montevideo Wanderers vs Danubio – Canal 20 (HD)
+https://doc1.crackstreamslivehd.com/global/disney6/index.m3u8?token=496e608b8f981fffffe7e65d622ea69d885b7e42-78-1757213442-1757159442&ip=64.236.134.210
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Plaza Colonia – VTV Uruguay
+https://maz2.dbcast.live/9vh5UrT0AD_nNOL1j66G3g/1757197250/36342e3233362e3133342e323130/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Plaza Colonia – Canal 48
+https://maz2.dbcast.live/iZIaDT1V8PBlpyNZul5lpA/1757197258/36342e3233362e3133342e323130/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 50 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Plaza Colonia – Canal 50 (HD)
+https://maz2.dbcast.live/5dn--ana2bvWm3uxuwuVGA/1757197273/36342e3233362e3133342e323130/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 16" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs River Plate – Canal 16
+https://dreoap.6522236688.shop:8443/hls/kw6ef0n921mnbf0.m3u8?s=cZMPbvx8nOk1np2dJ_jvyA&e=1757190089
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs River Plate – Canal 17 (HD)
+https://maz1.dbcast.live/dlD3bhiXbPS5wxTeaIi8UA/1757197298/36342e3233362e3133342e323130/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs River Plate – Canal 18 (HD)
+https://dreoap.6522236688.shop:8443/hls/wwcujo0oiatyw93.m3u8?s=WY3q_AVWl6vqw9ZAYv1EZQ&e=1757190107
