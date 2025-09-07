@@ -2,26 +2,18 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Miramar Misiones – Liga de Campeones 7
-https://d7.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=rLzPWRvW_0GhN7QwIuLlUA&expires=1757281161
-#EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Miramar Misiones – Canal 48
-https://cnfobm.5606087801.art:8443/hls/vk1xq.m3u8?s=ChNrzZ93EB26uaa1clJ0pA&e=1757295578
+https://d2.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=hESBqHZgdBm8iGSF5mULkw&expires=1757283776
 #EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Miramar Misiones – Canal 49 (HD)
-https://14c51.crackstreamslivehd.com/global/goltv/index.m3u8?token=faa0c2779feee7c268e6d402044000a91cca3c8f-2a-1757318998-1757264998&ip=172.182.226.65
+https://14c51.crackstreamslivehd.com/global/goltv/index.m3u8?token=df6c48f8ba1e247755dbbc01049ed6ebf0b79215-81-1757321595-1757267595&ip=52.159.247.68
 #EXTINF:-1 tvg-name="Canal 50 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Miramar Misiones – Canal 50 (HD)
-https://dst2.dbcast.live/G1pJbez-puU0Q0CtfJfdSQ/1757302807/3137322e3138322e3232362e3635/ff999/playlist.m3u8
+https://dst2.dbcast.live/Z4c3odWfOksnrTdWQsRvTg/1757305404/35322e3135392e3234372e3638/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Racing Montevideo – Liga de Campeones 7
-https://d4.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=lP-uZO9i0wdpSq2vOT1AeQ&expires=1757281216
-#EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Racing Montevideo – Canal 35
-https://dst1.dbcast.live/FL8W16zmYZ75v5hFKHltoA/1757302825/3137322e3138322e3232362e3635/ff999/playlist.m3u8
+https://d6.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=IaaQvLC-Wlqo9o0y1jx_Yg&expires=1757283811
 #EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Racing Montevideo – Canal 36 (HD)
-https://cnfobm.5606087801.art:8443/hls/pugwrp0w9za0j7.m3u8?s=7Tvj-YiLsflYkR061hVD8w&e=1757295633
+https://24a1.crackstreamslivehd.com/global/goltv/index.m3u8?token=3d0d6b74e5ad9d326504f694937f16c22aa4b432-3c-1757321630-1757267630&ip=52.159.247.68
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Racing Montevideo – Canal 37 (HD)
-https://99a1.crackstreamslivehd.com/global/espn5/index.m3u8?token=f4cf06f4aebd55cc68aab89e97dbb384a05e7990-f0-1757319044-1757265044&ip=172.182.226.65
+https://dst2.dbcast.live/it_kBbaxS7Z7EO_C3fLz7A/1757305438/35322e3135392e3234372e3638/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Montevideo City Torque vs Liverpool Montevideo – Liga de Campeones 7
-https://d8.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=6xfndNUXvk2Fg60_KMdtZg&expires=1757281251
-#EXTINF:-1 tvg-name="Canal 46" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Montevideo City Torque vs Liverpool Montevideo – Canal 46
-https://dst1.dbcast.live/GahKV51o_VMmA-AGXIPAyQ/1757302861/3137322e3138322e3232362e3635/ff999/playlist.m3u8
+https://d1.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=1kBwylJYP4vsHJQE3MLHpg&expires=1757283846
 #EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Montevideo City Torque vs Liverpool Montevideo – Canal 47 (HD)
-https://dst2.dbcast.live/MMvtB1kErwOjNwGtIPcIsA/1757302870/3137322e3138322e3232362e3635/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Montevideo City Torque vs Liverpool Montevideo – Canal 48 (HD)
-https://cnfobm.5606087801.art:8443/hls/vk1xq.m3u8?s=_0RmuEtSxBzn-NffXMHbEA&e=1757295681
+https://dst1.dbcast.live/4oD32FcN4m1EQsQpugBJeQ/1757305465/35322e3135392e3234372e3638/ff999/playlist.m3u8
