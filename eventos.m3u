@@ -1,9 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:00 Liga de Argentina – Belgrano vs San Martin de San Juan – ESPN Premium
-https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=LUFmUyAxob9kqJrRf7FFcA&expires=1757698832
-#EXTINF:-1 tvg-name="Canal 14" group-title="Liga de Argentina", 18:00 Liga de Argentina – Belgrano vs San Martin de San Juan – Canal 14
-https://fvvxvv.6670391863.store:8443/hls/o9mkcz3mo.m3u8?s=rL0AXC3kj7uexEHccZcvJA&e=1757713242
-#EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Belgrano vs San Martin de San Juan – Canal 15 (HD)
-https://doc1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=3b4e86bc37f5de6f95319fe96af553262d02e595-e4-1757736650-1757682650&ip=4.236.158.56
-#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Belgrano vs San Martin de San Juan – Canal 16 (HD)
-https://ddt2.dbcast.live/TbHhFzud0jk9nWPxlErXuQ/1757720459/342e3233362e3135382e3536/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Sevilla vs Elche – Canal 1
+https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=Odw6zJ_pbhD3aChpD9emow&expires=1757701424
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Sevilla vs Elche – Canal 2
+https://pjxvijl.5606087801.art:8443/hls/ecef5nnc.m3u8?s=cs_McVqv_irm3Hd4a4qH9Q&e=1757715834
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Sevilla vs Elche – Canal 3 (HD)
+https://99a1.crackstreamslivehd.com/global/espn2/index.m3u8?token=ae646ed72f784a1d6a47fe8504dc1bcdaebf002d-b0-1757739242-1757685242&ip=20.161.67.209
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Sevilla vs Elche – Canal 4 (HD)
+https://57b1.crackstreamslivehd.com/global/disney3/index.m3u8?token=5190e401962b260e155373ce780058b7a61ae7fc-39-1757739251-1757685251&ip=20.161.67.209
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Sevilla vs Elche – Canal 6 (HD)
+https://pecdl1.crackstreamslivehd.com/global/eventos/index.m3u8?token=b69873422abdc22f4c2d30b9c73fea2dc82e3d5b-36-1757739267-1757685267&ip=20.161.67.209
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Las Palmas vs Real Sociedad B – Deportes Plus
+https://d7.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=dWkOQPVn6Rcp_UII56B-bA&expires=1757701475
+#EXTINF:-1 tvg-name="Canal 15" group-title="LaLiga 2", 13:30 LaLiga 2 – Las Palmas vs Real Sociedad B – Canal 15
+https://24a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=65f5244b788f15b5dd39c7995032e0431df1ba0f-f3-1757739285-1757685285&ip=20.161.67.209
+#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Las Palmas vs Real Sociedad B – Canal 16 (HD)
+https://ddt2.dbcast.live/C2Itl0Sm0wXumhdANk5dcQ/1757723093/32302e3136312e36372e323039/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Las Palmas vs Real Sociedad B – Canal 17 (HD)
+https://pjxvijl.5606087801.art:8443/hls/vk1xq.m3u8?s=jhENjtPudeiX9pcaesMtvA&e=1757715901
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 12:30 Liga de Argentina – Deportivo Riestra vs Central Cordoba – TNT Sports Argentina
+https://d5.merichunidya.com:1686/hls/captntarg.m3u8?md5=8FY2rKzmQL-JVh4A0AC7kw&expires=1757701509
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Deportivo Riestra vs Central Cordoba – Canal 8 (HD)
+https://d1.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=3OkQuUFHogD6UKAKaBJddw&expires=1757701533
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Racing Club vs San Lorenzo – ESPN Premium
+https://d6.merichunidya.com:1686/hls/capespnprem.m3u8?md5=C91W0kYyIoM3YwBpQZygpQ&expires=1757701542
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Huracan vs Velez Sarsfield – TNT Sports Argentina
+https://d5.merichunidya.com:1686/hls/captntarg.m3u8?md5=7G_zTtqtAzYJBLQIsH9KPg&expires=1757701573
+#EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Huracan vs Velez Sarsfield – Canal 39 (HD)
+https://pjxvijl.5606087801.art:8443/hls/eflb8gathr4gtu.m3u8?s=8fXbp_sgV0Vc1Y73PAf5cA&e=1757715996
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Independiente Rivadavia – ESPN Premium
+https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=3mbWdEnpz8009LCT5yF1rQ&expires=1757701604
+#EXTINF:-1 tvg-name="Canal 47" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Independiente Rivadavia – Canal 47
+https://ca8s9.crackstreamslivehd.com/global/winplus2/index.m3u8?token=1d131f3bec687a924db50f449df3c95d7346d56b-b6-1757739414-1757685414&ip=20.161.67.209
+#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Independiente Rivadavia – Canal 49 (HD)
+https://pjxvijl.5606087801.art:8443/hls/eflb8gathr4gtu.m3u8?s=UUfMtLSJ6lyJd9fLpMu2_g&e=1757716031
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Newell's Old Boys vs Atletico Tucuman – TNT Sports Argentina
+https://d6.merichunidya.com:1686/hls/captntarg.m3u8?md5=f_dIBLkRYHVVxYQHeGFBOA&expires=1757701639
