@@ -2,72 +2,70 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Atletico Madrid vs Villarreal – Canal 1
-https://d4.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=5SgOR196_18FTOaW99i-2A&expires=1757802090
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Atletico Madrid vs Villarreal – Canal 2
-https://nurumn.6670391863.store:8443/hls/b2273e5.m3u8?s=q9exiqqPW3qPGWyt5RcHKQ&e=1757816505
+https://d7.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=5teccRNqBaxj-yjaO3cYGw&expires=1757803115
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Atletico Madrid vs Villarreal – Canal 3 (HD)
-https://ca8s9.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=c128850c9cacce37551e51b5504bfcc5d1f02504-ec-1757839915-1757785915&ip=172.182.211.17
+https://99a1.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=89d5e58071e258f177e443efdb95d38709d71564-16-1757840943-1757786943&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Atletico Madrid vs Villarreal – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/dsports/index.m3u8?token=9ae5862ecfb13074b42ff02ceca1655e994de77c-a0-1757839924-1757785924&ip=172.182.211.17
+https://57b1.crackstreamslivehd.com/global/dsports/index.m3u8?token=5fc778a83322d33f9a61dd6ed63331485d4b3520-d6-1757840951-1757786951&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Atletico Madrid vs Villarreal – Canal 5 (HD)
-https://mdt2.dbcast.live/fJHrj1YvCSnJ0m3MnTjPvA/1757823732/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt1.dbcast.live/rMzN8YfDZvCTgq0Hcoej6g/1757824759/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Atletico Madrid vs Villarreal – Canal 6 (HD)
-https://muc100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=21320182af4d33d10c6d0622f2c826fbfe8dc8c8fe3c09cb22b88790f8369d63cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://muc200.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=ef7f5dba74e1f8d374058df991630503d10842076e2744db24cba122624dc499cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Real Valladolid vs Almeria – Deportes Plus
-https://d4.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=_9MCiMlPOhKg2C3sYSZf5w&expires=1757802142
+https://d5.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=NNr4mmowIAf5SgwQ0nTvww&expires=1757803174
 #EXTINF:-1 tvg-name="Canal 34" group-title="LaLiga 2", 14:00 LaLiga 2 – Real Valladolid vs Almeria – Canal 34
-https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=21320182af4d33d10c6d0622f2c826fbfe8dc8c8fe3c09cb22b88790f8369d63cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=ef7f5dba74e1f8d374058df991630503d10842076e2744db24cba122624dc499cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Real Valladolid vs Almeria – Canal 35 (HD)
-https://doc1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=84e38defdda121ab648c9c193d37bc163f99b78b-52-1757839964-1757785964&ip=172.182.211.17
+https://doc1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=e124e1234d2d55c878775ceb63492c54d71bb0d7-00-1757840991-1757786991&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Real Valladolid vs Almeria – Canal 36 (HD)
-https://mdt1.dbcast.live/Gw26_nv9DbauhFWo5JFN7g/1757823772/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt1.dbcast.live/h_RxP7EDmmBOJBsI33vkZQ/1757824799/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – ESPN Premium
-https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=TtHs140ZzlvW0UgNMZszgA&expires=1757802180
+https://d1.merichunidya.com:1686/hls/capespnprem.m3u8?md5=o5HoXlYIbYUXnELQedCADQ&expires=1757803206
 #EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – Canal 20
-https://mdt1.dbcast.live/iXevEOLZsup1fx4g9I1eEw/1757823789/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt2.dbcast.live/PJtAjxHxRPnv-mp0rEZuSQ/1757824816/3130342e3230392e31322e3730/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – Canal 21 (HD)
+https://arzzmm.6670391863.store:8443/hls/xzgyn9ofmet.m3u8?s=hWE464gzQqJNegzdFN-7Zg&e=1757817625
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – Canal 22 (HD)
-https://98ca2.crackstreamslivehd.com/global/tntsportschile/index.m3u8?token=15e6f555000806181ca88fd0b02e770a9ecb5722-a8-1757840007-1757786007&ip=172.182.211.17
+https://14c51.crackstreamslivehd.com/global/tntsportschile/index.m3u8?token=2235dd7a4fa8fc73721af39d534a030d100f5dd9-8e-1757841033-1757787033&ip=104.209.12.70
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 14:45 Liga de Argentina – Independiente vs Banfield – TNT Sports Argentina
-https://d2.merichunidya.com:1686/hls/captntarg.m3u8?md5=XOPK-fcZD-1f75ILQG8ghQ&expires=1757802211
+https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=6st_UBYWkZsbgiAowymCKQ&expires=1757803241
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Independiente vs Banfield – Canal 16 (HD)
-https://mdt2.dbcast.live/L5z8HcQvMqo5ToP188Ulrg/1757823833/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt2.dbcast.live/bmDkRjRo54uIinX-iN1_jw/1757824860/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Independiente vs Banfield – Canal 17 (HD)
-https://14c51.crackstreamslivehd.com/global/tntsports/index.m3u8?token=75b36d7491d7fb95c0a9ee8fc8665f65f3838a0c-ef-1757840041-1757786041&ip=172.182.211.17
+https://pecdl1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=c2ff3aa7945008bee80894fbd739ed11e0dbcf94-a5-1757841067-1757787067&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Liga de Campeones" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs River Plate – Liga de Campeones
-https://d6.merichunidya.com:1686/hls/capocampeones.m3u8?md5=1pHupFr4-GiSxXU8npMjTQ&expires=1757802248
+https://d6.merichunidya.com:1686/hls/capocampeones.m3u8?md5=Z9BII2NCWStR5rC-0igY-w&expires=1757803274
 #EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs River Plate – Canal 35
-https://14c51.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=3c38ee8dda2a7e441c256cb775367b8a9f0f33a3-be-1757840057-1757786057&ip=172.182.211.17
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=708db5e6bc543d048aac96a104998f730a99bacf-bd-1757841085-1757787085&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs River Plate – Canal 36 (HD)
-https://mdt2.dbcast.live/YKbz92aDDDcDrQ_AZAjyPg/1757823864/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt1.dbcast.live/8k-1qfUzXPN-Dn6x3Euvgw/1757824893/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Sarmiento vs Aldosivi – TNT Sports Argentina
-https://d2.merichunidya.com:1686/hls/captntarg.m3u8?md5=EztIN4h88n_spdpKxTC1IA&expires=1757802276
+https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=XYveuCDpuTW2Rrg0e0dArQ&expires=1757803309
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Sarmiento vs Aldosivi – Canal 19 (HD)
-https://24a1.crackstreamslivehd.com/global/liga1max/index.m3u8?token=4cbcc0d12dcd33622fa6c37b13b40022a9d66127-cf-1757840099-1757786099&ip=172.182.211.17
+https://99a1.crackstreamslivehd.com/global/liga1max/index.m3u8?token=542f3e15cb2fbe6e74ac06b3594dc4392975e1f0-4b-1757841128-1757787128&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Sarmiento vs Aldosivi – Canal 20 (HD)
-https://mdt1.dbcast.live/2E5L6Kic9Xy8YVJ5fZ1REA/1757823907/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt1.dbcast.live/atvBKwIx_RIi7sV0hKymqA/1757824938/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – VTV Uruguay
-https://mdt1.dbcast.live/R1IcE8gWxdLxsHGj-8FtEw/1757823916/3137322e3138322e3231312e3137/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 31" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 31
-https://nurumn.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=BzL_gw5xshO7M0GSyfDn_w&e=1757816724
+https://mdt1.dbcast.live/Asvf18Q4janinQ5yWT6h6Q/1757824946/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 32 (HD)
-https://ca8s9.crackstreamslivehd.com/global/disney15/index.m3u8?token=f4cd2f7528c29a599f30a821911ffaa70bab396e-c7-1757840133-1757786133&ip=172.182.211.17
+https://51a1.crackstreamslivehd.com/global/disney15/index.m3u8?token=53858e83fa1e84707e50b8a674ad268e23f049ab-3c-1757841163-1757787163&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 33 (HD)
-https://mdt1.dbcast.live/FFE8KtQawVIE5msR-Nlwlg/1757823941/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt2.dbcast.live/veR03KKNsJ33OlUhbU3aCA/1757824971/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Cerro Largo vs Defensor Sporting – VTV Uruguay
-https://mdt1.dbcast.live/8OXXQn8Ip3AFrxv7qKZzvQ/1757823949/3137322e3138322e3231312e3137/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Cerro Largo vs Defensor Sporting – Canal 23
-https://nurumn.6670391863.store:8443/hls/xzgyn9ofmet.m3u8?s=ZKEFc12UEeAnMcSiCme7Ww&e=1757816758
+https://mdt1.dbcast.live/BrEJfM8jWh-vPJzvvpPehQ/1757824979/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Cerro Largo vs Defensor Sporting – Canal 24 (HD)
-https://mdt1.dbcast.live/tyzBJJs0aX7-2ShpCx0ZdA/1757823967/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt1.dbcast.live/I3b5c1WrWaTN-PAxAvS1Jw/1757824996/3130342e3230392e31322e3730/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Cerro Largo vs Defensor Sporting – Canal 25 (HD)
+https://arzzmm.6670391863.store:8443/hls/gj2nue0.m3u8?s=HVo1X09P2qYSh_C_7DhKuA&e=1757817805
 #EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 14:00 Premier League – Brentford vs Chelsea – Canal 1
-https://d3.merichunidya.com:1686/hls/capodeportes.m3u8?md5=qP_2zwgaWkO3oZXQ4yBf5w&expires=1757802383
+https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=xR9M6zwjmy8li2oe2m43bQ&expires=1757803407
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 14:00 Premier League – Brentford vs Chelsea – Canal 2
-https://nurumn.6670391863.store:8443/hls/pz65xpc.m3u8?s=IC8coc9ihVEVBoAFYtN-Qw&e=1757816793
+https://arzzmm.6670391863.store:8443/hls/pz65xpc.m3u8?s=jc14PxlvuNQcWZ4c3Z6FRw&e=1757817823
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Chelsea – Canal 3 (HD)
-https://ca8s9.crackstreamslivehd.com/global/disney17/index.m3u8?token=4c6f89c243a127c24b870d4c4a7c67a21ace457c-af-1757840201-1757786201&ip=172.182.211.17
+https://99a1.crackstreamslivehd.com/global/disney17/index.m3u8?token=ba1cadb48ead56985847c1615248e69405e19579-94-1757841232-1757787232&ip=104.209.12.70
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Chelsea – Canal 4 (HD)
-https://mdt1.dbcast.live/5jATVCsqxJ1AKjM4FgYnrA/1757824010/3137322e3138322e3231312e3137/ff999/playlist.m3u8
+https://mdt1.dbcast.live/ZsLvy_spkSJRpGmDk02bFA/1757825040/3130342e3230392e31322e3730/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Chelsea – Canal 5 (HD)
-https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=SZ12nGqnb6aF7IklgmheWA&expires=1757802413
+https://d5.merichunidya.com:1686/hls/capodeportes.m3u8?md5=yvrgGd4NjrP-s7tOgHAU3A&expires=1757803448
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Chelsea – Canal 6 (HD)
-https://mut100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=21320182af4d33d10c6d0622f2c826fbfe8dc8c8fe3c09cb22b88790f8369d63cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://mut100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=ef7f5dba74e1f8d374058df991630503d10842076e2744db24cba122624dc499cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
