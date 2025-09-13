@@ -1,93 +1,115 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 07:00 LaLiga – Getafe vs Real Oviedo – Canal 1
-https://d10.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=H3464EjEQf-7uFwC8oYpMw&expires=1757785087
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 07:00 LaLiga – Getafe vs Real Oviedo – Canal 2
-https://xwmhev.7380990745.xyz:8443/hls/xe3kpthdw5hw.m3u8?s=n8e_3exoynG88zrB4E5z-g&e=1757799503
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Real Oviedo – Canal 3 (HD)
-https://ca8s9.crackstreamslivehd.com/global/espn4/index.m3u8?token=66085b342831f87aa9955f80adde4c823075883c-a2-1757822916-1757768916&ip=145.132.99.133
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Real Oviedo – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=69665321dfd63ce3545cccb3e8ccfeab36ed48f1-d8-1757822923-1757768923&ip=145.132.99.133
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Real Oviedo – Canal 5 (HD)
-https://mdt2.dbcast.live/_YCrO0W7i-gVzFdTHFEKww/1757806730/3134352e3133322e39392e313333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Real Oviedo – Canal 6 (HD)
-https://mut100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=a68ce762acb23cb7358f63b8308e24f9600050d3b2fc0314660d18ea40662bfecc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 09:15 LaLiga – Real Sociedad vs Real Madrid – Canal 1
-https://d12.epicquesthero.com:1686/hls/capodeportes5.m3u8?md5=9H8BWbGG3Apht34oGlBCJQ&expires=1757785137
+https://d6.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=s7nNvAw--AUOyrFofxUyvw&expires=1757787811
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 09:15 LaLiga – Real Sociedad vs Real Madrid – Canal 2
-https://xwmhev.7380990745.xyz:8443/hls/tyh9ei.m3u8?s=ba_pWdWQZ1KwQjXbhsbQKQ&e=1757799553
+https://dzwvcn.7380990745.xyz:8443/hls/tyh9ei.m3u8?s=LUSgsmMkl1y7DMZJqZ-zpQ&e=1757802220
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 09:15 LaLiga – Real Sociedad vs Real Madrid – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=dc3ecca7cf12ee1f84592dce6c8556ace147efd6-0c-1757822961-1757768961&ip=145.132.99.133
+https://8c51.crackstreamslivehd.com/global/espn/index.m3u8?token=67784a9d2867c23caa8c8c6f2a16ce7bd06f528f-dc-1757825629-1757771629&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 09:15 LaLiga – Real Sociedad vs Real Madrid – Canal 4 (HD)
-https://57b1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=9c2438ba7786947447904378330d56f10a2976ed-ed-1757822969-1757768969&ip=145.132.99.133
+https://24a1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=ae86dea5fdba5e27082a1e5f582b413bdb5e1965-78-1757825637-1757771637&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 09:15 LaLiga – Real Sociedad vs Real Madrid – Canal 5 (HD)
-https://mdt2.dbcast.live/p3mKOp5x6kGMoswmpuJ3kQ/1757806777/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt1.dbcast.live/k2v8Xa2yhEDbnId_ELl9BA/1757809445/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 09:15 LaLiga – Real Sociedad vs Real Madrid – Canal 6 (HD)
-https://muc100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=a68ce762acb23cb7358f63b8308e24f9600050d3b2fc0314660d18ea40662bfecc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://a2vlca.fubohd.com/disney9/mono.m3u8?token=83de3521e6d83641904d63f4e971eeec0ecb87fc-d4-1757797753-1757779753
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 11:30 LaLiga – Athletic Club vs Deportivo Alaves – Canal 1
+https://d15.epicquesthero.com:1686/hls/capodeportes5.m3u8?md5=5EQ9aWHZq9izhY6GcZ9HkA&expires=1757787853
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 11:30 LaLiga – Athletic Club vs Deportivo Alaves – Canal 2
+https://dzwvcn.7380990745.xyz:8443/hls/xe3kpthdw5hw.m3u8?s=TXRfcWoZd1guqQeBIJ_82A&e=1757802269
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 11:30 LaLiga – Athletic Club vs Deportivo Alaves – Canal 3 (HD)
+https://ca8s9.crackstreamslivehd.com/global/espn4/index.m3u8?token=304c2813752009039da65841fcd51e3cc2b05f1d-36-1757825677-1757771677&ip=172.184.214.212
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 11:30 LaLiga – Athletic Club vs Deportivo Alaves – Canal 4 (HD)
+https://doc1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=128852a95a4743765e77ae308744c77572f3d372-ae-1757825686-1757771686&ip=172.184.214.212
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 11:30 LaLiga – Athletic Club vs Deportivo Alaves – Canal 5 (HD)
+https://mdt1.dbcast.live/hqufy9prjj5Vjf2xL7KY-Q/1757809494/3137322e3138342e3231342e323132/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 11:30 LaLiga – Athletic Club vs Deportivo Alaves – Canal 6 (HD)
+https://mut100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 09:15 LaLiga 2 – Mirandes vs Deportivo La CoruÃ±a – Deportes Plus
-https://d8.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=pTl8fV-YaVIAewRAbJ3Edg&expires=1757785191
+https://d5.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=oepl2zRbdBB7mvFGRtVsLw&expires=1757787908
 #EXTINF:-1 tvg-name="Canal 35" group-title="LaLiga 2", 09:15 LaLiga 2 – Mirandes vs Deportivo La CoruÃ±a – Canal 35
-https://mut100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=a68ce762acb23cb7358f63b8308e24f9600050d3b2fc0314660d18ea40662bfecc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Mirandes vs Deportivo La CoruÃ±a – Canal 36 (HD)
-https://99a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=cb856d9e90f12161454059f42af4a2b7bba0d06c-b5-1757823006-1757769006&ip=145.132.99.133
+https://99a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=3a3b56ea7d54b13a151c5528190f17ae6c928458-8f-1757825725-1757771725&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Mirandes vs Deportivo La CoruÃ±a – Canal 37 (HD)
-https://mdt1.dbcast.live/3Qhr5KXNkloc6M9zMJxZ6Q/1757806814/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt1.dbcast.live/HFleEyUYZj3fMcC5Rm2EQg/1757809533/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Deportes Plus 2" group-title="LaLiga 2", 09:15 LaLiga 2 – Cadiz vs Eibar – Deportes Plus 2
-https://d13.epicquesthero.com:1686/hls/capodeportesplus2.m3u8?md5=vjdgDW5G1m8CZfftPGynKQ&expires=1757785220
+https://d1.merichunidya.com:1686/hls/capodeportesplus2.m3u8?md5=PFR4-ITvxeXfFIFp3RkOog&expires=1757787941
 #EXTINF:-1 tvg-name="Canal 38" group-title="LaLiga 2", 09:15 LaLiga 2 – Cadiz vs Eibar – Canal 38
-https://plu2.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=a68ce762acb23cb7358f63b8308e24f9600050d3b2fc0314660d18ea40662bfecc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://muc100.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Cadiz vs Eibar – Canal 39 (HD)
-https://ca8s9.crackstreamslivehd.com/global/disney3/index.m3u8?token=7ec16f58aa61c77b4c895286b774f17d6a21a699-39-1757823037-1757769037&ip=145.132.99.133
+https://57b1.crackstreamslivehd.com/global/disney3/index.m3u8?token=0c8a8532382089a8f7db4c6f65576a0a09623f06-47-1757825756-1757771756&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Cadiz vs Eibar – Canal 40 (HD)
-https://mdt1.dbcast.live/INTuQgic5KpogEORfrE2sw/1757806845/3134352e3133322e39392e313333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 06:30 Premier League – Arsenal vs Nottingham Forest – Canal 1
-https://d7.merichunidya.com:1686/hls/capocampeones.m3u8?md5=YjxWI4LUCQDKfFTbJNCmyg&expires=1757785252
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 06:30 Premier League – Arsenal vs Nottingham Forest – Canal 2
-https://xwmhev.7380990745.xyz:8443/hls/tyh9ei.m3u8?s=vxPWXXwCtFPKHmmzhimUEw&e=1757799660
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Nottingham Forest – Canal 3 (HD)
-https://ca8s9.crackstreamslivehd.com/global/espn/index.m3u8?token=32c7d930b83b7ad627c70eaed51a37278981c6a9-4e-1757823068-1757769068&ip=145.132.99.133
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Nottingham Forest – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/universo_usa/index.m3u8?token=2402dc49bb109ae09ede40875f25a44c3001dfb3-b9-1757823076-1757769076&ip=145.132.99.133
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Nottingham Forest – Canal 5 (HD)
-https://mdt1.dbcast.live/-hZmRulOp8_lMuk-RdhAHA/1757806884/3134352e3133322e39392e313333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Nottingham Forest – Canal 6 (HD)
-https://muc200.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=a68ce762acb23cb7358f63b8308e24f9600050d3b2fc0314660d18ea40662bfecc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://mdt1.dbcast.live/haaLzu6pIoCSVy-Mge_iMw/1757809564/3137322e3138342e3231342e323132/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 11:30 LaLiga 2 – Huesca vs Malaga – Deportes Plus
+https://d6.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=mlmpoHRoFeesoSVbFY7u0w&expires=1757787964
+#EXTINF:-1 tvg-name="Canal 9" group-title="LaLiga 2", 11:30 LaLiga 2 – Huesca vs Malaga – Canal 9
+https://plu2.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Huesca vs Malaga – Canal 10 (HD)
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=8c7037659409ec530ba057b4e6787cac6603e264-d4-1757825789-1757771789&ip=172.184.214.212
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Huesca vs Malaga – Canal 11 (HD)
+https://mdt2.dbcast.live/5cTLqIfdyoPVD67et6lcXg/1757809597/3137322e3138342e3231342e323132/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – ESPN Premium
+https://d12.epicquesthero.com:1686/hls/capespnprem.m3u8?md5=tyte6qqbrStE1EFAAkQ3kw&expires=1757788004
+#EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – Canal 20
+https://mdt1.dbcast.live/D51hncw9tGz0OUSlC243Sg/1757809613/3137322e3138342e3231342e323132/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – Canal 21 (HD)
+https://muc200.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Barracas Central – Canal 22 (HD)
+https://98ca2.crackstreamslivehd.com/global/disney11/index.m3u8?token=ef7f3ec005fb19dcfe6a63f5744a93d0ada5a1b5-9d-1757825828-1757771828&ip=172.184.214.212
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Racing Montevideo vs Boston River – VTV Uruguay
+https://mdt1.dbcast.live/U8I0IQc75ltQblFXpi0VUQ/1757809636/3137322e3138342e3231342e323132/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Racing Montevideo vs Boston River – Canal 6
+https://dzwvcn.7380990745.xyz:8443/hls/543hcacrbrvfw.m3u8?s=v9bjZ4m3mPPTSsM90Yv6Qg&e=1757802445
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Racing Montevideo vs Boston River – Canal 7 (HD)
+https://8c51.crackstreamslivehd.com/global/disney8/index.m3u8?token=1dafa523576b71c2e5570a13dfb69924de4a315a-94-1757825853-1757771853&ip=172.184.214.212
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Racing Montevideo vs Boston River – Canal 8 (HD)
+https://mdt1.dbcast.live/Z7H9Nc1CFCvnri1N_4Z8zQ/1757809661/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Liga de Campeones 4" group-title="Premier League", 09:00 Premier League – Fulham vs Leeds Unitd – Liga de Campeones 4
-https://d14.epicquesthero.com:1686/hls/capocampeones4.m3u8?md5=5ABudFqHRnzXRCAl8yPZJA&expires=1757785295
+https://d6.merichunidya.com:1686/hls/capocampeones4.m3u8?md5=Z8dVNN0TRV2qYdVZigk8dQ&expires=1757788068
 #EXTINF:-1 tvg-name="Canal 18" group-title="Premier League", 09:00 Premier League – Fulham vs Leeds Unitd – Canal 18
-https://xwmhev.7380990745.xyz:8443/hls/xe3kpthdw5hw.m3u8?s=6uZW25laHR0yspPiNpdI8Q&e=1757799706
+https://dzwvcn.7380990745.xyz:8443/hls/xe3kpthdw5hw.m3u8?s=y2D43GNKBaMRF6lJAZEfhw&e=1757802477
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Premier League", 09:00 Premier League – Fulham vs Leeds Unitd – Canal 19 (HD)
-https://ca8s9.crackstreamslivehd.com/global/espn4/index.m3u8?token=9b1276cf3146ef17ada412a0d0fd555e2e77a46a-94-1757823114-1757769114&ip=145.132.99.133
+https://doc1.crackstreamslivehd.com/global/espn4/index.m3u8?token=74f1cfb8b878f5cbf7b2eddfd06611973efc06f2-39-1757825886-1757771886&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Premier League", 09:00 Premier League – Fulham vs Leeds Unitd – Canal 20 (HD)
-https://mdt2.dbcast.live/1UweNfuXMvfm52Y3Z4GHSw/1757806922/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt2.dbcast.live/_vJ5jXGLE65tCdRn2BfgAw/1757809694/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Deportes Plus 3" group-title="Premier League", 09:00 Premier League – Everton vs Aston Villa – Deportes Plus 3
-https://d3.merichunidya.com:1686/hls/capodeportesplus3.m3u8?md5=GRCTWqeDpB0HgOJT9XPkKA&expires=1757785325
+https://d11.epicquesthero.com:1686/hls/capodeportesplus3.m3u8?md5=DN1eRENDPw8uLtHqf4PjHw&expires=1757788101
 #EXTINF:-1 tvg-name="Canal 21" group-title="Premier League", 09:00 Premier League – Everton vs Aston Villa – Canal 21
-https://mut100.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=a68ce762acb23cb7358f63b8308e24f9600050d3b2fc0314660d18ea40662bfecc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
+https://muc100.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Premier League", 09:00 Premier League – Everton vs Aston Villa – Canal 22 (HD)
-https://doc1.crackstreamslivehd.com/global/disney11/index.m3u8?token=6f7d0e7022dcb44440489130ab9528e5892d2a70-72-1757823144-1757769144&ip=145.132.99.133
+https://8c51.crackstreamslivehd.com/global/disney11/index.m3u8?token=a1fcebfe08206ddb4ee9762fa384ad5ffad93441-0b-1757825917-1757771917&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Premier League", 09:00 Premier League – Everton vs Aston Villa – Canal 23 (HD)
-https://mdt1.dbcast.live/RWbluvH4W23sgjMVtE-3RA/1757806951/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt2.dbcast.live/xXoibl4MQNUtUB00ROFkDA/1757809725/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Deportes Plus 4" group-title="Premier League", 09:00 Premier League – Bournemouth vs Brighton & Hove Albion – Deportes Plus 4
-https://d6.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=7DLdo-G9WtpXhUgJoDPxeA&expires=1757785358
+https://d4.merichunidya.com:1686/hls/capodeportesplus4.m3u8?md5=xtmZsZ8Viws0n87NDtHAKw&expires=1757788133
 #EXTINF:-1 tvg-name="Canal 24" group-title="Premier League", 09:00 Premier League – Bournemouth vs Brighton & Hove Albion – Canal 24
-https://xwmhev.7380990745.xyz:8443/hls/uybh9ztgwiw1cgz.m3u8?s=1lAWt06YS9CublpwpPXBkw&e=1757799767
+https://dzwvcn.7380990745.xyz:8443/hls/uybh9ztgwiw1cgz.m3u8?s=V1-rSmfUIxM7Z61cOqb4Bg&e=1757802542
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Premier League", 09:00 Premier League – Bournemouth vs Brighton & Hove Albion – Canal 25 (HD)
-https://ca8s9.crackstreamslivehd.com/global/disney13/index.m3u8?token=e194dbc5d4c4d1b3d9c43b7ccd9ba167564e4cf9-5d-1757823175-1757769175&ip=145.132.99.133
+https://doc1.crackstreamslivehd.com/global/disney13/index.m3u8?token=a316e80f6c071823017d77c6456605fc6a2b093b-1a-1757825951-1757771951&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Premier League", 09:00 Premier League – Bournemouth vs Brighton & Hove Albion – Canal 26 (HD)
-https://mdt1.dbcast.live/a9LKUCy6AY022GUgRIJr8Q/1757806983/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt2.dbcast.live/mj0UXo999XL3trQB5mBs2Q/1757809759/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Deportes Plus 5" group-title="Premier League", 09:00 Premier League – Newcastle United vs Wolverhampton Wanderers – Deportes Plus 5
-https://d12.epicquesthero.com:1686/hls/capodeportesplus5.m3u8?md5=sc38jEF9ieYvgK5wl4mltQ&expires=1757785384
+https://d11.epicquesthero.com:1686/hls/capodeportesplus5.m3u8?md5=1eqX6-xvsdMn-awhby_nfw&expires=1757788166
 #EXTINF:-1 tvg-name="Canal 27" group-title="Premier League", 09:00 Premier League – Newcastle United vs Wolverhampton Wanderers – Canal 27
-https://xwmhev.7380990745.xyz:8443/hls/hmsa6df9.m3u8?s=4jsuzE9W0EwYaw6FcFCZUg&e=1757799799
+https://dzwvcn.7380990745.xyz:8443/hls/hmsa6df9.m3u8?s=rhpo9cXpFfSHtsS9LzsA8A&e=1757802576
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Premier League", 09:00 Premier League – Newcastle United vs Wolverhampton Wanderers – Canal 28 (HD)
-https://pecdl1.crackstreamslivehd.com/global/disney14/index.m3u8?token=29e18d9977d7d6830928b6addca532c3852f44ef-10-1757823207-1757769207&ip=145.132.99.133
+https://24a1.crackstreamslivehd.com/global/disney14/index.m3u8?token=4b8cf631fd9244fbcc305ac29303664efded976d-8e-1757825984-1757771984&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Premier League", 09:00 Premier League – Newcastle United vs Wolverhampton Wanderers – Canal 29 (HD)
-https://mdt2.dbcast.live/iKxk8mT31-3FTW4pd4dx_A/1757807015/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt2.dbcast.live/DOQZlIbMTSsaW19K0m_L2w/1757809792/3137322e3138342e3231342e323132/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 30" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Sunderland – Canal 30
-https://xwmhev.7380990745.xyz:8443/hls/k13h15p8ue.m3u8?s=eUbqf8ACE2XqeE28417PQQ&e=1757799823
+https://dzwvcn.7380990745.xyz:8443/hls/k13h15p8ue.m3u8?s=zAt92wxZTLLGyCyQRhpnLQ&e=1757802601
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Sunderland – Canal 31 (HD)
-https://98ca2.crackstreamslivehd.com/global/disney12/index.m3u8?token=b6eeb7a1bc4a115aaa171e3f78dd06450976f1c9-63-1757823230-1757769230&ip=145.132.99.133
+https://ca8s9.crackstreamslivehd.com/global/disney12/index.m3u8?token=71d223edd99bbfe94f0da23d6ac682e2fa4c6217-11-1757826009-1757772009&ip=172.184.214.212
 #EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Sunderland – Canal 32 (HD)
-https://mdt1.dbcast.live/R8HkfpX_ACoj9H1uQihWGQ/1757807039/3134352e3133322e39392e313333/ff999/playlist.m3u8
+https://mdt2.dbcast.live/G-5JEogrScejOiE6GPXBMA/1757809817/3137322e3138342e3231342e323132/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 11:30 Premier League – West Ham United vs Tottenham Hotspur – Canal 1
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=DSoAMCxS24uR9ZYrP5YeKw&expires=1757788222
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 11:30 Premier League – West Ham United vs Tottenham Hotspur – Canal 2
+https://dzwvcn.7380990745.xyz:8443/hls/9xwi1nm7od.m3u8?s=GdZYdhESZmrS5eZLUMrkpA&e=1757802633
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 11:30 Premier League – West Ham United vs Tottenham Hotspur – Canal 3 (HD)
+https://51a1.crackstreamslivehd.com/global/golperu/index.m3u8?token=dafb10571a3272d34714c2370c00549e33fc5c74-2b-1757826043-1757772043&ip=172.184.214.212
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 11:30 Premier League – West Ham United vs Tottenham Hotspur – Canal 4 (HD)
+https://rm8zcvk3.fubohd.com/caracol/mono.m3u8?token=100fdd29b1e52756ac940e07b251a61d3f4a5dfe-a2-1757798150-1757780150
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 11:30 Premier League – West Ham United vs Tottenham Hotspur – Canal 6 (HD)
+https://muc200.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=d01e31100fb90f6896bf8c4ed5061d6c762af75f6b26c2789d40577350e96bd7cc09d9c393e37e0fe510a58f6b576fb437bbbef22cd90ba81bea514f5a3e2ba4
