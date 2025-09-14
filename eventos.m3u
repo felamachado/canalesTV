@@ -1,35 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Barcelona vs Valencia – Canal 1
-https://d5.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=vps5_BApjZg6eJeBkBlv3A&expires=1757889581
+https://d9.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=kGRSC_xfXd1N-E74nuJC7Q&expires=1757891948
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Barcelona vs Valencia – Canal 2
+https://pjxvijl.5606087801.art:8443/hls/b2273e5.m3u8?s=VcHtCz6IOM6o-05UhIVUyQ&e=1757906356
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Barcelona vs Valencia – Canal 3 (HD)
-https://8c51.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=a5d89d1ef5fca50d26c437d9150bc602d6dee9e1-8a-1757927408-1757873408&ip=52.173.182.164
+https://8c51.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=d4aa65068cb9f862a450b5847e79c7715f4f46e6-19-1757929764-1757875764&ip=172.178.119.119
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Barcelona vs Valencia – Canal 4 (HD)
-https://57b1.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=306631e5d60956c699ff8064afd306b5340badff-fe-1757927517-1757873517&ip=52.173.182.164
+https://8c51.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=5a8b5f7de893b9fa7a74292059da3966d34635e6-d3-1757929772-1757875772&ip=172.178.119.119
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Barcelona vs Valencia – Canal 5 (HD)
+https://mct2.dbcast.live/mEvejDFJKUo9Avbs1nkzrQ/1757913580/3137322e3137382e3131392e313139/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Barcelona vs Valencia – Canal 6 (HD)
-https://muc100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=f96fa2ca518c89bc16adda13519a04072e7fd2467a6b754e47bf0d4235fa2bd26d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+https://muc200.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=b7e9ef49b68c1a7527c2d406666533989a0a9892e0fecf95b6e332c0797a4fc06d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Leganes – Deportes Plus
-https://d10.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=Cqu4yZdNDwzMqOLHM3pbGQ&expires=1757889766
+https://d5.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=ODT6_OE1HZkTQdSBn9nbGA&expires=1757891994
 #EXTINF:-1 tvg-name="Canal 37" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Leganes – Canal 37
-https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=f96fa2ca518c89bc16adda13519a04072e7fd2467a6b754e47bf0d4235fa2bd26d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=b7e9ef49b68c1a7527c2d406666533989a0a9892e0fecf95b6e332c0797a4fc06d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
 #EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Leganes – Canal 38 (HD)
-https://24a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=c814a5a92ca3a95dcb0edec1fc626dcdef591e67-95-1757927583-1757873583&ip=52.173.182.164
+https://pecdl1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=6aed7a092dc9416991b4b89b3f844c3402523e61-fc-1757929809-1757875809&ip=172.178.119.119
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Leganes – Canal 39 (HD)
-https://mct2.dbcast.live/_5YBFKwj0ABlA7wf8x5Wyw/1757911393/35322e3137332e3138322e313634/ff999/playlist.m3u8
+https://mct2.dbcast.live/pz-yIV3keYtiz34l49Uqng/1757913617/3137322e3137382e3131392e313139/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Capo Deportes" group-title="Liga de Argentina", 15:30 Liga de Argentina – Rosario Central vs Boca Juniors – Capo Deportes
-https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=WTEdA9EGz2IQNFqKr5DbIg&expires=1757889794
+https://d6.merichunidya.com:1686/hls/capodeportes.m3u8?md5=vXNmiETT172e8aEIVTNLcQ&expires=1757892019
+#EXTINF:-1 tvg-name="Canal 22" group-title="Liga de Argentina", 15:30 Liga de Argentina – Rosario Central vs Boca Juniors – Canal 22
+https://pjxvijl.5606087801.art:8443/hls/tyh9ei.m3u8?s=ZYud0LVFsUKkt8D3xbzO8Q&e=1757906432
 #EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Liga de Argentina", 15:30 Liga de Argentina – Rosario Central vs Boca Juniors – Canal 23 (HD)
-https://ca8s9.crackstreamslivehd.com/global/espn/index.m3u8?token=1c9f7939df511a93c2ec60648e58f173d4f4aaed-fb-1757927619-1757873619&ip=52.173.182.164
+https://24a1.crackstreamslivehd.com/global/espn/index.m3u8?token=5db696bbfe3ccb814683a22c6e11368507481f7f-c9-1757929840-1757875840&ip=172.178.119.119
 #EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 15:30 Liga de Argentina – Rosario Central vs Boca Juniors – Canal 24 (HD)
-https://mct2.dbcast.live/S7TbloGEwoGtJ6aFvDxwmw/1757911427/35322e3137332e3138322e313634/ff999/playlist.m3u8
+https://mct2.dbcast.live/OJP4J7zpvj1LnI5BFJoNuw/1757913647/3137322e3137382e3131392e313139/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Danubio vs Cerro – VTV Uruguay
-https://mct1.dbcast.live/eo5tuZiy_S10kpxeEhVINQ/1757911436/35322e3137332e3138322e313634/ff999/playlist.m3u8
+https://mct1.dbcast.live/faJ9qodwSW70aSVMWd8EZQ/1757913655/3137322e3137382e3131392e313139/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 29" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Danubio vs Cerro – Canal 29
-https://8c51.crackstreamslivehd.com/global/disney13/index.m3u8?token=d54bb1ae5f4456976ecad1b8eea8a8b87d04d84c-86-1757927644-1757873644&ip=52.173.182.164
+https://8c51.crackstreamslivehd.com/global/disney13/index.m3u8?token=46d472fc3611f91ceaa38ed260b61da337d8a2be-f0-1757929863-1757875863&ip=172.178.119.119
 #EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Danubio vs Cerro – Canal 30 (HD)
-https://mct2.dbcast.live/D6jtI69uSaxtDWi9ezBwxg/1757911452/35322e3137332e3138322e313634/ff999/playlist.m3u8
+https://mct1.dbcast.live/YbirMCExWJKF7Mi33AlrOg/1757913670/3137322e3137382e3131392e313139/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Danubio vs Cerro – Canal 31 (HD)
+https://pjxvijl.5606087801.art:8443/hls/wwcujo0oiatyw93.m3u8?s=TNIuZluhKupLYG3dQZtXGA&e=1757906478
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – VTV Uruguay
-https://mct2.dbcast.live/OHT1QIwKgd1Xb8TOky5VvQ/1757911470/35322e3137332e3138322e313634/ff999/playlist.m3u8
+https://mct1.dbcast.live/6Sndw8jx5bQjojqcTirqpw/1757913687/3137322e3137382e3131392e313139/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 28" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – Canal 28
+https://pjxvijl.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=bPHTsUkscWOIwmDPTCLUMA&e=1757906495
 #EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – Canal 29 (HD)
-https://99a1.crackstreamslivehd.com/global/disney13/index.m3u8?token=0fe23be120eeda06481e4047aed0ad0ddad730c2-65-1757927687-1757873687&ip=52.173.182.164
+https://8c51.crackstreamslivehd.com/global/disney13/index.m3u8?token=1174d161eae09da25bc22be5156ec41e07a81886-7a-1757929907-1757875907&ip=172.178.119.119
 #EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – Canal 30 (HD)
-https://mct1.dbcast.live/vyP9cUl1BwUu9c0G1EyZdA/1757911594/35322e3137332e3138322e313634/ff999/playlist.m3u8
+https://mct2.dbcast.live/mL12ReN29h3LwGlv63QNEw/1757913714/3137322e3137382e3131392e313139/ff999/playlist.m3u8
