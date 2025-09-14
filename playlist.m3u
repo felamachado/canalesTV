@@ -1,77 +1,79 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 07:00 LaLiga – Celta Vigo vs Girona – Canal 1
-https://d1.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=9_Q3ynAFmWhux5CjOt7zBw&expires=1757867998
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 07:00 LaLiga – Celta Vigo vs Girona – Canal 3 (HD)
-https://99a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=df132bd6c726c74f4389aa10a6066a3933927c39-d5-1757905818-1757851818&ip=135.232.232.35
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 07:00 LaLiga – Celta Vigo vs Girona – Canal 4 (HD)
-https://ca8s9.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=811bb3ed2c0947b495a15f6556eec6d7b187d3d6-b6-1757905854-1757851854&ip=135.232.232.35
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 07:00 LaLiga – Celta Vigo vs Girona – Canal 5 (HD)
-https://mct2.dbcast.live/kpMkLw04VtwbEsL2mcB9TA/1757889662/3133352e3233322e3233322e3335/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 07:00 LaLiga – Celta Vigo vs Girona – Canal 6 (HD)
-https://muc200.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=e72cc10b4b5ced115a2508da54bf866e9845123c59177fddbef5f529e320b2316d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 09:15 LaLiga – Levante vs Real Betis – Canal 1
-https://d4.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=0ZXF2scNWBpop_GRiTs53w&expires=1757868069
+https://d10.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=0HZ7w6N_T5gZESgkygo5Og&expires=1757870411
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 09:15 LaLiga – Levante vs Real Betis – Canal 2
-https://pjxvijl.5606087801.art:8443/hls/b2273e5.m3u8?s=PGH7eGmGdYhqQMRiIvOqYw&e=1757882485
+https://pvijse.1396168994.live:8443/hls/b2273e5.m3u8?s=NxyLx8YjuM9z2QTyGrlybQ&e=1757884823
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 09:15 LaLiga – Levante vs Real Betis – Canal 3 (HD)
-https://pecdl1.crackstreamslivehd.com/global/dsports/index.m3u8?token=ed93e3c6905fdcb6fbfc14fc66ba5f5edb881d1e-c6-1757905894-1757851894&ip=135.232.232.35
+https://24a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=31903b7583082ac9ad7bdf21ef4efede5adb07a1-db-1757908232-1757854232&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 09:15 LaLiga – Levante vs Real Betis – Canal 4 (HD)
-https://8c51.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=7585117d7d71636cb04d044f981150fc14a09c7a-62-1757905902-1757851902&ip=135.232.232.35
+https://pecdl1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=ab8dcefe8eb284ccb8d1656e8f62a709deb8efe4-3e-1757908240-1757854240&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 09:15 LaLiga – Levante vs Real Betis – Canal 5 (HD)
-https://mct2.dbcast.live/crknbp9av05OSFooB4zBVw/1757889710/3133352e3233322e3233322e3335/ff999/playlist.m3u8
+https://mct2.dbcast.live/HOuqjyLgo1cwGTOsthkDbg/1757892049/3137322e3138322e3232342e313634/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 09:15 LaLiga – Levante vs Real Betis – Canal 6 (HD)
-https://plu2.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=e72cc10b4b5ced115a2508da54bf866e9845123c59177fddbef5f529e320b2316d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 07:00 LaLiga 2 – Andorra vs Cordoba – Deportes Plus
-https://d4.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=C1j5QlZb24jppJSy5O4XUw&expires=1757868117
-#EXTINF:-1 tvg-name="Canal 40" group-title="LaLiga 2", 07:00 LaLiga 2 – Andorra vs Cordoba – Canal 40
-https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=e72cc10b4b5ced115a2508da54bf866e9845123c59177fddbef5f529e320b2316d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
-#EXTINF:-1 tvg-name="Canal 41 (HD)" group-title="LaLiga 2", 07:00 LaLiga 2 – Andorra vs Cordoba – Canal 41 (HD)
-https://24a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=bf3ec952e786bdce8da0525a64ec35c0161ca281-03-1757905941-1757851941&ip=135.232.232.35
-#EXTINF:-1 tvg-name="Canal 42 (HD)" group-title="LaLiga 2", 07:00 LaLiga 2 – Andorra vs Cordoba – Canal 42 (HD)
-https://mct2.dbcast.live/INYjEa15ZLSdiY0Un7hbRQ/1757889748/3133352e3233322e3233322e3335/ff999/playlist.m3u8
+https://mut100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=bdfe1e3c5ee6b971957be283f9f5f9ba2d379e6d1c893579a839957e7e6b75626d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 11:30 LaLiga – Osasuna vs Rayo Vallecano – Canal 1
+https://d8.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=ZfnbFUuWu6_T9RBZkQi1mw&expires=1757870464
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 11:30 LaLiga – Osasuna vs Rayo Vallecano – Canal 2
+https://pvijse.1396168994.live:8443/hls/b2273e5.m3u8?s=hMQPt0OvA1gJao2EtPI1ug&e=1757884872
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 11:30 LaLiga – Osasuna vs Rayo Vallecano – Canal 3 (HD)
+https://8c51.crackstreamslivehd.com/global/dsports/index.m3u8?token=9119e019fd2334fcdb501769506fbc053a37eddb-93-1757908281-1757854281&ip=172.182.224.164
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 11:30 LaLiga – Osasuna vs Rayo Vallecano – Canal 4 (HD)
+https://14c51.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=74956c76f6365a139be4d95c5983c8f6810775d7-7c-1757908289-1757854289&ip=172.182.224.164
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 11:30 LaLiga – Osasuna vs Rayo Vallecano – Canal 5 (HD)
+https://mct2.dbcast.live/4UOlGRrxU2OcfiZYlFxQpw/1757892098/3137322e3138322e3232342e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 11:30 LaLiga – Osasuna vs Rayo Vallecano – Canal 6 (HD)
+https://muc100.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=bdfe1e3c5ee6b971957be283f9f5f9ba2d379e6d1c893579a839957e7e6b75626d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 09:15 LaLiga 2 – Racing Santander vs Cultural Leonesa – Deportes Plus
-https://d3.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=CXXXjPVGGERzkTuhYan8cg&expires=1757868155
+https://d5.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=i0ZpaSyJVcULQKCfJAfZqg&expires=1757870513
 #EXTINF:-1 tvg-name="Canal 18" group-title="LaLiga 2", 09:15 LaLiga 2 – Racing Santander vs Cultural Leonesa – Canal 18
-https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=e72cc10b4b5ced115a2508da54bf866e9845123c59177fddbef5f529e320b2316d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=bdfe1e3c5ee6b971957be283f9f5f9ba2d379e6d1c893579a839957e7e6b75626d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Racing Santander vs Cultural Leonesa – Canal 19 (HD)
-https://99a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=c3c3e2304c6497b2018536f2c64b01120d953672-a0-1757905972-1757851972&ip=135.232.232.35
+https://8c51.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=bab5363a652a4a10d7211385125b3af6bf1ee319-72-1757908329-1757854329&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Racing Santander vs Cultural Leonesa – Canal 20 (HD)
-https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=9a419ad607675d77df081c8ab3371e1e64274aee-30-1757878079-1757860079
+https://mct1.dbcast.live/DWJ2u-PQYIchgTCkj-M1Xw/1757892137/3137322e3138322e3232342e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 11:30 LaLiga 2 – Sporting Gijon vs Burgos – Deportes Plus
+https://d10.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=G-OQUBo_RV9yFewJ6Y5kzQ&expires=1757870545
+#EXTINF:-1 tvg-name="Canal 39" group-title="LaLiga 2", 11:30 LaLiga 2 – Sporting Gijon vs Burgos – Canal 39
+https://agvyby.fubohd.com/espnmx/mono.m3u8?token=b51e45bd53f8ea4732a047cc420ec10b058bdd13-af-1757880453-1757862453
+#EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Sporting Gijon vs Burgos – Canal 40 (HD)
+https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=bdfe1e3c5ee6b971957be283f9f5f9ba2d379e6d1c893579a839957e7e6b75626d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+#EXTINF:-1 tvg-name="Canal 41 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Sporting Gijon vs Burgos – Canal 41 (HD)
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=e0c6f5f40bef8e9dceb52ae30a1fdc7134cd7030-15-1757908368-1757854368&ip=172.182.224.164
+#EXTINF:-1 tvg-name="Deportes Plus 2" group-title="LaLiga 2", 11:30 LaLiga 2 – Castellon vs Ceuta – Deportes Plus 2
+https://d5.merichunidya.com:1686/hls/capodeportesplus2.m3u8?md5=qkhLZBOk6onItmZdvnOzjw&expires=1757870576
+#EXTINF:-1 tvg-name="Canal 42" group-title="LaLiga 2", 11:30 LaLiga 2 – Castellon vs Ceuta – Canal 42
+https://mct1.dbcast.live/0ajLBBoFoVGT-_fIxLPGOg/1757892185/3137322e3138322e3232342e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Castellon vs Ceuta – Canal 43 (HD)
+https://mct2.dbcast.live/04SE6M763KLxU86NstMcow/1757892193/3137322e3138322e3232342e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Castellon vs Ceuta – Canal 44 (HD)
+https://24a1.crackstreamslivehd.com/global/disney6/index.m3u8?token=b1fb969ed55320306709c807af9de416a6ca0534-e5-1757908402-1757854402&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – River Plate vs Progreso – Liga de Campeones 7
-https://d5.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=Wz2FZ7DXcpgNI0JM5uTZ8w&expires=1757868186
+https://d1.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=z93iQsviDsX6MGjmnxkijw&expires=1757870601
+#EXTINF:-1 tvg-name="Canal 12" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – River Plate vs Progreso – Canal 12
+https://pvijse.1396168994.live:8443/hls/543hcacrbrvfw.m3u8?s=xx80f1qEpe9Kd3pKjDzkaQ&e=1757885019
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – River Plate vs Progreso – Canal 13 (HD)
-https://51a1.crackstreamslivehd.com/global/goltv/index.m3u8?token=9a2e5e14001e2c9f189f153b6b188474adc938a4-06-1757906004-1757852004&ip=135.232.232.35
+https://ca8s9.crackstreamslivehd.com/global/goltv/index.m3u8?token=f8f79e5e19bcc9975020183d1d894a7b88228e91-6d-1757908427-1757854427&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Uruguay", 08:30 Liga de Uruguay – River Plate vs Progreso – Canal 14 (HD)
-https://mct1.dbcast.live/mUD3a1iKThPx27u9KuzuSg/1757889812/3133352e3233322e3233322e3335/ff999/playlist.m3u8
+https://mct2.dbcast.live/0_wdkk_7DUcrTkZlgmKbyA/1757892235/3137322e3138322e3232342e313634/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Juventud vs Montevideo City Torque – Liga de Campeones 7
-https://d4.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=k3XIUmjC6YT2iVsCTWAvtQ&expires=1757868219
+https://d2.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=kRZEy-tsdZ3Su1RyGhySbQ&expires=1757870643
 #EXTINF:-1 tvg-name="Canal 33" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Juventud vs Montevideo City Torque – Canal 33
-https://mct1.dbcast.live/WRjtWle30jgCYcD8UJ9BGQ/1757889828/3133352e3233322e3233322e3335/ff999/playlist.m3u8
+https://mct1.dbcast.live/75EJD7y2lklSoZ8HXuAYBw/1757892252/3137322e3138322e3232342e313634/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Juventud vs Montevideo City Torque – Canal 34 (HD)
-https://muc200.myluck1.top:8088/live/motogphn1/playlist.m3u8?id=122644&pk=e72cc10b4b5ced115a2508da54bf866e9845123c59177fddbef5f529e320b2316d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+https://plu1.myluck1.top:8088/live/motogphn1/playlist.m3u8?id=122644&pk=bdfe1e3c5ee6b971957be283f9f5f9ba2d379e6d1c893579a839957e7e6b75626d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
 #EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="Liga de Uruguay", 11:00 Liga de Uruguay – Juventud vs Montevideo City Torque – Canal 35 (HD)
-https://99a1.crackstreamslivehd.com/global/espn2/index.m3u8?token=8ab0746577b180d40d4ab46651c3730ae5ca670e-67-1757906043-1757852043&ip=135.232.232.35
-#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 08:00 Premier League – Burnley vs Liverpool – Canal 1
-https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=DWGTlWd-PzHXCwe967fC1Q&expires=1757868243
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 08:00 Premier League – Burnley vs Liverpool – Canal 2
-https://pjxvijl.5606087801.art:8443/hls/tyh9ei.m3u8?s=o-PNHpAYXwwdgpx-_2tgIQ&e=1757882659
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 08:00 Premier League – Burnley vs Liverpool – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=d4c9f3053629341da2f93aa6529f2e0c05536dbb-d3-1757906067-1757852067&ip=135.232.232.35
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 08:00 Premier League – Burnley vs Liverpool – Canal 4 (HD)
-https://57b1.crackstreamslivehd.com/global/disney7/index.m3u8?token=9727c2c1e32154f0133c716b4b74da80451df51f-41-1757906075-1757852075&ip=135.232.232.35
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 08:00 Premier League – Burnley vs Liverpool – Canal 5 (HD)
-https://mct2.dbcast.live/OnR9BqN7QdbhcpX5ZfhS8g/1757889883/3133352e3233322e3233322e3335/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 08:00 Premier League – Burnley vs Liverpool – Canal 6 (HD)
-https://mut100.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=e72cc10b4b5ced115a2508da54bf866e9845123c59177fddbef5f529e320b2316d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
+https://98ca2.crackstreamslivehd.com/global/espn2/index.m3u8?token=53825c97a38b9b24a6cad766543263a6c5acac08-ba-1757908468-1757854468&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 10:30 Premier League – Manchester City vs Manchester United – Canal 1
-https://d6.merichunidya.com:1686/hls/capodeportes.m3u8?md5=ys7f16rOMJ5eJoVxzIgDiQ&expires=1757868296
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=XOoh4ma0qWydMHvnh2Zhvw&expires=1757870670
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 10:30 Premier League – Manchester City vs Manchester United – Canal 2
-https://pjxvijl.5606087801.art:8443/hls/eflb8gathr4gtu.m3u8?s=0YejzOrH3uxTZLVKZDOKNw&e=1757882707
+https://pvijse.1396168994.live:8443/hls/tyh9ei.m3u8?s=XUo6CqIHFNRIWSB0tJRDcA&e=1757885084
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 10:30 Premier League – Manchester City vs Manchester United – Canal 3 (HD)
-https://florcd1.crackstreamslivehd.com/global/azteca7/index.m3u8?token=4a1cdf5964223b89e7deb16ea73659a31b31d110-6b-1757906116-1757852116&ip=135.232.232.35
+https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=8e1dc68fa794d427a86f1bc9fd8cecb079b3403f-e5-1757908493-1757854493&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 10:30 Premier League – Manchester City vs Manchester United – Canal 4 (HD)
-https://pecdl1.crackstreamslivehd.com/global/universo_usa/index.m3u8?token=ee482a10d992ea10757025b5e77a28ff79f7a9eb-df-1757906123-1757852123&ip=135.232.232.35
+https://ca8s9.crackstreamslivehd.com/global/disney18/index.m3u8?token=e1fa18ea41bb4ae1a3090717c040a231d509482c-31-1757908501-1757854501&ip=172.182.224.164
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 10:30 Premier League – Manchester City vs Manchester United – Canal 5 (HD)
-https://mct2.dbcast.live/iIrErjdfArJoDoaKBnr57w/1757889931/3133352e3233322e3233322e3335/ff999/playlist.m3u8
+https://mct1.dbcast.live/v7-co2RdcaIv9wiYp8Ul6g/1757892310/3137322e3138322e3232342e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 10:30 Premier League – Manchester City vs Manchester United – Canal 6 (HD)
+https://muc100.myluck1.top:8088/live/premierhn2/playlist.m3u8?id=122735&pk=bdfe1e3c5ee6b971957be283f9f5f9ba2d379e6d1c893579a839957e7e6b75626d8d881530620ee9a52fbf0316642d8e66be4b860f574a6093ac486f07e61090
