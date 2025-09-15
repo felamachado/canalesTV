@@ -1,35 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:00 Liga de Argentina – Tigre vs Talleres – ESPN Premium
-https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=-9QMGxQfSGyylandFugNiQ&expires=1757958211
-#EXTINF:-1 tvg-name="Canal 42" group-title="Liga de Argentina", 18:00 Liga de Argentina – Tigre vs Talleres – Canal 42
-https://jjcpdv.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=qZ7X_CHxrrUDnDUM-sgwLA&e=1757972623
-#EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Tigre vs Talleres – Canal 43 (HD)
-https://bqs1.dbcast.live/TNw4erW7g6GStSvSEaN9lg/1757979833/35322e3137362e33352e313231/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Tigre vs Talleres – Canal 44 (HD)
-https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=9e7f41fd4f60fdcd534a644ad8a3e7acd3574e00-c3-1757968141-1757950141
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 18:00 Liga de Argentina – Defensa y Justicia vs Platense – TNT Sports Argentina
-https://d1.merichunidya.com:1686/hls/captntarg.m3u8?md5=bn3IEb67ujFFBzVr0G_auw&expires=1757958249
-#EXTINF:-1 tvg-name="Canal 45" group-title="Liga de Argentina", 18:00 Liga de Argentina – Defensa y Justicia vs Platense – Canal 45
-https://jjcpdv.6670391863.store:8443/hls/xkvfhc3.m3u8?s=eYwaoQQxSQCR5SvgihTgFg&e=1757972660
-#EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Defensa y Justicia vs Platense – Canal 46 (HD)
-https://bqs1.dbcast.live/4POR6tqBxCRcKK3T7PYpxw/1757979869/35322e3137362e33352e313231/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Defensa y Justicia vs Platense – Canal 47 (HD)
-https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=6291754ffee791571be4e2807f7927bed1cccd09-2f-1757968178-1757950178
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – VTV Uruguay
-https://bqs1.dbcast.live/w9-6GEKg4HlqFcazzFvygg/1757979886/35322e3137362e33352e313231/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 28" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – Canal 28
-https://jjcpdv.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=n9A3xxqT_69-GjpZoRPOeg&e=1757972696
-#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – Canal 29 (HD)
-https://24a1.crackstreamslivehd.com/global/disney13/index.m3u8?token=2ddfb0979177ef58663073d9b96d1003215a0ac1-33-1757996105-1757942105&ip=52.176.35.121
-#EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Plaza Colonia vs Nacional – Canal 30 (HD)
-https://bqs1.dbcast.live/_jPhZ2br0mxwj2wVdDhJnA/1757979914/35322e3137362e33352e313231/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Miramar Misiones vs Montevideo Wanderers – Liga de Campeones 7
-https://d9.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=dqPTUkuoBQ2-gzN8r6A_zw&expires=1757958322
-#EXTINF:-1 tvg-name="Canal 6" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Miramar Misiones vs Montevideo Wanderers – Canal 6
-https://jjcpdv.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=mhooDRAaCJoS3lPELKXDxw&e=1757972733
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Miramar Misiones vs Montevideo Wanderers – Canal 7 (HD)
-https://14c51.crackstreamslivehd.com/global/disney15/index.m3u8?token=7d6973c0a00f453be11f3250dff4e67154a97835-cc-1757996142-1757942142&ip=52.176.35.121
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Miramar Misiones vs Montevideo Wanderers – Canal 8 (HD)
-https://bqs1.dbcast.live/QZZixUyv_hkfS_YgTOp-_A/1757979950/35322e3137362e33352e313231/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Espanyol vs Mallorca – Canal 1
+https://d10.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=DHWb4OIctEckZOWw9jtWjg&expires=1757960887
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Espanyol vs Mallorca – Canal 2
+https://katweo.5606087801.art:8443/hls/tyh9ei.m3u8?s=BtqBZnarqteKoNVEoARENg&e=1757975298
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Espanyol vs Mallorca – Canal 3 (HD)
+https://8c51.crackstreamslivehd.com/global/espn/index.m3u8?token=927bab39eb97199e7ac669deacb08fd61c0b7c44-9f-1757998707-1757944707&ip=40.65.61.148
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Espanyol vs Mallorca – Canal 4 (HD)
+https://pecdl1.crackstreamslivehd.com/global/dsports/index.m3u8?token=bad7eaf03a0fe084e9462a85ce751dad8d757627-14-1757998715-1757944715&ip=40.65.61.148
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Espanyol vs Mallorca – Canal 5 (HD)
+https://bqs2.dbcast.live/JU5_OkLViCXgmHmWVlXB3A/1757982524/34302e36352e36312e313438/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Espanyol vs Mallorca – Canal 6 (HD)
+https://plu2.myluck1.top:8088/live/ligaes2/playlist.m3u8?id=122637&pk=11b45747bfed1b0454817b32d5374c4ea0032c3e58a576cfdde7af72279442f5e668ca297d84d85f9ce5454ad860c67f6d0d58b98b27b1f530eaf9ec999f65d3
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Real Zaragoza vs Albacete – Deportes Plus
+https://d6.merichunidya.com:1686/hls/capodeportesplus.m3u8?md5=mLgCbT5zHzVdx9XUTEd4Kg&expires=1757960939
+#EXTINF:-1 tvg-name="Canal 19" group-title="LaLiga 2", 13:30 LaLiga 2 – Real Zaragoza vs Albacete – Canal 19
+https://katweo.5606087801.art:8443/hls/pugwrp0w9za0j7.m3u8?s=Q4kdsRJHOz6tbqmY9uZLTw&e=1757975349
+#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Real Zaragoza vs Albacete – Canal 20 (HD)
+https://24a1.crackstreamslivehd.com/global/espn5/index.m3u8?token=1b46cddc13a9be346305fb30c7cb6f6f75a5c350-66-1757998757-1757944757&ip=40.65.61.148
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Real Zaragoza vs Albacete – Canal 21 (HD)
+https://bqs1.dbcast.live/iP7LEtrNVC6KPJrWR3wiyA/1757982565/34302e36352e36312e313438/ff999/playlist.m3u8
