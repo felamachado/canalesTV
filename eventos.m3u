@@ -1,25 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Deportes Plus
-https://d6.merichunidya.com:1686/hls/capoplus.m3u8?md5=7wf44AgPFFiG273lJE7daw&expires=1758624540
-#EXTINF:-1 tvg-name="Canal 11" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Canal 11
-https://plu2.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=0c9fc7dd96955e60f45b26f7feb8fd9e78584421c7ace44a226bba6cbc7a0e534e14b1fb5a03e714bab2167de743ab640ce3d321560fd0de60eeee27fb872624
-#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Canal 12 (HD)
-https://bwt1.dbcast.live/t0CrXaA43Z-WgkaPOYbpSg/1758646156/3134352e3133322e3130312e323032/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Canal 13 (HD)
-https://bwt1.dbcast.live/Gd2-tg5Swl5XlL_gE0PSSQ/1758646164/3134352e3133322e3130312e323032/ff999/playlist.m3u8
+https://d8.merichunidya.com:1686/hls/capoplus.m3u8?md5=CTVFOWfrWdexo7u_XnWdWQ&expires=1758626693
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – ESPN Premium
-https://d4.merichunidya.com:1686/hls/capespnprem.m3u8?md5=LeEr_3UfDk91q_82dMaqjA&expires=1758624572
+https://d3.merichunidya.com:1686/hls/capespnprem.m3u8?md5=uLfc7QGIq5NJzdk93OEJYg&expires=1758626727
 #EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 23
-https://pjxvijl.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=uZvwxmw0BsqUWQXv9f3F-g&e=1758638980
+https://bdrgqp.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=QP9SHka4sDx7P5p5_sdS1g&e=1758641138
 #EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 24 (HD)
-https://bwt2.dbcast.live/gRYKQqL3TCjwxu2Aoesvcg/1758646189/3134352e3133322e3130312e323032/ff999/playlist.m3u8
+https://bwt1.dbcast.live/hZt7uigJ0MP2xjHIPBTyWQ/1758648346/35322e3135392e3232392e3531/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 25 (HD)
-https://tyg2mnl9.fubohd.com/espnpremium/mono.m3u8?token=9ec284c294952f81761fd75274f2369ebe64d90f-52-1758634496-1758616496
+https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=a33b22d9750342dbfb1952d720de34c43a01b80f-f0-1758636654-1758618654
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – TNT Sports Argentina
-https://d9.merichunidya.com:1686/hls/captntarg.m3u8?md5=pRN4Ox4W7315nkK4UPdEKQ&expires=1758624603
+https://d4.merichunidya.com:1686/hls/captntarg.m3u8?md5=QSuEL-X6pVb1JkmbwIqtkA&expires=1758626761
 #EXTINF:-1 tvg-name="Canal 26" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 26
-https://pjxvijl.5606087801.art:8443/hls/xkvfhc3.m3u8?s=WyJZX_szYIeQUtB391er8A&e=1758639012
+https://bdrgqp.6670391863.store:8443/hls/xkvfhc3.m3u8?s=tFvxmtuVntFar__Yzohkyw&e=1758641171
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 27 (HD)
-https://bwt1.dbcast.live/-Olii7xo2cMAgO_XJUO-Aw/1758646220/3134352e3133322e3130312e323032/ff999/playlist.m3u8
+https://bwt2.dbcast.live/PY_AbhjkSOViEgLs4Y2vYw/1758648380/35322e3135392e3232392e3531/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 28 (HD)
-https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=505dca3256652b91396c1d27de7db3936a38b5c9-c4-1758634527-1758616527
+https://bgfuzq.fubohd.com/tntsports/mono.m3u8?token=4c539d2f5733336427af50a795f386f6aecfb0fa-d8-1758636688-1758618688
