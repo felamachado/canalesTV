@@ -2,20 +2,22 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Deportes Plus
-https://d8.merichunidya.com:1686/hls/capoplus.m3u8?md5=CTVFOWfrWdexo7u_XnWdWQ&expires=1758626693
+https://d8.merichunidya.com:1686/hls/capoplus.m3u8?md5=A6CYSpgwkydwTb68WbP-tw&expires=1758627715
+#EXTINF:-1 tvg-name="Canal 11" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Canal 11
+https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=b0113210db06f83558fff49755594d36f9245fd76840649d10ac675e244b7e4d4e14b1fb5a03e714bab2167de743ab640ce3d321560fd0de60eeee27fb872624
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – ESPN Premium
-https://d3.merichunidya.com:1686/hls/capespnprem.m3u8?md5=uLfc7QGIq5NJzdk93OEJYg&expires=1758626727
+https://d2.merichunidya.com:1686/hls/capespnprem.m3u8?md5=5K2eQYP1lMrErQE9bJeyuw&expires=1758627749
 #EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 23
-https://bdrgqp.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=QP9SHka4sDx7P5p5_sdS1g&e=1758641138
+https://tcxoov.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=BTHLap8kEKXMdcKKJtQC6Q&e=1758642160
 #EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 24 (HD)
-https://bwt1.dbcast.live/hZt7uigJ0MP2xjHIPBTyWQ/1758648346/35322e3135392e3232392e3531/ff999/playlist.m3u8
+https://bwt2.dbcast.live/zY86lUiBHHU0GjR7HJWz7A/1758649368/35322e3135392e3234332e313835/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 25 (HD)
-https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=a33b22d9750342dbfb1952d720de34c43a01b80f-f0-1758636654-1758618654
+https://ym9yzq.fubohd.com/espnpremium/mono.m3u8?token=c2cea6e4e5a07302c6c5e5619dfffaf622b9aacb-52-1758637677-1758619677
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – TNT Sports Argentina
-https://d4.merichunidya.com:1686/hls/captntarg.m3u8?md5=QSuEL-X6pVb1JkmbwIqtkA&expires=1758626761
+https://d5.merichunidya.com:1686/hls/captntarg.m3u8?md5=Q6PExAKn9IfN-h-S_NuNNA&expires=1758627783
 #EXTINF:-1 tvg-name="Canal 26" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 26
-https://bdrgqp.6670391863.store:8443/hls/xkvfhc3.m3u8?s=tFvxmtuVntFar__Yzohkyw&e=1758641171
+https://tcxoov.6670391863.store:8443/hls/xkvfhc3.m3u8?s=bugZuDkXO85Y9OB3UAH6Tg&e=1758642193
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 27 (HD)
-https://bwt2.dbcast.live/PY_AbhjkSOViEgLs4Y2vYw/1758648380/35322e3135392e3232392e3531/ff999/playlist.m3u8
+https://bwt2.dbcast.live/EqVu_ZBc86o4gPIwCnX8ig/1758649402/35322e3135392e3234332e313835/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 28 (HD)
-https://bgfuzq.fubohd.com/tntsports/mono.m3u8?token=4c539d2f5733336427af50a795f386f6aecfb0fa-d8-1758636688-1758618688
+https://anvtcax.fubohd.com/tntsports/mono.m3u8?token=7abee4620296e8d13ddaf6d15b9f9de25967ae2c-18-1758637710-1758619710
