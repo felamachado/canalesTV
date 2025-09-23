@@ -1,17 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Deportes Plus
-https://d5.merichunidya.com:1686/hls/capoplus.m3u8?md5=j3R5uDyOCHNfKs6N8EjTmA&expires=1758649375
-#EXTINF:-1 tvg-name="Canal 11" group-title="LaLiga 2", 13:30 LaLiga 2 – Burgos vs Granada – Canal 11
-https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=3e525881ec40b1cd0868c1299e8069e75f0fd370498b0ec6dd4958d817a217d04e14b1fb5a03e714bab2167de743ab640ce3d321560fd0de60eeee27fb872624
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – ESPN Premium
-https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=23KZc2v8mUWvoSCObJ1vFQ&expires=1758649412
-#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 23
-https://pjxvijl.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=br4h2QputEg3td2LVxkY_A&e=1758663826
-#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Estudiantes de La Plata vs Defensa y Justicia – Canal 25 (HD)
-https://a2vlca.fubohd.com/espnpremium/mono.m3u8?token=74f2fe06a389d0d966d8f8bf7f29750ade06c5e6-4c-1758659343-1758641343
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – TNT Sports Argentina
-https://d9.merichunidya.com:1686/hls/captntarg.m3u8?md5=KQtOpshmjVOflEjvyR7J0Q&expires=1758649452
-#EXTINF:-1 tvg-name="Canal 26" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 26
-https://pjxvijl.5606087801.art:8443/hls/xkvfhc3.m3u8?s=GSHbL_B_I6IGM7Xak4Yj2Q&e=1758663865
-#EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Belgrano vs Newell's Old Boys – Canal 28 (HD)
-https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=b6633348e31cccdee06b412a428409c8f458a82f-d4-1758659389-1758641389
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 12:00 LaLiga – Espanyol vs Valencia – Canal 1
+https://d3.merichunidya.com:1686/hls/capodeportes.m3u8?md5=7ZzLmlBdOGXgDSB4seW-Fg&expires=1758652125
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 12:00 LaLiga – Espanyol vs Valencia – Canal 2
+https://sqkofy.7380990745.xyz:8443/hls/pu1sgwiscq0e.m3u8?s=aSZfrNHTAG9iTUVJeqiFxQ&e=1758666543
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 12:00 LaLiga – Espanyol vs Valencia – Canal 4 (HD)
+https://8c51.crackstreamslivehd.com/global/disney1/index.m3u8?token=d9ec87b1a47f2dedb83e093abb2ab0470b4647fc-c9-1758689957-1758635957&ip=13.83.217.50
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 12:00 LaLiga – Espanyol vs Valencia – Canal 5 (HD)
+https://aaa1.vdcast.live/n9aVWy9c2pJBV8zuhLPtwg/1758673766/31332e38332e3231372e3530/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 12:00 LaLiga – Espanyol vs Valencia – Canal 6 (HD)
+https://plu2.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=bc1e41c2b50d026f7c1f76d115b19f5247d2f6a9881932bb9d41056ce6c6ecd74e14b1fb5a03e714bab2167de743ab640ce3d321560fd0de60eeee27fb872624
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 12:00 LaLiga – Athletic Club vs Girona – Canal 1
+https://d6.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=4Pz2WfqCUvOLYsVcJKukng&expires=1758652180
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 12:00 LaLiga – Athletic Club vs Girona – Canal 2
+https://sqkofy.7380990745.xyz:8443/hls/lf445b.m3u8?s=u_4BM-dWtFlXxY_7UQH-GA&e=1758666592
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 12:00 LaLiga – Athletic Club vs Girona – Canal 4 (HD)
+https://51a1.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=5f49b8d87052ea63a07896e56723d400ad9ee350-43-1758690005-1758636005&ip=13.83.217.50
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 12:00 LaLiga – Athletic Club vs Girona – Canal 5 (HD)
+https://aaa2.vdcast.live/Y9nS_JrSF_9t03EU29g2Lw/1758673814/31332e38332e3231372e3530/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:30 LaLiga – Levante vs Real Madrid – Canal 1
+https://d4.merichunidya.com:1686/hls/capodeportes.m3u8?md5=n11EZwcWjrCTtaI0tlyFyQ&expires=1758652223
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:30 LaLiga – Levante vs Real Madrid – Canal 2
+https://sqkofy.7380990745.xyz:8443/hls/pu1sgwiscq0e.m3u8?s=eZyssCaT826JfoZ4q0GlTA&e=1758666639
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:30 LaLiga – Levante vs Real Madrid – Canal 4 (HD)
+https://8c51.crackstreamslivehd.com/global/disney1/index.m3u8?token=acd921c5fc81f713c3344d128bb527c6ffcd522a-c4-1758690053-1758636053&ip=13.83.217.50
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:30 LaLiga – Levante vs Real Madrid – Canal 5 (HD)
+https://aaa2.vdcast.live/X4rG_ltIA-uyMxC9GXwcyg/1758673861/31332e38332e3231372e3530/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:30 LaLiga – Levante vs Real Madrid – Canal 6 (HD)
+https://muc100.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=bc1e41c2b50d026f7c1f76d115b19f5247d2f6a9881932bb9d41056ce6c6ecd74e14b1fb5a03e714bab2167de743ab640ce3d321560fd0de60eeee27fb872624
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:30 LaLiga – Sevilla vs Villarreal – Canal 1
+https://d6.merichunidya.com:1686/hls/capodeportes4.m3u8?md5=zmNKf2syDQTzPoZ7YSsBbg&expires=1758652276
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:30 LaLiga – Sevilla vs Villarreal – Canal 2
+https://sqkofy.7380990745.xyz:8443/hls/lf445b.m3u8?s=3-N0ue27VPaE4_H8ypMdgg&e=1758666687
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:30 LaLiga – Sevilla vs Villarreal – Canal 4 (HD)
+https://98ca2.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=6f1efdea1098bbede87ba67bf466128bc51e3275-66-1758690101-1758636101&ip=13.83.217.50
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:30 LaLiga – Sevilla vs Villarreal – Canal 5 (HD)
+https://aaa2.vdcast.live/fFn9QJyurofS6l56aq243Q/1758673909/31332e38332e3231372e3530/ff999/playlist.m3u8
