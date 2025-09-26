@@ -1,13 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Barcelona – Canal 1
-https://d9.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=1ZeHpSEhUUeS18FcFQmn2g&expires=1758918628
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Barcelona – Canal 2
-https://pjxvijl.5606087801.art:8443/hls/lf445b.m3u8?s=rVZ9Z2Wl--qGVeBegCC_kA&e=1758933038
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Barcelona – Canal 3 (HD)
-https://pecdl1.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=08e62918e1d9de679443ad74421a386cd0c46263-2b-1758956446-1758902446&ip=57.151.137.145
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Barcelona – Canal 4 (HD)
-https://98ca2.crackstreamslivehd.com/global/dsports/index.m3u8?token=381999484910698966c06b522b4ccf9eed32b2cb-a5-1758956454-1758902454&ip=57.151.137.145
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Barcelona – Canal 5 (HD)
-https://caa2.vdcast.live/gwJXv7AhIj301B4o6oTPag/1758940263/35372e3135312e3133372e313435/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:30 LaLiga – Real Oviedo vs Barcelona – Canal 6 (HD)
-https://ym9yzq.fubohd.com/espndeportes/mono.m3u8?token=b43b477565e46173c811d10e6a3e79e3787ba06d-13-1758928579-1758910579
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Girona vs Espanyol – Canal 1
+https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=yIXsvHYJg73QGpcCBSUa6A&expires=1758919761
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Girona vs Espanyol – Canal 2
+https://fvvxvv.6670391863.store:8443/hls/4jva7tj642f9b.m3u8?s=aTtbU_tbmdOT4dG79quG3w&e=1758934179
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Girona vs Espanyol – Canal 3 (HD)
+https://florcd1.crackstreamslivehd.com/global/disney3/index.m3u8?token=3accb8fc93754ad0c1200fce9d6080eae4b02a97-b2-1758957588-1758903588&ip=52.159.226.246
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Girona vs Espanyol – Canal 4 (HD)
+https://98ca2.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=80cc6816b8ab7d90baa59d6b4c7198dc4356b4a2-fd-1758957596-1758903596&ip=52.159.226.246
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Girona vs Espanyol – Canal 5 (HD)
+https://caa2.vdcast.live/O71RLtleI8rfoyu3SYnvuQ/1758941405/35322e3135392e3232362e323436/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Mirandes vs Real Zaragoza – Deportes Plus
+https://d9.merichunidya.com:1686/hls/capoplus.m3u8?md5=bhPTZ0cFW49h5ZPDCP0uog&expires=1758919814
+#EXTINF:-1 tvg-name="Canal 17" group-title="LaLiga 2", 13:30 LaLiga 2 – Mirandes vs Real Zaragoza – Canal 17
+https://fvvxvv.6670391863.store:8443/hls/pu1sgwiscq0e.m3u8?s=1upOel1VxY1JcTRyKKAnBw&e=1758934230
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Mirandes vs Real Zaragoza – Canal 18 (HD)
+https://24a1.crackstreamslivehd.com/global/disney1/index.m3u8?token=b877a580f8b6468bf655f20686df2b3110c23676-15-1758957638-1758903638&ip=52.159.226.246
+#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Mirandes vs Real Zaragoza – Canal 19 (HD)
+https://caa1.vdcast.live/fn4TizqhV5RsNrnqOqyssw/1758941446/35322e3135392e3232362e323436/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Platense vs San Martin – ESPN Premium
+https://d5.merichunidya.com:1686/hls/capespnprem.m3u8?md5=tC6eHEa2tumbeJbSsSYc0g&expires=1758919854
+#EXTINF:-1 tvg-name="Canal 32" group-title="Liga de Argentina", 17:00 Liga de Argentina – Platense vs San Martin – Canal 32
+https://fvvxvv.6670391863.store:8443/hls/mr8x6tqp6c4d.m3u8?s=DD78tMXvUVljuMBOZcjM0g&e=1758934264
+#EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Platense vs San Martin – Canal 33 (HD)
+https://24a1.crackstreamslivehd.com/global/disney4/index.m3u8?token=72d8383bf57344be5dd6524a12bb7fb6e660e3e2-39-1758957673-1758903673&ip=52.159.226.246
+#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Platense vs San Martin – Canal 34 (HD)
+https://caa1.vdcast.live/w0mtNCTL6uMfZWmqqNB8tA/1758941480/35322e3135392e3232362e323436/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Union Santa Fe – TNT Sports Argentina
+https://d1.merichunidya.com:1686/hls/captntarg.m3u8?md5=PFYUY-6h0vGuLuy8JnftvQ&expires=1758919888
+#EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Union Santa Fe – Canal 35
+https://fvvxvv.6670391863.store:8443/hls/en8640r.m3u8?s=CAO0Uqwy05A4waUbJQ6-hg&e=1758934299
+#EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Union Santa Fe – Canal 36 (HD)
+https://57b1.crackstreamslivehd.com/global/disney11/index.m3u8?token=ed57f62f98d884e82e8d0a77766d24fa9a9ae92f-ab-1758957707-1758903707&ip=52.159.226.246
+#EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Banfield vs Union Santa Fe – Canal 37 (HD)
+https://caa1.vdcast.live/M3WB7rEwfqWyTLJ3VHmLbA/1758941515/35322e3135392e3232362e323436/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Central Cordoba vs Tigre – ESPN Premium
+https://d3.merichunidya.com:1686/hls/capespnprem.m3u8?md5=7KAGWq8W9J2c5c2sRmUy2Q&expires=1758919923
+#EXTINF:-1 tvg-name="Canal 49" group-title="Liga de Argentina", 19:15 Liga de Argentina – Central Cordoba vs Tigre – Canal 49
+https://caa2.vdcast.live/2JB8Eu4e0B2CJPMLNhnBag/1758941533/35322e3135392e3232362e323436/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 50 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Central Cordoba vs Tigre – Canal 50 (HD)
+https://24a1.crackstreamslivehd.com/global/winsports/index.m3u8?token=e6975d12930c75f0945a048605cdfaa297c3449a-37-1758957741-1758903741&ip=52.159.226.246
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Central Cordoba vs Tigre – Canal 11 (HD)
+https://fvvxvv.6670391863.store:8443/hls/47vpt.m3u8?s=w4TlQfPd49hYgJlak3_jGw&e=1758934349
+#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Montevideo Wanderers vs Cerro – Liga de Campeones 7
+https://d1.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=Fg2G9xnBfsqirX3m8QZrdQ&expires=1758919957
+#EXTINF:-1 tvg-name="Canal 46" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Montevideo Wanderers vs Cerro – Canal 46
+https://caa1.vdcast.live/WSQF76XCjpjcpKmAfrhVTw/1758941567/35322e3135392e3232362e323436/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Montevideo Wanderers vs Cerro – Canal 47 (HD)
+https://fvvxvv.6670391863.store:8443/hls/x3hh2e9pop.m3u8?s=bMBChWGA3gxAfctyl5rzdA&e=1758934375
+#EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Montevideo Wanderers vs Cerro – Canal 48 (HD)
+https://pecdl1.crackstreamslivehd.com/global/liga1max/index.m3u8?token=5cba6d44f913a4af6d6808459ba16103a0ae0fad-e8-1758957784-1758903784&ip=52.159.226.246
