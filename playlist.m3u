@@ -1,3 +1,75 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 07:00 LaLiga – Getafe vs Levante – Canal 1
+https://d1.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=2VLii5c9eeOZgDBG7mkdKw&expires=1758980398
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 07:00 LaLiga – Getafe vs Levante – Canal 2
+https://tcxoov.6670391863.store:8443/hls/wlloso4ptv7ory.m3u8?s=fxKI0V9USzjpmHVl-gYBgA&e=1758994809
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Levante – Canal 3 (HD)
+https://99a1.crackstreamslivehd.com/global/espn3/index.m3u8?token=90dd43f106a73dfaa0d5c6a8fdfbbc334c60c702-c3-1759018218-1758964218&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Levante – Canal 4 (HD)
+https://99a1.crackstreamslivehd.com/global/disney7/index.m3u8?token=88579dd345bd1f959727c413491bdc4cae8d324b-7e-1759018226-1758964226&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Levante – Canal 5 (HD)
+https://baa1.vdcast.live/JzkHmCjI2zDWeQrcU6-VRw/1759002035/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 07:00 LaLiga – Getafe vs Levante – Canal 6 (HD)
+https://plu2.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=53c671a1d046da7e8f9ba495a1f6858f0ab73a5cfafbbccd68677dc1b8ce8b4f5f34e4bbe4ef33611d9730b851dbca65eda5cde4e68788cd8151b6d5a216deca
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 09:15 LaLiga – Atletico Madrid vs Real Madrid – Canal 1
+https://d5.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=NcK9Jh3fD0A2VGz-0QxvDA&expires=1758980442
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 09:15 LaLiga – Atletico Madrid vs Real Madrid – Canal 2
+https://tcxoov.6670391863.store:8443/hls/lf445b.m3u8?s=GlGn0bJWeHL0oQugH4UjYQ&e=1758994861
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 09:15 LaLiga – Atletico Madrid vs Real Madrid – Canal 3 (HD)
+https://99a1.crackstreamslivehd.com/global/espnplus1/index.m3u8?token=b57596276ee71ea43d25337bb714f9f85eb74398-31-1759018269-1758964269&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 09:15 LaLiga – Atletico Madrid vs Real Madrid – Canal 4 (HD)
+https://99a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=46f7a748b985cf98a1f5fadd312b797944e68c87-0e-1759018277-1758964277&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 09:15 LaLiga – Atletico Madrid vs Real Madrid – Canal 5 (HD)
+https://baa2.vdcast.live/rXNwbMIQbRxHgvElwwh8zQ/1759002086/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 09:15 LaLiga – Atletico Madrid vs Real Madrid – Canal 7 (HD)
+https://plu1.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=53c671a1d046da7e8f9ba495a1f6858f0ab73a5cfafbbccd68677dc1b8ce8b4f5f34e4bbe4ef33611d9730b851dbca65eda5cde4e68788cd8151b6d5a216deca
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 06:30 Premier League – Brentford vs Manchester United – Canal 1
+https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=a-_xKh4WttG4pEGrnBKD3g&expires=1758980501
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 06:30 Premier League – Brentford vs Manchester United – Canal 2
+https://tcxoov.6670391863.store:8443/hls/a31q9.m3u8?s=TWDrFyEDsnM35w2ukvIrBg&e=1758994919
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 06:30 Premier League – Brentford vs Manchester United – Canal 4 (HD)
+https://pecdl1.crackstreamslivehd.com/global/espn/index.m3u8?token=119f530c7d9e4031712b96d8d86f8be3e1af3e1f-5c-1759018336-1758964336&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 06:30 Premier League – Brentford vs Manchester United – Canal 5 (HD)
+https://baa1.vdcast.live/P5jbBEwr6wewFO70m9aMVQ/1759002144/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 09:00 Premier League – Chelsea vs Brighton & Hove Albion – Canal 1
+https://d9.merichunidya.com:1686/hls/capodeportes.m3u8?md5=MJEZjj8fwyubxGv6mdZcXQ&expires=1758980553
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – Chelsea vs Brighton & Hove Albion – Canal 2
+https://tcxoov.6670391863.store:8443/hls/a31q9.m3u8?s=-CGn1dr49S8Vb7hU87raug&e=1758994970
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – Chelsea vs Brighton & Hove Albion – Canal 4 (HD)
+https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=c85da2e198d29c5fd7d0347838b812918d2785e4-34-1759018388-1758964388&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 09:00 Premier League – Chelsea vs Brighton & Hove Albion – Canal 5 (HD)
+https://baa1.vdcast.live/8Cx9pBEGu7hz39kTElXUgw/1759002196/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 09:00 Premier League – Chelsea vs Brighton & Hove Albion – Canal 6 (HD)
+https://baa1.vdcast.live/HzXal2-eZYYMDXwN401h4w/1759002205/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Liverpool – Canal 2
+https://tcxoov.6670391863.store:8443/hls/a31q9.m3u8?s=aJPo4ltud3N1tUEJqlGHmQ&e=1758995028
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Liverpool – Canal 3 (HD)
+https://24a1.crackstreamslivehd.com/global/disney15/index.m3u8?token=73d82fda2efaf13acdf6f1dfc5107fc4df89e053-01-1759018437-1758964437&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Liverpool – Canal 4 (HD)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Liverpool – Canal 5 (HD)
+https://baa1.vdcast.live/NVa_OmK_8GOuq_3ssXSuWg/1759002253/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 09:00 Premier League – Crystal Palace vs Liverpool – Canal 6 (HD)
+https://baa2.vdcast.live/Gnz-BoNUjJ_77qctIUwJoA/1759002261/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 09:00 Premier League – Manchester City vs Burnley – Canal 1
+https://d8.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=6qABTVUwzapwS63nN9xeDA&expires=1758980669
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – Manchester City vs Burnley – Canal 2
+https://tcxoov.6670391863.store:8443/hls/4jva7tj642f9b.m3u8?s=y6AscbEKAT1c94OwJmqQ9A&e=1758995080
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 09:00 Premier League – Manchester City vs Burnley – Canal 3 (HD)
+https://99a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=3cebde2bd89771e46a2768ae8a05de93f5300a33-51-1759018488-1758964488&ip=52.176.138.196
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – Manchester City vs Burnley – Canal 4 (HD)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 09:00 Premier League – Manchester City vs Burnley – Canal 5 (HD)
+https://baa2.vdcast.live/9hZg3AkezsOKejHwljvuKQ/1759002304/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 09:00 Premier League – Manchester City vs Burnley – Canal 6 (HD)
+https://plu2.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=53c671a1d046da7e8f9ba495a1f6858f0ab73a5cfafbbccd68677dc1b8ce8b4f5f34e4bbe4ef33611d9730b851dbca65eda5cde4e68788cd8151b6d5a216deca
+#EXTINF:-1 tvg-name="Capo Deportes 6" group-title="Premier League", 09:00 Premier League – Leeds United vs Bournemouth – Capo Deportes 6
+https://d10.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=JSJv30q89suBVuNzn2FNFQ&expires=1758980720
+#EXTINF:-1 tvg-name="Canal 25" group-title="Premier League", 09:00 Premier League – Leeds United vs Bournemouth – Canal 25
+https://baa2.vdcast.live/278elXjE4rWW1p90JOzeCg/1759002330/35322e3137362e3133382e313936/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Premier League", 09:00 Premier League – Leeds United vs Bournemouth – Canal 26 (HD)
+https://tcxoov.6670391863.store:8443/hls/qj1k9kfmaipv.m3u8?s=8H50pf9nYKfir5BkTYRWJg&e=1758995140
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Premier League", 09:00 Premier League – Leeds United vs Bournemouth – Canal 27 (HD)
+https://baa1.vdcast.live/JKBkUZIVBBk33oaDugxW9g/1759002349/35322e3137362e3133382e313936/ff999/playlist.m3u8
