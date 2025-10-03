@@ -1,9 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 04:30 Formula 1 – Gran Premio de Singapur, Practicas Libres – Formula 1
-https://d2.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=9qp0MQGYN8ky1YGLZLbTEA&expires=1759524538
-#EXTINF:-1 tvg-name="Canal 11" group-title="Formula 1", 04:30 Formula 1 – Gran Premio de Singapur, Practicas Libres – Canal 11
-https://bhzqcb.6670391863.store:8443/hls/2twhx.m3u8?s=k2GRcfoBryxwGwZB1--oOA&e=1759538957
-#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Formula 1", 04:30 Formula 1 – Gran Premio de Singapur, Practicas Libres – Canal 12 (HD)
-https://bhzqcb.6670391863.store:8443/hls/c5kpdschm8te38.m3u8?s=QJWuNh3W3-sc-CfEhgPb9w&e=1759538966
-#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Formula 1", 04:30 Formula 1 – Gran Premio de Singapur, Practicas Libres – Canal 13 (HD)
-https://pecdl1.crackstreamslivehd.com/global/disney8/index.m3u8?token=22c1b7051f761b3e47ff1174f2841e19e4d4dd72-4e-1759562374-1759508374&ip=20.55.87.177
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Osasuna vs Getafe – Canal 1
+https://d9.merichunidya.com:1686/hls/capodeportes.m3u8?md5=Nfbx7aaIMe7FYggepjxykQ&expires=1759526221
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Osasuna vs Getafe – Canal 2
+https://uwqgqq.5606087801.art:8443/hls/wlloso4ptv7ory.m3u8?s=8-kHCG0R6j587z9sgTJkBA&e=1759540631
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Osasuna vs Getafe – Canal 3 (HD)
+https://24a1.crackstreamslivehd.com/global/espn3/index.m3u8?token=46ad20dbfb67c0a3a5476c62dc7627945b4dc22b-c9-1759564039-1759510039&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Osasuna vs Getafe – Canal 4 (HD)
+https://pecdl1.crackstreamslivehd.com/global/disney10/index.m3u8?token=fe324ca30b859b6347340ad5a364857c17851659-03-1759564048-1759510048&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Osasuna vs Getafe – Canal 5 (HD)
+https://jaa2.vdcast.live/OhJt1gTr3BCrmoaVMWNDaw/1759547857/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Osasuna vs Getafe – Canal 6 (HD)
+https://plu2.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=5954c94e1b7c37ef09fde5c886625e62597a737617b341de64e1bc19caf756bdac215246c1118327c3e3af11710bce1a14b9356661b7b31fcfd62e98d2e85e1c
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Ceuta vs Eibar – Deportes Plus
+https://d5.merichunidya.com:1686/hls/capoplus.m3u8?md5=m0Bu6_ALLey4ITGk4Sl9JA&expires=1759526272
+#EXTINF:-1 tvg-name="Canal 6" group-title="LaLiga 2", 13:30 LaLiga 2 – Ceuta vs Eibar – Canal 6
+https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=5954c94e1b7c37ef09fde5c886625e62597a737617b341de64e1bc19caf756bdac215246c1118327c3e3af11710bce1a14b9356661b7b31fcfd62e98d2e85e1c
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Ceuta vs Eibar – Canal 7 (HD)
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=612178bf399dda392dbaa2cecb8fd7de3be4fd1a-43-1759564088-1759510088&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Ceuta vs Eibar – Canal 8 (HD)
+https://jaa1.vdcast.live/MZT6Dz_2jMpu5L1xcMd4NA/1759547896/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Defensa y Justicia – ESPN Premium
+https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=iFjy-xr5qmXe0WeJIIXTZA&expires=1759526303
+#EXTINF:-1 tvg-name="Canal 38" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Defensa y Justicia – Canal 38
+https://uwqgqq.5606087801.art:8443/hls/x3hh2e9pop.m3u8?s=bQzJy3xVbapGzsWBnd9UcA&e=1759540713
+#EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Defensa y Justicia – Canal 39 (HD)
+https://24a1.crackstreamslivehd.com/global/liga1max/index.m3u8?token=66ec919965582d22b753de809e97cebdd17f873b-10-1759564122-1759510122&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Defensa y Justicia – Canal 40 (HD)
+https://jaa1.vdcast.live/GtCya09E4--YGDn4F50_gg/1759547929/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Union Santa Fe vs Aldosivi – TNT Sports Argentina
+https://d5.merichunidya.com:1686/hls/captntarg.m3u8?md5=iDUaEgVjdI5KOLyrF4Bm-A&expires=1759526336
+#EXTINF:-1 tvg-name="Canal 7" group-title="Liga de Argentina", 19:15 Liga de Argentina – Union Santa Fe vs Aldosivi – Canal 7
+https://98ca2.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=c2fcb6157d6d423a5c6875b26432d270bd409b47-b3-1759564145-1759510145&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Union Santa Fe vs Aldosivi – Canal 8 (HD)
+https://jaa1.vdcast.live/t5Y4y0d88h5XBZjjg8sqTA/1759547953/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Union Santa Fe vs Aldosivi – Canal 9 (HD)
+https://uwqgqq.5606087801.art:8443/hls/mr8x6tqp6c4d.m3u8?s=IkxUcMEt7ww07sGCF63O1A&e=1759540761
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Central Cordoba – ESPN Premium
+https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=-vYlIOSgkShH5JYnqzfNMg&expires=1759526371
+#EXTINF:-1 tvg-name="Canal 10" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Central Cordoba – Canal 10
+https://florcd1.crackstreamslivehd.com/global/espn5/index.m3u8?token=8828b5546e41086a3913b6c204f9af9957d01f6d-b6-1759564180-1759510180&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Central Cordoba – Canal 11 (HD)
+https://jaa1.vdcast.live/e1mjmPCKGNs0FpfrTNli4w/1759547988/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Central Cordoba – Canal 12 (HD)
+https://uwqgqq.5606087801.art:8443/hls/c5kpdschm8te38.m3u8?s=MHhP-SKuf3tuoJJy1A-o3A&e=1759540796
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – River Plate vs Liverpool Montevideo – VTV Uruguay
+https://d2.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=n7e9PfmWgxwH9OY8S4n6CA&expires=1759526405
+#EXTINF:-1 tvg-name="Canal 21" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – River Plate vs Liverpool Montevideo – Canal 21
+https://uwqgqq.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=RMgpDiea8Ei_OKPkvfigvw&e=1759540814
+#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – River Plate vs Liverpool Montevideo – Canal 22 (HD)
+https://jaa2.vdcast.live/lATtl5p-d46G2kZeAov4Cg/1759548023/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – River Plate vs Liverpool Montevideo – Canal 23 (HD)
+https://jaa2.vdcast.live/6gnpkM0waIUqAXBR17RqaA/1759548031/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Montevideo City Torque vs Miramar Misiones – VTV Uruguay
+https://d8.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=_xObVcsuPRg2UUQUuuGALg&expires=1759526435
+#EXTINF:-1 tvg-name="Canal 41" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Montevideo City Torque vs Miramar Misiones – Canal 41
+https://uwqgqq.5606087801.art:8443/hls/wwcujo0oiatyw93.m3u8?s=tglcxXmgxTr3kn4eJaYe8g&e=1759540847
+#EXTINF:-1 tvg-name="Canal 42 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Montevideo City Torque vs Miramar Misiones – Canal 42 (HD)
+https://pecdl1.crackstreamslivehd.com/global/winplus2/index.m3u8?token=04b39b58e9282e7722e4aa6493c595dd0f9671b5-e9-1759564257-1759510257&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Montevideo City Torque vs Miramar Misiones – Canal 43 (HD)
+https://jaa1.vdcast.live/DOB3x2FQHK-1YCJ7XRyKGg/1759548065/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 14:00 Premier League – Bournemouth vs Fulham – Canal 1
+https://d7.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=f8fPKaqshCdlEdlc8r_jhQ&expires=1759526465
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 14:00 Premier League – Bournemouth vs Fulham – Canal 2
+https://uwqgqq.5606087801.art:8443/hls/a31q9.m3u8?s=zUGL6Rp_wY0e_c20A-ZCwA&e=1759540881
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 14:00 Premier League – Bournemouth vs Fulham – Canal 4 (HD)
+https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=6c0a6e2cf7f7ba6ead167282ddf77c494e971f0c-5f-1759564298-1759510298&ip=64.236.176.227
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 14:00 Premier League – Bournemouth vs Fulham – Canal 5 (HD)
+https://jaa1.vdcast.live/0pelmb8B231eWlsZQdYndw/1759548106/36342e3233362e3137362e323237/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 14:00 Premier League – Bournemouth vs Fulham – Canal 6 (HD)
+https://muc100.myluck1.top:8088/live/premierhn1/playlist.m3u8?id=122640&pk=5954c94e1b7c37ef09fde5c886625e62597a737617b341de64e1bc19caf756bdac215246c1118327c3e3af11710bce1a14b9356661b7b31fcfd62e98d2e85e1c
