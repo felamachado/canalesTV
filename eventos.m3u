@@ -1,67 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Celta Vigo vs Atletico Madrid – Canal 1
-https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=jqXLHC9QgjFBKQw_Lo9xFQ&expires=1759711262
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Celta Vigo vs Atletico Madrid – Canal 2
-https://bhzqcb.6670391863.store:8443/hls/4jva7tj642f9b.m3u8?s=cQ7WQU3Vr5Uiqs-ErRfsog&e=1759725672
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Celta Vigo vs Atletico Madrid – Canal 3 (HD)
-https://99a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=4adc6f5f6a893914a6877dd4c3a7a8065609fbee-49-1759749082-1759695082&ip=172.182.213.149
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Celta Vigo vs Atletico Madrid – Canal 4 (HD)
-https://51a1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=43b3b9f430e2d493f72d9a71c5fcb0a117ff1071-b6-1759749091-1759695091&ip=172.182.213.149
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Celta Vigo vs Atletico Madrid – Canal 5 (HD)
-https://laa1.vdcast.live/EbSJ-zowdv5snfddfyK4AQ/1759732900/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Cadiz – Deportes Plus
-https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=Qrnctr5-MFuymRSuTrJHuQ&expires=1759711316
-#EXTINF:-1 tvg-name="Canal 42" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Cadiz – Canal 42
-https://laa1.vdcast.live/XQ82IHHKQshAFD-baa-B0w/1759732925/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Cadiz – Canal 43 (HD)
-https://doc1.crackstreamslivehd.com/global/disney4/index.m3u8?token=159c410bd4fba49950388738d168972d62ec0d77-83-1759749133-1759695133&ip=172.182.213.149
-#EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Cadiz – Canal 44 (HD)
-https://bhzqcb.6670391863.store:8443/hls/m13ol1jmh9jli4.m3u8?s=D7RDfZ_2YuCuztIC_I7IVg&e=1759725742&__PROXY_IDENTIFIER__=true
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Independiente – ESPN Premium
-https://d10.merichunidya.com:1686/hls/capespnprem.m3u8?md5=93faOGeUmt4zbz_k-LLqqg&expires=1759711352
-#EXTINF:-1 tvg-name="Canal 33" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Independiente – Canal 33
-https://bhzqcb.6670391863.store:8443/hls/qj1k9kfmaipv.m3u8?s=ZEACNki7wJBR2_HguY6DMQ&e=1759725761
-#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Independiente – Canal 34 (HD)
-https://98ca2.crackstreamslivehd.com/global/goltv/index.m3u8?token=a2937439fc717833e78b265834d726b2e21e71f0-e9-1759749171-1759695171&ip=172.182.213.149
-#EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – Godoy Cruz vs Independiente – Canal 35 (HD)
-https://laa1.vdcast.live/K_yYTPNonvV96RYf0wsfOA/1759732980/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 14:30 Liga de Argentina – Estudiantes de La Plata vs Barracas Central – TNT Sports Argentina
-https://d3.merichunidya.com:1686/hls/captntarg.m3u8?md5=VBDUQLyYJNu4j1YZgUSaXQ&expires=1759711383
-#EXTINF:-1 tvg-name="Canal 6" group-title="Liga de Argentina", 14:30 Liga de Argentina – Estudiantes de La Plata vs Barracas Central – Canal 6
-https://14c51.crackstreamslivehd.com/global/espn/index.m3u8?token=6b532d76acd7da8f8bc69eca5ee3c65641ee58ee-32-1759749196-1759695196&ip=172.182.213.149
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Argentina", 14:30 Liga de Argentina – Estudiantes de La Plata vs Barracas Central – Canal 7 (HD)
-https://laa1.vdcast.live/-51HRcorTsUKhCpTpvW-5Q/1759733005/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Argentina", 14:30 Liga de Argentina – Estudiantes de La Plata vs Barracas Central – Canal 8 (HD)
-https://laa2.vdcast.live/pMSk-sbnKqo-m7vwKxLBoQ/1759733014/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Belgrano – ESPN Premium
-https://d9.merichunidya.com:1686/hls/capespnprem.m3u8?md5=G-Oy_D3rPJCN_gy3Em_Whg&expires=1759711416
-#EXTINF:-1 tvg-name="Canal 12" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Belgrano – Canal 12
-https://laa1.vdcast.live/mMjCjxHB7rsvlYSrAwUsGQ/1759733031/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Belgrano – Canal 13 (HD)
-https://bhzqcb.6670391863.store:8443/hls/x3hh2e9pop.m3u8?s=CEw3XBBL8lf6QfAJtD5t2Q&e=1759725840
-#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Talleres vs Belgrano – Canal 14 (HD)
-https://pecdl1.crackstreamslivehd.com/global/liga1max/index.m3u8?token=d2520dd9dfecbe8b0179aff81f6850be4addb2be-32-1759749249-1759695249&ip=172.182.213.149
 #EXTINF:-1 tvg-name="Capo Deportes 3" group-title="Liga de Argentina", 17:00 Liga de Argentina – Boca Juniors vs Newell's Old Boys – Capo Deportes 3
-https://d2.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=J1huP_QIgqN2PW8CcqO94Q&expires=1759711450
+https://d6.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=mQzvyIuxT6Qtdm_v6TsPgw&expires=1759713445
 #EXTINF:-1 tvg-name="Canal 50" group-title="Liga de Argentina", 17:00 Liga de Argentina – Boca Juniors vs Newell's Old Boys – Canal 50
-https://bhzqcb.6670391863.store:8443/hls/a31q9.m3u8?s=4YjURsRE4W8JUEfTxIDSVw&e=1759725866
+https://kciwjj.5606087801.art:8443/hls/a31q9.m3u8?s=8EvB6GaAZpOu1RGTLrlf6g&e=1759727860
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Boca Juniors vs Newell's Old Boys – Canal 6 (HD)
-https://14c51.crackstreamslivehd.com/global/espn/index.m3u8?token=19526b2894b391efc1a2e7260238661b53fbc6c6-e2-1759749276-1759695276&ip=172.182.213.149
+https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=6a946bd087bf0bf4427eb54630ab2df2e2e99717-ff-1759751270-1759697270&ip=64.236.153.164
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Boca Juniors vs Newell's Old Boys – Canal 7 (HD)
-https://laa2.vdcast.live/pgwjWcoVg1U-1MjIhU16FQ/1759733084/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Racing Montevideo vs Plaza Colonia – VTV Uruguay
-https://d2.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=cChJlNH9jBRQ0LAbZRLFAA&expires=1759711492
-#EXTINF:-1 tvg-name="Canal 39" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Racing Montevideo vs Plaza Colonia – Canal 39
-https://laa1.vdcast.live/v8idn39VsQEsJQaIpxg84g/1759733101/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Racing Montevideo vs Plaza Colonia – Canal 40 (HD)
-https://laa2.vdcast.live/5QMi_G5Ofj9Av3zycVR4RA/1759733110/3137322e3138322e3231332e313439/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 41 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Racing Montevideo vs Plaza Colonia – Canal 41 (HD)
-https://bhzqcb.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=CupiAJPa39sFYcMLUTsoxA&e=1759725918
+https://laa1.vdcast.live/RySsGui8UyFkFWci-mJIog/1759735078/36342e3233362e3135332e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Capo Deportes 3" group-title="Liga de Argentina", 19:15 Liga de Argentina – Rosario Central vs River Plate – Capo Deportes 3
+https://d6.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=c8glTDJRV5l9Wl-RU2KLLg&expires=1759713485
+#EXTINF:-1 tvg-name="Canal 36" group-title="Liga de Argentina", 19:15 Liga de Argentina – Rosario Central vs River Plate – Canal 36
+https://kciwjj.5606087801.art:8443/hls/xzgyn9ofmet.m3u8?s=vAUcvZ_vH0XhuIgUc9CwWg&e=1759727896
+#EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Rosario Central vs River Plate – Canal 37 (HD)
+https://laa2.vdcast.live/Tqetdevj-KcJM5ko7K1lSg/1759735105/36342e3233362e3135332e313634/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Rosario Central vs River Plate – Canal 38 (HD)
+https://laa2.vdcast.live/Xzr9TtIE6wZYjPaa0ddsCw/1759735112/36342e3233362e3135332e313634/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Danubio – VTV Uruguay
-https://d2.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=qL6mmtZWTC71wnG3N46Sxg&expires=1759711524
+https://d7.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=rxMqbNv20j3pQcbehPFShg&expires=1759713520
 #EXTINF:-1 tvg-name="Canal 41" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Danubio – Canal 41
-https://bhzqcb.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=8yVEoWOl7LYMR5Ftx6Y1Ag&e=1759725937
+https://kciwjj.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=xbbZW_Bc9XwOh12O4FQbQQ&e=1759727930
 #EXTINF:-1 tvg-name="Canal 42 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Danubio – Canal 42 (HD)
-https://laa2.vdcast.live/j-ObAt3ajmgY7R-nCG2MnQ/1759733147/3137322e3138322e3231332e313439/ff999/playlist.m3u8
+https://laa2.vdcast.live/R51O4DtrLIK78aM25T0lgA/1759735139/36342e3233362e3135332e313634/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – PeÃ±arol vs Danubio – Canal 43 (HD)
-https://99a1.crackstreamslivehd.com/global/disney4/index.m3u8?token=9684b26c535ecd754bda9b760144f30727f5be47-02-1759749356-1759695356&ip=172.182.213.149
+https://pecdl1.crackstreamslivehd.com/global/disney4/index.m3u8?token=548e52c1e0e745223b649c0de2e4f9df514253c1-9d-1759751347-1759697347&ip=64.236.153.164
