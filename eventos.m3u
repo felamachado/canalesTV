@@ -1,61 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 1
-https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=bvCc_FUtvDb16gb12cNCeg&expires=1759628428
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 2
-https://pjxvijl.5606087801.art:8443/hls/a31q9.m3u8?s=wvbJjj5ND6Hm6JM-PKuyIA&e=1759642839
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 3 (HD)
-https://57b1.crackstreamslivehd.com/global/espn/index.m3u8?token=fd3dee8c83a8995ff8dbd3d770027adea9341f1d-ce-1759666248-1759612248&ip=172.178.119.33
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 4 (HD)
-https://florcd1.crackstreamslivehd.com/global/espn2/index.m3u8?token=5cb192afb1ce4a2407e867a2664439d8684672a1-d9-1759666256-1759612256&ip=172.178.119.33
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 5 (HD)
-https://kaa2.vdcast.live/Jr4VwkgHIQ3XqPaYJiLKpQ/1759650064/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 6 (HD)
-https://kaa1.vdcast.live/BxwqtPZ4pFz4hkjbl5aWlg/1759650073/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Madrid vs Villarreal – Canal 7 (HD)
-https://kaa2.vdcast.live/tVhl80pasB-KoATizmnoSQ/1759650080/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Real Sociedad B – Deportes Plus
-https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=s-Z1pMKaZwRhFOFyEHaq0Q&expires=1759628488
-#EXTINF:-1 tvg-name="Canal 20" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Real Sociedad B – Canal 20
-https://kaa2.vdcast.live/wts59eDt6tVDIRCmf3XYfA/1759650096/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Granada vs Real Sociedad B – Canal 22 (HD)
-https://pjxvijl.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=SsbuaIy8vhEc2aQszJsdHw&e=1759642911
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 14:45 Liga de Argentina – San Martin vs Instituto – TNT Sports Argentina
-https://d9.merichunidya.com:1686/hls/captntarg.m3u8?md5=af87xLnA2nOv0ZOg3PyHMw&expires=1759628521
-#EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Argentina", 14:45 Liga de Argentina – San Martin vs Instituto – Canal 35
-https://kaa2.vdcast.live/Ca28KWGCceC56xmLUU6LDg/1759650129/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – San Martin vs Instituto – Canal 36 (HD)
-https://pjxvijl.5606087801.art:8443/hls/wwcujo0oiatyw93.m3u8?s=qsV3NdJ1s3ZGq8fi6qZldA&e=1759642938
-#EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – San Martin vs Instituto – Canal 37 (HD)
-https://doc1.crackstreamslivehd.com/global/winplus/index.m3u8?token=6479c45b351b48d608a9ca86ca8791fd0edb1689-d3-1759666347-1759612347&ip=172.178.119.33
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Huracan vs Banfield – ESPN Premium
-https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=daJXHUpI7J6iPyX5kc9fKg&expires=1759628547
-#EXTINF:-1 tvg-name="Canal 22" group-title="Liga de Argentina", 17:00 Liga de Argentina – Huracan vs Banfield – Canal 22
-https://pjxvijl.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=MGeGaTVvYGkmzvi6NLzJcQ&e=1759642962
-#EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Huracan vs Banfield – Canal 23 (HD)
-https://pecdl1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=8d24e9bb0f8b97bf988c1cc8318ddb6784ac0438-2d-1759666371-1759612371&ip=172.178.119.33
-#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Huracan vs Banfield – Canal 24 (HD)
-https://kaa2.vdcast.live/s-dcKOqlSpKH6ewcNBgElA/1759650179/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Atletico Tucuman vs Platense – TNT Sports Argentina
-https://d6.merichunidya.com:1686/hls/captntarg.m3u8?md5=cr-yC9lIdOwezvNRVMeMJw&expires=1759628586
-#EXTINF:-1 tvg-name="Canal 25" group-title="Liga de Argentina", 17:00 Liga de Argentina – Atletico Tucuman vs Platense – Canal 25
-https://pjxvijl.5606087801.art:8443/hls/xkvfhc3.m3u8?s=XpTzKfATcZDfTqYhTq9Hig&e=1759642994
-#EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Atletico Tucuman vs Platense – Canal 26 (HD)
-https://pecdl1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=de9db5dd7a16ef400ea9aef6f63b0599789a82d2-55-1759666403-1759612403&ip=172.178.119.33
-#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Atletico Tucuman vs Platense – Canal 27 (HD)
-https://kaa1.vdcast.live/jh-GyEl5ofzT4_z6wwY3hw/1759650211/3137322e3137382e3131392e3333/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs San Lorenzo – TNT Sports Argentina
-https://d4.merichunidya.com:1686/hls/captntarg.m3u8?md5=IKKRRXQb_sPQju1aTWbDmQ&expires=1759628612
+https://d3.merichunidya.com:1686/hls/captntarg.m3u8?md5=eKKSjErniatLCGcl92adGA&expires=1759636233
 #EXTINF:-1 tvg-name="Canal 7" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs San Lorenzo – Canal 7
-https://pjxvijl.5606087801.art:8443/hls/wwcujo0oiatyw93.m3u8?s=e5SBUYtTqF8mnXAcaI2YnA&e=1759643027
+https://pjxvijl.5606087801.art:8443/hls/xkvfhc3.m3u8?s=Ea8Y_u2EWfCtpMkl4lR7QQ&e=1759650650
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs San Lorenzo – Canal 8 (HD)
-https://14c51.crackstreamslivehd.com/global/winplus/index.m3u8?token=1118ae238dc5aab5972d27fc5161b47aa870302c-5a-1759666436-1759612436&ip=172.178.119.33
+https://14c51.crackstreamslivehd.com/global/tntsports/index.m3u8?token=0f5aa5c7917ad44f90f3f8529d140e62dc3b2956-be-1759674059-1759620059&ip=64.236.134.208
 #EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs San Lorenzo – Canal 9 (HD)
-https://kaa2.vdcast.live/xa_ZTdJ2BQKBznJl6s5tPQ/1759650244/3137322e3137382e3131392e3333/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Cerro Largo – VTV Uruguay
-https://d5.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=FYkMxWXt-LKhJaAhGRlAAQ&expires=1759628655
-#EXTINF:-1 tvg-name="Canal 49" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Cerro Largo – Canal 49
-https://pjxvijl.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=z7F1RxwQZVmBEEQiUC6__w&e=1759643063
-#EXTINF:-1 tvg-name="Canal 50 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Cerro Largo – Canal 50 (HD)
-https://51a1.crackstreamslivehd.com/global/disney16/index.m3u8?token=65869958612e403b4be0f543b445f59c6cfe4456-ff-1759666473-1759612473&ip=172.178.119.33
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Nacional vs Cerro Largo – Canal 6 (HD)
-https://kaa2.vdcast.live/S4WaYpTyshDkIPUojszStw/1759650281/3137322e3137382e3131392e3333/ff999/playlist.m3u8
+https://kaa1.vdcast.live/vteBdKUTWSp2KprP38EUTg/1759657867/36342e3233362e3133342e323038/ff999/playlist.m3u8
