@@ -1,3 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Granada vs Las Palmas – Deportes Plus
+https://d5.merichunidya.com:1686/hls/capoplus.m3u8?md5=rT1lr8xsVzhvT4FhkNBpgg&expires=1760128364
+#EXTINF:-1 tvg-name="Canal 14" group-title="LaLiga 2", 13:30 LaLiga 2 – Granada vs Las Palmas – Canal 14
+https://plu2.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=d08cbf39c760104facacc82508f6e04acdbdde94c3035ce06fb6b50f22d040a681e6bfabf12eaca3939dd6482bf3cd7cb7f928a5d4c28d564f7ac27e4aaf3e89
+#EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Granada vs Las Palmas – Canal 15 (HD)
+https://5.betzta.com/hypermotion1/mono.m3u8?token=f87f434ff968e88d526743788e7e62d7ffce0874-a7-1760138288-1760120288
+#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Granada vs Las Palmas – Canal 16 (HD)
+https://naa1.vdcast.live/gp1IytgBW6SKmELlVKE7Jw/1760149995/3133352e3233322e3230302e3233/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 12:30 Liga de Argentina – San Lorenzo vs San Martin – TNT Sports Argentina
+https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=YLykGUlKGY8anl3_lUg2Qg&expires=1760128403
+#EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 12:30 Liga de Argentina – San Lorenzo vs San Martin – Canal 11
+https://dreoap.6522236688.shop:8443/hls/xkvfhc3.m3u8?s=XmjajNd5w03Vb19sTNuMOw&e=1760142816
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – San Lorenzo vs San Martin – Canal 12 (HD)
+https://24a1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=6da005575cdae00c395b955747408ee3cd35b874-d6-1760166228-1760112228&ip=135.232.200.23
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 12:30 Liga de Argentina – San Lorenzo vs San Martin – Canal 13 (HD)
+https://naa1.vdcast.live/zUXub0qPwzERufJpubs1og/1760150035/3133352e3233322e3230302e3233/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 14:15 Liga de Argentina – Defensa y Justicia vs Argentinos Juniors – ESPN Premium
+https://d1.merichunidya.com:1686/hls/capespnprem.m3u8?md5=-rkpEMcuJO4gvvXPYTMu8g&expires=1760128443
+#EXTINF:-1 tvg-name="Canal 32" group-title="Liga de Argentina", 14:15 Liga de Argentina – Defensa y Justicia vs Argentinos Juniors – Canal 32
+https://dreoap.6522236688.shop:8443/hls/eka6jtsowcqgv6.m3u8?s=-wl0u5ySD02n4XqidfdeCw&e=1760142852
+#EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Argentina", 14:15 Liga de Argentina – Defensa y Justicia vs Argentinos Juniors – Canal 33 (HD)
+https://99a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=d6c2b11a755f0fe11f1eeaa63dd70e348cacd6fa-52-1760166261-1760112261&ip=135.232.200.23
+#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 14:15 Liga de Argentina – Defensa y Justicia vs Argentinos Juniors – Canal 34 (HD)
+https://naa2.vdcast.live/cWzuoijVGaeVKmbQsjrKgA/1760150069/3133352e3233322e3230302e3233/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 14:45 Liga de Argentina – Central Cordoba vs Union Santa Fe – TNT Sports Argentina
+https://d7.merichunidya.com:1686/hls/captntarg.m3u8?md5=FJJVDoKjX7Ou-l8gJG9mvw&expires=1760128471
+#EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Argentina", 14:45 Liga de Argentina – Central Cordoba vs Union Santa Fe – Canal 35
+https://naa2.vdcast.live/jDm6u8MsneZrt_be_V8ggg/1760150086/3133352e3233322e3230302e3233/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Central Cordoba vs Union Santa Fe – Canal 36 (HD)
+https://dreoap.6522236688.shop:8443/hls/wwcujo0oiatyw93.m3u8?s=cgiJbBhFpVqafB1Uf81dJQ&e=1760142894
+#EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 14:45 Liga de Argentina – Central Cordoba vs Union Santa Fe – Canal 37 (HD)
+https://naa1.vdcast.live/VLXepldbrMi57xbvYPM66g/1760150104/3133352e3233322e3230302e3233/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 16:30 Liga de Argentina – Newell's Old Boys vs Tigre – ESPN Premium
+https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=AswkxKadfnKigKapoEWR0A&expires=1760128511
+#EXTINF:-1 tvg-name="Canal 43" group-title="Liga de Argentina", 16:30 Liga de Argentina – Newell's Old Boys vs Tigre – Canal 43
+https://naa2.vdcast.live/jWaMMFidDH3qKPNFXrt6Kg/1760150120/3133352e3233322e3230302e3233/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 45 (HD)" group-title="Liga de Argentina", 16:30 Liga de Argentina – Newell's Old Boys vs Tigre – Canal 45 (HD)
+https://dreoap.6522236688.shop:8443/hls/wlloso4ptv7ory.m3u8?s=Iaefo2tBtGUi3Iwqh49opw&e=1760142937
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Progreso – VTV Uruguay
+https://d1.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=v55JxIfAshP43b6CnuNE1A&expires=1760128547
+#EXTINF:-1 tvg-name="Canal 49" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Progreso – Canal 49
+https://d4.merichunidya.com:1686/hls/capodeportes.m3u8?md5=RSbVLbq-FnQuIxnH1GidxQ&expires=1760128553
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Progreso – Canal 6 (HD)
+https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=7c79404637dc220c6a2dc4e4c97a2a589f3fb568-b1-1760166370-1760112370&ip=135.232.200.23
