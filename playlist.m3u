@@ -2,74 +2,74 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 11:30 LaLiga 2 – Almeria vs Real Zaragoza – Deportes Plus
-https://d4.merichunidya.com:1686/hls/capoplus.m3u8?md5=G-KGhV0whzuEspIj-38PwQ&expires=1760224792
+https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=T3RfXJXekQFeu55MODXJlQ&expires=1760225977
 #EXTINF:-1 tvg-name="Canal 11" group-title="LaLiga 2", 11:30 LaLiga 2 – Almeria vs Real Zaragoza – Canal 11
-https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=40a5f8d4265187a161cdba684166e96b35fd57527273e7d3e089ade2437d890408cdb6422f152e13bec32e73bc3cbe9575601f9c58c3b5032fea2825f686fce4
+https://plu2.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=aa2d5290171e1dde41110419d08b92eb9a017b83cffd2d233ed6adfed139d30f08cdb6422f152e13bec32e73bc3cbe9575601f9c58c3b5032fea2825f686fce4
 #EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Almeria vs Real Zaragoza – Canal 12 (HD)
-https://4.betzta.com/hypermotion1/mono.m3u8?token=5bd8c5e7283c19552dfcc82d91e79dbfac10a579-7a-1760234709-1760216709
+https://1.betzta.com/hypermotion1/mono.m3u8?token=b7722dfa005ebb7c4199779fa03093cb8094fa85-b8-1760235897-1760217897
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Almeria vs Real Zaragoza – Canal 13 (HD)
-https://raa1.vdcast.live/CBzN4b_w1AI131YV6yTj4Q/1760246418/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/67z7822wTL4O5PwTzPJbJA/1760247607/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Deportes Plus 2" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Sociedad B vs Andorra – Deportes Plus 2
-https://d4.merichunidya.com:1686/hls/capoplus2.m3u8?md5=9AYKj_JFHALxNrjsiYA7nQ&expires=1760224826
+https://d9.merichunidya.com:1686/hls/capoplus2.m3u8?md5=ebqVZTaOrIDtBShQe_nzAw&expires=1760226044
 #EXTINF:-1 tvg-name="Canal 14" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Sociedad B vs Andorra – Canal 14
-https://plu2.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=40a5f8d4265187a161cdba684166e96b35fd57527273e7d3e089ade2437d890408cdb6422f152e13bec32e73bc3cbe9575601f9c58c3b5032fea2825f686fce4
+https://plu2.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=aa2d5290171e1dde41110419d08b92eb9a017b83cffd2d233ed6adfed139d30f08cdb6422f152e13bec32e73bc3cbe9575601f9c58c3b5032fea2825f686fce4
 #EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Sociedad B vs Andorra – Canal 15 (HD)
-https://2.betzta.com/hypermotion2/mono.m3u8?token=9677ff147d2160f6a3087b008cd511c6b10e323f-8e-1760234743-1760216743
+https://3.betzta.com/hypermotion2/mono.m3u8?token=9eaf5b8375eb6d172993fcd979fea485aeec37b4-47-1760235964-1760217964
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="LaLiga 2", 11:30 LaLiga 2 – Real Sociedad B vs Andorra – Canal 16 (HD)
-https://raa1.vdcast.live/UBBwiCimOfwqSKltdOhaww/1760246451/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa1.vdcast.live/7-QlgLQLGQ7yxB3iTkOX3w/1760247672/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 14:00 Liga de Argentina – Gimnasia La Plata vs Talleres – ESPN Premium
-https://d1.merichunidya.com:1686/hls/capespnprem.m3u8?md5=JpO-xzIjpXawixn6gXiGkg&expires=1760224859
+https://d6.merichunidya.com:1686/hls/capespnprem.m3u8?md5=WzuO0C2Bgw-aQV8X5EL2rQ&expires=1760226079
 #EXTINF:-1 tvg-name="Canal 24" group-title="Liga de Argentina", 14:00 Liga de Argentina – Gimnasia La Plata vs Talleres – Canal 24
-https://cyegvv.6522236688.shop:8443/hls/eka6jtsowcqgv6.m3u8?s=KngyR1hQdNI9cftZ11fiVA&e=1760239268
+https://kciwjj.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=bM8T7Y8g4LlhNkOyEkFaew&e=1760240492
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Gimnasia La Plata vs Talleres – Canal 25 (HD)
-https://8c51.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=fd6520efc8351be79416490cd5b7968a55e41a88-2e-1760262681-1760208681&ip=172.215.217.243
+https://24a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=378117f6eb88fc5086357758008c6b4fb8db2523-94-1760263903-1760209903&ip=68.220.62.180
 #EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Gimnasia La Plata vs Talleres – Canal 26 (HD)
-https://raa1.vdcast.live/IXSU4C_FiriFwuRyphXkgg/1760246489/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/SuYP9MTCG4oJsSWUDkDKCw/1760247712/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 16:00 Liga de Argentina – Banfield vs Racing Club – TNT Sports Argentina
-https://d1.merichunidya.com:1686/hls/captntarg.m3u8?md5=cCussUU-Ip5ZHkEPJJJ6LQ&expires=1760224897
+https://d7.merichunidya.com:1686/hls/captntarg.m3u8?md5=-I3YF-NEsyuO-2fXg5cMRQ&expires=1760226110
 #EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Argentina", 16:00 Liga de Argentina – Banfield vs Racing Club – Canal 35
-https://cyegvv.6522236688.shop:8443/hls/xkvfhc3.m3u8?s=_QAgMyNJVwq2hR6kI6DMoA&e=1760239306
+https://kciwjj.5606087801.art:8443/hls/xkvfhc3.m3u8?s=Y66_tNK-ySLNMXhHEp1x4w&e=1760240531
 #EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Banfield vs Racing Club – Canal 36 (HD)
-https://pecdl1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=1e60e9d1254bbe5cc9f9f757eed12cfaba8f26fc-aa-1760262716-1760208716&ip=172.215.217.243
+https://98ca2.crackstreamslivehd.com/global/tntsports/index.m3u8?token=2addcf9a3a8383ab0b0a46d44b270a5132114afd-16-1760263941-1760209941&ip=68.220.62.180
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Banfield vs Racing Club – Canal 37 (HD)
-https://raa2.vdcast.live/4g1dolkckXjQXJ4z-Fl2oA/1760246524/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/cLG-hK1egaEYXuyziXxCDA/1760247751/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 20:15 Liga de Argentina – Belgrano vs Estudiantes de La Plata – ESPN Premium
-https://d2.merichunidya.com:1686/hls/capespnprem.m3u8?md5=mEfnuthyXO9t7xzf8tOpeQ&expires=1760224932
+https://d4.merichunidya.com:1686/hls/capespnprem.m3u8?md5=jC90fByo46z1oI_a6NFKUw&expires=1760226159
 #EXTINF:-1 tvg-name="Canal 17" group-title="Liga de Argentina", 20:15 Liga de Argentina – Belgrano vs Estudiantes de La Plata – Canal 17
-https://cyegvv.6522236688.shop:8443/hls/543hcacrbrvfw.m3u8?s=Foxj5oTmCF3nTg_BBteaug&e=1760239342
+https://kciwjj.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=VCjm_X5VPTA-gQCO2HMMgw&e=1760240570
 #EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Belgrano vs Estudiantes de La Plata – Canal 18 (HD)
-https://51a1.crackstreamslivehd.com/global/disney9/index.m3u8?token=6466462fb874f3446830c22483d693fbb1fdbc33-58-1760262751-1760208751&ip=172.215.217.243
+https://51a1.crackstreamslivehd.com/global/disney9/index.m3u8?token=54add66337ef2e4e67888a52a45f0d6980864ce2-15-1760263982-1760209982&ip=68.220.62.180
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Belgrano vs Estudiantes de La Plata – Canal 19 (HD)
-https://raa1.vdcast.live/IfOER7XmbG3Z_DIPKYoung/1760246559/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/R3ClKacS2Med2IYwM8F63Q/1760247791/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 20:15 Liga de Argentina – Velez Sarsfield vs Rosario Central – TNT Sports Argentina
-https://d3.merichunidya.com:1686/hls/captntarg.m3u8?md5=sgVejEh_IxsEejWmcx223Q&expires=1760224965
+https://d6.merichunidya.com:1686/hls/captntarg.m3u8?md5=echMwzdtq0t1WvA1gA2ATw&expires=1760226199
 #EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Argentina", 20:15 Liga de Argentina – Velez Sarsfield vs Rosario Central – Canal 20
-https://raa1.vdcast.live/ELYyf7UjFxsM5AupgR1YSg/1760246576/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/nJ60NBwbZ2z12OXbscqF5g/1760247810/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Velez Sarsfield vs Rosario Central – Canal 21 (HD)
-https://99a1.crackstreamslivehd.com/global/disney10/index.m3u8?token=199e5d843ccc80e9d7c711d29e2956cef2eca6ac-28-1760262784-1760208784&ip=172.215.217.243
+https://24a1.crackstreamslivehd.com/global/disney10/index.m3u8?token=b32613cee607aed93961dee74404befb2cc9d0ac-c2-1760264018-1760210018&ip=68.220.62.180
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Velez Sarsfield vs Rosario Central – Canal 22 (HD)
-https://raa2.vdcast.live/5xN-SYV5TFsTu01LrNUYDw/1760246592/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa1.vdcast.live/KYThLcnF2BEV5VOfN2Vrpw/1760247827/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Cerro Largo vs Boston River – VTV Uruguay
-https://d4.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=RCL-6ZdXWtyJcQ35Ci_p6Q&expires=1760224994
+https://d7.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=6ZwIvUazv_z5jRYQ4BCpiQ&expires=1760226236
 #EXTINF:-1 tvg-name="Canal 17" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Cerro Largo vs Boston River – Canal 17
-https://cyegvv.6522236688.shop:8443/hls/543hcacrbrvfw.m3u8?s=CSZbA-yZdBR38Akv0sR30w&e=1760239409
+https://kciwjj.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=3iG86MRDGn0cLovyPDL0Aw&e=1760240646
 #EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Cerro Largo vs Boston River – Canal 18 (HD)
-https://14c51.crackstreamslivehd.com/global/disney9/index.m3u8?token=74251317ab4f73bf6f53c925523311157fa24815-4f-1760262821-1760208821&ip=172.215.217.243
+https://98ca2.crackstreamslivehd.com/global/disney9/index.m3u8?token=c1987f3a45eaf9dc52e7e0e4817f794d64cecb38-c1-1760264058-1760210058&ip=68.220.62.180
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Cerro Largo vs Boston River – Canal 19 (HD)
-https://raa1.vdcast.live/FAeCgaNwr4U5LkjivKPx_Q/1760246630/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/ZrLv6wKzymLxTsHvnhdu0w/1760247869/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Miramar Misiones vs PeÃ±arol – VTV Uruguay
-https://d3.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=H5z03ricsy-8UHYtrZnbzg&expires=1760225030
+https://d8.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=CIq-Sfbh0Ecf4DQ9JiOS1g&expires=1760226277
 #EXTINF:-1 tvg-name="Canal 38" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Miramar Misiones vs PeÃ±arol – Canal 38
-https://cyegvv.6522236688.shop:8443/hls/543hcacrbrvfw.m3u8?s=Z-7wW2C0PKcxAcMsZmBTyQ&e=1760239446
+https://kciwjj.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=qlrvMh6Cs46LGwmANwqGdQ&e=1760240688
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Miramar Misiones vs PeÃ±arol – Canal 39 (HD)
-https://99a1.crackstreamslivehd.com/global/disney17/index.m3u8?token=2ca1b9f440b9b775265c868868c88cf6d29c952a-17-1760262857-1760208857&ip=172.215.217.243
+https://24a1.crackstreamslivehd.com/global/disney17/index.m3u8?token=6e2a153f122bbb6bbcd3d663cba989936eec5e14-72-1760264098-1760210098&ip=68.220.62.180
 #EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Miramar Misiones vs PeÃ±arol – Canal 40 (HD)
-https://raa2.vdcast.live/SD8PuY5xaX1M_cg-nOsw6Q/1760246665/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa2.vdcast.live/EM54VCRTcdYGX3QKMDFjtQ/1760247937/36382e3232302e36322e313830/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Cerro vs Defensor Sporting – VTV Uruguay
-https://d3.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=3V6KF56KYZrdYrTnUqABdQ&expires=1760225072
+https://d6.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=_yhR8JomWsSR3iFrU-PspA&expires=1760226337
 #EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Cerro vs Defensor Sporting – Canal 11
-https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=40a5f8d4265187a161cdba684166e96b35fd57527273e7d3e089ade2437d890408cdb6422f152e13bec32e73bc3cbe9575601f9c58c3b5032fea2825f686fce4
+https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=aa2d5290171e1dde41110419d08b92eb9a017b83cffd2d233ed6adfed139d30f08cdb6422f152e13bec32e73bc3cbe9575601f9c58c3b5032fea2825f686fce4
 #EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Cerro vs Defensor Sporting – Canal 12 (HD)
-https://3.betzta.com/hypermotion1/mono.m3u8?token=6b1204803b8907c0163eec52693857521c999449-d-1760234990-1760216990
+https://1.betzta.com/hypermotion1/mono.m3u8?token=4fd52fcb14fd90dce610fe03d3bc85f3b1f45a4d-ee-1760236265-1760218265
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Cerro vs Defensor Sporting – Canal 13 (HD)
-https://raa1.vdcast.live/WHAHPIFBklO_UBaw-yPGnw/1760246698/3137322e3231352e3231372e323433/ff999/playlist.m3u8
+https://raa1.vdcast.live/YnpVr3IpV0T1XtSAxeWXFg/1760247975/36382e3232302e36322e313830/ff999/playlist.m3u8
