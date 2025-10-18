@@ -1,43 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 16:30 Formula 1 – Gran Premio de Estados Unidos, Clasificacion Sprint – Formula 1
-https://d10.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=KF8n8fLf27Z4qhKWHHGetw&expires=1760751530
-#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 16:30 Formula 1 – Gran Premio de Estados Unidos, Clasificacion Sprint – Canal 6
-https://bdrgqp.6670391863.store:8443/hls/2twhx.m3u8?s=5e_9KrDf0ree_fOTKPqCGg&e=1760765943
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 16:30 Formula 1 – Gran Premio de Estados Unidos, Clasificacion Sprint – Canal 7 (HD)
-https://doc1.crackstreamslivehd.com/global/fox1ar/index.m3u8?token=9d8f9bb4269c5d6644798005f0dfa84a97335fe3-b2-1760789353-1760735353&ip=20.51.206.85
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 16:30 Formula 1 – Gran Premio de Estados Unidos, Clasificacion Sprint – Canal 8 (HD)
-https://54b3.futebol12.nexus/daznf1/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
-#EXTINF:-1 tvg-name="Canal 9" group-title="Formula 1", 16:30 Formula 1 – Gran Premio de Estados Unidos, Clasificacion Sprint – Canal 9
-https://zaa2.vdcast.live/h5uN9tVJ-M18BwPkuLzazA/1760773199/32302e35312e3230362e3835/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Racing Club vs Aldosivi – TNT Sports Argentina
-https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=DhMshPNTY4vzibc8sBLuJA&expires=1760751607
-#EXTINF:-1 tvg-name="Canal 27" group-title="Liga de Argentina", 17:00 Liga de Argentina – Racing Club vs Aldosivi – Canal 27
-https://bdrgqp.6670391863.store:8443/hls/xkvfhc3.m3u8?s=UJtVB3uasRN9RJWO4FQ2og&e=1760766017
-#EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Racing Club vs Aldosivi – Canal 28 (HD)
-https://pecdl1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=226d2a7e12fbab5b33020abc13e73aeb122b1f68-3b-1760789427-1760735427&ip=20.51.206.85
-#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Racing Club vs Aldosivi – Canal 29 (HD)
-https://zaa2.vdcast.live/ZL_Hh0xaMEXYtGDQS6XPkQ/1760773237/32302e35312e3230362e3835/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – ESPN Premium
-https://d6.merichunidya.com:1686/hls/capespnprem.m3u8?md5=_HHeGETRHqZyo3vHCT43ew&expires=1760751644
-#EXTINF:-1 tvg-name="Canal 47" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – Canal 47
-https://bdrgqp.6670391863.store:8443/hls/eka6jtsowcqgv6.m3u8?s=XmaFQtExDyLStGkf6QL2-A&e=1760766054
-#EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – Canal 48 (HD)
-https://51a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=900ae33de058e73a2aa62620258ed68cb7c5bbba-80-1760789464-1760735464&ip=20.51.206.85
-#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – Canal 49 (HD)
-https://zaa1.vdcast.live/HAcEQjrY4UPRmPTC-8l_Yg/1760773274/32302e35312e3230362e3835/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – TNT Sports Argentina
-https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=SuqdCluP72h8vWSKSdGy_w&expires=1760751681
-#EXTINF:-1 tvg-name="Canal 50" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – Canal 50
-https://bdrgqp.6670391863.store:8443/hls/xkvfhc3.m3u8?s=VgA57zzf6TRPofMyqGki2A&e=1760766091
-#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – Canal 10 (HD)
-https://51a1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=5bef792c1f3c644a6d2a656ecc98c1ea704246a2-ec-1760789501-1760735501&ip=20.51.206.85
-#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – Canal 11 (HD)
-https://zaa2.vdcast.live/BxpBA6uOQDnmvygCF0sNeg/1760773309/32302e35312e3230362e3835/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – ESPN Premium
+https://d2.merichunidya.com:1686/hls/capespnprem.m3u8?md5=S0aBymKtWUOA4IM2NF4a4Q&expires=1760758673
+#EXTINF:-1 tvg-name="Canal 47" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – Canal 47
+https://yjaacbk.234276133.fit:8443/hls/eka6jtsowcqgv6.m3u8?s=xO5UA5pKoNPEo5gKp2N8pw&e=1760773082
+#EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – Canal 48 (HD)
+https://8c51.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=f0a2c506f631a90572451a98d0c672bd014cb176-16-1760796492-1760742492&ip=172.178.119.113
+#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Lanus vs Godoy Cruz – Canal 49 (HD)
+https://zaa2.vdcast.live/nRY3s3h5l26odXjy1beKLg/1760780300/3137322e3137382e3131392e313133/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – TNT Sports Argentina
+https://d5.merichunidya.com:1686/hls/captntarg.m3u8?md5=ddm8Hd9xnRXu0Ap8uwZ6vg&expires=1760758707
+#EXTINF:-1 tvg-name="Canal 50" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – Canal 50
+https://yjaacbk.234276133.fit:8443/hls/xkvfhc3.m3u8?s=fbWVzCHKwlLR8XKPjgEBjw&e=1760773116
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – Canal 10 (HD)
+https://florcd1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=a399f4dee6261cf06ee7c2afe613f33bab14b1f3-59-1760796526-1760742526&ip=172.178.119.113
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Argentinos Juniors vs Newell's Old Boys – Canal 11 (HD)
+https://zaa1.vdcast.live/NUXa-QbdldbFh2ksA1Fk6Q/1760780333/3137322e3137382e3131392e313133/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Boston River vs Danubio – VTV Uruguay
-https://d4.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=sXIQ1-OqEd9cMvbCeSrNBA&expires=1760751719
+https://d6.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=e5uAxyyTkJearUsXtpwcKQ&expires=1760758741
 #EXTINF:-1 tvg-name="Canal 30" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Boston River vs Danubio – Canal 30
-https://bdrgqp.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=ZxwWF31FQFJQS1K19n3ZxQ&e=1760766128
+https://yjaacbk.234276133.fit:8443/hls/543hcacrbrvfw.m3u8?s=OM4H_vMriiNm7ttrYNdFig&e=1760773149
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Boston River vs Danubio – Canal 31 (HD)
-https://doc1.crackstreamslivehd.com/global/disney13/index.m3u8?token=0c2117d95453792ba76308e00f74a2f52788c19d-64-1760789538-1760735538&ip=20.51.206.85
+https://24a1.crackstreamslivehd.com/global/disney13/index.m3u8?token=ba2ced7ef736e4aeb66d23be351ff8b87c1c4ce4-6d-1760796559-1760742559&ip=172.178.119.113
 #EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Boston River vs Danubio – Canal 32 (HD)
-https://zaa1.vdcast.live/gsk8pELGkanWX7LjGft2lw/1760773346/32302e35312e3230362e3835/ff999/playlist.m3u8
+https://zaa2.vdcast.live/KCHqY5_Bc-ohmaaJQ3fgqA/1760780366/3137322e3137382e3131392e313133/ff999/playlist.m3u8
