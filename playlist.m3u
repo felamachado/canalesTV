@@ -1,33 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Estados Unidos, Clasificacion – Formula 1
-https://d10.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=KB4Jh4-c6nkxr8xmSfa7sw&expires=1760834393
-#EXTINF:-1 tvg-name="Canal 42" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Estados Unidos, Clasificacion – Canal 42
-https://kciwjj.5606087801.art:8443/hls/2twhx.m3u8?s=4gg7gS97nfsuIIrf6ot-Eg&e=1760848803
-#EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Estados Unidos, Clasificacion – Canal 44 (HD)
-https://k8o5.futebol12.nexus/skyf1mx/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
-#EXTINF:-1 tvg-name="Canal 45 (HD)" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Estados Unidos, Clasificacion – Canal 45 (HD)
-https://aaz2.vdcast.live/m_DhwsYWfoFxT_QoqzriGQ/1760856028/3137322e3138332e39342e313239/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Liga de Argentina", 16:00 Liga de Argentina – Boca Juniors vs Belgrano – Capo Deportes 2
-https://d6.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=zYbSei2rTYkzQBsASBvoKg&expires=1760834435
-#EXTINF:-1 tvg-name="Canal 8" group-title="Liga de Argentina", 16:00 Liga de Argentina – Boca Juniors vs Belgrano – Canal 8
-https://kciwjj.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=eCLIhNiNj_1x8MWAox3xSA&e=1760848844
-#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Boca Juniors vs Belgrano – Canal 9 (HD)
-https://czgs.futebol12.nexus/espn5/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
-#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Boca Juniors vs Belgrano – Canal 10 (HD)
-https://aaz1.vdcast.live/Nlj2df7sP__RDH-eqtiMpQ/1760856061/3137322e3138332e39342e313239/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 18:30 Liga de Argentina – Talleres vs River Plate – TNT Sports Argentina
-https://d3.merichunidya.com:1686/hls/captntarg.m3u8?md5=hUA786NOOtr63C2dHJhIQw&expires=1760834468
+https://d8.merichunidya.com:1686/hls/captntarg.m3u8?md5=PD1gUkuwlwtNoTOj7wxfAA&expires=1760836753
 #EXTINF:-1 tvg-name="Canal 46" group-title="Liga de Argentina", 18:30 Liga de Argentina – Talleres vs River Plate – Canal 46
-https://aaz1.vdcast.live/g8mCIzGeutmpj0Hcx8nMXA/1760856077/3137322e3138332e39342e313239/ff999/playlist.m3u8
+https://dwqejs.6522236688.shop:8443/hls/xkvfhc3.m3u8?s=AdcPKyltOjES5cxylLYOtQ&e=1760851163
 #EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Liga de Argentina", 18:30 Liga de Argentina – Talleres vs River Plate – Canal 47 (HD)
-https://aaz1.vdcast.live/j9Is18u8VGaffXQJRK6mlQ/1760856085/3137322e3138332e39342e313239/ff999/playlist.m3u8
+https://k8o5.futebol12.nexus/tntar/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
 #EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Argentina", 18:30 Liga de Argentina – Talleres vs River Plate – Canal 48 (HD)
-https://kciwjj.5606087801.art:8443/hls/robqzyh3cy.m3u8?s=Wwy1YXuaVsSaJ8wnG0qSjw&e=1760848892
+https://aaz1.vdcast.live/1SX7B1807CiheAJU0FvOlg/1760858380/34382e3231342e35352e3531/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Nacional vs Miramar Misiones – VTV Uruguay
-https://d2.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=hyQ4jLKbmLTPjyRbe6MjhA&expires=1760834502
+https://d1.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=WS9312hmo0GjVc7Cc47H7A&expires=1760836789
 #EXTINF:-1 tvg-name="Canal 14" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Nacional vs Miramar Misiones – Canal 14
-https://kciwjj.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=2bADI-5Vuw-pZ-4gj2ev-g&e=1760848910
+https://dwqejs.6522236688.shop:8443/hls/543hcacrbrvfw.m3u8?s=6AsUGNAdrda2xKeiYbQIPQ&e=1760851197
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Nacional vs Miramar Misiones – Canal 16 (HD)
-https://aaz1.vdcast.live/H5IWCKRBP1SXnRc5Mb7jcQ/1760856127/3137322e3138332e39342e313239/ff999/playlist.m3u8
+https://aaz1.vdcast.live/Nu2jsxA8rSQeBT2s4bopAg/1760858416/34382e3231342e35352e3531/ff999/playlist.m3u8
