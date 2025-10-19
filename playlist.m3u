@@ -2,58 +2,62 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Canal 1" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 1
-https://d1.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=4duSY-ERExOh3dhaFEdAFg&expires=1760906823
+https://d2.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=7w2AYWmuHUoUB7p4PO0tSg&expires=1760908580
 #EXTINF:-1 tvg-name="Canal 2" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 2
-https://hnmmplt.6522236688.shop:8443/hls/2twhx.m3u8?s=JdMPm5bSVQJBd8uJ5lC6vw&e=1760921232
+https://pjxvijl.5606087801.art:8443/hls/2twhx.m3u8?s=tUwavQqIbzZuJAKjk4wMxw&e=1760922990
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 3 (HD)
-https://24a1.crackstreamslivehd.com/global/espn/index.m3u8?token=2f7fd1e72e074aab8f45d515571df849ef8604cf-6c-1760944642-1760890642&ip=145.132.102.180
+https://florcd1.crackstreamslivehd.com/global/disney1/index.m3u8?token=732901fff60b865bf96fd8f0eedb15e23ba0f60e-dc-1760946403-1760892403&ip=68.154.54.36
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 4 (HD)
+https://czgs.futebol12.nexus/skyf1mx/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 5 (HD)
-https://baz2.vdcast.live/1lFmT82jH_f_O3b1Cs29OQ/1760928463/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://baz2.vdcast.live/i5Ae8TqTwGU4KgtQhSL_uw/1760930220/36382e3135342e35342e3336/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 6 (HD)
+https://plu2.myluck1.top:8088/live/f1xfutdhn20/playlist.m3u8?id=122387&pk=3da70a533891db161aa6e2e68dd70c49b9f1bc3d255f1d6653b0adba49213d6bfd213e6f9e65db350508c86e2f84c2490e7a23d037b78ad0e6c5102b4b6a269e
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 14:00 Formula 1 – F1 Gran Premio de Estados Unidos, Carrera – Canal 7 (HD)
-https://24a1.crackstreamslivehd.com/global/fox1ar/index.m3u8?token=d238a3a36ef96936a4d804c436772f040421aa52-bf-1760944679-1760890679&ip=145.132.102.180
+https://14c51.crackstreamslivehd.com/global/fox1ar/index.m3u8?token=2167049a5cd11b6d7590fbcbcc3d6359c018e2aa-1d-1760946437-1760892437&ip=68.154.54.36
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 1
-https://d6.merichunidya.com:1686/hls/capodeportes.m3u8?md5=8n13AoKuidWZYGWtxRypgA&expires=1760906886
+https://d10.merichunidya.com:1686/hls/capodeportes.m3u8?md5=EhR_2KhwsqWw_fRPAAR9Lw&expires=1760908645
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 2
-https://hnmmplt.6522236688.shop:8443/hls/4jva7tj642f9b.m3u8?s=tEvppSD5j8ujQiKTRwbKhA&e=1760921295
+https://pjxvijl.5606087801.art:8443/hls/4jva7tj642f9b.m3u8?s=o3kzrCJdUM5OdYrTTEXSzw&e=1760923055
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/dsports/index.m3u8?token=457755884efc2fc0a5e6cf1822b6692f535f6ca4-69-1760944705-1760890705&ip=145.132.102.180
+https://8c51.crackstreamslivehd.com/global/dsports/index.m3u8?token=9a7db72c246dfeb0b823a357c6621402ab18ba51-0e-1760946465-1760892465&ip=68.154.54.36
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 4 (HD)
-https://54b3.futebol12.nexus/espndeportes/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
+https://98ca2.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=a842b6280161a6c6354914d59d0bfbf8131d26ea-a0-1760946502-1760892502&ip=68.154.54.36
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 5 (HD)
-https://baz2.vdcast.live/wklX7ACmWINSZrNdr6n7Nw/1760928520/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://baz2.vdcast.live/0d0jiY1XRxMlCKuhEQnyCA/1760930310/36382e3135342e35342e3336/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 6 (HD)
-https://plu1.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=b9a02ab58c0a4bfde4b2c8f1fb82cdfb1e57ef57c3e74a6d7a703c49485e3a75fd213e6f9e65db350508c86e2f84c2490e7a23d037b78ad0e6c5102b4b6a269e
+https://plu1.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=3da70a533891db161aa6e2e68dd70c49b9f1bc3d255f1d6653b0adba49213d6bfd213e6f9e65db350508c86e2f84c2490e7a23d037b78ad0e6c5102b4b6a269e
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 14:00 LaLiga – Getafe vs Real Madrid – Canal 7 (HD)
 https://54b3.futebol12.nexus/skyliga/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Eibar – Deportes Plus
-https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=enJbGboRGO-DuQz2NuzCug&expires=1760906941
+https://d8.merichunidya.com:1686/hls/capoplus.m3u8?md5=voUv5xb60HnZEf8pxje34A&expires=1760908733
 #EXTINF:-1 tvg-name="Canal 30" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Eibar – Canal 30
-https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=b9a02ab58c0a4bfde4b2c8f1fb82cdfb1e57ef57c3e74a6d7a703c49485e3a75fd213e6f9e65db350508c86e2f84c2490e7a23d037b78ad0e6c5102b4b6a269e
+https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=3da70a533891db161aa6e2e68dd70c49b9f1bc3d255f1d6653b0adba49213d6bfd213e6f9e65db350508c86e2f84c2490e7a23d037b78ad0e6c5102b4b6a269e
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Eibar – Canal 31 (HD)
-https://baz1.vdcast.live/OyZbRkjqkayyFkGQeamB-g/1760928556/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://1.betzta.com/hypermotion1/mono.m3u8?token=7203ccf9057a5591bb81521b1b972a11490bef7c-46-1760918650-1760900650
 #EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Las Palmas vs Eibar – Canal 32 (HD)
-https://baz1.vdcast.live/YnWf_cr8Yu4gAboO-AZvew/1760928564/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://baz2.vdcast.live/YKjqsuz6QK-CMIOsp-YNOw/1760930387/36382e3135342e35342e3336/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 13:00 Liga de Argentina – Sarmiento vs Velez Sarsfield – ESPN Premium
-https://d3.merichunidya.com:1686/hls/capespnprem.m3u8?md5=BSkBidvUmiRMJ-d_lPlDUw&expires=1760906971
+https://d8.merichunidya.com:1686/hls/capespnprem.m3u8?md5=ZfDSYWaFkxhw7ypM-Qomdg&expires=1760908795
 #EXTINF:-1 tvg-name="Canal 15" group-title="Liga de Argentina", 13:00 Liga de Argentina – Sarmiento vs Velez Sarsfield – Canal 15
-https://hnmmplt.6522236688.shop:8443/hls/eka6jtsowcqgv6.m3u8?s=9EYUU2D1bObrujV72p87dA&e=1760921380
+https://pjxvijl.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=iMH8UeKoJ5vz1av0i_vBaw&e=1760923204
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 13:00 Liga de Argentina – Sarmiento vs Velez Sarsfield – Canal 16 (HD)
-https://doc1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=28488b06a9a191a7ee5f959d625a1707c7fbc225-47-1760944789-1760890789&ip=145.132.102.180
+https://98ca2.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=a3fb886ce5e1a8f28b21b2e274f81adc87549a2c-a2-1760946616-1760892616&ip=68.154.54.36
 #EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Liga de Argentina", 13:00 Liga de Argentina – Sarmiento vs Velez Sarsfield – Canal 17 (HD)
-https://baz1.vdcast.live/NYo2UCl0KYP7a22VtsCvTw/1760928598/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://baz1.vdcast.live/ImOOt9lUyYptKxuA3DmiDA/1760930425/36382e3135342e35342e3336/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 13:00 Liga de Argentina – Estudiantes de La Plata vs Gimnasia La Plata – TNT Sports Argentina
-https://d3.merichunidya.com:1686/hls/captntarg.m3u8?md5=10tNaaSDpl9eNGFhXMYgPA&expires=1760907005
+https://d1.merichunidya.com:1686/hls/captntarg.m3u8?md5=cgVq9q0wKnapwHYYc3-uCA&expires=1760908832
 #EXTINF:-1 tvg-name="Canal 18" group-title="Liga de Argentina", 13:00 Liga de Argentina – Estudiantes de La Plata vs Gimnasia La Plata – Canal 18
-https://hnmmplt.6522236688.shop:8443/hls/xkvfhc3.m3u8?s=qOpf-cK54xM3pE_Fl6Jx-A&e=1760921413
+https://pjxvijl.5606087801.art:8443/hls/xkvfhc3.m3u8?s=nFRyp20j9rfrQEAsR8huxQ&e=1760923242
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Argentina", 13:00 Liga de Argentina – Estudiantes de La Plata vs Gimnasia La Plata – Canal 19 (HD)
-https://k8o5.futebol12.nexus/tntar/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
+https://czgs.futebol12.nexus/tntar/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Liga de Argentina", 13:00 Liga de Argentina – Estudiantes de La Plata vs Gimnasia La Plata – Canal 20 (HD)
-https://baz2.vdcast.live/o4ZmwbMC6ubnMwCrPEvCFA/1760928630/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://baz1.vdcast.live/wJHNlpnEg4LflfRhlnXqAw/1760930490/36382e3135342e35342e3336/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Defensor Sporting – VTV Uruguay
-https://d5.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=1JGbuNjBN3POr9wz0tgj0Q&expires=1760907038
+https://d6.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=VCGxCvptQvFY8gX3SnwrHg&expires=1760908897
 #EXTINF:-1 tvg-name="Canal 24" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Defensor Sporting – Canal 24
-https://hnmmplt.6522236688.shop:8443/hls/543hcacrbrvfw.m3u8?s=BDJfM_8QTmiRcEcFFj8Mkw&e=1760921447
+https://pjxvijl.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=cPgmcGixUy_h_30HoFgMvA&e=1760923307
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Defensor Sporting – Canal 25 (HD)
-https://98ca2.crackstreamslivehd.com/global/disney7/index.m3u8?token=ef816ca6e427bef19da0fec7ae4dfa316246f0bf-e0-1760944858-1760890858&ip=145.132.102.180
+https://14c51.crackstreamslivehd.com/global/disney7/index.m3u8?token=0ccb6d7b73280cd6ca58d6a6fb53bc114da13c51-01-1760946720-1760892720&ip=68.154.54.36
 #EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Uruguay", 13:30 Liga de Uruguay – Progreso vs Defensor Sporting – Canal 26 (HD)
-https://baz2.vdcast.live/YrIS1UIPlrhwv5oieL9jZg/1760928666/3134352e3133322e3130322e313830/ff999/playlist.m3u8
+https://baz2.vdcast.live/DwYEG-XpxCNADkwomce87Q/1760930532/36382e3135342e35342e3336/ff999/playlist.m3u8
