@@ -1,1 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Deportivo Alaves vs Valencia – Canal 1
+https://d9.merichunidya.com:1686/hls/capodeportes.m3u8?md5=p4FQECfnvJwT4JuQIRLs8Q&expires=1760984927
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Deportivo Alaves vs Valencia – Canal 2
+https://kciwjj.5606087801.art:8443/hls/a31q9.m3u8?s=NYOrNeZLhhRcV3aKE4ZK3Q&e=1760999338
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Deportivo Alaves vs Valencia – Canal 4 (HD)
+https://54b3.futebol12.nexus/espndeportes/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Deportivo Alaves vs Valencia – Canal 5 (HD)
+https://baz1.vdcast.live/wKyMHJkR1P0H-ObKJO7ilQ/1761006567/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Deportivo Alaves vs Valencia – Canal 6 (HD)
+https://baz1.vdcast.live/UMVG_ih8hBcnHtXS81oe-g/1761006576/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Cadiz vs Burgos – Deportes Plus
+https://d6.merichunidya.com:1686/hls/capoplus.m3u8?md5=SXHPaM42jF-cO5ayMrkwkQ&expires=1760984984
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Cadiz vs Burgos – Canal 18 (HD)
+https://54b3.futebol12.nexus/hyper1/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – ESPN Premium
+https://d6.merichunidya.com:1686/hls/capespnprem.m3u8?md5=5wZj-o6Gzj12XhlwWeo06w&expires=1760985017
+#EXTINF:-1 tvg-name="Canal 29" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – Canal 29
+https://kciwjj.5606087801.art:8443/hls/l99bacdw776ns.m3u8?s=wIiu3PF0BA2Ym3Sp_45G8g&e=1760999428
+#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – Canal 31 (HD)
+https://baz2.vdcast.live/KfCa6PmvaHGTf21tfy6g7Q/1761006647/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – TNT Sports Argentina
+https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=wyDnVT1HHQG1UGFGzZu3Ww&expires=1760985055
+#EXTINF:-1 tvg-name="Canal 32" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 32
+https://baz2.vdcast.live/QTTHxd5PI3zKFneX2tLe1Q/1761006666/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 33 (HD)
+https://baz1.vdcast.live/knr80KPfEsPIdb1cfRaS7g/1761006675/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 34 (HD)
+https://baz2.vdcast.live/InWJfdXTT2CmVH9Q2c65eQ/1761006684/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – ESPN Premium
+https://d3.merichunidya.com:1686/hls/capespnprem.m3u8?md5=sr-0-yhfQigQXHf-qJ4DBQ&expires=1760985092
+#EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 11
+https://kciwjj.5606087801.art:8443/hls/22hothctx.m3u8?s=ZDE9t7A5VSVTX_rHK5g2cg&e=1760999502
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 12 (HD)
+https://54b3.futebol12.nexus/disney1/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 13 (HD)
+https://3.betzta.com/espn2mx/mono.m3u8?token=c4a1c4dae35c1d1b7b5ebe3e979baec0ba070cbb-91-1760995021-1760977021
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Racing (Montevideo) vs Juventud – VTV Uruguay
+https://d6.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=-hHxCWouUP-y306AVa6doA&expires=1760985129
+#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Racing (Montevideo) vs Juventud – Canal 23
+https://kciwjj.5606087801.art:8443/hls/x3hh2e9pop.m3u8?s=6VUklIsFyT2nPcjEcPcSUw&e=1760999540
+#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Racing (Montevideo) vs Juventud – Canal 24 (HD)
+https://baz2.vdcast.live/J8htfHhHVPxlZjw-JdO-EQ/1761006751/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Racing (Montevideo) vs Juventud – Canal 25 (HD)
+https://baz1.vdcast.live/xa1Y1XMnrPDeQo98OCxjMA/1761006792/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – VTV Uruguay
+https://d2.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=eK78-srQAHW10UogYwSX9w&expires=1760985212
+#EXTINF:-1 tvg-name="Canal 26" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – Canal 26
+https://kciwjj.5606087801.art:8443/hls/robqzyh3cy.m3u8?s=f3MFpp3mQ2A6lO3sec5mKw&e=1760999622
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – Canal 27 (HD)
+https://baz1.vdcast.live/eMETsP1xZBMyYBNWEb-RuA/1761006833/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – Canal 28 (HD)
+https://baz1.vdcast.live/VatGnbb2XslmvOv3b8kLXA/1761006842/3132382e32342e3136332e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 14:00 Premier League – West Ham United vs Brentford – Canal 1
+https://d7.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=5NK1_70V7x0gDTl6gtWmHg&expires=1760985301
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 14:00 Premier League – West Ham United vs Brentford – Canal 2
+https://kciwjj.5606087801.art:8443/hls/a31q9.m3u8?s=W_imXpKo94q9GPF0tMl0JQ&e=1760999732
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 14:00 Premier League – West Ham United vs Brentford – Canal 5 (HD)
+https://54b3.futebol12.nexus/espn/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 14:00 Premier League – West Ham United vs Brentford – Canal 6 (HD)
+https://u65r.futebol12.nexus/foxdeportes/index.m3u8?token=mLujZmtlMtPwEujNYTyyy
