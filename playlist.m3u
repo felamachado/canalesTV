@@ -2,24 +2,34 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – ESPN Premium
-https://d10.merichunidya.com:1686/hls/capespnprem.m3u8?md5=3zg66agmXqSYVxtvls8ZLA&expires=1761047131
+https://d2.merichunidya.com:1686/hls/capespnprem.m3u8?md5=EQbV_epP6AnXatv4sJfVqg&expires=1761049473
+#EXTINF:-1 tvg-name="Canal 29" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – Canal 29
+https://xxfxvn.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=iWNdUpwYUhyqXRF8MRRsWw&e=1761063883
 #EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – Canal 30 (HD)
-https://54b3.futebol12.nexus/espnpremium/index.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
-#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – Canal 31 (HD)
-https://naa2.vdcast.live/oVNthZF-dGRM9LZdRvEHxQ/1761068758/35372e3135312e3132382e323138/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – TNT Sports Argentina
-https://d10.merichunidya.com:1686/hls/captntarg.m3u8?md5=SVNi_Ha0EE6b5oqmtbUpxw&expires=1761047166
-#EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 33 (HD)
-https://k8o5.futebol12.nexus/tntar/index.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
-#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 34 (HD)
-https://naa2.vdcast.live/qAklfCIbi5fnLunkzSzxpQ/1761068790/35372e3135312e3132382e323138/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – ESPN Premium
-https://d6.merichunidya.com:1686/hls/capespnprem.m3u8?md5=WxEaD7WNFXhnTAMBarliYg&expires=1761047198
-#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 12 (HD)
 https://u65r.futebol12.nexus/espnpremium/index.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
+#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs Instituto – Canal 31 (HD)
+https://naa2.vdcast.live/IPgRbOHpG8i23yS79912tw/1761071101/3137322e3138342e3231392e3832/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – TNT Sports Argentina
+https://d6.merichunidya.com:1686/hls/captntarg.m3u8?md5=DY11PwesA3ugSW_Ac9WEDA&expires=1761049509
+#EXTINF:-1 tvg-name="Canal 32" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 32
+https://xxfxvn.5606087801.art:8443/hls/xkvfhc3.m3u8?s=HQOCZtLdR2YbylLJOsCmpw&e=1761063918
+#EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 33 (HD)
+https://54b3.futebol12.nexus/tntar/index.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
+#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Tigre vs Barracas Central – Canal 34 (HD)
+https://naa2.vdcast.live/e4yKflREjZdcNAWZimIFug/1761071136/3137322e3138342e3231392e3832/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – ESPN Premium
+https://d7.merichunidya.com:1686/hls/capespnprem.m3u8?md5=4Gl_xihnOMP9mkn-W9tF4A&expires=1761049543
+#EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 11
+https://xxfxvn.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=uOxZwsxompeCVYWMLb3cWQ&e=1761063952
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 12 (HD)
+https://czgs.futebol12.nexus/espnpremium/index.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Atletico Tucuman vs San Lorenzo – Canal 13 (HD)
-https://naa2.vdcast.live/Y7xRWLEKo3HUtMa5TQfk8g/1761068823/35372e3135312e3132382e323138/ff999/playlist.m3u8
+https://naa1.vdcast.live/u2NkWvprAoLwdq98DAg2ig/1761071171/3137322e3138342e3231392e3832/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – VTV Uruguay
+https://d8.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=oi9pxQ10uE-Etm7gNYhIZQ&expires=1761049579
+#EXTINF:-1 tvg-name="Canal 26" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – Canal 26
+https://xxfxvn.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=W43HurhDH7UT0q6IpMm3PA&e=1761063988
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – Canal 27 (HD)
 https://k8o5.futebol12.nexus/disney7/index.m3u8?token=RbRnF2wJ6QJnX97gq4L66ekscXgPQhb7S2wrE3qv639b
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Plaza Colonia vs Liverpool Montevideo – Canal 28 (HD)
-https://naa2.vdcast.live/FKDCRNV5ImePD3jsXYclxQ/1761068854/35372e3135312e3132382e323138/ff999/playlist.m3u8
+https://naa2.vdcast.live/NXjJQ5I7QiiHWeRNaEnvUg/1761071205/3137322e3138342e3231392e3832/ff999/playlist.m3u8
