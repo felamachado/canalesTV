@@ -1,1 +1,63 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Formula 1
+https://d2.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=vtmtwdJicvAmUNcknsvS_A&expires=1761337828
+#EXTINF:-1 tvg-name="Canal 9" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 9
+https://gaz2.vdcast.live/BFBqw0Jpn5fvhynn49aR3g/1761359437/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 10 (HD)
+https://yjaacbk.234276133.fit:8443/hls/0x0agb9il.m3u8?s=cfqyP6DAfan8TKtAu2Zatw&e=1761352246
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 11 (HD)
+https://nfvwmx.futebol12.nexus/disney10/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 12 (HD)
+https://gaz1.vdcast.live/JE6ajJTIk3pfsmy3Tyye_Q/1761359463/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 17:00 Formula 1 – Gran Premio de Mexico, Practica Libre – Formula 1
+https://d5.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=thccfhY5jbIyi7GhRRCmAw&expires=1761337870
+#EXTINF:-1 tvg-name="Canal 9" group-title="Formula 1", 17:00 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 9
+https://gaz1.vdcast.live/_a01Vsk6R5Azlzc_094cFw/1761359480/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Formula 1", 17:00 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 10 (HD)
+https://yjaacbk.234276133.fit:8443/hls/0x0agb9il.m3u8?s=ktd-8Tf7YAWd_IBLQ5qVDg&e=1761352288
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Formula 1", 17:00 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 11 (HD)
+https://hsmycbcx.futebol12.nexus/disney10/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Formula 1", 17:00 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 12 (HD)
+https://gaz1.vdcast.live/g9S6q0G1ALwfNpJMO-wZhw/1761359505/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Real Sociedad vs Sevilla – Canal 1
+https://d10.merichunidya.com:1686/hls/capodeportes.m3u8?md5=aXW-sbxPDHV_jVNfI2pTew&expires=1761337912
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Real Sociedad vs Sevilla – Canal 2
+https://yjaacbk.234276133.fit:8443/hls/wlloso4ptv7ory.m3u8?s=nqPJ5ezzI8ZUpTdBXPh8Ow&e=1761352321
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Sociedad vs Sevilla – Canal 3 (HD)
+https://8c51.crackstreamslivehd.com/global/espn3/index.m3u8?token=0126f982679e8873b655511d3ffce041136e9c4c-d5-1761375731-1761321731&ip=135.232.232.68
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Real Sociedad vs Sevilla – Canal 5 (HD)
+https://gaz1.vdcast.live/PqK5hi5PkQfPl44tibXrlw/1761359545/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:30 LaLiga 2 – Huesca vs Las Palmas – Deportes Plus
+https://d6.merichunidya.com:1686/hls/capoplus.m3u8?md5=458gKaqZVJ78srWr5x_Ruw&expires=1761337959
+#EXTINF:-1 tvg-name="Canal 13" group-title="LaLiga 2", 13:30 LaLiga 2 – Huesca vs Las Palmas – Canal 13
+https://gaz1.vdcast.live/Om56GEWoZHDnxbbnZFWcNQ/1761359569/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Huesca vs Las Palmas – Canal 14 (HD)
+https://54b3.futebol12.nexus/disney11/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="LaLiga 2", 13:30 LaLiga 2 – Huesca vs Las Palmas – Canal 15 (HD)
+https://yjaacbk.234276133.fit:8443/hls/pu1sgwiscq0e.m3u8?s=HN-EI0J0cPufNSaeRdozSA&e=1761352385
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 16:00 Liga de Argentina – Independiente vs Platense – TNT Sports Argentina
+https://d9.merichunidya.com:1686/hls/captntarg.m3u8?md5=OImp2tnjksjmdpF11d5HhQ&expires=1761337994
+#EXTINF:-1 tvg-name="Canal 30" group-title="Liga de Argentina", 16:00 Liga de Argentina – Independiente vs Platense – Canal 30
+https://gaz1.vdcast.live/7iPNo08ECAVD2tqNdMToRQ/1761359603/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Independiente vs Platense – Canal 31 (HD)
+https://hsmycbcx.futebol12.nexus/disney12/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Independiente vs Platense – Canal 32 (HD)
+https://gaz2.vdcast.live/x0_87w7DqsZKY-w5fTTqPg/1761359618/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Defensor Sporting vs Montevideo City Torque – VTV Uruguay
+https://d7.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=PqMjTMBhfd6Uhcl9FFp_lg&expires=1761338026
+#EXTINF:-1 tvg-name="Canal 36" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Defensor Sporting vs Montevideo City Torque – Canal 36
+https://gaz1.vdcast.live/3ppQ0Al6xQ2Ju_o1pEDMWQ/1761359635/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Defensor Sporting vs Montevideo City Torque – Canal 37 (HD)
+https://yjaacbk.234276133.fit:8443/hls/jv27oczy7c.m3u8?s=Alegr4H1o4M3rOyp-5QloQ&e=1761352443
+#EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Defensor Sporting vs Montevideo City Torque – Canal 38 (HD)
+https://nfvwmx.futebol12.nexus/disney4/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 14:00 Premier League – Leeds United vs West Ham United – Canal 1
+https://d9.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=3chuqpQLgEw0UQpVn8c6Aw&expires=1761338059
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 14:00 Premier League – Leeds United vs West Ham United – Canal 2
+https://yjaacbk.234276133.fit:8443/hls/pu1sgwiscq0e.m3u8?s=wZsSrX2kksDMxUS2Vwql4A&e=1761352469
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 14:00 Premier League – Leeds United vs West Ham United – Canal 3 (HD)
+https://florcd1.crackstreamslivehd.com/global/espn2/index.m3u8?token=82d53c724dc2539d0cbcfb4bedf8d8206c63afef-43-1761375879-1761321879&ip=135.232.232.68
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 14:00 Premier League – Leeds United vs West Ham United – Canal 5 (HD)
+https://gaz1.vdcast.live/Vs8b2OxMOjn_7Vx88CiDCA/1761359692/3133352e3233322e3233322e3638/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 14:00 Premier League – Leeds United vs West Ham United – Canal 6 (HD)
+https://plu1.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=1b342c636f15fe28caec7036d2a6df0ceb07dc77178a7eec3b4a0191cb96bc87c1df658a5389f8d0233e8ba607121048edc4757aee3542918952014d295b5977
