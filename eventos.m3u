@@ -1,47 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 12:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Formula 1
-https://d3.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=vnNw64VsAULKHV7rc-bRsg&expires=1761431081
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 12:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 7 (HD)
-https://doc1.crackstreamslivehd.com/global/espn2/index.m3u8?token=7a3173c8720e6920c151f6bffd9f7a3b93f9f846-5d-1761468898-1761414898&ip=172.182.212.2
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 12:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 8 (HD)
-https://ohvwpw.futebol12.nexus/skyf1mx/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 12:30 Formula 1 – Gran Premio de Mexico, Practica Libre – Canal 9 (HD)
-https://haz1.vdcast.live/LRLDakERdXlC2BczC2dFfg/1761452714/3137322e3138322e3231322e32/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Formula 1
+https://d1.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=bYKcjWKChg2540it_3i_fA&expires=1761432244
+#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 6
+https://osoukr.7380990745.xyz:8443/hls/2twhx.m3u8?s=UP_bp2gM8PmDhNlPr-l33Q&e=1761446655
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 7 (HD)
+https://51a1.crackstreamslivehd.com/global/espn2/index.m3u8?token=d9278b83133720dec87c7bdd3e9f3ca3fc030baf-fe-1761470064-1761416064&ip=20.109.86.225
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 8 (HD)
+https://fastern.futebol12.nexus/skyf1mx/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 16:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 9 (HD)
+https://haz2.vdcast.live/qkUUmvaLNe129yjFb7YgSw/1761453880/32302e3130392e38362e323235/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 14:00 LaLiga – Valencia vs Villarreal – Canal 1
-https://d8.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=T5wuFRWQjoxW4jcrKClbyQ&expires=1761431121
+https://d3.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=8EFKbwiG1AdKaosIvxNwvQ&expires=1761432288
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 14:00 LaLiga – Valencia vs Villarreal – Canal 2
-https://arzzmm.6670391863.store:8443/hls/pu1sgwiscq0e.m3u8?s=XGI6V7RJnK0OnMJjgnlzJg&e=1761445531
+https://osoukr.7380990745.xyz:8443/hls/pu1sgwiscq0e.m3u8?s=9G5m8VMwCIgYVI3MaX2ttA&e=1761446698
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 14:00 LaLiga – Valencia vs Villarreal – Canal 3 (HD)
-https://98ca2.crackstreamslivehd.com/global/espn2/index.m3u8?token=56f06e9acbc7049c8dd543711f5d7c8fbd6bf4ed-ae-1761468942-1761414942&ip=172.182.212.2
+https://pecdl1.crackstreamslivehd.com/global/espn2/index.m3u8?token=d3ce5c4514f0c3a13480ccb4aa8d570093cdeafe-d6-1761470108-1761416108&ip=20.109.86.225
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 14:00 LaLiga – Valencia vs Villarreal – Canal 4 (HD)
-https://czgs.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://nfvwmx.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 14:00 LaLiga – Valencia vs Villarreal – Canal 5 (HD)
-https://haz2.vdcast.live/ILBzWKj2wMGJz7JFmjSgSA/1761452758/3137322e3138322e3231322e32/ff999/playlist.m3u8
+https://haz2.vdcast.live/LJALVzkShqJoLxBmHY5B9A/1761453925/32302e3130392e38362e323235/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 14:00 LaLiga – Valencia vs Villarreal – Canal 6 (HD)
-https://muc200.myluck1.top:8088/live/ligaes3/playlist.m3u8?id=122668&pk=3bdb77db08fe867dfbb8edb18312dac74a597a5918ae8fca4b9fa09a3c5b36b2846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
+https://muc200.myluck1.top:8088/live/ligaes3/playlist.m3u8?id=122668&pk=0f7b500c14a88feb91c7c3d3cc041f3be12a075a6a8b8f10246d35ca917037a6846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Mirandes vs Racing Santander – Deportes Plus
-https://d9.merichunidya.com:1686/hls/capoplus.m3u8?md5=3IjkfFnqnF76bBJ43bDpLw&expires=1761431173
+https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=_HGFwb7IXCpqmsixqzz2lQ&expires=1761432341
 #EXTINF:-1 tvg-name="Canal 17" group-title="LaLiga 2", 14:00 LaLiga 2 – Mirandes vs Racing Santander – Canal 17
-https://muc100.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=3bdb77db08fe867dfbb8edb18312dac74a597a5918ae8fca4b9fa09a3c5b36b2846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
+https://muc200.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=0f7b500c14a88feb91c7c3d3cc041f3be12a075a6a8b8f10246d35ca917037a6846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
 #EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Mirandes vs Racing Santander – Canal 18 (HD)
-https://ohvwpw.futebol12.nexus/hyper1/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://nfvwmx.futebol12.nexus/hyper1/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Mirandes vs Racing Santander – Canal 19 (HD)
-https://haz1.vdcast.live/9sZEpXCSV5Z_zeXRsAo05A/1761452797/3137322e3138322e3231322e32/ff999/playlist.m3u8
+https://haz1.vdcast.live/tLB347sRdc0D0woziICSBg/1761453967/32302e3130392e38362e323235/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Cerro vs PeÃ±arol – VTV Uruguay
-https://d6.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=D3Vf-clPTIzYbYvIOXFiQA&expires=1761431198
+https://d1.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=WdXCI8xiI-xUMIHkHhTOPQ&expires=1761432371
 #EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Cerro vs PeÃ±arol – Canal 23
-https://arzzmm.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=9SVe8hKRKTmBHqEOLAXqxg&e=1761445614
+https://osoukr.7380990745.xyz:8443/hls/543hcacrbrvfw.m3u8?s=MrrdTHsHGSs2qKjDyGKXjg&e=1761446785
 #EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Cerro vs PeÃ±arol – Canal 24 (HD)
-https://k8o5.futebol12.nexus/disney3/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://nskzbm.futebol12.nexus/disney3/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Uruguay", 14:00 Liga de Uruguay – Cerro vs PeÃ±arol – Canal 25 (HD)
-https://haz1.vdcast.live/KGNHAqOY69MRjGJIUPslPQ/1761452832/3137322e3138322e3231322e32/ff999/playlist.m3u8
+https://haz2.vdcast.live/g_ynA2RKaaZR4OTX_3NFLQ/1761454003/32302e3130392e38362e323235/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Cerro Largo vs Racing Montevideo – VTV Uruguay
+https://d7.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=2nt6tX-u5qjj130SYrci9A&expires=1761432405
+#EXTINF:-1 tvg-name="Canal 16" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Cerro Largo vs Racing Montevideo – Canal 16
+https://haz2.vdcast.live/r9qVPF6NRYehzNIFCG6Kaw/1761454020/32302e3130392e38362e323235/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Cerro Largo vs Racing Montevideo – Canal 17 (HD)
+https://plu2.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=0f7b500c14a88feb91c7c3d3cc041f3be12a075a6a8b8f10246d35ca917037a6846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Cerro Largo vs Racing Montevideo – Canal 18 (HD)
+https://nskzbm.futebol12.nexus/hyper1/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 14:00 Premier League – Brentford vs Liverpool – Canal 1
-https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=ePKr1egYWXHcvnYHTcO6YQ&expires=1761431239
+https://d9.merichunidya.com:1686/hls/capodeportes.m3u8?md5=P9gOJCJZ_n5Ny3N2u5LB7g&expires=1761432443
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 14:00 Premier League – Brentford vs Liverpool – Canal 2
-https://arzzmm.6670391863.store:8443/hls/a31q9.m3u8?s=eg-kFKlTBffAVz1XhX2e-Q&e=1761445649
+https://osoukr.7380990745.xyz:8443/hls/a31q9.m3u8?s=aPZOfgAryG4Sw2_uP9U7lg&e=1761446853
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Liverpool – Canal 4 (HD)
-https://51a1.crackstreamslivehd.com/global/espn/index.m3u8?token=e1be3a4e95cbb025922cc0f130c579ad2edb7f39-d9-1761469067-1761415067&ip=172.182.212.2
+https://99a1.crackstreamslivehd.com/global/espn/index.m3u8?token=3e4a1418cd86b9b9050688ea045765d360edf644-5a-1761470271-1761416271&ip=20.109.86.225
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Liverpool – Canal 5 (HD)
-https://ohvwpw.futebol12.nexus/max2/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://nfvwmx.futebol12.nexus/max2/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 14:00 Premier League – Brentford vs Liverpool – Canal 6 (HD)
-https://muc100.myluck1.top:8088/live/premierhn1/playlist.m3u8?id=122640&pk=3bdb77db08fe867dfbb8edb18312dac74a597a5918ae8fca4b9fa09a3c5b36b2846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
+https://plu1.myluck1.top:8088/live/premierhn1/playlist.m3u8?id=122640&pk=0f7b500c14a88feb91c7c3d3cc041f3be12a075a6a8b8f10246d35ca917037a6846c20aba4b6f20f6d3a9df3a777544a1fab3d396350a8b539f754df022f527b
