@@ -1,27 +1,51 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 1
-https://d3.merichunidya.com:1686/hls/capodeportes.m3u8?md5=a5C5xRAPi-2Y4Lv6ir0UpA&expires=1761504301
+https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=OxEXzsDcK0ykzLKbqY0KEA&expires=1761506411
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 2
-https://cnfobm.5606087801.art:8443/hls/o7ft3fp.m3u8?s=x4aScLXso4woVyjvtCoDMQ&e=1761518713&__PROXY_IDENTIFIER__=true
+https://bdrgqp.6670391863.store:8443/hls/o7ft3fp.m3u8?s=8BrPseEJHDnlZrGn_zzzlA&e=1761520829&__PROXY_IDENTIFIER__=true
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=b94321ad16e4ac91fc3b015887419fef60db4b3e-11-1761542127-1761488127&ip=172.184.210.212
+https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=bf86aceb5f8fa61fd7cbf900a747349a695b9341-65-1761544241-1761490241&ip=52.159.229.51
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 4 (HD)
+https://fastern.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 5 (HD)
-https://rm8zcvk3.fubohd.com/espndeportes/mono.m3u8?token=cf0eb68384790e29edb468d8224fe9a38aed8093-11-1761514242-1761496242
+https://agvyby.fubohd.com/espndeportes/mono.m3u8?token=4c318f577472c065ccd3292ee4b32e73ba9e88a2-9-1761516357-1761498357
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 6 (HD)
-https://nfvwmx.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://fastern.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 12:30 LaLiga – Osasuna vs Celta Vigo – Canal 1
+https://d9.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=TNMSi3A7FXhqAep14UD69g&expires=1761506483
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 12:30 LaLiga – Osasuna vs Celta Vigo – Canal 2
+https://bdrgqp.6670391863.store:8443/hls/4jva7tj642f9b.m3u8?s=eUz-mxIRZLkWzPyRvXQvAw&e=1761520903
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 12:30 LaLiga – Osasuna vs Celta Vigo – Canal 3 (HD)
+https://doc1.crackstreamslivehd.com/global/dsports/index.m3u8?token=e6faf3a3787f28d091f6f8abd3e1d403230281ae-80-1761544312-1761490312&ip=52.159.229.51
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 12:30 LaLiga – Osasuna vs Celta Vigo – Canal 4 (HD)
+https://nfvwmx.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 12:30 LaLiga – Osasuna vs Celta Vigo – Canal 5 (HD)
+https://iaz1.vdcast.live/-UYr1DhBm0fGoOgG0jyUPA/1761528129/35322e3135392e3232392e3531/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 12:30 LaLiga 2 – Sporting Gijon vs Real Zaragoza – Deportes Plus
+https://d5.merichunidya.com:1686/hls/capoplus.m3u8?md5=gVhfNHYruGuNGU4LzMtgCQ&expires=1761506542
+#EXTINF:-1 tvg-name="Canal 17" group-title="LaLiga 2", 12:30 LaLiga 2 – Sporting Gijon vs Real Zaragoza – Canal 17
+https://iaz1.vdcast.live/AD6vz7FjQW-jrTlwXaregg/1761528154/35322e3135392e3232392e3531/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Sporting Gijon vs Real Zaragoza – Canal 19 (HD)
+https://ssvmhira.futebol12.nexus/disney7/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 12:30 LaLiga 2 – Almeria vs Castellon – Deportes Plus
+https://d8.merichunidya.com:1686/hls/capoplus.m3u8?md5=4Vz3AgfiYEK3DTv4LliMRg&expires=1761506574
+#EXTINF:-1 tvg-name="Canal 20" group-title="LaLiga 2", 12:30 LaLiga 2 – Almeria vs Castellon – Canal 20
+https://iaz1.vdcast.live/seevNgDrvntofqnhMDcvuw/1761528186/35322e3135392e3232392e3531/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Almeria vs Castellon – Canal 22 (HD)
+https://nskzbm.futebol12.nexus/disney5/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 11:30 Liga de Uruguay – Danubio vs River Plate – VTV Uruguay
-https://d11.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=JpJDL-i2K0oxRYCPfnlR8w&expires=1761504367
+https://d13.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=4QlYnI3BsKCEwIGica6ACA&expires=1761506604
 #EXTINF:-1 tvg-name="Canal 8" group-title="Liga de Uruguay", 11:30 Liga de Uruguay – Danubio vs River Plate – Canal 8
-https://cnfobm.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=WGZYmUwihkReH7wN4e1UdQ&e=1761518781
+https://bdrgqp.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=7sucs6gciEckFqKrX4nXEw&e=1761521019
 #EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Liga de Uruguay", 11:30 Liga de Uruguay – Danubio vs River Plate – Canal 9 (HD)
-https://nfvwmx.futebol12.nexus/disney20/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://fastern.futebol12.nexus/disney20/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Uruguay", 11:30 Liga de Uruguay – Danubio vs River Plate – Canal 10 (HD)
-https://iaz2.vdcast.live/Nyu7ZDgiZse0qi4UJAcfxQ/1761526001/3137322e3138342e3231302e323132/ff999/playlist.m3u8
+https://iaz2.vdcast.live/M28IXAIi8KhjOWT2v5ThSg/1761528239/35322e3135392e3232392e3531/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 11:30 Premier League – Everton vs Tottenham Hotspur – Canal 1
-https://d6.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=dVF-2WcYsahU1GwgElaqew&expires=1761504409
+https://d10.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=6SwTuFF6rZpYMI9IK1_etg&expires=1761506640
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 11:30 Premier League – Everton vs Tottenham Hotspur – Canal 2
-https://cnfobm.5606087801.art:8443/hls/pu1sgwiscq0e.m3u8?s=wAdlDHXxKSueRn7JvvXGeQ&e=1761518818
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 11:30 Premier League – Everton vs Tottenham Hotspur – Canal 4 (HD)
-https://8c51.crackstreamslivehd.com/global/espn2/index.m3u8?token=f4fb0cb585a50ca694d258896d0869133b676368-cb-1761542239-1761488239&ip=172.184.210.212
+https://bdrgqp.6670391863.store:8443/hls/pu1sgwiscq0e.m3u8?s=DIOOgG6UxyaDInV94X1rhg&e=1761521057
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 11:30 Premier League – Everton vs Tottenham Hotspur – Canal 5 (HD)
-https://nfvwmx.futebol12.nexus/tntmx/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://hsmycbcx.futebol12.nexus/tntmx/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 11:30 Premier League – Everton vs Tottenham Hotspur – Canal 6 (HD)
+https://iaz1.vdcast.live/vY5vdqSPIOzYDdW1ZqoHhA/1761528290/35322e3135392e3232392e3531/ff999/playlist.m3u8
