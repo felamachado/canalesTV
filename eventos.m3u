@@ -1,61 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 08:00 LaLiga – Mallorca vs Levante – Canal 1
-https://d3.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=LFAv-DHQSo33VptkCUdA1g&expires=1761496923
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 08:00 LaLiga – Mallorca vs Levante – Canal 2
-https://cnfobm.5606087801.art:8443/hls/4jva7tj642f9b.m3u8?s=jeP2broL7Z5jUFsfU6bwaQ&e=1761511334
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 08:00 LaLiga – Mallorca vs Levante – Canal 3 (HD)
-https://14c51.crackstreamslivehd.com/global/dsports/index.m3u8?token=6587acddb089a335a5e74b32a2be8a36e0d0633a-a8-1761534744-1761480744&ip=135.232.200.193
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 08:00 LaLiga – Mallorca vs Levante – Canal 4 (HD)
-https://nskzbm.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 08:00 LaLiga – Mallorca vs Levante – Canal 5 (HD)
-https://iaz1.vdcast.live/rJax93Wg5bSLy7Z9bx0o0Q/1761518560/3133352e3233322e3230302e313933/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 1
-https://d5.merichunidya.com:1686/hls/capodeportes.m3u8?md5=vVy87FiKy5yD-HSL5UOPxA&expires=1761496968
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=zFBiB-JBtKIhVwdUY1HX0g&expires=1761499357
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 2
-https://cnfobm.5606087801.art:8443/hls/o7ft3fp.m3u8?s=GbG_1AJECkz6keTZT4SElw&e=1761511377&__PROXY_IDENTIFIER__=true
+https://qbkunwt.234276133.fit:8443/hls/o7ft3fp.m3u8?s=DV0CfXF0ZtsOz3UaIP_Nag&e=1761513771&__PROXY_IDENTIFIER__=true
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 3 (HD)
-https://57b1.crackstreamslivehd.com/global/espn/index.m3u8?token=4c4ecdabedad577175407a8306d472697576b815-c3-1761534787-1761480787&ip=135.232.200.193
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 4 (HD)
-https://4.betzta.com/espndeportes/mono.m3u8?token=55af50d20ea5e94fa6cf49bea7c00b734bd1c5e6-9-1761506894-1761488894
+https://8c51.crackstreamslivehd.com/global/espn/index.m3u8?token=bab189a3fae92ecc4bac8fbaacc01e22e09220be-01-1761537197-1761483197&ip=172.183.95.144
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 5 (HD)
-https://k8o5.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://3.betzta.com/espndeportes/mono.m3u8?token=1c0b62bf0ed803237ea89aa43f3c033edc00ac26-87-1761509311-1761491311
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 6 (HD)
+https://czgs.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 7 (HD)
-https://nskzbm.futebol12.nexus/tudnus/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 8 (HD)
-https://d3.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=cERp6O-40CG4tuVl76rz3w&expires=1761497023
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 08:00 LaLiga 2 – Malaga vs Andorra – Deportes Plus
-https://d6.merichunidya.com:1686/hls/capoplus.m3u8?md5=0HUeV3oEUJZEiipIyfQ2FA&expires=1761497031
-#EXTINF:-1 tvg-name="Canal 12" group-title="LaLiga 2", 08:00 LaLiga 2 – Malaga vs Andorra – Canal 12
-https://plu01.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=6c4fa049d8514aed7d465adcebe7db24248e63f333fd89582fe109cfab829b7ad4205bb26af23eecf1430d5d802f3d7dc1447b41ac463e2f7652865a1256c949
-#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Malaga vs Andorra – Canal 13 (HD)
-https://5.betzta.com/hypermotion1/mono.m3u8?token=57c69de76e1fe9ce2fcf29d3e559f717efe7d905-5e-1761506948-1761488948
-#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Malaga vs Andorra – Canal 14 (HD)
-https://iaz2.vdcast.live/d2mJy_-r63IpZzEQh-xiWA/1761518658/3133352e3233322e3230302e313933/ff999/playlist.m3u8
+https://muc2000.myluck1.top:8088/live/ligaes3/playlist.m3u8?id=122668&pk=684cefd0fb5735e4eea1155788e6bef93e1caa0a12399bef5468e51d7b6d34cad4205bb26af23eecf1430d5d802f3d7dc1447b41ac463e2f7652865a1256c949
 #EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 09:00 Premier League – Aston Villa vs Manchester City – Canal 1
-https://d1.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=6aRffX4VWmZgSkOLIwoQ5Q&expires=1761497065
+https://d7.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=GclmV9ygwKEEsTC8Jb7LbQ&expires=1761499484
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – Aston Villa vs Manchester City – Canal 2
-https://cnfobm.5606087801.art:8443/hls/80yp1j.m3u8?s=C9Lq3BA8-FgFu_NQmxIwKQ&e=1761511475
+https://qbkunwt.234276133.fit:8443/hls/80yp1j.m3u8?s=5C6nrSWeH9V_wst_4fnWUg&e=1761513895
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – Aston Villa vs Manchester City – Canal 4 (HD)
-https://czgs.futebol12.nexus/disney6/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 09:00 Premier League – Aston Villa vs Manchester City – Canal 6 (HD)
-https://iaz1.vdcast.live/pCsWIuOU8ThQ7zhgyaYcSg/1761518707/3133352e3233322e3230302e313933/ff999/playlist.m3u8
+https://ssvmhira.futebol12.nexus/disney6/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 09:00 Premier League – Arsenal vs Crystal Palace – Canal 1
-https://d5.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=01vXYYh8vM2NOlDGCgBByg&expires=1761497114
+https://d4.merichunidya.com:1686/hls/capodeportes3.m3u8?md5=h21D0LLk2wB0kXCGIArJkg&expires=1761499529
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – Arsenal vs Crystal Palace – Canal 2
-https://cnfobm.5606087801.art:8443/hls/yh3o7p7.m3u8?s=3hGA1YrWFC6yuTcNmm8RmQ&e=1761511524
+https://qbkunwt.234276133.fit:8443/hls/yh3o7p7.m3u8?s=HdUq3PiwghBS8ZY4KUcpeg&e=1761513943
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – Arsenal vs Crystal Palace – Canal 4 (HD)
-https://54b3.futebol12.nexus/disney4/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 09:00 Premier League – Arsenal vs Crystal Palace – Canal 5 (HD)
-https://iaz1.vdcast.live/axIzVlWz1WCMfGgESeqT8g/1761518749/3133352e3233322e3230302e313933/ff999/playlist.m3u8
+https://nskzbm.futebol12.nexus/disney4/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Liga de Campeones 6" group-title="Premier League", 09:00 Premier League – AFC Bournemouth vs Nottingham Forest – Liga de Campeones 6
-https://d4.merichunidya.com:1686/hls/capocampeones6.m3u8?md5=ikbsaRosQbkMFOFReEU5jA&expires=1761497163
-#EXTINF:-1 tvg-name="Canal 17" group-title="Premier League", 09:00 Premier League – AFC Bournemouth vs Nottingham Forest – Canal 17
-https://iaz2.vdcast.live/4UOQSCig2IR1JyrxPvs65g/1761518773/3133352e3233322e3230302e313933/ff999/playlist.m3u8
+https://d9.merichunidya.com:1686/hls/capocampeones6.m3u8?md5=sVMnWs-hItVfBz7jAMH7Vg&expires=1761499598
 #EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Premier League", 09:00 Premier League – AFC Bournemouth vs Nottingham Forest – Canal 19 (HD)
-https://54b3.futebol12.nexus/disney7/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://ohvwpw.futebol12.nexus/disney7/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Burnley – Liga de Campeones 7
-https://d2.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=jonJAIPt2y7hfVMISLfC7g&expires=1761497194
+https://d2.merichunidya.com:1686/hls/capocampeones7.m3u8?md5=FGFpo9vn_wl23feTma9loA&expires=1761499653
 #EXTINF:-1 tvg-name="Canal 20" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Burnley – Canal 20
-https://iaz2.vdcast.live/-2uI9MibBk_5Yzkpc05U-g/1761518803/3133352e3233322e3230302e313933/ff999/playlist.m3u8
+https://iaz2.vdcast.live/qrBjs9PO-f6UMAwKqPEfkw/1761521264/3137322e3138332e39352e313434/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Burnley – Canal 22 (HD)
-https://k8o5.futebol12.nexus/disney5/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://czgs.futebol12.nexus/disney5/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
