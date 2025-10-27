@@ -2,20 +2,14 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 1
-https://d10.merichunidya.com:1686/hls/capodeportes.m3u8?md5=qzL1xSuu9fabJsRsoFHYjw&expires=1761599914
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=9Oz6UJwnnhqwGTSB8BgjTA&expires=1761601131
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 2
-https://maa1.vdcast.live/tzSgAWqZHhPSPI8FqE9bIg/1761621524/35322e3135392e3232352e323032/ff999/playlist.m3u8
+https://maa2.vdcast.live/dNOYAwhYQrSXBDzuYGHDzQ/1761622743/32302e35372e37372e313938/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 3 (HD)
-https://24a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=1602661570c4dea25530e88600c7c15d36397e9d-2e-1761637734-1761583734&ip=52.159.225.202
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 4 (HD)
-https://k8o5.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+https://51a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=02a58d6a08b4e2d6387265921a0b9e9202b4415f-dd-1761638954-1761584954&ip=20.57.77.198
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 6 (HD)
-https://anvtcax.fubohd.com/dsports/mono.m3u8?token=6414d3fe0b7a0431b8188357ac14923ebb4f364d-ac-1761609860-1761591860
+https://rm8zcvk3.fubohd.com/dsports/mono.m3u8?token=08c405eb1eb30e735b9a8e662dce6f217e401160-eb-1761611095-1761593095
 #EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Capo Deportes 2
-https://d8.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=fohrKy1H4c4ZKoSIDIxRRQ&expires=1761599960
+https://d1.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=6-iuRFz8TBW3gTpTst674w&expires=1761601232
 #EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 11
-https://maa2.vdcast.live/hez2GE2hduoqWLC08W8NTw/1761621576/35322e3135392e3232352e323032/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 12 (HD)
-https://ohvwpw.futebol12.nexus/espnpremium/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 13 (HD)
-https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=3721e0f66b427f258185575d57be109cdc7dc267-8d-1761637792-1761583792&ip=52.159.225.202
+https://maa2.vdcast.live/iNZBZLLUbaDsSKDr4_prrQ/1761622845/32302e35372e37372e313938/ff999/playlist.m3u8
