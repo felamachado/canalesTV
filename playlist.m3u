@@ -1,49 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 1
-https://d9.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=l9o8qbkfM0AG_VCFIBU22Q&expires=1761529191
-#EXTINF:-1 tvg-name="Canal 2" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 2
-https://tcxoov.6670391863.store:8443/hls/2twhx.m3u8?s=Ev_jd0gijt5tc00Rar7-rg&e=1761543606
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 3 (HD)
-https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=05c7ab56758f544db62c911adbc5c86fb9422f8b-57-1761567016-1761513016&ip=172.215.211.55
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 4 (HD)
-https://nfvwmx.futebol12.nexus/disney8/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 5 (HD)
-https://iaz1.vdcast.live/6oxSK5JuS_M2wuB4NwjS4A/1761550834/3137322e3231352e3231312e3535/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 6 (HD)
-https://muc2000.myluck1.top:8088/live/f1xfutdhn20/playlist.m3u8?id=122387&pk=0f6e0ecddf2c0564dce4b4815ade1c86de97010b197b26717843bebc4a91488ed4205bb26af23eecf1430d5d802f3d7dc1447b41ac463e2f7652865a1256c949
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 15:00 Formula 1 – Gran Premio de Mexico, Carrera – Canal 7 (HD)
-https://2.betzta.com/foxsports/mono.m3u8?token=78f8d8098e6dbd6734d50663692e1b715e39aeee-bd-1761539150-1761521150
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 1
-https://d6.merichunidya.com:1686/hls/capocampeones2.m3u8?md5=SBHdKYL8zU-7qRSA9iyw7Q&expires=1761529257
+https://d4.merichunidya.com:1686/hls/capocampeones2.m3u8?md5=qOp8ziazeUKlOO4tgt2xhg&expires=1761537285
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 2
-https://tcxoov.6670391863.store:8443/hls/o7ft3fp.m3u8?s=K26AFgai9WwC2Nzuf2UI6Q&e=1761543665&__PROXY_IDENTIFIER__=true
+https://pjxvijl.5606087801.art:8443/hls/o7ft3fp.m3u8?s=FalB_oVkqGRWBJI6g8zZbQ&e=1761551696&__PROXY_IDENTIFIER__=true
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 3 (HD)
-https://57b1.crackstreamslivehd.com/global/espn2/index.m3u8?token=2e93f9487bba1886a17836f3e83accd108f2ff0a-0a-1761567075-1761513075&ip=172.215.211.55
+https://doc1.crackstreamslivehd.com/global/espn2/index.m3u8?token=c310e649a021a45edcde66858b70bfdf20106327-15-1761575106-1761521106&ip=64.236.201.51
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 4 (HD)
-https://ohvwpw.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Deportivo Alaves – Canal 1
-https://d8.merichunidya.com:1686/hls/capodeportes5.m3u8?md5=9XTNe70RU4vdupK0c480eQ&expires=1761529290
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Deportivo Alaves – Canal 2
-https://tcxoov.6670391863.store:8443/hls/o7ft3fp.m3u8?s=jhgBS7uwnDlqPBdfAuX6Dw&e=1761543699&__PROXY_IDENTIFIER__=true
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Deportivo Alaves – Canal 3 (HD)
-https://57b1.crackstreamslivehd.com/global/dsports/index.m3u8?token=4c1854d4251ffcfea3135a3d28218a7f879de3cd-09-1761567108-1761513108&ip=172.215.211.55
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Deportivo Alaves – Canal 4 (HD)
-https://fastern.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Deportivo Alaves – Canal 5 (HD)
-https://iaz1.vdcast.live/ipPOQFWoQ4yibvK3sDBjog/1761550925/3137322e3231352e3231312e3535/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Deportivo Alaves – Canal 6 (HD)
-https://muc1000.myluck1.top:8088/live/ligaes3/playlist.m3u8?id=122668&pk=0f6e0ecddf2c0564dce4b4815ade1c86de97010b197b26717843bebc4a91488ed4205bb26af23eecf1430d5d802f3d7dc1447b41ac463e2f7652865a1256c949
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 15:00 LaLiga 2 – Deportivo La CoruÃ±a vs Real Valladolid – Deportes Plus
-https://d5.merichunidya.com:1686/hls/capoplus.m3u8?md5=gNW3U72d4ovz63g3f64OWw&expires=1761529340
-#EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Deportivo La CoruÃ±a vs Real Valladolid – Canal 47 (HD)
-https://iaz1.vdcast.live/Z8NrETu7Ie4IXM6kdvByJg/1761550963/3137322e3231352e3231312e3535/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Montevideo Wanderers vs Nacional – VTV Uruguay
-https://d13.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=4Bb5R569-wiFA5E-KE9Cfw&expires=1761529367
-#EXTINF:-1 tvg-name="Canal 17" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Montevideo Wanderers vs Nacional – Canal 17
-https://tcxoov.6670391863.store:8443/hls/543hcacrbrvfw.m3u8?s=TH7JJIGHQ3Z54zKrhGmJ0g&e=1761543780
-#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Montevideo Wanderers vs Nacional – Canal 18 (HD)
-https://nskzbm.futebol12.nexus/disney9/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Uruguay", 16:30 Liga de Uruguay – Montevideo Wanderers vs Nacional – Canal 19 (HD)
-https://iaz2.vdcast.live/mItKy5KeQPETi5XvwQt1tg/1761550997/3137322e3231352e3231312e3535/ff999/playlist.m3u8
+https://54b3.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – VTV Uruguay
+https://d15.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=wr9vwZYkStZwl-tWWFQmLQ&expires=1761537322
+#EXTINF:-1 tvg-name="Canal 47" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – Canal 47
+https://pjxvijl.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=t-Ajh_e-o7KQg90BICs52Q&e=1761551732
+#EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – Canal 48 (HD)
+https://54b3.futebol12.nexus/disney10/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – Canal 49 (HD)
+https://iaz2.vdcast.live/-0QuVxe0gKsKp3hwiFBnMQ/1761558949/36342e3233362e3230312e3531/ff999/playlist.m3u8
