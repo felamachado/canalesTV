@@ -1,15 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 1
-https://d2.merichunidya.com:1686/hls/capocampeones2.m3u8?md5=DtPyKCn11PwEYByeU2MAIw&expires=1761594161
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 3 (HD)
-https://pecdl1.crackstreamslivehd.com/global/espn2/index.m3u8?token=c0d806bd44bd5183ada1a0317ea5580c2773e255-16-1761631990-1761577990&ip=20.168.110.21
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Barcelona – Canal 4 (HD)
-https://fastern.futebol12.nexus/skylaliga/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – VTV Uruguay
-https://d14.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=AvO9WF7BV0Tkcsr467I15g&expires=1761594212
-#EXTINF:-1 tvg-name="Canal 48 (HD)" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – Canal 48 (HD)
-https://nskzbm.futebol12.nexus/disney10/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
-#EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Miramar Misiones vs Boston River – Canal 49 (HD)
-https://iaz2.vdcast.live/e7ZlOqySy_vqVxny8qcIwg/1761615850/32302e3136382e3131302e3231/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 1
+https://d2.merichunidya.com:1686/hls/capodeportes.m3u8?md5=6QsZAno48hlzjX0m8nxj1Q&expires=1761597198
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 2
+https://iaz1.vdcast.live/X2Wh4as9Ub9xWGB94ahHZg/1761618807/36342e3233362e3133312e323136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 3 (HD)
+https://99a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=76edb40b1843ce53827959a9b2a622c3a2e5abe2-33-1761635016-1761581016&ip=64.236.131.216
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 4 (HD)
+https://54b3.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 6 (HD)
+https://aw1wcm92zq.fubohd.com/dsports/mono.m3u8?token=1763db8a94f1e7a991232f1c19d836c22a4fae50-71-1761607169-1761589169
+#EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Capo Deportes 2
+https://d6.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=4VbEf9Z8jGvzXLHA-SJOZA&expires=1761597272
+#EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 11
+https://iaz2.vdcast.live/_i5mtxbvtbWvaBRIGUSSpw/1761618887/36342e3233362e3133312e323136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 12 (HD)
+https://ohvwpw.futebol12.nexus/espnpremium/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 13 (HD)
+https://99a1.crackstreamslivehd.com/global/espn/index.m3u8?token=8972be146ec4c72d1c8262c8adc06a1f9d3d2c7f-1a-1761635103-1761581103&ip=64.236.131.216
