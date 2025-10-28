@@ -2,20 +2,22 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 1
-https://d8.merichunidya.com:1686/hls/capodeportes.m3u8?md5=UGC1ZPiABy20ojfA7Pgluw&expires=1761657551
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=ADMckJKjcLLxo1pC1cRodQ&expires=1761658898
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 2
-https://maa1.vdcast.live/TzKMYhWDniDbnwt7bgRwGw/1761679166/3137322e3138342e3231332e313631/ff999/playlist.m3u8
+https://maa2.vdcast.live/km98MhMYX5C_PMLiIbU0JA/1761680509/35322e3233372e3134332e3535/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 3 (HD)
+https://doc1.crackstreamslivehd.com/global/dsports/index.m3u8?token=e29540eae54b925c6e6903dde44c91b0207af08e-30-1761696717-1761642717&ip=52.237.143.55
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 4 (HD)
 https://nskzbm.futebol12.nexus/espndeportes/index.m3u8?token=hsIbWJKWpIyrIzclDRUnNGzBDCTgNKjkTcQHnuQwINLMUCBQBu
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 5 (HD)
-https://plu02.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=c04a02cccdcf55656a4de8125a112f9a6e4f8ff9e7f91a5f44cc5a0b1c658dc4b09a25d943a5f80140c1579e2d79040c9f58845345cd0d6bee5be3ee1d1ced02
+https://muc2000.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=cc218b19db19119205544ed6622d4bae3c9c9a25a4aa2ca760eeba849f0e2d87b09a25d943a5f80140c1579e2d79040c9f58845345cd0d6bee5be3ee1d1ced02
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Betis vs Atletico Madrid – Canal 6 (HD)
-https://ym9yzq.fubohd.com/dsports/mono.m3u8?token=c5b3d84d375f364ddec67afeeca653699dcb8e02-85-1761667499-1761649499
+https://wp9xqedt.fubohd.com/dsports/mono.m3u8?token=441aa3f5e51b3574ea1337996f9eb918639c4f77-93-1761668841-1761650841
 #EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Capo Deportes 2
-https://d2.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=UIfmHrsUC3kVXD7wNV1ndQ&expires=1761657606
+https://d5.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=3-MUTJTnQkcHJRCL-fz0NQ&expires=1761658947
 #EXTINF:-1 tvg-name="Canal 11" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 11
-https://maa2.vdcast.live/U0wrQH9NWTPwAN4sS8ntZg/1761679215/3137322e3138342e3231332e313631/ff999/playlist.m3u8
+https://maa1.vdcast.live/Q57UH50IyrKJCEPQqDj2uw/1761680557/35322e3233372e3134332e3535/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 12 (HD)
-https://uwqgqq.5606087801.art:8443/hls/cv6msc.m3u8?s=AP9pFbd1rj8gBTfiiENieA&e=1761672024
+https://qbkunwt.234276133.fit:8443/hls/cv6msc.m3u8?s=KvJBGe8ZWd99M0yhwquQXQ&e=1761673365
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Argentina", 14:00 Liga de Argentina – Barracas Central vs Boca Juniors – Canal 13 (HD)
-https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=dc38c7606fcbb8383a3df20b98d8071d3320c76e-01-1761695434-1761641434&ip=172.184.213.161
+https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=05850f840ab248b4ff9f2b190665e0c48de38150-b6-1761696774-1761642774&ip=52.237.143.55
