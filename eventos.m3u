@@ -1,57 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 1
-https://d7.merichunidya.com:1686/hls/capodeportes.m3u8?md5=y_aUtnOKrSoxrNJJXC92dA&expires=1762040407
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 2
-https://uwqgqq.5606087801.art:8443/hls/4jva7tj642f9b.m3u8?s=jNVO05rYsd5hT7zBc-hcTQ&e=1762054817
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 3 (HD)
-https://51a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=a1f2cb064bf602d40ca22965cded4595b431c9c2-fa-1762078226-1762024226&ip=172.183.91.51
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=068984a63f799e284b8d0bbc998ebf141ea8a8c4-a9-1762078234-1762024234&ip=172.183.91.51
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 5 (HD)
-https://laz2.vdcast.live/X3nA60BFZzh3k_rvTwvYZw/1762062043/3137322e3138332e39312e3531/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 6 (HD)
-https://muc1000.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=62876fc840fca0ed2bb4f8d64fe3c12e1da91c39d6ac1fe1598fa923ddb01987fd2904c7e7a2f1f5bc7df774a3319c9dd02b888ede3ed417a2167dc033407ffb
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Real Madrid vs Valencia – Canal 6 (HD)
-https://rm8zcvk3.fubohd.com/espndeportes/mono.m3u8?token=8ea0991bde640506b7fe9f893da2fcd8be3e0242-54-1762050357-1762032357
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 15:00 LaLiga 2 – Almeria vs Eibar – Deportes Plus
-https://d4.merichunidya.com:1686/hls/capoplus.m3u8?md5=-5Vn2y8-DbNy62hTvqxrYw&expires=1762040462
-#EXTINF:-1 tvg-name="Canal 34" group-title="LaLiga 2", 15:00 LaLiga 2 – Almeria vs Eibar – Canal 34
-https://muc2000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=62876fc840fca0ed2bb4f8d64fe3c12e1da91c39d6ac1fe1598fa923ddb01987fd2904c7e7a2f1f5bc7df774a3319c9dd02b888ede3ed417a2167dc033407ffb
-#EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Almeria vs Eibar – Canal 35 (HD)
-https://aw1wcm92zq.fubohd.com/hypermotion1/mono.m3u8?token=d23c6f6c352265319ca1999caefa0bc78635d3f0-b9-1762050379-1762032379
-#EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Almeria vs Eibar – Canal 36 (HD)
-https://laz2.vdcast.live/TGT7l-fvsgwLiRat-3YcBQ/1762062085/3137322e3138332e39312e3531/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs Talleres – TNT Sports Argentina
-https://d2.merichunidya.com:1686/hls/captntarg.m3u8?md5=RAc1g6uCjYn0500oVRSW8A&expires=1762040487
-#EXTINF:-1 tvg-name="Canal 37" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs Talleres – Canal 37
-https://uwqgqq.5606087801.art:8443/hls/xkvfhc3.m3u8?s=vfDFPwfJkS3L0UcNQc6uWg&e=1762054900
-#EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs Talleres – Canal 38 (HD)
-https://57b1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=d2d11dbe2c57c981ee0157e2f9c8df8cc9720c6e-44-1762078310-1762024310&ip=172.183.91.51
-#EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs Talleres – Canal 39 (HD)
-https://laz1.vdcast.live/3LZz4C5BdgAwQOKhf7CfFw/1762062117/3137322e3138332e39312e3531/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Liverpool Montevideo vs Juventud – VTV Uruguay
-https://d7.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=H0gepdwADbkrx9VybDY4bA&expires=1762040524
-#EXTINF:-1 tvg-name="Canal 29" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Liverpool Montevideo vs Juventud – Canal 29
-https://uwqgqq.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=VwgOlhdOOXr9P5mkzHdFDw&e=1762054933
-#EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Liverpool Montevideo vs Juventud – Canal 30 (HD)
-https://8c51.crackstreamslivehd.com/global/disney13/index.m3u8?token=e8bfc8cb272f43f3908d53b1544519a1372b0f95-36-1762078342-1762024342&ip=172.183.91.51
-#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Liverpool Montevideo vs Juventud – Canal 31 (HD)
-https://laz2.vdcast.live/gkzvFTSt47SFud3HAuXIbA/1762062149/3137322e3138332e39312e3531/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – ESPN Premium
+https://d4.merichunidya.com:1686/hls/capespnprem.m3u8?md5=os6dnv2hBDSgWdZ1bRtfkw&expires=1762042837
+#EXTINF:-1 tvg-name="Canal 25" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – Canal 25
+https://laz2.vdcast.live/Gg8n_ARthTUVagoKeKBQWw/1762064450/32302e32352e3135332e3532/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – Canal 26 (HD)
+https://florcd1.crackstreamslivehd.com/global/premiere2/index.m3u8?token=74a33c5d4be1b524654c43ffd8db558ffee2bfdb-8b-1762080687-1762026687&ip=20.25.153.52
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – Canal 27 (HD)
+https://laz2.vdcast.live/-s416OHgn5R56mEHQ6VqRA/1762064498/32302e32352e3135332e3532/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – VTV Uruguay
-https://d2.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=CjUxNyEcoF8BwCrNkOiorg&expires=1762040555
+https://d8.merichunidya.com:1686/hls/wsmkmlfeed109.m3u8?md5=EMzToc3BENouwl6VF59LVw&expires=1762042898
 #EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – Canal 20
-https://uwqgqq.5606087801.art:8443/hls/543hcacrbrvfw.m3u8?s=gakX8LGu-7FJTP9YgkFNsQ&e=1762054965
+https://ryhmaif.234276133.fit:8443/hls/543hcacrbrvfw.m3u8?s=ehQO70oLAANoJr2oLkhVsA&e=1762057320
 #EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – Canal 21 (HD)
-https://florcd1.crackstreamslivehd.com/global/disney18/index.m3u8?token=0d9eba0811277a39e343af9a226bd26e2c5d9d9f-9a-1762078374-1762024374&ip=172.183.91.51
+https://51a1.crackstreamslivehd.com/global/disney18/index.m3u8?token=aaf56666a686754937370c71c4130e9f4dd0621a-37-1762080732-1762026732&ip=20.25.153.52
 #EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – Canal 22 (HD)
-https://laz1.vdcast.live/7kmrmq_O6UUZhp3bg--iag/1762062182/3137322e3138332e39312e3531/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 15:00 Premier League – Liverpool vs Aston Villa – Canal 1
-https://d4.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=sPwrqYwGwy6n19JYhUjJoA&expires=1762040584
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 15:00 Premier League – Liverpool vs Aston Villa – Canal 2
-https://uwqgqq.5606087801.art:8443/hls/a31q9.m3u8?s=Yj-gmCmtb5pSg4WGT5sPcg&e=1762054996
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 15:00 Premier League – Liverpool vs Aston Villa – Canal 4 (HD)
-https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=5d4b10cea27e819f50002361fd053723f2167190-ab-1762078413-1762024413&ip=172.183.91.51
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 15:00 Premier League – Liverpool vs Aston Villa – Canal 5 (HD)
-https://laz2.vdcast.live/4yCBNOQ-GxNIIJBpA607rQ/1762062220/3137322e3138332e39312e3531/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 15:00 Premier League – Liverpool vs Aston Villa – Canal 6 (HD)
-https://muc2000.myluck1.top:8088/live/premierhn1/playlist.m3u8?id=122640&pk=62876fc840fca0ed2bb4f8d64fe3c12e1da91c39d6ac1fe1598fa923ddb01987fd2904c7e7a2f1f5bc7df774a3319c9dd02b888ede3ed417a2167dc033407ffb
+https://laz2.vdcast.live/lr_fbiG6f9ztGaxtGw54IA/1762064541/32302e32352e3135332e3532/ff999/playlist.m3u8
