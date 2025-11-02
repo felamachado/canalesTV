@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – ESPN Premium
+https://d10.merichunidya.com:1686/hls/capespnprem.m3u8?md5=sp6uq55U0FDpQ5XO-v3sUQ&expires=1762068093
+#EXTINF:-1 tvg-name="Canal 25" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – Canal 25
+https://ghhuraj.234276133.fit:8443/hls/eka6jtsowcqgv6.m3u8?s=QHQqve75CHhKYEW7Ewtkeg&e=1762082503
+#EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – Canal 26 (HD)
+https://99a1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=869652c5ad8dece002c04fc3890f95258ec69b88-bf-1762105913-1762051913&ip=9.234.149.82
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Independiente vs Atletico Tucuman – Canal 27 (HD)
+https://laz1.vdcast.live/c-7nkDs3qKHn-4YTCKLojg/1762089721/392e3233342e3134392e3832/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – VTV Uruguay
+https://d11.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=5zz6B3GIWccad0QGin3ptw&expires=1762068129
+#EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – Canal 20
+https://ghhuraj.234276133.fit:8443/hls/543hcacrbrvfw.m3u8?s=YL9Fx5xxtsQTLD_7wSh5HA&e=1762082538
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – Canal 21 (HD)
+https://99a1.crackstreamslivehd.com/global/disney18/index.m3u8?token=be7d0864a9a280be736b03ec1bc5d398e7f3e7ab-30-1762105947-1762051947&ip=9.234.149.82
+#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Cerro vs Nacional – Canal 22 (HD)
+https://laz2.vdcast.live/StU1mbO4hwTLdxSwz7FWAQ/1762089755/392e3233342e3134392e3832/ff999/playlist.m3u8
