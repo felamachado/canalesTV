@@ -1,27 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 08:00 LaLiga – Levante vs Celta Vigo – Canal 1
+https://d3.merichunidya.com:1686/hls/capodeportes.m3u8?md5=eu02TvcswrW0au2VUgfMHA&expires=1762094522
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 08:00 LaLiga – Levante vs Celta Vigo – Canal 2
-https://dwqejs.6522236688.shop:8443/hls/4jva7tj642f9b.m3u8?s=hoQYDc9ouywtm6tbcpuklQ&e=1762105229
+https://sqkofy.7380990745.xyz:8443/hls/wlloso4ptv7ory.m3u8?s=20kTGUDDe6l7fTRJNNeztg&e=1762108934
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 08:00 LaLiga – Levante vs Celta Vigo – Canal 3 (HD)
-https://florcd1.crackstreamslivehd.com/global/dsports/index.m3u8?token=9dd5600b7af04d75d84c3cc6c1bfc66fdaa01133-42-1762128639-1762074639&ip=20.109.86.228
-#EXTINF:-1 tvg-name="Canal 6" group-title="LaLiga 2", 08:00 LaLiga 2 – Andorra vs Cadiz – Canal 6
-https://laz2.vdcast.live/30Eh0luOhEMKkt6COGdM2g/1762112577/32302e3130392e38362e323238/ff999/playlist.m3u8
+https://51a1.crackstreamslivehd.com/global/espn3/index.m3u8?token=fbda58f67f528e610986e77c09b3fc738688329a-df-1762132347-1762078347&ip=20.171.51.211
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 08:00 LaLiga – Levante vs Celta Vigo – Canal 4 (HD)
+https://57b1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=2815529c5063370156036a06c78cf6bda5159bf0-03-1762132356-1762078356&ip=20.171.51.211
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 08:00 LaLiga – Levante vs Celta Vigo – Canal 5 (HD)
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=YX4JBuWxInFn25jfO8TsYg&expires=1762094566
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 08:00 LaLiga – Levante vs Celta Vigo – Canal 6 (HD)
+https://d3.merichunidya.com:1686/hls/capodeportes.m3u8?md5=MOEedxQDTHO5V4lr3qtu3g&expires=1762094577
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 08:00 LaLiga 2 – Andorra vs Cadiz – Deportes Plus
+https://d9.merichunidya.com:1686/hls/capoplus.m3u8?md5=Hbdoek_jDnAbm3nFmwRIPg&expires=1762094588
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Andorra vs Cadiz – Canal 7 (HD)
-https://1.betzta.com/hypermotion1/mono.m3u8?token=67c06d8e5b5cca006db4881e0badf978caf212e3-3f-1762100884-1762082884
+https://4.betzta.com/hypermotion1/mono.m3u8?token=b8b90996d0592d21b9722ee3da79e2395355ba54-11-1762104508-1762086508
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Andorra vs Cadiz – Canal 8 (HD)
-https://laz1.vdcast.live/vbhtZHA2lluS4LGi0KsAPA/1762112593/32302e3130392e38362e323238/ff999/playlist.m3u8
+https://laz2.vdcast.live/BPgRU-nezBJ1__GHDQ-P8Q/1762116217/32302e3137312e35312e323131/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – River Plate vs Miramar Misiones – VTV Uruguay
-https://d13.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=imyYvKQhvPVo3mQ_v9I_bw&expires=1762091001
+https://d13.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=_nPBB39WQqdnRCz4vH05vQ&expires=1762094626
 #EXTINF:-1 tvg-name="Canal 9" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – River Plate vs Miramar Misiones – Canal 9
-https://dwqejs.6522236688.shop:8443/hls/wlloso4ptv7ory.m3u8?s=pbPGAFXVyQifgFa1QS2jBA&e=1762105438
+https://sqkofy.7380990745.xyz:8443/hls/543hcacrbrvfw.m3u8?s=-3Cvq00OdrcEyc1MDRAbQQ&e=1762109038
 #EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – River Plate vs Miramar Misiones – Canal 10 (HD)
-https://98ca2.crackstreamslivehd.com/global/disney10/index.m3u8?token=ee4133b9208b5f7b48dd3d1307724453fd8a0111-66-1762128848-1762074848&ip=20.109.86.228
+https://51a1.crackstreamslivehd.com/global/disney10/index.m3u8?token=6445606ba55fc7573f100837957d968160ea05c4-aa-1762132448-1762078448&ip=20.171.51.211
 #EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – River Plate vs Miramar Misiones – Canal 11 (HD)
-https://dwqejs.6522236688.shop:8443/hls/22hothctx.m3u8?s=SqoJsN7IGZcXTToIOZEuWg&e=1762105458
+https://sqkofy.7380990745.xyz:8443/hls/22hothctx.m3u8?s=isY-q9ggZWZQvDMgG82KuQ&e=1762109057
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 09:00 Premier League – West Ham United vs Newcastle United – Canal 1
+https://d1.merichunidya.com:1686/hls/capodeportes2.m3u8?md5=-xNdYAmCmtTz9UoSBbQUFw&expires=1762094688
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – West Ham United vs Newcastle United – Canal 2
-https://dwqejs.6522236688.shop:8443/hls/a31q9.m3u8?s=Qd_T4mrmWB4gALfYu1b5tQ&e=1762105546
+https://sqkofy.7380990745.xyz:8443/hls/a31q9.m3u8?s=YbiJ5921fYvgdg-vB0V82w&e=1762109101
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – West Ham United vs Newcastle United – Canal 4 (HD)
-https://florcd1.crackstreamslivehd.com/global/espn/index.m3u8?token=d1fdf34b803178e00adb219b733cd48b1dd06451-07-1762128993-1762074993&ip=20.109.86.228
+https://14c51.crackstreamslivehd.com/global/espn/index.m3u8?token=99a3b7daeb9b999c3d6927ed854d5c4370f83ef5-f8-1762132524-1762078524&ip=20.171.51.211
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 09:00 Premier League – West Ham United vs Newcastle United – Canal 5 (HD)
-https://laz1.vdcast.live/5QC-vb_Go2lyxeDx9ql3Cw/1762112803/32302e3130392e38362e323238/ff999/playlist.m3u8
+https://laz1.vdcast.live/i9nM1h__Ac-aRetOl3wb4Q/1762116334/32302e3137312e35312e323131/ff999/playlist.m3u8
