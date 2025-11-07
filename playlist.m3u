@@ -2,28 +2,46 @@
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
 #EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Brasil, Sprint – Formula 1
-https://d1.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=34MAKuWb9uWRfXnOtrSjjw&expires=1762551569
-#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Brasil, Sprint – Canal 6
-https://qbkunwt.234276133.fit:8443/hls/pu1sgwiscq0e.m3u8?s=6FXTKiDG0FDlPvDYWxp_rw&e=1762565980
+https://d1.merichunidya.com:1686/hls/capodeportes6.m3u8?md5=NxvxBh9LOJz4bpfuiD3Pgg&expires=1762554197
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Brasil, Sprint – Canal 7 (HD)
-https://14c51.crackstreamslivehd.com/global/espn2/index.m3u8?token=f509dc4999450a61b69de5ddf803adbd2b3a850e-7d-1762589389-1762535389&ip=20.55.15.97
+https://8c51.crackstreamslivehd.com/global/espn2/index.m3u8?token=8a185fbf1f8c8de9e89e47133f49c41d4c9aa84d-97-1762592019-1762538019&ip=104.209.5.145
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Brasil, Sprint – Canal 8 (HD)
-https://doc1.marsrivagg.click/fox1ar/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
+https://ktm7.marsrivagg.click/fox1ar/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
 #EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 13:30 Formula 1 – Gran Premio de Brasil, Sprint – Canal 9 (HD)
-https://raz2.vdcast.live/bUUrXbDN65IrBN4f72Ctdw/1762573207/32302e35352e31352e3937/ff999/playlist.m3u8
+https://raz2.vdcast.live/IzoGUyzzeDhO9tG6NRKSwA/1762575834/3130342e3230392e352e313435/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 1
+https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=fzM4M2adflkIci3Tb9-z0Q&expires=1762554242
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 3 (HD)
+https://pecdl1.crackstreamslivehd.com/global/espn2/index.m3u8?token=99553ffb6e0bb42fb7bdcb1e11dbf0d4d0d6af50-dd-1762592064-1762538064&ip=104.209.5.145
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 4 (HD)
+https://doc1.marsrivagg.click/espndeportes/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 5 (HD)
+https://raz2.vdcast.live/JfseGl24RY37V7nmxvs9Hw/1762575881/3130342e3230392e352e313435/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 6 (HD)
+https://mut1000.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=cb43e94278ebec23604b4906361f43935466edb8f1ed370d03ce1aff21139b134a60f9161118b1373c16c26849315eb641f91b953350cd102a0a89dd66be15f7
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:30 LaLiga 2 – Mirandes vs Sporting Gijon – Deportes Plus
-https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=b2YTPyZm4FHlLdCrfB9zDA&expires=1762551614
+https://d1.merichunidya.com:1686/hls/capoplus.m3u8?md5=diYsxvbmf2zTU0UWUQdItg&expires=1762554297
 #EXTINF:-1 tvg-name="Canal 16" group-title="LaLiga 2", 14:30 LaLiga 2 – Mirandes vs Sporting Gijon – Canal 16
-https://muc2000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=6c2e992b5cc01960819fe779852c7ccad06e33701dbedd5da61d6dd59587a7044a60f9161118b1373c16c26849315eb641f91b953350cd102a0a89dd66be15f7
+https://muc1000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=cb43e94278ebec23604b4906361f43935466edb8f1ed370d03ce1aff21139b134a60f9161118b1373c16c26849315eb641f91b953350cd102a0a89dd66be15f7
 #EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Mirandes vs Sporting Gijon – Canal 17 (HD)
-https://ktm7.marsrivagg.click/hyper1/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
+https://xdt2.marsrivagg.click/hyper1/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
 #EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Mirandes vs Sporting Gijon – Canal 18 (HD)
-https://raz1.vdcast.live/blt6E4hjlQch3j3KS_gSkw/1762573298/32302e35352e31352e3937/ff999/playlist.m3u8
+https://raz2.vdcast.live/cVhxkm_yZcBtSCapjvD6FQ/1762575922/3130342e3230392e352e313435/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – TNT Sports Argentina
+https://d1.merichunidya.com:1686/hls/captntarg.m3u8?md5=tS5uxHK-XM-Z8DpzFKVcew&expires=1762554330
+#EXTINF:-1 tvg-name="Canal 18" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – Canal 18
+https://raz2.vdcast.live/voJERf7nHEMlCkZQgubu8g/1762575939/3130342e3230392e352e313435/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – Canal 20 (HD)
+https://ktm7.marsrivagg.click/dsportsplus/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Miramar Misiones vs Racing Montevideo – VTV Uruguay
-https://d15.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=UZYGI2rh_xiKzyF_FTs2Fg&expires=1762551707
-#EXTINF:-1 tvg-name="Canal 25" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Miramar Misiones vs Racing Montevideo – Canal 25
-https://qbkunwt.234276133.fit:8443/hls/543hcacrbrvfw.m3u8?s=8E0g7Z6_1fYeXFLK3GebdQ&e=1762566117
+https://d13.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=PSpLoLX_QVMeCmQC-U0G3A&expires=1762554366
 #EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Miramar Misiones vs Racing Montevideo – Canal 26 (HD)
 https://doc1.marsrivagg.click/disney4/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Uruguay", 14:30 Liga de Uruguay – Miramar Misiones vs Racing Montevideo – Canal 27 (HD)
-https://raz1.vdcast.live/ifVLfGnDp9e5cYX8VsJxRg/1762573364/32302e35352e31352e3937/ff999/playlist.m3u8
+https://raz2.vdcast.live/bPrBwnEkR851yN-s6V91Og/1762575993/3130342e3230392e352e313435/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – VTV Uruguay
+https://d11.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=MCa_Rh189y5sbp7ak64UEQ&expires=1762554402
+#EXTINF:-1 tvg-name="Canal 45 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – Canal 45 (HD)
+https://xdt2.marsrivagg.click/disney8/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
+#EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – Canal 46 (HD)
+https://raz1.vdcast.live/rWCvTiZgs_EZBno6N_iUiQ/1762576028/3130342e3230392e352e313435/ff999/playlist.m3u8
