@@ -1,31 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 1
-https://d1.merichunidya.com:1686/hls/capodeportes.m3u8?md5=or_kPg2Jeq-58MNAaY47Xg&expires=1762573368
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 2
-https://yzarygw.7380990745.xyz:8443/hls/pu1sgwiscq0e.m3u8?s=BEwtGp443ytWXe25-GNIhg&e=1762587780
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 3 (HD)
-https://24a1.crackstreamslivehd.com/global/espn2/index.m3u8?token=b3dcef04a36915acb5ecaf958c1c6707d481d978-97-1762611191-1762557191&ip=52.161.75.160
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 4 (HD)
-https://xdt2.marsrivagg.click/espndeportes/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 5 (HD)
-https://raz1.vdcast.live/oS6Qr5RjvJ0_QXqUtlVrcQ/1762595008/35322e3136312e37352e313630/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Elche vs Real Sociedad – Canal 6 (HD)
-https://mut1000.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=4fc35034163d3c48c7c34d2323f870e0f3e15f3008424c43d00aaf30ee508b83cf3d943ffbb878c113246cb12bc42dc1b8c50457827391b2405e3e4d5a92fd12
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – TNT Sports Argentina
-https://d1.merichunidya.com:1686/hls/captntarg.m3u8?md5=CrG21uMLDJtiHldKsdWWfQ&expires=1762573424
-#EXTINF:-1 tvg-name="Canal 18" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – Canal 18
-https://yzarygw.7380990745.xyz:8443/hls/xkvfhc3.m3u8?s=qNuPJCpeSOSqq18jLdi6uQ&e=1762587834
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – Canal 19 (HD)
-https://doc1.marsrivagg.click/tntsports/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
-#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs San Lorenzo – Canal 20 (HD)
-https://raz1.vdcast.live/VNS9a3eUZ4MzjPvZoP589Q/1762595052/35322e3136312e37352e313630/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – VTV Uruguay
-https://d14.epicquesthero.com:999/hls/wsmkmlfeed109.m3u8?md5=Vtzw7vZ1UD5dMOuYIRJUdQ&expires=1762573460
-#EXTINF:-1 tvg-name="Canal 44" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – Canal 44
-https://yzarygw.7380990745.xyz:8443/hls/543hcacrbrvfw.m3u8?s=-TMjAoQBuvMlev1rV6sFZQ&e=1762587870
-#EXTINF:-1 tvg-name="Canal 45 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – Canal 45 (HD)
-https://ktm7.marsrivagg.click/disney8/index.m3u8?token=S6Tvo1CzDdfOvGoWsmC8ocFCukVwioiGkm6rIBT7q9xFHGHPWoS9tjBxard6CdhjSbiiSm8BWEQ1L4pAmIQTetQuxEo
-#EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Cerro Largo vs Liverpool Montevideo – Canal 46 (HD)
-https://raz2.vdcast.live/-x27P1tGSBd-SPVvdfZBmA/1762595088/35322e3136312e37352e313630/ff999/playlist.m3u8
