@@ -1,33 +1,63 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 6" group-title="LaLiga 2", 08:00 LaLiga 2 – Ceuta vs Leganes – Canal 6
-https://sqkofy.7380990745.xyz:8443/hls/s6kdue.m3u8?s=Gi-6IxMJ3nQf-ksntyUEFQ&e=1763340546
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Ceuta vs Leganes – Canal 7 (HD)
-https://vcc-utqaxcv.marsrivagg.click/hyper1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Ceuta vs Leganes – Canal 8 (HD)
-https://plu02.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=853f76576d44c6dcda06ed5cb2145bb56092cf7c4a50f95f8a869dcfb6634404845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
-#EXTINF:-1 tvg-name="Canal 15" group-title="LaLiga 2", 10:15 LaLiga 2 – Almeria vs Cadiz – Canal 15
-https://sqkofy.7380990745.xyz:8443/hls/s6kdue.m3u8?s=_6gQ8DHL5kINx60u6nEwnQ&e=1763340610
-#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Almeria vs Cadiz – Canal 16 (HD)
-https://vcc-utqaxcv.marsrivagg.click/hyper1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
-#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Almeria vs Cadiz – Canal 17 (HD)
-https://plu1.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=853f76576d44c6dcda06ed5cb2145bb56092cf7c4a50f95f8a869dcfb6634404845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
-#EXTINF:-1 tvg-name="Canal 18" group-title="LaLiga 2", 10:15 LaLiga 2 – Sporting Gijon vs Eibar – Canal 18
-https://sqkofy.7380990745.xyz:8443/hls/jkannnm7b1d.m3u8?s=F-U_ufBRByTtUYz-srnYMg&e=1763340701
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Sporting Gijon vs Eibar – Canal 19 (HD)
-https://4.betzta.com/hypermotion2/mono.m3u8?token=2ae4eac0731686ded87cd07b082b0cb2b5adf756-33-1763336211-1763318211
-#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Sporting Gijon vs Eibar – Canal 20 (HD)
-https://muc2000.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=853f76576d44c6dcda06ed5cb2145bb56092cf7c4a50f95f8a869dcfb6634404845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
 #EXTINF:-1 tvg-name="Canal 27" group-title="LaLiga 2", 12:30 LaLiga 2 – Cordoba vs Deportivo La CoruÃ±a – Canal 27
-https://mut1000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=853f76576d44c6dcda06ed5cb2145bb56092cf7c4a50f95f8a869dcfb6634404845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
+https://plu02.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=f749adfeb30139d301ec34eeb2f97473da1be2012e9ebbb48a1bb5155e36e407845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Cordoba vs Deportivo La CoruÃ±a – Canal 28 (HD)
-https://zzk-xaoplld.marsrivagg.click/hyper1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+https://vcc-utqaxcv.marsrivagg.click/hyper1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
 #EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Cordoba vs Deportivo La CoruÃ±a – Canal 29 (HD)
-https://xaz1.vdcast.live/ozNMBVTyOo6TyTgTIGyvhw/1763347952/32302e3136312e35382e323237/ff999/playlist.m3u8
+https://xaz2.vdcast.live/50-EAGvJMY1G_7GFpbUIVg/1763349443/36342e3233362e3133342e323234/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 30" group-title="LaLiga 2", 12:30 LaLiga 2 – Mirandes vs Burgos – Canal 30
-https://muc1000.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=853f76576d44c6dcda06ed5cb2145bb56092cf7c4a50f95f8a869dcfb6634404845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
+https://mut1000.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=f749adfeb30139d301ec34eeb2f97473da1be2012e9ebbb48a1bb5155e36e407845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Mirandes vs Burgos – Canal 31 (HD)
-https://2.betzta.com/hypermotion2/mono.m3u8?token=d1b9ba1e1f9234173563cab265ccc2c2463bc266-9a-1763336275-1763318275
+https://6.betzta.com/hypermotion2/mono.m3u8?token=096046ed09cbbcaf165283bc95d9963e613568d0-9d-1763337766-1763319766
 #EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Mirandes vs Burgos – Canal 32 (HD)
-https://xaz1.vdcast.live/BnRCOdY7EgAQa4CoNh-_6Q/1763347987/32302e3136312e35382e323237/ff999/playlist.m3u8
+https://xaz1.vdcast.live/P9rPymmj6LEV3grB3bys_g/1763349473/36342e3233362e3133342e323234/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 39" group-title="LaLiga 2", 15:00 LaLiga 2 – Real Zaragoza vs Huesca – Canal 39
+https://plu02.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=f749adfeb30139d301ec34eeb2f97473da1be2012e9ebbb48a1bb5155e36e407845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
+#EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Real Zaragoza vs Huesca – Canal 40 (HD)
+https://doc-ppilmnb.marsrivagg.click/hyper1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 41 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Real Zaragoza vs Huesca – Canal 41 (HD)
+https://xaz1.vdcast.live/yo_6r5W863wiygN_Q-RAbw/1763349504/36342e3233362e3133342e323234/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 42" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs River Plate – Canal 42
+https://cyegvv.6522236688.shop:8443/hls/xkvfhc3.m3u8?s=GcwGJV3V-3R9YZnWoHKC_A&e=1763342320
+#EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs River Plate – Canal 43 (HD)
+https://99a1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=936ee25e0e2d592f8c10872ffbec4f32e049442c-23-1763365730-1763311730&ip=64.236.134.224
+#EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Velez Sarsfield vs River Plate – Canal 44 (HD)
+https://xaz2.vdcast.live/824MXypMgMc3qB2s5GX8qA/1763349538/36342e3233362e3133342e323234/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 45" group-title="Liga de Argentina", 15:00 Liga de Argentina – Instituto vs Talleres – Canal 45
+https://cyegvv.6522236688.shop:8443/hls/eka6jtsowcqgv6.m3u8?s=fQjp7gjqF1OJhPRST5atZw&e=1763342353
+#EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Instituto vs Talleres – Canal 46 (HD)
+https://doc1.crackstreamslivehd.com/global/espnpremium/index.m3u8?token=82052423162d877989f125f080f259a93cd1a59e-36-1763365763-1763311763&ip=64.236.134.224
+#EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Instituto vs Talleres – Canal 47 (HD)
+https://xaz1.vdcast.live/hmir5hqpCOezpLDgnD1zOw/1763349571/36342e3233362e3133342e323234/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 14" group-title="Liga de Argentina", 18:15 Liga de Argentina – Boca Juniors vs Tigre – Canal 14
+https://vcc-utqaxcv.marsrivagg.click/skyevento2/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Boca Juniors vs Tigre – Canal 15 (HD)
+https://cyegvv.6522236688.shop:8443/hls/s6kdue.m3u8?s=VU6UXaowdmt0CsCJZUsSSA&e=1763342394
+#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Boca Juniors vs Tigre – Canal 16 (HD)
+https://doc-ppilmnb.marsrivagg.click/hyper1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 17" group-title="Liga de Argentina", 18:15 Liga de Argentina – Central Cordoba vs Banfield – Canal 17
+https://muc1000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=f749adfeb30139d301ec34eeb2f97473da1be2012e9ebbb48a1bb5155e36e407845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Central Cordoba vs Banfield – Canal 18 (HD)
+https://cyegvv.6522236688.shop:8443/hls/jkannnm7b1d.m3u8?s=ZPyAXk07fZkf-4KWIa4qDQ&e=1763342426
+#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Central Cordoba vs Banfield – Canal 19 (HD)
+https://6.betzta.com/hypermotion2/mono.m3u8?token=cc284484afab13219bfb09cb4ff1220cd928b953-7e-1763337936-1763319936
+#EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Racing Club – Canal 20
+https://mut1000.myluck1.top:8088/live/hypermotion2/playlist.m3u8?id=122638&pk=f749adfeb30139d301ec34eeb2f97473da1be2012e9ebbb48a1bb5155e36e407845189f79443703c5f0b02e58ed09f28e67f5986b391000b02aec9dedf50949b
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Racing Club – Canal 21 (HD)
+https://xaz1.vdcast.live/QplU3CCjcknHoDyyUrWrQg/1763349659/36342e3233362e3133342e323234/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Racing Club – Canal 22 (HD)
+https://vcc-utqaxcv.marsrivagg.click/disney7/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 18:15 Liga de Argentina – Estudiantes de La Plata vs Argentinos Juniors – Canal 23
+https://vcc-utqaxcv.marsrivagg.click/skyevento3/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Estudiantes de La Plata vs Argentinos Juniors – Canal 24 (HD)
+https://xaz1.vdcast.live/m6kkYEPHAoUFlbE96T4FVA/1763349681/36342e3233362e3133342e323234/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Estudiantes de La Plata vs Argentinos Juniors – Canal 25 (HD)
+https://doc-ppilmnb.marsrivagg.click/disney6/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 6" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 6
+https://cyegvv.6522236688.shop:8443/hls/qj1k9kfmaipv.m3u8?s=SHhJ_w61wblw6Z8TEyXYVQ&e=1763342504
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 7 (HD)
+https://zzk-xaoplld.marsrivagg.click/disney2/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 8 (HD)
+https://xaz1.vdcast.live/XlWPxRk5DCqgpCF3B7ImSg/1763349721/36342e3233362e3133342e323234/ff999/playlist.m3u8
