@@ -1,23 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 14" group-title="Liga de Argentina", 18:15 Liga de Argentina – Boca Juniors vs Tigre – Canal 14
-https://pjxvijl.5606087801.art:8443/hls/eka6jtsowcqgv6.m3u8?s=OaU9N2B-G77SnOS1_16i8Q&e=1763428707
-#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Boca Juniors vs Tigre – Canal 16 (HD)
-https://zaz1.vdcast.live/oQZm0sOSBq8BBhXRAVTZrA/1763435923/3134352e3133322e3130322e313739/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 17" group-title="Liga de Argentina", 18:15 Liga de Argentina – Central Cordoba vs Banfield – Canal 17
-https://pjxvijl.5606087801.art:8443/hls/t8ruwvt.m3u8?s=x-cJAeUPmXmQGoVOBFJ-eA&e=1763428738
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Central Cordoba vs Banfield – Canal 19 (HD)
-https://amn1.vdcast.live/umPCr6M8AdJAu-8XasrkMw/1763435954/3134352e3133322e3130322e313739/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Racing Club – Canal 20
-https://pjxvijl.5606087801.art:8443/hls/xkvfhc3.m3u8?s=UOv_pujMYiZ1lvkjnzYwtg&e=1763428769
-#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Racing Club – Canal 22 (HD)
-https://zaz1.vdcast.live/cqLG4bvQJvz4FuGK_xPq_A/1763435984/3134352e3133322e3130322e313739/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 18:15 Liga de Argentina – Estudiantes de La Plata vs Argentinos Juniors – Canal 23
-https://zaz1.vdcast.live/kGWYMF4kMDbn8EqCd1lppA/1763435992/3134352e3133322e3130322e313739/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Estudiantes de La Plata vs Argentinos Juniors – Canal 25 (HD)
-https://vcc-utqaxcv.marsrivagg.click/disney6/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
-#EXTINF:-1 tvg-name="Canal 6" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 6
-https://pjxvijl.5606087801.art:8443/hls/qj1k9kfmaipv.m3u8?s=obXIxcljmf83f0bxt1Rjrg&e=1763428820
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Liverpool Montevideo vs PeÃ±arol – Canal 8 (HD)
-https://amn1.vdcast.live/rV0uyiikEMRPLGM3WdvxEQ/1763436036/3134352e3133322e3130322e313739/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6" group-title="LaLiga 2", 14:30 LaLiga 2 – Cultural Leonesa vs Malaga – Canal 6
+https://muc1000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=e50132acd4d418a79fbf6e8aaffd1b9deb343ca0c716af25c6577d3b49a4caf1dadb41041f9040da79a6f092f394837be2805c2ac68a1bfafed0b084eb5bc0ff
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Cultural Leonesa vs Malaga – Canal 7 (HD)
+https://zzk-xaoplld.marsrivagg.click/disney2/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Cultural Leonesa vs Malaga – Canal 8 (HD)
+https://amn1.vdcast.live/9J912FseY7BojeZ-ZfjNxQ/1763437181/3137322e3138342e3231312e313136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 20" group-title="Liga de Argentina", 15:00 Liga de Argentina – Belgrano vs Union Santa Fe – Canal 20
+https://cnfobm.5606087801.art:8443/hls/xkvfhc3.m3u8?s=6E5f-iLTfg5t-WjDUowvWg&e=1763429997
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Belgrano vs Union Santa Fe – Canal 21 (HD)
+https://99a1.crackstreamslivehd.com/global/tntsports/index.m3u8?token=7822bef87e63131f91725e3d439607bc05ce7e62-41-1763453409-1763399409&ip=172.184.211.116
+#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Belgrano vs Union Santa Fe – Canal 22 (HD)
+https://amn1.vdcast.live/gFBwdR-JEgZF7p-w5Ii2aA/1763437217/3137322e3138342e3231312e313136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 15:00 Liga de Argentina – Barracas Central vs Huracan – Canal 23
+https://zaz1.vdcast.live/SmnJR9YbH0IAZjQb0SRg1g/1763437232/3137322e3138342e3231312e313136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Barracas Central vs Huracan – Canal 24 (HD)
+https://doc-ppilmnb.marsrivagg.click/max1/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 15:00 Liga de Argentina – Barracas Central vs Huracan – Canal 25 (HD)
+https://zaz1.vdcast.live/yI-PW2B4bO9wwh1TVR1DTQ/1763437247/3137322e3138342e3231312e313136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 26" group-title="Liga de Argentina", 15:00 Liga de Argentina – Defensa y Justicia vs Independiente Rivadavia – Canal 26
+https://zaz1.vdcast.live/G-z4uOS3M3Jrgl1igouURw/1763437256/3137322e3138342e3231312e313136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 27" group-title="Liga de Argentina", 15:00 Liga de Argentina – Defensa y Justicia vs Independiente Rivadavia – Canal 27
+https://zzk-xaoplld.marsrivagg.click/espn4mx/index.m3u8?token=tOv3ecHbvJpVI0PmsA8jkzb4kQlCXcML12mHFbqIp2Z4bvRfiwVBgZ3Ididsku2HeHIcc6T8oqFSCU6DXk9k9q8LgXeepYtRWFbiIkxfIEVhtR4xTs3
+#EXTINF:-1 tvg-name="Canal 28" group-title="Liga de Argentina", 17:30 Liga de Argentina – Platense vs Gimnasia La Plata – Canal 28
+https://zaz1.vdcast.live/VOkGp2Y2XwPA1c9L3kkK8Q/1763437279/3137322e3138342e3231312e313136/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Argentina", 17:30 Liga de Argentina – Platense vs Gimnasia La Plata – Canal 29 (HD)
+https://cnfobm.5606087801.art:8443/hls/o4035zxmtyg.m3u8?s=GfzfOnAM8w9jxcfkZjQD9w&e=1763430088
+#EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Argentina", 17:30 Liga de Argentina – Platense vs Gimnasia La Plata – Canal 30 (HD)
+https://cnfobm.5606087801.art:8443/hls/wwcujo0oiatyw93.m3u8?s=NgSSwvKy-DW3XzbH0sN7kg&e=1763430098
