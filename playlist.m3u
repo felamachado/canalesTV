@@ -1,23 +1,61 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+#EXTINF:-1 tvg-name="Canal 2" group-title="Formula 1", 11:00 Formula 1 – F1 Gran Premio de Catar, Carrera – Canal 2
+https://bhzqcb.6670391863.store:8443/hls/2twhx.m3u8?s=81APeYnQaEw34XDrFmwZZw&e=1764534060
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Formula 1", 11:00 Formula 1 – F1 Gran Premio de Catar, Carrera – Canal 3 (HD)
+https://14c51.crackstreamslivehd.com/global/fox1ar/index.m3u8?token=34d4a85edfb1579143c75c484c8ab77f5e0e6f53-7e-1764557481-1764503481&ip=20.168.110.177
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Formula 1", 11:00 Formula 1 – F1 Gran Premio de Catar, Carrera – Canal 4 (HD)
+https://pecdl1.crackstreamslivehd.com/global/disney18/index.m3u8?token=713d481f42629c750b22597689dcf8a48ea97e85-a9-1764557490-1764503490&ip=20.168.110.177
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Formula 1", 11:00 Formula 1 – F1 Gran Premio de Catar, Carrera – Canal 5 (HD)
+https://ssx.marsrivagg.click/skyf1mx/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 11:00 Formula 1 – F1 Gran Premio de Catar, Carrera – Canal 7 (HD)
+https://bhzqcb.6670391863.store:8443/hls/g6auvbu66y.m3u8?s=HIqtsWbuBd4XxKH1MhDAKQ&e=1764534139
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 08:00 LaLiga – Real Sociedad vs Villarreal – Canal 2
-https://uwqgqq.5606087801.art:8443/hls/jv27oczy7c.m3u8?s=80hOE1w2NLYLgQJWIZZFmg&e=1764531863
+https://bhzqcb.6670391863.store:8443/hls/jv27oczy7c.m3u8?s=cRvNuJpRmw7vGTDFuQyEvg&e=1764534174
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 08:00 LaLiga – Real Sociedad vs Villarreal – Canal 3 (HD)
-https://doc1.crackstreamslivehd.com/global/espn4/index.m3u8?token=06d53fac9888ed2961e0fdc51d7b73d879da3dc2-bc-1764555273-1764501273&ip=135.232.201.241
+https://14c51.crackstreamslivehd.com/global/espn4/index.m3u8?token=6c642e34a4d20cbd4f14226eb372371129ac791a-8e-1764557584-1764503584&ip=20.168.110.177
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 08:00 LaLiga – Real Sociedad vs Villarreal – Canal 4 (HD)
-https://zzv.marsrivagg.click/espndeportes/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+https://ccf.marsrivagg.click/espndeportes/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 08:00 LaLiga – Real Sociedad vs Villarreal – Canal 5 (HD)
-https://paa1.vdcast.live/KlRpWwjJ1jrTxVw3J10gCg/1764539089/3133352e3233322e3230312e323431/ff999/playlist.m3u8
+https://amn1.vdcast.live/732kcdAGCvqxUKDuOx6J9g/1764541403/32302e3136382e3131302e313737/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 08:00 LaLiga – Real Sociedad vs Villarreal – Canal 6 (HD)
+https://muc2000.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=57e9b3a5ea31d21a6348533c31cab61730ba05fd16f00c0ec7feff76db29ec9e7d977026285e5a3edbe1a43fcd0a5bca04377d0cf1804a1dcc9f739d98375e4c
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 10:15 LaLiga – Sevilla vs Real Betis – Canal 2
+https://bhzqcb.6670391863.store:8443/hls/4jva7tj642f9b.m3u8?s=Wy_Hy6RFpViUEIM4Mji0VA&e=1764534242
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 10:15 LaLiga – Sevilla vs Real Betis – Canal 3 (HD)
+https://florcd1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=b8258405e31fe023d9315fcbb8833630f57c5fa8-50-1764557653-1764503653&ip=20.168.110.177
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 10:15 LaLiga – Sevilla vs Real Betis – Canal 4 (HD)
+https://ccf.marsrivagg.click/dsports/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 10:15 LaLiga – Sevilla vs Real Betis – Canal 5 (HD)
+https://plu02.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=57e9b3a5ea31d21a6348533c31cab61730ba05fd16f00c0ec7feff76db29ec9e7d977026285e5a3edbe1a43fcd0a5bca04377d0cf1804a1dcc9f739d98375e4c
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 10:15 LaLiga – Sevilla vs Real Betis – Canal 6 (HD)
+https://mut1000.myluck1.top:8088/live/ligaes1/playlist.m3u8?id=122583&pk=57e9b3a5ea31d21a6348533c31cab61730ba05fd16f00c0ec7feff76db29ec9e7d977026285e5a3edbe1a43fcd0a5bca04377d0cf1804a1dcc9f739d98375e4c
 #EXTINF:-1 tvg-name="Canal 14" group-title="LaLiga 2", 08:00 LaLiga 2 – Real Zaragoza vs Leganes – Canal 14
-https://mut1000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=b5a9e1f1f8babcef71058edb9b11acc5358e3495dcfd24e8c78084a881da71287d977026285e5a3edbe1a43fcd0a5bca04377d0cf1804a1dcc9f739d98375e4c
+https://plu02.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=57e9b3a5ea31d21a6348533c31cab61730ba05fd16f00c0ec7feff76db29ec9e7d977026285e5a3edbe1a43fcd0a5bca04377d0cf1804a1dcc9f739d98375e4c
 #EXTINF:-1 tvg-name="Canal 15 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Real Zaragoza vs Leganes – Canal 15 (HD)
-https://ssx.marsrivagg.click/hyper1/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+https://zzv.marsrivagg.click/hyper1/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Real Zaragoza vs Leganes – Canal 16 (HD)
-https://amn1.vdcast.live/-hPgnIsIcQ7jwynBnlkWvA/1764539126/3133352e3233322e3230312e323431/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 07:00 Premier League – Crystal Palace vs Manchester United – Canal 2
-https://uwqgqq.5606087801.art:8443/hls/a31q9.m3u8?s=lVRZhxj3iyr38ZQNF6rDIA&e=1764531953
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 07:00 Premier League – Crystal Palace vs Manchester United – Canal 4 (HD)
-https://51a1.crackstreamslivehd.com/global/espn/index.m3u8?token=3c31c1505c8e26fa9428d16b4a7380a4e8bc860c-71-1764555369-1764501369&ip=135.232.201.241
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 07:00 Premier League – Crystal Palace vs Manchester United – Canal 5 (HD)
-https://zzv.marsrivagg.click/fox1one/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+https://paa1.vdcast.live/O9J91-2XFCHXxFKRasB_Lw/1764541516/32302e3136382e3131302e313737/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 30" group-title="LaLiga 2", 10:15 LaLiga 2 – Racing Santander vs Eibar – Canal 30
+https://bhzqcb.6670391863.store:8443/hls/s6kdue.m3u8?s=QauvAx58NTnSNLX7n8B3Xw&e=1764534333
+#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Racing Santander vs Eibar – Canal 31 (HD)
+https://ssx.marsrivagg.click/hyper1/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+#EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Racing Santander vs Eibar – Canal 32 (HD)
+https://muc2000.myluck1.top:8088/live/hypermotion1/playlist.m3u8?id=122364&pk=57e9b3a5ea31d21a6348533c31cab61730ba05fd16f00c0ec7feff76db29ec9e7d977026285e5a3edbe1a43fcd0a5bca04377d0cf1804a1dcc9f739d98375e4c
+#EXTINF:-1 tvg-name="Canal 22" group-title="Premier League", 09:05 Premier League – Nottingham Forest vs Brighton & Hove Albion – Canal 22
+https://bhzqcb.6670391863.store:8443/hls/uybh9ztgwiw1cgz.m3u8?s=P6Vtrp4xqY5XMPK_Wq84cA&e=1764534372
+#EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Premier League", 09:05 Premier League – Nottingham Forest vs Brighton & Hove Albion – Canal 23 (HD)
+https://ccf.marsrivagg.click/disney10/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Premier League", 09:05 Premier League – Nottingham Forest vs Brighton & Hove Albion – Canal 24 (HD)
+https://zzv.marsrivagg.click/max2/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:05 Premier League – West Ham United vs Liverpool – Canal 2
+https://bhzqcb.6670391863.store:8443/hls/pz65xpc.m3u8?s=HnETsVfxjNBteso_FFzKCg&e=1764534423
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 09:05 Premier League – West Ham United vs Liverpool – Canal 3 (HD)
+https://zzv.marsrivagg.click/disney8/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:05 Premier League – West Ham United vs Liverpool – Canal 4 (HD)
+https://98ca2.crackstreamslivehd.com/global/disney13/index.m3u8?token=282f93e9ca301efad1d7dd0d83f38b19964b9c49-67-1764557845-1764503845&ip=20.168.110.177
+#EXTINF:-1 tvg-name="Canal 25" group-title="Premier League", 09:05 Premier League – Aston Villa vs Wolverhampton Wanderers – Canal 25
+https://bhzqcb.6670391863.store:8443/hls/a31q9.m3u8?s=lbWebP7E0KBWYJRWPBOrow&e=1764534482
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Premier League", 09:05 Premier League – Aston Villa vs Wolverhampton Wanderers – Canal 27 (HD)
+https://doc1.crackstreamslivehd.com/global/espn/index.m3u8?token=d1d7864ef64cbfe5c384522ebfa028ddbe712bbf-a0-1764557901-1764503901&ip=20.168.110.177
