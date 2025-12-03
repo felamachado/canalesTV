@@ -1,37 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Barcelona vs Atletico Madrid – Canal 2
-https://dreoap.6522236688.shop:8443/hls/4jva7tj642f9b.m3u8?s=LRnwFMabhqtqRkvFBiC2fQ&e=1764756177
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Barcelona vs Atletico Madrid – Canal 3 (HD)
-https://98ca2.crackstreamslivehd.com/global/espnplus5/index.m3u8?token=700999469f9c556db74ffaa8a90585b9175f06c2-95-1764779586-1764725586&ip=145.132.99.130
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Barcelona vs Atletico Madrid – Canal 4 (HD)
-https://24a1.crackstreamslivehd.com/global/dsports/index.m3u8?token=b9e81cfbcc84f359e7952ee0edeb5bb11883b1de-2a-1764779594-1764725594&ip=145.132.99.130
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Barcelona vs Atletico Madrid – Canal 5 (HD)
-https://jbd1.vdcast.live/MDjtqoLjAQAPTeyrcTVjYw/1764763402/3134352e3133322e39392e313330/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 15:00 LaLiga – Barcelona vs Atletico Madrid – Canal 7 (HD)
-https://ssx.marsrivagg.click/mlaliga/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 14:30 Premier League – Fulham vs Manchester City – Canal 2
-https://dreoap.6522236688.shop:8443/hls/a31q9.m3u8?s=yvh5wGR6m9aTSRzbvJSeOQ&e=1764756243
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 14:30 Premier League – Fulham vs Manchester City – Canal 4 (HD)
-https://98ca2.crackstreamslivehd.com/global/espn/index.m3u8?token=892f68def757a2c4509c23af7616c401076885da-75-1764779657-1764725657&ip=145.132.99.130
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 14:30 Premier League – Fulham vs Manchester City – Canal 5 (HD)
-https://jbd1.vdcast.live/nT92fCX8rc6x268VrvrKvQ/1764763466/3134352e3133322e39392e313330/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 14:30 Premier League – Fulham vs Manchester City – Canal 6 (HD)
-https://plu1.myluck1.top:8088/live/premierhn1/playlist.m3u8?id=122640&pk=7148d482d8b2e0a2d5bce768fad57f3d94c461d4c669bb7819d9e4f957a8ef8d94a191042864b7f9deb6b56d73de316e462d854dc1560c99339935ee987a8d22
-#EXTINF:-1 tvg-name="Canal 21" group-title="Premier League", 14:30 Premier League – Bournemouth vs Everton – Canal 21
-https://dreoap.6522236688.shop:8443/hls/pu1sgwiscq0e.m3u8?s=SNrcTLiL-AJnb5XMQMIPOA&e=1764756288
-#EXTINF:-1 tvg-name="Canal 22 (HD)" group-title="Premier League", 14:30 Premier League – Bournemouth vs Everton – Canal 22 (HD)
-https://doc1.crackstreamslivehd.com/global/espn2/index.m3u8?token=ad157d86a100caf0c96a408ca8a2ae71c5b6d07c-39-1764779696-1764725696&ip=145.132.99.130
-#EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Premier League", 14:30 Premier League – Bournemouth vs Everton – Canal 23 (HD)
-https://jbd1.vdcast.live/fmt8WqIGPARMNKseBuOGpg/1764763504/3134352e3133322e39392e313330/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 15:15 Premier League – Newcastle United vs Tottenham Hotspur – Canal 2
-https://dreoap.6522236688.shop:8443/hls/yh3o7p7.m3u8?s=vICjLRjihniaIqDy30JFag&e=1764756330
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 15:15 Premier League – Newcastle United vs Tottenham Hotspur – Canal 3 (HD)
-https://98ca2.crackstreamslivehd.com/global/max2/index.m3u8?token=dd17b38d2a2efcea1c2a2600b4701e8bc51fae6c-a6-1764779738-1764725738&ip=145.132.99.130
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 15:15 Premier League – Newcastle United vs Tottenham Hotspur – Canal 4 (HD)
-https://14c51.crackstreamslivehd.com/global/peacock2/index.m3u8?token=47c01403fc4c7526c8c546d82f8564b31f17fb61-23-1764779745-1764725745&ip=145.132.99.130
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 15:15 Premier League – Newcastle United vs Tottenham Hotspur – Canal 5 (HD)
-https://jbd2.vdcast.live/1kixU6tXbnCP0y62G01Riw/1764763553/3134352e3133322e39392e313330/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 15:15 Premier League – Newcastle United vs Tottenham Hotspur – Canal 6 (HD)
-https://ccf.marsrivagg.click/disney10/index.m3u8?token=a4b3yuw5wrpk3105wgj9mfq2mulylxev67xcfq1wv8vozcg76ft9okv8p43jr3x6l87dllrg4gp9fzoj8kc1ppfllsk9o8fsq6bzwvhau1lzvw7ifrc
