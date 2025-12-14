@@ -1,41 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal – Canal 2
-https://ghhuraj.234276133.fit:8443/hls/a31q9.m3u8?s=8TsgojhyoiYTte6h3iUONA&e=1765754408
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal – Canal 3 (HD)
-https://8c51.crackstreamslivehd.com/global/espn/index.m3u8?token=e22c037cf5501ec5824291f7a6f48ac1d696bf4f-99-1765777819-1765723819&ip=40.79.245.17
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal – Canal 4 (HD)
-https://57b1.crackstreamslivehd.com/global/espnplus3/index.m3u8?token=43be896626db35e8698bae59b98e74ae650dfa92-41-1765777827-1765723827&ip=40.79.245.17
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal – Canal 5 (HD)
-https://tbd2.vdcast.live/X0ELR_LgD8FF3eT6IEsTag/1765761635/34302e37392e3234352e3137/ff999/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal – Canal 6 (HD)
-https://98ca2.crackstreamslivehd.com/global/disney4/index.m3u8?token=95f7782a7288bd754bbf8052b71014274754e289-cd-1765777844-1765723844&ip=40.79.245.17
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal (APLAZADO POR TEMPORAL) – Canal 2
+https://cnfobm.5606087801.art:8443/hls/a31q9.m3u8?s=KQiNEHluL8QqsmmvgRga6A&e=1765755746
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal (APLAZADO POR TEMPORAL) – Canal 3 (HD)
+https://pecdl1.crackstreamslivehd.com/global/espn/index.m3u8?token=d56cbf15ca26dbb4b3fbff3f765a79be9797d8a5-39-1765779155-1765725155&ip=64.236.141.198
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal (APLAZADO POR TEMPORAL) – Canal 4 (HD)
+https://8c51.crackstreamslivehd.com/global/espnplus3/index.m3u8?token=6436422541b39ad43976147d4c39819fb9c3be9a-6e-1765779162-1765725162&ip=64.236.141.198
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal (APLAZADO POR TEMPORAL) – Canal 5 (HD)
+https://tbd2.vdcast.live/Zg0UgkC78clspFr5iZ5VgA/1765762971/36342e3233362e3134312e313938/ff999/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 12:30 LaLiga – Levante vs Villarreal (APLAZADO POR TEMPORAL) – Canal 6 (HD)
+https://pecdl1.crackstreamslivehd.com/global/disney4/index.m3u8?token=eb54dbbaf25dba41d167b7654988945dc2d576de-cb-1765779180-1765725180&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Deportivo Alaves vs Real Madrid – Canal 2
-https://ghhuraj.234276133.fit:8443/hls/mr8x6tqp6c4d.m3u8?s=G-CpLTiQ0JXLF9t6fp0flg&e=1765754469
+https://cnfobm.5606087801.art:8443/hls/a31q9.m3u8?s=CA4RDtzqpGCChdRIOMQ9qg&e=1765755806
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Deportivo Alaves vs Real Madrid – Canal 3 (HD)
-https://99a1.crackstreamslivehd.com/global/espn5/index.m3u8?token=16cab344041ca11a500e95fbd810c107ee35d03d-58-1765777878-1765723878&ip=40.79.245.17
+https://51a1.crackstreamslivehd.com/global/espn/index.m3u8?token=e84c8238ad3bdd99db75edb798fbb0254ceda266-3b-1765779215-1765725215&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Deportivo Alaves vs Real Madrid – Canal 4 (HD)
-https://ccndx.marsrivagg.click/disney12/index.m3u8?token=7b1d4335fc20b5c88c972111eed95843cf32bee7-2b-1765777885-1765723885&ip=40.79.245.17
+https://57b1.crackstreamslivehd.com/global/espnplus3/index.m3u8?token=ab142da0df525081589165fede6e4b65e907137a-df-1765779222-1765725222&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Deportivo Alaves vs Real Madrid – Canal 5 (HD)
-https://tbd2.vdcast.live/4EXNJjI-sPg_fl-HDHdxkQ/1765761692/34302e37392e3234352e3137/ff999/playlist.m3u8
+https://tbd2.vdcast.live/JfiPpT4ce5dtCotk9JMlDw/1765763031/36342e3233362e3134312e313938/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 15:00 LaLiga – Deportivo Alaves vs Real Madrid – Canal 6 (HD)
-https://ccndx.marsrivagg.click/disney2/index.m3u8?token=846b61fb4354124e9a9896ef958e0265f00412f2-fc-1765777900-1765723900&ip=40.79.245.17
+https://ccndx.marsrivagg.click/disney2/index.m3u8?token=7acf8ca72f8c074fe9e6cd489131b0501e414967-77-1765779239-1765725239&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 15:00 LaLiga – Deportivo Alaves vs Real Madrid – Canal 7 (HD)
-https://24a1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=e4cee1b17bbc7c17212c5ee1c2ae6f12032c1663-6a-1765777907-1765723907&ip=40.79.245.17
+https://doc1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=b6f9324943f43ec9e868d4d943e630793aac6f61-35-1765779247-1765725247&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 36" group-title="LaLiga 2", 12:30 LaLiga 2 – Almeria vs Burgos – Canal 36
-https://ghhuraj.234276133.fit:8443/hls/s6kdue.m3u8?s=N2qVobtVPs0v_CsHhJoasQ&e=1765754522
+https://cnfobm.5606087801.art:8443/hls/s6kdue.m3u8?s=BIQFTPNjRqi-pbrYoCBBoQ&e=1765755861
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Almeria vs Burgos – Canal 37 (HD)
-https://pecdl1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=a916dea11a293d9e3fc0f83f964679ac61445a8f-06-1765777930-1765723930&ip=40.79.245.17
+https://8c51.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=b20a347a0dbfd652f2e601e224f54f7b568cf5a0-44-1765779270-1765725270&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="LaLiga 2", 12:30 LaLiga 2 – Almeria vs Burgos – Canal 38 (HD)
-https://tbd2.vdcast.live/CNrdDt8OZT2KC3uxheXaBg/1765761737/34302e37392e3234352e3137/ff999/playlist.m3u8
+https://tbd1.vdcast.live/QAsCEYLboFEIUme0NopqAw/1765763077/36342e3233362e3134312e313938/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 45" group-title="LaLiga 2", 15:00 LaLiga 2 – Ceuta vs Las Palmas – Canal 45
-https://ccndx.marsrivagg.click/hyper2/index.m3u8?token=84f568d03e8932aa803de393d0bf557add5e4849-47-1765777951-1765723951&ip=40.79.245.17
+https://cnfobm.5606087801.art:8443/hls/s6kdue.m3u8?s=nxvL70_x37eHvkTovryGDA&e=1765755894
+#EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Ceuta vs Las Palmas – Canal 46 (HD)
+https://florcd1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=14081fad53007c2b14c4c0c506c56c95e1d2bba7-44-1765779302-1765725302&ip=64.236.141.198
+#EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="LaLiga 2", 15:00 LaLiga 2 – Ceuta vs Las Palmas – Canal 47 (HD)
+https://tbd2.vdcast.live/3hN11uRF8MnuEICGBCY8Yw/1765763111/36342e3233362e3134312e313938/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 11:30 Premier League – Brentford vs Leeds United – Canal 2
-https://ghhuraj.234276133.fit:8443/hls/pu1sgwiscq0e.m3u8?s=luYnODa8JTsbamzdo6A7qA&e=1765754589
+https://cnfobm.5606087801.art:8443/hls/pu1sgwiscq0e.m3u8?s=3ZqlmKKejSaWAt64wd7xgg&e=1765755938
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 11:30 Premier League – Brentford vs Leeds United – Canal 4 (HD)
-https://8c51.crackstreamslivehd.com/global/espn2/index.m3u8?token=f616b59056a9af5a6eff20787cce00791206fc1f-b8-1765778003-1765724003&ip=40.79.245.17
+https://99a1.crackstreamslivehd.com/global/espn2/index.m3u8?token=0229e54e44a7be1bc1fa5b0be8cdbf7b94afab3e-1d-1765779353-1765725353&ip=64.236.141.198
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 11:30 Premier League – Brentford vs Leeds United – Canal 5 (HD)
-https://tbd2.vdcast.live/ZUXb9RAwrDcQ8qMCsIvWvg/1765761812/34302e37392e3234352e3137/ff999/playlist.m3u8
+https://tbd2.vdcast.live/kYisL1_7mlf0PxrEdoDr1g/1765763161/36342e3233362e3134312e313938/ff999/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 11:30 Premier League – Brentford vs Leeds United – Canal 6 (HD)
-https://57b1.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=72dacdf85cdd94c0d65ef2bfdee71d64a8c7822e-66-1765778020-1765724020&ip=40.79.245.17
+https://14c51.crackstreamslivehd.com/global/espndeportes/index.m3u8?token=8adddbbd357545c6288b0049137724c1a619f9f2-9c-1765779369-1765725369&ip=64.236.141.198
