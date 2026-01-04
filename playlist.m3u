@@ -1,27 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
 https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
-#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 08:00 LaLiga – Sevilla vs Levante – Canal 2
-https://cyegvv.6522236688.shop:8443/hls/pu1sgwiscq0e.m3u8?s=7QrTBtDDO6rpfHqQY2F67g&e=1767559409
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 08:00 LaLiga – Sevilla vs Levante – Canal 3 (HD)
-https://14c51.crackstreamslivehd.com/global/espn2/index.m3u8?token=c2a0590ce5c3ced6d458d9097a5dfe51a9a267a8-ee-1767582819-1767528819&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 08:00 LaLiga – Sevilla vs Levante – Canal 4 (HD)
-https://ccndx.marsrivagg.click/espndeportes/index.m3u8?token=42c234f3b7639ea660a6c29cd2f10c2d4d2851f9-a6-1767582827-1767528827&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 08:00 LaLiga – Sevilla vs Levante – Canal 5 (HD)
-https://99a1.crackstreamslivehd.com/global/disney3/index.m3u8?token=1cb3a844ca900cc4bf8624bfa661a41543b77df6-fb-1767582834-1767528834&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 08:00 LaLiga – Sevilla vs Levante – Canal 6 (HD)
-https://ccndx.marsrivagg.click/skylaliga/index.m3u8?token=583ac9b286d453d06c57c259a03f3f91162e8dbb-95-1767582842-1767528842&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 7" group-title="LaLiga 2", 08:00 LaLiga 2 – Sporting Gijon vs Malaga – Canal 7
-https://cyegvv.6522236688.shop:8443/hls/s6kdue.m3u8?s=HvMgr15TsP4SvD_M6lCByA&e=1767559457
-#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Sporting Gijon vs Malaga – Canal 8 (HD)
-https://51a1.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=0d16764fd4e6367c211528fc6c3a7e90a0d36225-e9-1767582866-1767528866&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 07:30 Premier League – Leeds United vs Manchester United – Canal 2
-https://cyegvv.6522236688.shop:8443/hls/a31q9.m3u8?s=VhHIrbVZOQsdxfzB6N2Q-A&e=1767559502
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 07:30 Premier League – Leeds United vs Manchester United – Canal 3 (HD)
-https://98ca2.crackstreamslivehd.com/global/espn/index.m3u8?token=8a826b28153bdf9da855c3eadc40aaf27d8db2a7-21-1767582912-1767528912&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 07:30 Premier League – Leeds United vs Manchester United – Canal 4 (HD)
-https://ccndx.marsrivagg.click/max1/index.m3u8?token=b80dfe89f732c49608598bb7d7719aa13efc697d-b6-1767582920-1767528920&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 07:30 Premier League – Leeds United vs Manchester United – Canal 5 (HD)
-https://doc1.crackstreamslivehd.com/global/disney2/index.m3u8?token=e6a97323afb0b522d4d0167f9bb3221b1d1a266e-f7-1767582927-1767528927&ip=52.154.20.197
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 07:30 Premier League – Leeds United vs Manchester United – Canal 6 (HD)
-https://ccndx.marsrivagg.click/espn2cl/index.m3u8?token=9400d871f798d7b9542120ae35b6f359e4f2bd35-d0-1767582935-1767528935&ip=52.154.20.197
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Real Betis – Canal 2
+https://cyegvv.6522236688.shop:8443/hls/a31q9.m3u8?s=yswU9goiQ2xVO0iCo6garg&e=1767561805
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Real Betis – Canal 3 (HD)
+https://99a1.crackstreamslivehd.com/global/espn/index.m3u8?token=e622e1d70d6f300309824cce091fc0fd0b386cfe-bf-1767585213-1767531213&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Real Betis – Canal 4 (HD)
+https://14c51.crackstreamslivehd.com/global/espnplus3/index.m3u8?token=19e2c5b15eb8780c7b2622992a835b726c69b6c5-0f-1767585220-1767531220&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Real Betis – Canal 5 (HD)
+https://ccndx.marsrivagg.click/daznlaliga/index.m3u8?token=97f9c2ae8bb4b7942cadcf2747f00a9d16ac65ef-c3-1767585228-1767531228&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Real Betis – Canal 6 (HD)
+https://doc1.crackstreamslivehd.com/global/disney11/index.m3u8?token=b4c4f9ff995d1c3df7261d2ceddc245f27d3e70f-18-1767585235-1767531235&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga", 10:15 LaLiga – Real Madrid vs Real Betis – Canal 7 (HD)
+https://ccndx.marsrivagg.click/skylaliga/index.m3u8?token=5a9a090d17f7c259934b958f134d5820427cf673-06-1767585242-1767531242&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 25" group-title="LaLiga 2", 10:15 LaLiga 2 – Ceuta vs Andorra – Canal 25
+https://cyegvv.6522236688.shop:8443/hls/s6kdue.m3u8?s=1xE2LcDjZeAJy5Q1txUzjA&e=1767561856
+#EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Ceuta vs Andorra – Canal 26 (HD)
+https://14c51.crackstreamslivehd.com/global/laligahypermotion/index.m3u8?token=9568216c503aaed8a69143014cfdd8d389e3474b-2e-1767585264-1767531264&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="LaLiga 2", 10:15 LaLiga 2 – Ceuta vs Andorra – Canal 27 (HD)
+https://ccndx.marsrivagg.click/hyper1/index.m3u8?token=d7bd4f422b717a228121cd401239fd803411c25a-9c-1767585271-1767531271&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 16" group-title="Premier League", 10:00 Premier League – Tottenham Hotspur vs Sunderland – Canal 16
+https://cyegvv.6522236688.shop:8443/hls/yh3o7p7.m3u8?s=PWOQzHHAkadEHWBFtcp6nA&e=1767561885
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Premier League", 10:00 Premier League – Tottenham Hotspur vs Sunderland – Canal 17 (HD)
+https://8c51.crackstreamslivehd.com/global/disney9/index.m3u8?token=dbf0cb97fa226230e854ce243d3d44ff6cce9ca3-57-1767585293-1767531293&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Premier League", 10:00 Premier League – Tottenham Hotspur vs Sunderland – Canal 18 (HD)
+https://ccndx.marsrivagg.click/max4/index.m3u8?token=8651c71ee913b95194646d098c816f4d5f77aaa2-eb-1767585300-1767531300&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 19" group-title="Premier League", 10:00 Premier League – Newcastle United vs Crystal Palace – Canal 19
+https://cyegvv.6522236688.shop:8443/hls/uybh9ztgwiw1cgz.m3u8?s=b2BulGu-aOSc0MbbWOcPnA&e=1767561913
+#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Premier League", 10:00 Premier League – Newcastle United vs Crystal Palace – Canal 20 (HD)
+https://57b1.crackstreamslivehd.com/global/disney8/index.m3u8?token=71c7ae0dc90f4db15fbcc7381311890018ac535a-fa-1767585322-1767531322&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Premier League", 10:00 Premier League – Newcastle United vs Crystal Palace – Canal 21 (HD)
+https://ccndx.marsrivagg.click/foxone2/index.m3u8?token=f91472d5790444c688a5192c3db7fdf3772c8f9a-f5-1767585329-1767531329&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 22" group-title="Premier League", 10:00 Premier League – Everton vs Brentford – Canal 22
+https://cyegvv.6522236688.shop:8443/hls/hmsa6df9.m3u8?s=BH62o94u2p4EEJF_fdb3TQ&e=1767561942
+#EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="Premier League", 10:00 Premier League – Everton vs Brentford – Canal 23 (HD)
+https://14c51.crackstreamslivehd.com/global/disney6/index.m3u8?token=c72c9d33368d6f76ce6540da6b6b1fe6092319e9-86-1767585351-1767531351&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Premier League", 10:00 Premier League – Everton vs Brentford – Canal 24 (HD)
+https://ccndx.marsrivagg.click/max2/index.m3u8?token=f2d546d58b622f45a84141184c11df9402e9b013-50-1767585358-1767531358&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 10:15 Premier League – Fulham vs Liverpool – Canal 2
+https://cyegvv.6522236688.shop:8443/hls/80yp1j.m3u8?s=BDsH94t7QxkyVwrxHJdwLw&e=1767561982
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 10:15 Premier League – Fulham vs Liverpool – Canal 4 (HD)
+https://8c51.crackstreamslivehd.com/global/disney7/index.m3u8?token=572d70a238030b44776f97b3a146e78b0770b204-48-1767585396-1767531396&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 10:15 Premier League – Fulham vs Liverpool – Canal 5 (HD)
+https://ccndx.marsrivagg.click/max3/index.m3u8?token=58e6e68ba11f509371e3a21976f98e2900fe2b5c-18-1767585403-1767531403&ip=20.42.42.211
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 10:15 Premier League – Fulham vs Liverpool – Canal 6 (HD)
+https://ccndx.marsrivagg.click/telemundo/index.m3u8?token=3e98773b2abeb02dc9a0c2895a5433115280fdb1-ab-1767585410-1767531410&ip=20.42.42.211
