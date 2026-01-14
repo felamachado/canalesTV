@@ -161,6 +161,7 @@ def init_driver() -> webdriver.Chrome:
     opts.add_argument("--disable-dev-shm-usage")
     opts.add_argument("--disable-web-security")
     opts.add_argument("--disable-features=VizDisplayCompositor")
+    opts.add_argument("--window-size=1920,1080")
     
     # Try local path first (for local development), fallback to webdriver-manager
     try:
@@ -176,71 +177,110 @@ def init_driver() -> webdriver.Chrome:
     
     return webdriver.Chrome(service=service, options=opts)
 
-def get_m3u8_selenium(url: str) -> str:
-    """Fallback: abre la URL y captura peticiones con '.m3u8'"""
-    drv = init_driver()
-    drv.get(url)
-    time.sleep(SLOW_WAIT)
-    stream_url = ''
-    for req in drv.requests:
-        if '.m3u8' in req.url:
-            stream_url = req.url
-            break
-    drv.quit()
-    return stream_url
+def click_play_buttons(drv):
+    """Intenta hacer clic en botones de play comunes"""
+    try:
+        # Selectores comunes de players (Clappr, JWPlayer, HTML5, etc)
+        selectors = [
+            "button[aria-label*='play']", 
+            ".play-button", 
+            ".vjs-play-control", 
+            ".jw-display-icon-container", 
+            ".plyr__control--overlaid", 
+            "button.vjs-big-play-button",
+            "div[class*='play']",
+            "svg[class*='play']"
+        ]
+        
+        # Combinar en un solo selector para eficiencia
+        css_selector = ", ".join(selectors)
+        
+        elements = drv.find_elements("css selector", css_selector)
+        
+        # Filtrar visibles y clickear (max 2 intentos)
+        count = 0
+        for el in elements:
+            if count >= 2: break
+            try:
+                if el.is_displayed():
+                    drv.execute_script("arguments[0].click();", el)
+                    time.sleep(0.5)
+                    count += 1
+            except:
+                pass
+    except:
+        pass
 
 def get_m3u8_selenium_enhanced(url: str) -> str:
-    """Método mejorado para URLs de roja-directahd.com con más interacciones"""
+    """Método robusto: busca en iframes, hace clic y espera tráfico"""
     drv = init_driver()
     try:
-        drv.get(url)
+        drv.set_page_load_timeout(15)
+        try:
+            drv.get(url)
+        except:
+            pass # Timeout es común en sitios lentos, seguir igual
         
         # Esperar carga inicial
-        time.sleep(2)
+        time.sleep(3)
         
-        # Buscar y hacer clic en elementos comunes de players de video
+        # 1. Intentar en frame principal
+        click_play_buttons(drv)
+        
+        # 2. Intentar buscar iframes y clickear dentro
         try:
-            # Intentar hacer clic en el player o elementos de play
-            play_elements = drv.find_elements("css selector", 
-                "button[aria-label*='play'], .play-button, .vjs-play-control, "
-                ".jwplayer .jw-display-icon-container, .plyr__control--overlaid, "
-                "button.vjs-big-play-button")
-            
-            for element in play_elements[:2]:  # Probar máximo 2 elementos
+            iframes = drv.find_elements("tag name", "iframe")
+            # Recorrer iframes (limitado a 3 para no tardar mucho)
+            for i in range(min(len(iframes), 3)):
                 try:
-                    if element.is_displayed() and element.is_enabled():
-                        drv.execute_script("arguments[0].click();", element)
-                        time.sleep(1)
-                        break
+                    # Siempre volver al default antes de cambiar
+                    drv.switch_to.default_content()
+                    # Re-buscar frames para evitar StaleElement
+                    current_iframes = drv.find_elements("tag name", "iframe")
+                    if i < len(current_iframes):
+                        drv.switch_to.frame(current_iframes[i])
+                        click_play_buttons(drv)
+                        # También buscar iframes anidados (nivel 2)
+                        nested_iframes = drv.find_elements("tag name", "iframe")
+                        if nested_iframes:
+                            drv.switch_to.frame(nested_iframes[0])
+                            click_play_buttons(drv)
                 except:
                     continue
         except:
             pass
+            
+        drv.switch_to.default_content()
         
-        # Esperar más tiempo para cargar streams
+        # Esperar tráfico generado post-clic
         time.sleep(SLOW_WAIT + 2)
         
-        # Buscar .m3u8 URLs en requests
+        # Buscar .m3u8 URLs en requests capturados
         stream_url = ''
+        
+        # Prioridad 1: URLs que contengan .m3u8 pero NO master (a veces master falla)
         for req in drv.requests:
-            if '.m3u8' in req.url and 'master.m3u8' not in req.url.lower():
+            if '.m3u8' in req.url and 'master' not in req.url:
                 stream_url = req.url
                 break
         
-        # Si no encontró, buscar master.m3u8 como fallback
+        # Prioridad 2: Cualquier .m3u8
         if not stream_url:
             for req in drv.requests:
                 if '.m3u8' in req.url:
                     stream_url = req.url
                     break
-        
+                    
         return stream_url
     
     except Exception as e:
         print(f"  ⚠️ Error en Selenium mejorado: {e}")
         return ''
     finally:
-        drv.quit()
+        try:
+            drv.quit()
+        except:
+            pass
 
 # ───────────── Combined Playlist Generation ─────────────
 def create_combined_playlist(eventos_entries: list[str]) -> None:
@@ -287,16 +327,13 @@ def main():
     entries = ["#EXTM3U"]
     for liga, hora, partido, chan, url in events:
         try:
-            # Método 1: Intento rápido
+            # Método 1: Intento rápido (requests directo)
             stream = get_m3u8_simple(url)
             
-            # Método 2: Selenium estándar si no encontró nada
+            # Método 2: Selenium Mejorado (fallback general)
+            # Se usa para TODO lo que falle en método rápido, ya que cubre iframes y clics
             if not stream:
-                stream = get_m3u8_selenium(url)
-            
-            # Método 3: Selenium mejorado para URLs específicas
-            if not stream and (any(domain in url for domain in ['roja-directahd.com', 'rojadirecta']) or url.startswith('/eventos.html')):
-                print(f"  → Probando método mejorado para {chan}")
+                print(f"  → Escaneando stream (iframe/click) para: {chan}")
                 stream = get_m3u8_selenium_enhanced(url)
             
             if not stream:
