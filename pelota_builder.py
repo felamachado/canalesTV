@@ -223,11 +223,11 @@ def click_play_buttons(drv):
             except: pass
     except: pass
 
-def extract_m3u8(url: str) -> str:
-    """Extrae el m3u8 de una URL usando Selenium Wire y clics inteligentes"""
-    # Quick check con requests primero? No, estos sitios suelen requerir JS.
+def extract_m3u8(url: str) -> dict:
+    """Extrae el m3u8 de una URL usando Selenium Wire y clics inteligentes. Retorna dict con url y headers."""
     driver = init_driver()
-    stream_url = ""
+    stream_data = None
+    
     try:
         driver.set_page_load_timeout(20)
         try:
@@ -257,21 +257,30 @@ def extract_m3u8(url: str) -> str:
         time.sleep(4)
         
         # Capturar requests
+        found_req = None
         for req in driver.requests:
             if '.m3u8' in req.url and 'master' not in req.url:
-                stream_url = req.url
+                found_req = req
                 break
-        if not stream_url:
+        
+        if not found_req:
             for req in driver.requests:
                 if '.m3u8' in req.url:
-                    stream_url = req.url
+                    found_req = req
                     break
+        
+        if found_req:
+            stream_data = {
+                "url": found_req.url,
+                "referer": found_req.headers.get("Referer", ""),
+                "user_agent": found_req.headers.get("User-Agent", "")
+            }
                     
     except Exception as e:
         print(f"Error extracting stream from {url}: {e}")
     finally:
         driver.quit()
-    return stream_url
+    return stream_data
 
 # ───────────── Main ─────────────
 
@@ -291,9 +300,6 @@ def main():
         # Filtros Ligas
         if any(exc.lower() in liga.lower() for exc in EXCLUDED_LEAGUES): continue
         if INCLUDE_LEAGUES and not any(inc.lower() in liga.lower() for inc in INCLUDE_LEAGUES): continue
-        
-        # Deduplicación visual (si ya tenemos ese hora+partido, agregamos opción o nos quedamos con la mejor?)
-        # Por ahora agregamos todo
         pass
 
     # 3. Generar archivo eventos
@@ -304,7 +310,6 @@ def main():
     all_events.sort(key=lambda x: (x[1], x[0])) # Hora, Liga
     
     # Procesar streams (ESTO LLEVA TIEMPO)
-    # Para ahorrar tiempo, solo procesar los que pasaron filtros
     processed_count = 0
     for liga, hora, partido, chan, url in all_events:
         # Re-aplicar filtro por seguridad
@@ -312,11 +317,27 @@ def main():
         if INCLUDE_LEAGUES and not any(inc.lower() in liga.lower() for inc in INCLUDE_LEAGUES): continue
         
         print(f"Procesando: {hora} {liga} - {partido}")
-        stream = extract_m3u8(url)
-        if stream:
+        result = extract_m3u8(url)
+        if result:
             title = f"{hora} {liga} – {partido}"
             entries.append(f'#EXTINF:-1 tvg-name="{chan}" group-title="{liga}", {title} – {chan}')
-            entries.append(stream)
+            
+            # Add VLC specific headers
+            if result.get("userAgent"): # Normalize key if needed, using lower camelCase in dict
+                entries.append(f'#EXTVLCOPT:http-user-agent={result["userAgent"]}')
+            if result.get("referer"):
+                entries.append(f'#EXTVLCOPT:http-referrer={result["referer"]}')
+            elif result.get("referrer"): # Typo handling
+                 entries.append(f'#EXTVLCOPT:http-referrer={result["referrer"]}')
+            
+            # Use keys from the new extract_m3u8 (user_agent, referer)
+            ua = result.get("user_agent")
+            ref = result.get("referer")
+            
+            if ua: entries.append(f'#EXTVLCOPT:http-user-agent={ua}')
+            if ref: entries.append(f'#EXTVLCOPT:http-referrer={ref}')
+            
+            entries.append(result["url"])
             processed_count += 1
         else:
             print("  -> No stream found")
@@ -333,8 +354,8 @@ def main():
     names_count = {}
     for name, url in fixed_channels:
         print(f"  Fixed: {name}")
-        stream = extract_m3u8(url)
-        if stream:
+        result = extract_m3u8(url)
+        if result:
             # Handle duplicate names if any
             display_name = name
             if name in names_count:
@@ -344,7 +365,13 @@ def main():
                 names_count[name] = 1
                 
             fixed_entries.append(f'#EXTINF:-1 group-title="Fijos", {display_name}')
-            fixed_entries.append(stream)
+            
+            ua = result.get("user_agent")
+            ref = result.get("referer")
+            if ua: fixed_entries.append(f'#EXTVLCOPT:http-user-agent={ua}')
+            if ref: fixed_entries.append(f'#EXTVLCOPT:http-referrer={ref}')
+            
+            fixed_entries.append(result["url"])
             
     # 5. Combinar Playlist
     combo_entries = ["#EXTM3U"]
