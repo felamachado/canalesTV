@@ -28,7 +28,7 @@ CDN_URL        = f"https://raw.githubusercontent.com/felamachado/canalesTV/main/
 SLOW_WAIT      = 4
 
 # Ligas a incluir/excluir
-INCLUDE_LEAGUES = ["Formula 1", "Liga de Argentina", "Liga de Uruguay", "Premier League", "LaLiga"]
+INCLUDE_LEAGUES = []
 EXCLUDED_LEAGUES = [
     "Super Lig", "Liga Endesa", "Super League", "Bundesliga",
     "Liga de Peru", "Liga de Ecuador", "Ligue 1", "Liga de Colombia",
