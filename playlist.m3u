@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 10 UY" group-title="Varios", Canal 10 UY
-https://edge5-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2MjI4MjE5Iiwic2lwIjoiMTc5LjI2LjExMS4xNjAiLCJwYXRoIjoiL2xpdmUvYzRlZHMvQ2FuYWwxMF9VUlUvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjkzOGY3Njk5NmM0ZDdkN2UiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjIwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19.rT8mcSNPZCFdg4-AApif2KrQg8gYJ9-x9OjqI_sFQzKIJwStLWX5wwlfzjB8db6ESOFkrlzl6NETYDkh-Tf97g==/live/c4eds/Canal10_URU/SA_Live_dash_enc/Canal10_URU.mpd
+#EXTINF:-1 group-title="Fijos", DirectTV Sports
+https://ag9wzq.fubohd.com/dsports/mono.m3u8?token=dc67efa7fd4818c6d165c87e3f3acae0c191b3b2-e0-1768419175-1768401175
+#EXTINF:-1 group-title="Fijos", ESPN1
+https://rm8zcvk3.fubohd.com/espn/mono.m3u8?token=6c62327c7a9b65bbc45771bcb631124043dabab0-a-1768419188-1768401188
+#EXTINF:-1 group-title="Fijos", ESPN2
+https://tyg2mnl9.fubohd.com/espn2/mono.m3u8?token=936dcae181d52793013197b8c61aad8bde9e6595-9f-1768419201-1768401201
+#EXTINF:-1 group-title="Fijos", Fox Sports
+https://x4bnd7lq.fubohd.com/foxsports/mono.m3u8?token=d97820ab50caa934b1e36b5456d8599ae1fb8dea-93-1768419227-1768401227
+#EXTINF:-1 group-title="Fijos", Fox Sports 2
+https://anvtcax.fubohd.com/foxsports2/mono.m3u8?token=23b94ec02de1882f9f72e39fd05bc683553858b2-6a-1768419241-1768401241
+#EXTINF:-1 group-title="Fijos", Fox Sports 3
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=7df9296802bc843a2388eeb0b79b4f6c0cb841e3-a5-1768419254-1768401254
