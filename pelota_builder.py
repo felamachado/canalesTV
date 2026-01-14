@@ -256,24 +256,28 @@ def extract_m3u8(url: str) -> dict:
         driver.switch_to.default_content()
         time.sleep(4)
         
-        # Capturar requests
-        found_req = None
+        # Capturar requests - Priorizar requests exitosos (status 200)
+        candidates = []
         for req in driver.requests:
-            if '.m3u8' in req.url and 'master' not in req.url:
-                found_req = req
-                break
+            if req.response and ('.m3u8' in req.url or '.mpd' in req.url):
+                # Filter out master playlists if we can find a specific chunklist, 
+                # but many times master is what we want. 
+                # Just avoid duplicates and 404s.
+                if req.response.status_code in [200, 206]:
+                   candidates.append(req)
         
-        if not found_req:
-            for req in driver.requests:
-                if '.m3u8' in req.url:
-                    found_req = req
-                    break
+        # Prefer the last successful request (most likely the playing one)
+        found_req = candidates[-1] if candidates else None
         
         if found_req:
+            # Capture relevant headers for VLC
+            headers = found_req.headers
             stream_data = {
                 "url": found_req.url,
-                "referer": found_req.headers.get("Referer", ""),
-                "user_agent": found_req.headers.get("User-Agent", "")
+                "referer": headers.get("Referer", ""),
+                "user_agent": headers.get("User-Agent", ""),
+                "origin": headers.get("Origin", ""),
+                "cookie": headers.get("Cookie", "")
             }
                     
     except Exception as e:
@@ -333,9 +337,13 @@ def main():
             # Use keys from the new extract_m3u8 (user_agent, referer)
             ua = result.get("user_agent")
             ref = result.get("referer")
+            origin = result.get("origin")
+            cookie = result.get("cookie")
             
             if ua: entries.append(f'#EXTVLCOPT:http-user-agent={ua}')
             if ref: entries.append(f'#EXTVLCOPT:http-referrer={ref}')
+            if origin: entries.append(f'#EXTVLCOPT:http-origin={origin}')
+            if cookie: entries.append(f'#EXTVLCOPT:http-cookie={cookie}')
             
             entries.append(result["url"])
             processed_count += 1
@@ -368,8 +376,13 @@ def main():
             
             ua = result.get("user_agent")
             ref = result.get("referer")
+            origin = result.get("origin")
+            cookie = result.get("cookie")
+            
             if ua: fixed_entries.append(f'#EXTVLCOPT:http-user-agent={ua}')
             if ref: fixed_entries.append(f'#EXTVLCOPT:http-referrer={ref}')
+            if origin: fixed_entries.append(f'#EXTVLCOPT:http-origin={origin}')
+            if cookie: fixed_entries.append(f'#EXTVLCOPT:http-cookie={cookie}')
             
             fixed_entries.append(result["url"])
             
