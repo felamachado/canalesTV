@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fijos", DirectTV Sports
-https://qzv4jmsc.fubohd.com/dsports/mono.m3u8?token=810099aa5d2401bd28c39652ac44a489e11a62a7-6e-1768420037-1768402037
 #EXTINF:-1 group-title="Fijos", ESPN1
-https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=604ca606e252994ec0e9f5f5ce61fb4a53fb9452-3e-1768420050-1768402050
-#EXTINF:-1 group-title="Fijos", ESPN2
-https://ag9wzq.fubohd.com/espn2/mono.m3u8?token=f1b7305063b2a11f86dd4c415fc9a014db283c07-61-1768420063-1768402063
+https://rm8zcvk3.fubohd.com/espn/mono.m3u8?token=1f9b3c7e8b288f60eafbb3bfd10b4c703d83aa7e-c0-1768420224-1768402224
 #EXTINF:-1 group-title="Fijos", ESPN3
-https://ag9wzq.fubohd.com/espn3/mono.m3u8?token=fe4f69a14e9a7df89074e4680c8bdea834ac1c57-ce-1768420076-1768402076
+https://ym9yzq.fubohd.com/espn3/mono.m3u8?token=c6cbdf72bd463586444538f0e9b7f7cabe84820a-87-1768420247-1768402247
 #EXTINF:-1 group-title="Fijos", Fox Sports
-https://tyg2mnl9.fubohd.com/foxsports/mono.m3u8?token=32fea3081ac40eb759cab9f58e8a0b18c421039e-bb-1768420089-1768402089
-#EXTINF:-1 group-title="Fijos", Fox Sports 2
-https://a2vlca.fubohd.com/foxsports2/mono.m3u8?token=05e1bdf8f8b3ea0b75af00c936c192728c807813-d8-1768420102-1768402102
+https://ym9yzq.fubohd.com/foxsports/mono.m3u8?token=7f5baea2e13a1b7cd4bb9a4a816e53f0934102fd-ce-1768420258-1768402258
+#EXTINF:-1 group-title="Fijos", Fox Sports 3
+https://ym9yzq.fubohd.com/foxsports2/mono.m3u8?token=30bb3d242ef1b99ee298d5c5f7eed9eca271b6f0-e8-1768420281-1768402281
