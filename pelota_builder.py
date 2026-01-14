@@ -20,6 +20,7 @@ from selenium.webdriver.common.by import By
 ROJA_URL       = "https://www.rojadirectaenvivo.pl/"
 FUTLIB_URL     = "https://futbollibre.mx/"
 LIBPEL_URL     = "https://librepelota.com/"
+PELOTA1_URL    = "https://www.pelotalibre1.pe/"
 
 # Directorio del repo local
 REPO_DIR       = Path(__file__).parent
@@ -129,6 +130,20 @@ def get_futbollibre_style_events(url: str, source_name: str) -> list:
                 # Check for time element or text
                 text = a.text
                 match = re.search(r'(\d{2}:\d{2})', text)
+                
+                # Si no encuentra hora en el enlace, buscar en padres (traversal)
+                if not match:
+                    el = a
+                    for _ in range(3): # Subir hasta 3 niveles
+                        try:
+                            el = el.find_element(By.XPATH, "..")
+                            p_txt = el.text
+                            match = re.search(r'(\d{2}:\d{2})', p_txt)
+                            if match:
+                                text = p_txt # Usar texto del contenedor padre
+                                break
+                        except:
+                            break
                 
                 if match:
                     hora = match.group(1)
@@ -267,6 +282,7 @@ def main():
     all_events.extend(get_roja_events())
     all_events.extend(get_futbollibre_style_events(FUTLIB_URL, "FutbolLibre"))
     all_events.extend(get_futbollibre_style_events(LIBPEL_URL, "LibrePelota"))
+    all_events.extend(get_futbollibre_style_events(PELOTA1_URL, "PelotaLibre1"))
     
     # 2. Filtrar y ordenar
     unique_events = {} # Key: (hora, partido) -> data
