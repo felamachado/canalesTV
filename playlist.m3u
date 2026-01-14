@@ -1,15 +1,111 @@
 #EXTM3U
 #EXTINF:-1 group-title="Fijos", DirectTV Sports
-https://rm8zcvk3.fubohd.com/dsports/mono.m3u8?token=d23c3a864b26b5b5b73e4c063684af0575a4049c-d5-1768420742-1768402742
+https://qzv4jmsc.fubohd.com/dsports/mono.m3u8?token=3313f76dcce81c00f82e55ed373c4cbfd83f196f-0-1768421950-1768403950
 #EXTINF:-1 group-title="Fijos", ESPN1
-https://a2vlca.fubohd.com/espn/mono.m3u8?token=3c2e648da6aeb3739c2445ee0938865fe49edcda-7b-1768420755-1768402755
+https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=b2ec15cddef2283ec96910fb7484d44b585eae61-ea-1768421961-1768403961
 #EXTINF:-1 group-title="Fijos", ESPN2
-https://ym9yzq.fubohd.com/espn2/mono.m3u8?token=c4e1b749ef57fb15115716650bffb9f99ba7f034-65-1768420768-1768402768
-#EXTINF:-1 group-title="Fijos", ESPN3
-https://rm8zcvk3.fubohd.com/espn3/mono.m3u8?token=2301c563104aedc0006179c8b792fe5bd1b7b1e6-cc-1768420781-1768402781
+https://rm8zcvk3.fubohd.com/espn2/mono.m3u8?token=8a1c94ebed54d1c54d211cb322dff9b4621ace1a-e1-1768421973-1768403973
 #EXTINF:-1 group-title="Fijos", Fox Sports
-https://bgfuzq.fubohd.com/foxsports/mono.m3u8?token=fda423160bf622244589224a681c0c462efd0e2a-c6-1768420794-1768402794
+https://aw1wcm92zq.fubohd.com/foxsports/mono.m3u8?token=e6a101995e913a7f0572bb962dd51887dc037185-66-1768421995-1768403995
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
-https://anvtcax.fubohd.com/foxsports2/mono.m3u8?token=8b1c6b5cf8a53d5abb98999798a23f267fa77ccb-20-1768420808-1768402808
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=3858791e93dea6288721dc6d9ad301456f43138f-1a-1768422006-1768404006
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
-https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=52a366c0dd53695d7268772a49c8b7a17b6e57f8-2a-1768420821-1768402821
+https://agvyby.fubohd.com/foxsports2/mono.m3u8?token=851fe6e82ff4a9e8f1304bddfed9c16cbd9f640b-ee-1768422017-1768404017
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – San Lorenzo vs Cúcuta Deportivo – FutbolLibre Stream
+https://x4bnd7lq.fubohd.com/espnpremium/mono.m3u8?token=2f4f68b1178e042739e69ead4db8d1c48c571d10-89-1768421403-1768403403
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – San Lorenzo vs Cúcuta Deportivo – FutbolLibre Stream
+https://qzv4jmsc.fubohd.com/disney10/mono.m3u8?token=616c4ab7a7f7653714609ac4fc977420f22fb0be-95-1768421414-1768403414
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – San Lorenzo vs Cúcuta Deportivo – FutbolLibre Stream
+https://yjaacbk.234276133.fit:8443/hls/o9mkcz3mo.m3u8?s=HJpii-cKkdsr4sXKfoHavw&e=1768425927
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – San Lorenzo vs Cúcuta Deportivo – LibrePelota Stream
+https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=1af93e68573edf0e6be1f201dad9fa0523903726-e9-1768421434-1768403434
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – San Lorenzo vs Cúcuta Deportivo – LibrePelota Stream
+https://agvyby.fubohd.com/disney10/mono.m3u8?token=cbef2b391e8c8a035e17a2a298c3df00d234fd3b-eb-1768421444-1768403444
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – San Lorenzo vs Cúcuta Deportivo – LibrePelota Stream
+https://yjaacbk.234276133.fit:8443/hls/o9mkcz3mo.m3u8?s=3O0yz30yrrZUf5_lQGnUfQ&e=1768425957
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa Africana de Naciones", 17:00 Copa Africana de Naciones – Senegal vs Egipto – LibrePelota Stream
+https://aw1wcm92zq.fubohd.com/winsports/mono.m3u8?token=b189dd4fdf8332c79d002dfb32e8087558442304-4d-1768421477-1768403477
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa KNVB", 17:30 Copa KNVB – Den Bosch vs PSV – FutbolLibre Stream
+https://agvyby.fubohd.com/espn2_nl/mono.m3u8?token=132a213df01dc2873c9c5f19d755afe53fee048b-a6-1768421487-1768403487
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa KNVB", 17:30 Copa KNVB – Den Bosch vs PSV – LibrePelota Stream
+https://aw1wcm92zq.fubohd.com/espn2_nl/mono.m3u8?token=7e498bebe9e07484b072627e43c35c3ba7f973fd-4a-1768421496-1768403496
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – FutbolLibre Stream
+https://ym9yzq.fubohd.com/espn/mono.m3u8?token=636c9179418e3428d00b1f136a28721c8e3cfabc-ad-1768421505-1768403505
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – FutbolLibre Stream
+https://ag9wzq.fubohd.com/disney2/mono.m3u8?token=07a7b539a0013812afe7ed83970aa18395b10afb-31-1768421516-1768403516
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – FutbolLibre Stream
+https://yjaacbk.234276133.fit:8443/hls/tyh9ei.m3u8?s=c5HpYv4n-eV9NujjujcWCg&e=1768426027
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – FutbolLibre Stream
+https://x4bnd7lq.fubohd.com/espn2mx/mono.m3u8?token=e8969ea437228c17f418e37787bb2c2a08fccd7f-71-1768421539-1768403539
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – FutbolLibre Stream
+https://yjaacbk.234276133.fit:8443/hls/o4kexbz18fc5kj.m3u8?s=Rw8pfiU3Eas6BQln_dEMJw&e=1768426059
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – LibrePelota Stream
+https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=46836af632f261de3eac9936139cfd15eff748a8-81-1768421566-1768403566
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – LibrePelota Stream
+https://x4bnd7lq.fubohd.com/disney2/mono.m3u8?token=a6276867681a49db007d9be96dbb3b542acc197d-1b-1768421576-1768403576
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – LibrePelota Stream
+https://yjaacbk.234276133.fit:8443/hls/tyh9ei.m3u8?s=VLN6q-4xi7PPgBdUIYdrFQ&e=1768426087
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – LibrePelota Stream
+https://agvyby.fubohd.com/espn2mx/mono.m3u8?token=c8f6cfc7f86bb6f3ce7fc28f9c2c7b0845ac6a8f-5f-1768421594-1768403594
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – LibrePelota Stream
+https://bgfuzq.fubohd.com/foxdeportes/mono.m3u8?token=95f33790808d3c8acb9c30551043fdbbe91de9db-ec-1768421604-1768403604
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Napoli vs Parma – LibrePelota Stream
+https://yjaacbk.234276133.fit:8443/hls/o4kexbz18fc5kj.m3u8?s=rL_3Pv-hy7IXbyGt5f8W4Q&e=1768426116
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa KNVB", 19:00 Copa KNVB – Go Ahead Eagles vs Heracles – FutbolLibre Stream
+https://ag9wzq.fubohd.com/espn3_nl/mono.m3u8?token=97da8b019340881bd6c2fd9d192b4d03ba86369d-f2-1768421623-1768403623
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 19:45 Serie A – Internazionale vs Lecce – FutbolLibre Stream
+https://tyg2mnl9.fubohd.com/disney6/mono.m3u8?token=6aed6b3464d16d09f02e6548da7c3b5410f07dc6-f1-1768421641-1768403641
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 19:45 Serie A – Internazionale vs Lecce – LibrePelota Stream
+https://bgfuzq.fubohd.com/disney6/mono.m3u8?token=44401c68fd47d255898ecb9e0d4d8eed49d216e3-66-1768421651-1768403651
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa KNVB", 20:00 Copa KNVB – AZ vs Ajax – FutbolLibre Stream
+https://bgfuzq.fubohd.com/espn1_nl/mono.m3u8?token=4ca39b8a6336529940bcfcb4a8afa2372116dcd9-3f-1768421660-1768403660
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa KNVB", 20:00 Copa KNVB – AZ vs Ajax – LibrePelota Stream
+https://aw1wcm92zq.fubohd.com/espn1_nl/mono.m3u8?token=d50656086c4feb0b64fbd677b0cd4b5e9ba029de-8f-1768421670-1768403670
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – FutbolLibre Stream
+https://qzv4jmsc.fubohd.com/movistar/mono.m3u8?token=aa271d0f20c4a26bae2c383756880cf574d624cc-6e-1768421688-1768403688
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – FutbolLibre Stream
+https://yjaacbk.234276133.fit:8443/hls/3nj0yj6u5ldzbas.m3u8?s=Hcm4SWx-CuwAoym8xq8PTA&e=1768426200
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – FutbolLibre Stream
+https://yjaacbk.234276133.fit:8443/hls/m4ryw369h1te.m3u8?s=nnPRnYR1jn-RBM8HyONjQg&e=1768426208
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – FutbolLibre Stream
+https://ag9wzq.fubohd.com/winsports/mono.m3u8?token=8ce89ed19e35a4a8b4f50f1e1e5ace4f0d08b73f-81-1768421715-1768403715
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – LibrePelota Stream
+https://aw1wcm92zq.fubohd.com/americatv/mono.m3u8?token=3df1d2ff39c2fbb55ca693184c0c4b95ac08fd69-57-1768421724-1768403724
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – LibrePelota Stream
+https://a2vlca.fubohd.com/movistar/mono.m3u8?token=0caa3b7afe9ea1a8b3b388dac356e7c6ebd3615e-f0-1768421734-1768403734
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – LibrePelota Stream
+https://yjaacbk.234276133.fit:8443/hls/3nj0yj6u5ldzbas.m3u8?s=zUMsxR3JWeCpejltLahwjA&e=1768426246
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – LibrePelota Stream
+https://yjaacbk.234276133.fit:8443/hls/m4ryw369h1te.m3u8?s=sDCoQ1frI4jqte75KNQPMw&e=1768426254
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa del Rey", 20:00 Copa del Rey – Albacete vs Real Madrid – LibrePelota Stream
+https://bgfuzq.fubohd.com/winsports/mono.m3u8?token=cd999059be7584153e4f7e8ec320c538c5a7de1a-4-1768421761-1768403761
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="EFL Cup", 20:00 EFL Cup – Chelsea vs Arsenal – FutbolLibre Stream
+https://ag9wzq.fubohd.com/disney7/mono.m3u8?token=38f9e126ae5d88870efe945fa54041b08865bc78-7d-1768421770-1768403770
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="EFL Cup", 20:00 EFL Cup – Chelsea vs Arsenal – FutbolLibre Stream
+https://rm8zcvk3.fubohd.com/espn2mx/mono.m3u8?token=6717319999256c0a1c88d9ee38796c685deee053-a3-1768421780-1768403780
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="EFL Cup", 20:00 EFL Cup – Chelsea vs Arsenal – LibrePelota Stream
+https://qzv4jmsc.fubohd.com/disney7/mono.m3u8?token=f90e63830781db0ad836416b9cfce94e13a36461-70-1768421790-1768403790
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa de Portugal", 20:45 Copa de Portugal – Porto vs Benfica – FutbolLibre Stream
+https://agvyby.fubohd.com/foxsports/mono.m3u8?token=c25f98c1853ad0f3ca78f80b0a6bf7092e9a696e-79-1768421811-1768403811
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa de Portugal", 20:45 Copa de Portugal – Porto vs Benfica – FutbolLibre Stream
+https://tyg2mnl9.fubohd.com/beinsport_xtra_espanol/mono.m3u8?token=c7b72e8f717eabc3ed9d272807f798021ba473f0-ce-1768421820-1768403820
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa de Portugal", 20:45 Copa de Portugal – Porto vs Benfica – LibrePelota Stream
+https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=a64d6a4610860812ef880c09296ccb1b6af677cd-1c-1768421831-1768403831
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 21:00 Serie Río de la Plata – Unión Santa Fe vs Alianza Lima – FutbolLibre Stream
+https://a2vlca.fubohd.com/espnpremium/mono.m3u8?token=49f541066ebfdce26c57a135d16b4982070019ca-b6-1768421850-1768403850
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 21:00 Serie Río de la Plata – Unión Santa Fe vs Alianza Lima – FutbolLibre Stream
+https://agvyby.fubohd.com/disney8/mono.m3u8?token=c4949e35c16545d6cf3baa6a13af16509db62a5b-6-1768421861-1768403861
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 21:00 Serie Río de la Plata – Unión Santa Fe vs Alianza Lima – FutbolLibre Stream
+https://yjaacbk.234276133.fit:8443/hls/o9mkcz3mo.m3u8?s=Bhbbez9tWiU3_9znk6r6Pg&e=1768426372
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 21:00 Serie Río de la Plata – Unión Santa Fe vs Alianza Lima – LibrePelota Stream
+https://ym9yzq.fubohd.com/disney8/mono.m3u8?token=f2838fac98c92b98fb4fb9e550d1f6e88b907cb2-41-1768421887-1768403887
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 21:00 Serie Río de la Plata – Unión Santa Fe vs Alianza Lima – LibrePelota Stream
+https://yjaacbk.234276133.fit:8443/hls/o9mkcz3mo.m3u8?s=m4CIJgI35xA9BLquxl4BZA&e=1768426399
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Partido Amistoso Internacional", 22:00 Partido Amistoso Internacional – Boca Juniors vs Millonarios – FutbolLibre Stream
+https://a2vlca.fubohd.com/disney9/mono.m3u8?token=e306e0ebcded26c6a516130aac87f76aaeea934a-3-1768421905-1768403905
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Partido Amistoso Internacional", 22:00 Partido Amistoso Internacional – Boca Juniors vs Millonarios – FutbolLibre Stream
+https://tyg2mnl9.fubohd.com/tycinternacional/mono.m3u8?token=4de0f7cd5730c1eeb9d90ee402ee90de1e5b2387-16-1768421916-1768403916
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Partido Amistoso Internacional", 22:00 Partido Amistoso Internacional – Boca Juniors vs Millonarios – LibrePelota Stream
+https://x4bnd7lq.fubohd.com/disney9/mono.m3u8?token=b2de0943c361ec7a353c3d5fcdf074607fa2a143-98-1768421925-1768403925
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Partido Amistoso Internacional", 22:00 Partido Amistoso Internacional – Boca Juniors vs Millonarios – LibrePelota Stream
+https://bgfuzq.fubohd.com/tycinternacional/mono.m3u8?token=676889cff5dab2dd9a85548e0c098560b75cbbf9-53-1768421935-1768403935
