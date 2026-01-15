@@ -1,35 +1,39 @@
 #EXTM3U
+#EXTINF:-1 group-title="Fijos", DirectTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/dsports/mono.m3u8?token=5410dbbb51f0ddc77b8706495c91ac97d906e24c-6c-1768473464-1768455464
 #EXTINF:-1 group-title="Fijos", ESPN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/espn/mono.m3u8?token=001082680b63ce06f43245173d79666b1352a625-75-1768472148-1768454148
+https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=3c1811db941a7d725590584b4d705be5719ba853-b6-1768473475-1768455475
 #EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/espn2/mono.m3u8?token=e2b1ff00d8d4ef66cfdfa1eb5f1ca166939864c2-26-1768472160-1768454160
+https://aw1wcm92zq.fubohd.com/espn2/mono.m3u8?token=18afac0074fc7114cc7738a0f0f670d0a3fd5332-32-1768473486-1768455486
 #EXTINF:-1 group-title="Fijos", ESPN3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/espn3/mono.m3u8?token=29b928ab73843dfe7b6fcd4f9374e167bf1815b6-c3-1768472171-1768454171
+https://ag9wzq.fubohd.com/espn3/mono.m3u8?token=cf3863105cce2f493a909a73157313081f2082e0-42-1768473498-1768455498
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/foxsports/mono.m3u8?token=a26db6bba79eb35a28a04738c1b8e3f7694d4dec-a1-1768472183-1768454183
+https://ag9wzq.fubohd.com/foxsports/mono.m3u8?token=d7606748346fabf935c21938accb3ce11daf9517-ca-1768473509-1768455509
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/foxsports2/mono.m3u8?token=c80ad6231effe858edaef5e22b096f8ff1979b00-7f-1768472194-1768454194
+https://bgfuzq.fubohd.com/foxsports2/mono.m3u8?token=68245e92da1a5c7874e501cb0f351133689fc584-ce-1768473520-1768455520
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=ea26034b6dca553b540c8b30cc5fbbcdcba7ffd6-ba-1768472206-1768454206
+https://rm8zcvk3.fubohd.com/foxsports2/mono.m3u8?token=ceec2f6e7db2c258d14ef800a0e1db5cccbe4f2d-73-1768473531-1768455531
 #EXTINF:-1 tvg-name="Canal 13" group-title="Campeonato Carioca", 19:30 Campeonato Carioca – Bangu vs Flamengo – Canal 13
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere2/tracks-v1a1/mono.m3u8?ip=52.176.138.180&token=8e57fa354fe312b59e259b75a56e56aa6d35b356-ce-1768499999-1768445999
+https://ccndx.marsrivagg.click/premiere2/tracks-v1a1/mono.m3u8?ip=135.232.201.224&token=7c1da7d0557109d6d11dd8fd73a80b370d059406-16-1768501327-1768447327
 #EXTINF:-1 tvg-name="Canal 15" group-title="Campeonato Guacho", 19:30 Campeonato Guacho – Gremio vs Sao Jose-RS – Canal 15
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=52.176.138.180&token=a1e2127d1e0b8b755f4a5ea08d2a8cedece2823b-03-1768500020-1768446020
+https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=135.232.201.224&token=79d8d7171a4e3e0795c1aa00788d17273efa061a-44-1768501348-1768447348
