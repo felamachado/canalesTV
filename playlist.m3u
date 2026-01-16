@@ -1,74 +1,70 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fijos", DirectTV Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/dsports/mono.m3u8?token=151179b4aa929b6f3866abfb5c45f259ad7236cd-79-1768576710-1768558710
 #EXTINF:-1 group-title="Fijos", ESPN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=ca338662675b77bf3562fedaa98afc251cec3f74-53-1768576721-1768558721
+https://x4bnd7lq.fubohd.com/espn/mono.m3u8?token=304391bfb925ff363abfa20cec03d0b61935d63f-78-1768578146-1768560146
 #EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espn2/mono.m3u8?token=517c35aa1b3a1513e70d95f14cd830032ae9b218-61-1768576733-1768558733
+https://agvyby.fubohd.com/espn2/mono.m3u8?token=3a81908f90be26959384c4d31d6466bfb829a326-f7-1768578158-1768560158
 #EXTINF:-1 group-title="Fijos", ESPN3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn3/mono.m3u8?token=46ba472365de4f7c95ac7bfb853e7e68a8b6c532-83-1768576744-1768558744
+https://x4bnd7lq.fubohd.com/espn3/mono.m3u8?token=6fa213b72433d2c386d30d26eb3ecd7f0878f7f2-82-1768578169-1768560169
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/foxsports/mono.m3u8?token=e3a437af7e6c7833129e199f07c9d9543a7c482b-76-1768576755-1768558755
+https://tyg2mnl9.fubohd.com/foxsports/mono.m3u8?token=62ea7a20dec8ef97e3e2d1473d31c67ef62799b9-b2-1768578181-1768560181
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/foxsports2/mono.m3u8?token=c622acd0150540ed403a81a21c8ac0f7fe015c3f-37-1768576767-1768558767
+https://agvyby.fubohd.com/foxsports2/mono.m3u8?token=67e044942d51463bd6c929f620c76ac281e68cb3-cb-1768578192-1768560192
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/foxsports2/mono.m3u8?token=2a6ed2bbfa733db7929c3b511042572fa33a3389-ba-1768576778-1768558778
+https://agvyby.fubohd.com/foxsports2/mono.m3u8?token=cc80e17e66f4ee73f892b249a3947044424fb1df-66-1768578204-1768560204
 #EXTINF:-1 tvg-name="Canal 2" group-title="Copa del Rey", 15:15 Copa del Rey – Racing Santander vs Barcelona – Canal 2
 #EXTVLCOPT:http-referrer=https://marshlitigation.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://marshlitigation.net/
-https://qbkunwt.234276133.fit:8443/hls/a31q9.m3u8?s=yPoeWVTlZlfq_JbUTmhHSg&e=1768580985
+https://kciwjj.5606087801.art:8443/hls/a31q9.m3u8?s=7L9HeZ-PnfpAPSqxKo8jEQ&e=1768582405
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Copa del Rey", 15:15 Copa del Rey – Racing Santander vs Barcelona – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://51a1.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=67d264a626ca6a3e1122f5949d6b62b2172e5928-5c-1768604397-1768550397
+https://florcd1.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=862b11a20208977ea0bef904a93598cf2b2249ea-af-1768605817-1768551817
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Copa del Rey", 15:15 Copa del Rey – Racing Santander vs Barcelona – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/winplus/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=058399b7f6ac6cfd42945a3af19f2d0679301881-ff-1768604408-1768550408
+https://ccndx.marsrivagg.click/winplus/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=d7b9345991ff370afc7156bb504effa78e89f354-a9-1768605828-1768551828
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Copa del Rey", 15:15 Copa del Rey – Racing Santander vs Barcelona – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/mlaliga/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=e662da9dc4da21c6b27c9c6e57d861d1de892885-66-1768604439-1768550439
+https://ccndx.marsrivagg.click/mlaliga/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=c1cd90b95e9cf7dc87b2a0e9a031ccf011986c91-91-1768605860-1768551860
 #EXTINF:-1 tvg-name="Canal 21" group-title="Campeonato Carioca", 17:00 Campeonato Carioca – Portuguesa-RJ vs Botafogo – Canal 21
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=dd03e3db5134efb516ca802f328a7752fd6cad7b-77-1768604461-1768550461
+https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=4881ccff11116b9f06786e8916a9c4271d121a72-c5-1768605883-1768551883
 #EXTINF:-1 tvg-name="Canal 23" group-title="Campeonato Gaucho", 17:00 Campeonato Gaucho – Monsoon vs Internacional – Canal 23
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=dd4266764bce70d90a26f7808778f5bb8d552632-c2-1768604483-1768550483
+https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=f273751a876495f358a1b79144609e10770f0466-72-1768605905-1768551905
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Olimpia vs Colo Colo – Canal 27 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://99a1.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=d7cb89c556c849092a74305533f55db2047cadaa-4a-1768604537-1768550537
+https://florcd1.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=b48792fe6f7111501f593a1fc6ef177484429b3e-7e-1768605961-1768551961
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Olimpia vs Colo Colo – Canal 28 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=2f70c92f785242c6ebefe818b4ba4c83ac438be8-d7-1768604549-1768550549
+https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=bd79877bfc2dc049d860f1dc4826c77fc7652dc9-be-1768605973-1768551973
 #EXTINF:-1 tvg-name="Canal 40" group-title="Campeonato Carioca", 19:30 Campeonato Carioca – Vasco da Gama vs Marica – Canal 40
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=52.159.229.148&token=0b4be3a7e4a61a0d16aaa9c97eacc14ed017571a-0b-1768604571-1768550571
+https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=128.24.163.35&token=36ca21139889e77e6f540549b19fe6f9fddffa85-86-1768605995-1768551995
