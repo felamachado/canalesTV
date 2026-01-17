@@ -2,50 +2,48 @@
 #EXTINF:-1 group-title="Fijos", DirectTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/dsports/mono.m3u8?token=57e1a7f38e6fd5a53b8bf7a51a350c7f77970bba-8d-1768642838-1768624838
+https://ag9wzq.fubohd.com/dsports/mono.m3u8?token=cb436825fad2623b8cd4f7b1b811a6b31448f1d5-91-1768644659-1768626659
+#EXTINF:-1 group-title="Fijos", ESPN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ag9wzq.fubohd.com/espn/mono.m3u8?token=d8b83e72ef5764c9184c07e069c79b0f16a6c66e-e9-1768644670-1768626670
 #EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/espn2/mono.m3u8?token=61f1aea622730ddc30517aedf9beafa249f9a87e-c8-1768642861-1768624861
+https://qzv4jmsc.fubohd.com/espn2/mono.m3u8?token=58c8f50ad91ec12f70521a05805b6548f35693e3-a2-1768644681-1768626681
+#EXTINF:-1 group-title="Fijos", ESPN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/espn3/mono.m3u8?token=1f7c25c0f24169bd1b2ce76587287cb8d95691f4-bc-1768644692-1768626692
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/foxsports/mono.m3u8?token=dbfba18ee3779b3f09ba87b387fcb964bb8c6227-2f-1768642883-1768624883
+https://a2vlca.fubohd.com/foxsports/mono.m3u8?token=935c34f7f4ccc67ba3325b311d03eefa95b5ccc6-da-1768644703-1768626703
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/foxsports2/mono.m3u8?token=9d6e633b3a960591fe1c8ac9b2179a52c662eeb3-59-1768642895-1768624895
+https://agvyby.fubohd.com/foxsports2/mono.m3u8?token=1b69e1b5cdf17dd741464b8620a365390efff019-29-1768644714-1768626714
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/foxsports2/mono.m3u8?token=cfb11f2ba48ff78287023b267a94017f52e2a099-7a-1768642906-1768624906
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga de Expansión MX", 03:00 Liga de Expansión MX – Dorados vs Mineros de Zacatecas – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/espn2mx/mono.m3u8?token=90d72418931d6adb4dd5a58af597a851879d5bf9-e4-1768642714-1768624714
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga de Expansión MX", 03:00 Liga de Expansión MX – Dorados vs Mineros de Zacatecas – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/espn2mx/mono.m3u8?token=f5b387a962d3c1e07576c1335c91458034533c35-c4-1768642734-1768624734
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=355c1724b84a4618a950018bbf2c6db6d65d8ca5-9c-1768644725-1768626725
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Serie Colombia", 16:15 Serie Colombia – Cucuta Deportivo vs Huracan – Canal 27 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://57b1.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=172.184.214.226&token=e8c9eb9492db271f0ab346a3ab6cc1ed36f39ac6-1d-1768670665-1768616665
+https://14c51.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=68.154.116.64&token=b8b6266a7eb1838995f6a13f7ce202849e859219-18-1768672489-1768618489
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Serie Colombia", 16:15 Serie Colombia – Cucuta Deportivo vs Huracan – Canal 28 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=172.184.214.226&token=95515f7cd01f817a4274433f6d4ad6136c244d06-bd-1768670677-1768616677
+https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=68.154.116.64&token=021e6b8987c55cfb177f969d910cf85716314ed5-3e-1768672501-1768618501
 #EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Wanderers vs Independiente – Canal 33 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://florcd1.crackstreamslivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=172.184.214.226&token=11cd4c92007d1c55dbac9cc8d009ef8a162f4b56-b0-1768670709-1768616709
+https://florcd1.crackstreamslivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=68.154.116.64&token=daba1e034011ae6e177d8736707169e507b30af1-58-1768672532-1768618532
 #EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Wanderers vs Independiente – Canal 34 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=172.184.214.226&token=6b5ba94183ebbc523c091f31f9a6c5385478d278-77-1768670721-1768616721
+https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=68.154.116.64&token=50c91749a1738f6ad588b9c4bd88bdf3725a5ab2-25-1768672543-1768618543
