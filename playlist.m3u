@@ -1,31 +1,40 @@
 #EXTM3U
+#EXTINF:-1 group-title="Fijos", DirectTV Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ym9yzq.fubohd.com/dsports/mono.m3u8?token=39e121cdb0b02d8ed1952ec64ed612ca9917fe4d-bb-1768745511-1768727511
+#EXTINF:-1 group-title="Fijos", ESPN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/espn/mono.m3u8?token=a4ade9c6acca5d4c8bb1babbd5b06f8974be19f5-f2-1768745522-1768727522
 #EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/espn2/mono.m3u8?token=b9b3aca3f2a9add3e377d79dcca6b6d5fcd20b3e-4-1768742307-1768724307
+https://rm8zcvk3.fubohd.com/espn2/mono.m3u8?token=7ae42d77eb2ae1402d11d17983798de2c5e0e32c-f0-1768745534-1768727534
 #EXTINF:-1 group-title="Fijos", ESPN3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/espn3/mono.m3u8?token=43d868bd4c375f454c7e4de55acb589095c1c2bd-f6-1768742318-1768724318
+https://ag9wzq.fubohd.com/espn3/mono.m3u8?token=9e19962bc45b96805138067068e06a9bb2222720-a6-1768745545-1768727545
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=73e8f27fd0d1fcf193a52027c88f49ce753123fb-57-1768742329-1768724329
-#EXTINF:-1 group-title="Fijos", Fox Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/foxsports2/mono.m3u8?token=756de4dfa9d284542d7fcedabfa1d64a82c42351-f9-1768742341-1768724341
+https://agvyby.fubohd.com/foxsports/mono.m3u8?token=3716b55c9b90fee9d67edb9f26d94849b04ecbe7-8f-1768745556-1768727556
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/foxsports2/mono.m3u8?token=ce266e7e90572a8238fc66d58775ac82a64cf8a5-10-1768742352-1768724352
+https://qzv4jmsc.fubohd.com/foxsports2/mono.m3u8?token=f26a2762349c5fd9d2b50c2641a2789b06db17c6-e0-1768745579-1768727579
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://8c51.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=52.161.82.118&token=c0b38247762c448d798a3158ca6f1198bde19ad1-19-1768770135-1768716135
+https://florcd1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=20.169.77.225&token=f4f3a75838ac102391dc55a12a3e0e4814bf0682-f3-1768773357-1768719357
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/disney4/tracks-v1a1/mono.m3u8?ip=52.161.82.118&token=497791f40b8525d9a0ee228647839e1ee989800d-b7-1768770146-1768716146
+https://ccndx.marsrivagg.click/disney4/tracks-v1a1/mono.m3u8?ip=20.169.77.225&token=1a57c133c223adf8dbbb269d5c0360f87ecd78ca-f4-1768773368-1768719368
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+https://pecdl1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=20.169.77.225&token=b5e2566996f6a1b9a5a01c25999fbd6b445683ff-94-1768773390-1768719390
