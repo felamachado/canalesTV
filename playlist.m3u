@@ -1,36 +1,31 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fijos", DirectTV Sports
+#EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/dsports/mono.m3u8?token=e069fb5c4f597dc4ba92b4e86947acf1d55a5278-1f-1768739306-1768721306
-#EXTINF:-1 group-title="Fijos", ESPN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=d0b192ad9eab958196ef1bc97cbc1191706c196f-0-1768739317-1768721317
+https://rm8zcvk3.fubohd.com/espn2/mono.m3u8?token=b9b3aca3f2a9add3e377d79dcca6b6d5fcd20b3e-4-1768742307-1768724307
 #EXTINF:-1 group-title="Fijos", ESPN3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/espn3/mono.m3u8?token=521d46a8ef0d93855d98f63986603ed5a87ad573-72-1768739340-1768721340
+https://x4bnd7lq.fubohd.com/espn3/mono.m3u8?token=43d868bd4c375f454c7e4de55acb589095c1c2bd-f6-1768742318-1768724318
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=e34f3afe5f88eb9762d5fb891306b9056a307186-a5-1768739351-1768721351
+https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=73e8f27fd0d1fcf193a52027c88f49ce753123fb-57-1768742329-1768724329
+#EXTINF:-1 group-title="Fijos", Fox Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ag9wzq.fubohd.com/foxsports2/mono.m3u8?token=756de4dfa9d284542d7fcedabfa1d64a82c42351-f9-1768742341-1768724341
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/foxsports2/mono.m3u8?token=367f728f524089d2de524862cbe42e34b60a2e0c-6d-1768739374-1768721374
+https://bgfuzq.fubohd.com/foxsports2/mono.m3u8?token=ce266e7e90572a8238fc66d58775ac82a64cf8a5-10-1768742352-1768724352
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://24a1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=128.24.163.65&token=9ff098ddbb823344e2e4a20f4fc4319cf5057724-4b-1768767157-1768713157
+https://8c51.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=52.161.82.118&token=c0b38247762c448d798a3158ca6f1198bde19ad1-19-1768770135-1768716135
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/disney4/tracks-v1a1/mono.m3u8?ip=128.24.163.65&token=bd278665c97da58df2a40bffc376d69790ddab9f-46-1768767168-1768713168
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://doc1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=128.24.163.65&token=16543535cf77d4794a796755f959c55726fe4f3f-0f-1768767189-1768713189
+https://ccndx.marsrivagg.click/disney4/tracks-v1a1/mono.m3u8?ip=52.161.82.118&token=497791f40b8525d9a0ee228647839e1ee989800d-b7-1768770146-1768716146
