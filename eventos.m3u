@@ -1,19 +1,83 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 2" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 2
+#EXTINF:-1 tvg-name="Canal 7" group-title="Serie A", 06:30 Serie A – Parma vs Genoa – Canal 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-https://pl.vdcast.live/ergvb11.m3u8?m=1ZkXKpjb5e8daQRo96su0Q&c=vb11&p=3137322e3231352e3231372e3939&e=1768764015
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 3 (HD)
+https://pl.vdcast.live/ergvb11.m3u8?m=f7bYGwMHihZro4fdcGBr6w&c=vb11&p=3130342e3230392e372e323235&e=1768765223
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Serie A", 06:30 Serie A – Parma vs Genoa – Canal 8 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://doc1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=172.215.217.99&token=d00d652f5ad36990f8afdc9b945efb32c9261f4e-0b-1768780226-1768726226
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 4 (HD)
+https://51a1.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=3e13fb2d5952ae23b6dba06e3ae4bc10a218d787-16-1768781434-1768727434
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Serie A", 06:30 Serie A – Parma vs Genoa – Canal 9 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/disney4/tracks-v1a1/mono.m3u8?ip=172.215.217.99&token=d82fc9371effa99090a777beb21bb936a5df3a12-3c-1768780238-1768726238
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Clasicos Sudamericanos", 20:15 Clasicos Sudamericanos – PeÃ±arol vs River Plate – Canal 6 (HD)
+https://ccndx.marsrivagg.click/foxdeportes/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=ac336c8da8fa9dc03073bfc7b79914b93c2232f9-ac-1768781446-1768727446
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 08:00 LaLiga – Getafe vs Valencia – Canal 2
+#EXTVLCOPT:http-referrer=https://marshlitigation.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://marshlitigation.net/
+https://cnfobm.5606087801.art:8443/hls/wlloso4ptv7ory.m3u8?s=QhCL9AzxOwq8jnUHNcnprQ&e=1768758067
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 08:00 LaLiga – Getafe vs Valencia – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://24a1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=172.215.217.99&token=81dfeccd1f0364b0726611d0b218699acda95891-80-1768780259-1768726259
+https://51a1.crackstreamslivehd.com/espn3/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=598ea79e9caf6fa6098ddc7a67fd71423c192bc5-c6-1768781480-1768727480
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 08:00 LaLiga – Getafe vs Valencia – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+https://ccndx.marsrivagg.click/espndeportes/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=89f03a85390b561071187d5c1b4dcf362916cc7d-8a-1768781490-1768727490
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 08:00 LaLiga – Getafe vs Valencia – Canal 5 (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+https://pl.vdcast.live/ergvb11.m3u8?m=kI6yNT0_DkEtQZwNRgk9Iw&c=vb11&p=3130342e3230392e372e323235&e=1768765300
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 08:00 LaLiga – Getafe vs Valencia – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+https://florcd1.crackstreamslivehd.com/disney2/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=8fe236e59b30781907d512aa4ae8ac8576094945-34-1768781511-1768727511
+#EXTINF:-1 tvg-name="Canal 10" group-title="LaLiga 2", 08:00 LaLiga 2 – Mirandes vs Andorra – Canal 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+https://pl.vdcast.live/ergvb11.m3u8?m=BMHb1GbcFR6Yi1M-P4Solg&c=vb11&p=3130342e3230392e372e323235&e=1768765332
+#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Mirandes vs Andorra – Canal 11 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+https://99a1.crackstreamslivehd.com/laligahypermotion/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=94d44ef382702f58c1e22c6b70ee6bbdda39d294-c6-1768781544-1768727544
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="LaLiga 2", 08:00 LaLiga 2 – Mirandes vs Andorra – Canal 12 (HD)
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+https://ccndx.marsrivagg.click/hyper1/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=e6123a31f11bcd76ff88ddb8cea563d398301daf-ec-1768781555-1768727555
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Newcastle United – Canal 2
+#EXTVLCOPT:http-referrer=https://marshlitigation.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://marshlitigation.net/
+https://cnfobm.5606087801.art:8443/hls/a31q9.m3u8?s=Bxa32gbXyYFp9LOshp0ASA&e=1768758176
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Newcastle United – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Newcastle United – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+https://57b1.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=76ec998450e49e26d4f281f5ca78efdf04ed10c6-ea-1768781598-1768727598
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Newcastle United – Canal 5 (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+https://pl.vdcast.live/ergvb11.m3u8?m=wMlhhVagNiOFGuUeO8Pb-w&c=vb11&p=3130342e3230392e372e323235&e=1768765409
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 09:00 Premier League – Wolverhampton Wanderers vs Newcastle United – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+https://ccndx.marsrivagg.click/disney3/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=17875e168722ccf225854546acaadbe2f87abbf5-74-1768781619-1768727619
+#EXTINF:-1 tvg-name="Canal 13" group-title="Serie A", 09:00 Serie A – Bologna vs Fiorentina – Canal 13
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamvv33.lat/
+https://ccndx.marsrivagg.click/disney3/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=f8d7e2b43ab3e2fdccd17eb7c97a2b827da385c0-1b-1768781640-1768727640
+#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Serie A", 09:00 Serie A – Bologna vs Fiorentina – Canal 14 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpcloud.com/
+https://24a1.crackstreamslivehd.com/disney4/tracks-v1a1/mono.m3u8?ip=104.209.7.225&token=38d0a9e0cda3d8c9f7e735c544f34a260643046a-69-1768781650-1768727650
