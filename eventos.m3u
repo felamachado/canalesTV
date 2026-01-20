@@ -1,61 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa Argentina", 00:00 Copa Argentina – Estudiantes LP vs Ituzaingó – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/tycsports/mono.m3u8?token=ec3d6de9959919cc49167e2a1dbc908083e8802b-72-1768891591-1768873591
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa Argentina", 00:00 Copa Argentina – Estudiantes LP vs Ituzaingó – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/tycsports/mono.m3u8?token=8bc2a858c807498cd5e6f7061d4347e5ad6d958b-7d-1768891610-1768873610
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – Racing Montevideo vs Univ. Concepción – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espnpremium/mono.m3u8?token=c41b054a64b9262619c2da76656d506212f613cc-e8-1768891628-1768873628
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – Racing Montevideo vs Univ. Concepción – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://kciwjj.5606087801.art:8443/hls/o9mkcz3mo.m3u8?s=5mhiQ2FCWzkhhoVgxailbw&e=1768896139
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – Racing Montevideo vs Univ. Concepción – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=462637bd95382f52e7ae03ab9b088a86e48502a2-95-1768891655-1768873655
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie Río de la Plata", 00:00 Serie Río de la Plata – Racing Montevideo vs Univ. Concepción – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/disney6/mono.m3u8?token=dc9d9bc3f55e889c022979114c528ec7a1a3d145-ad-1768891674-1768873674
-#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Central EspaÃ±ol vs Universidad de Concepcion – Canal 34 (HD)
-#EXTVLCOPT:http-referrer=https://streamvv33.lat/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/disney2/tracks-v1a1/mono.m3u8?ip=20.161.28.178&token=672cea5b9aca38afe607933a8d65873f91f30ee8-14-1768919604-1768865604
 #EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Central EspaÃ±ol vs Universidad de Concepcion – Canal 35 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=20.161.28.178&token=26082712ff5292f39198927de1211d02dc5eb63e-fe-1768919615-1768865615
+https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=64.236.133.97&token=930bfe00a126356b39587f1e1e1f8e00254139d8-8c-1768926384-1768872384
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Copa Argentina", 19:15 Copa Argentina – Estudiantes vs Ituzaingo – Canal 39 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tyc/tracks-v1a1/mono.m3u8?ip=20.161.28.178&token=8a71bc16e6e868ee94f945a008e6b4a440f534b3-e7-1768919646-1768865646
+https://ccndx.marsrivagg.click/tyc/tracks-v1a1/mono.m3u8?ip=64.236.133.97&token=c08b8ee6a51feb3b17374861a8435f1249dabd07-d0-1768926414-1768872414
 #EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Copa Argentina", 19:15 Copa Argentina – Estudiantes vs Ituzaingo – Canal 40 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tycint/tracks-v1a1/mono.m3u8?ip=20.161.28.178&token=fb172b728e07407abd22ec6ef9ebcfbcd83555d2-cb-1768919657-1768865657
+https://ccndx.marsrivagg.click/tycint/tracks-v1a1/mono.m3u8?ip=64.236.133.97&token=5f078b52bfaa27d82e5b2ad0fcf8b9757f7aa6d2-13-1768926425-1768872425
 #EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="CFP National Championship", 19:30 CFP National Championship – Miami vs Indiana – Canal 12 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espndeportes/tracks-v1a1/mono.m3u8?ip=20.161.28.178&token=a703b442864ebef7a9223ba23eca27ea947347a0-0a-1768919688-1768865688
+https://ccndx.marsrivagg.click/espndeportes/tracks-v1a1/mono.m3u8?ip=64.236.133.97&token=b58ce50a0310d48d2d819f2e3f5b112f725615aa-fb-1768926455-1768872455
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="CFP National Championship", 19:30 CFP National Championship – Miami vs Indiana – Canal 13 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnmx/tracks-v1a1/mono.m3u8?ip=20.161.28.178&token=741c474ebe8bd6ece91c350561b0d015fe26a09f-89-1768919698-1768865698
+https://ccndx.marsrivagg.click/espnmx/tracks-v1a1/mono.m3u8?ip=64.236.133.97&token=a1479045cc4f7bb1e977ba7b1abc971ad24c3d43-28-1768926466-1768872466
