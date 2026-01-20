@@ -1,42 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fijos", ESPN1
+#EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=221982195f2bd48d5b8a20523939f5513af40f83-e8-1768931187-1768913187
+https://agvyby.fubohd.com/espn2/mono.m3u8?token=0d761bb948c0edf9e8c8421e1e388457708a15fc-ab-1768934447-1768916447
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/foxsports/mono.m3u8?token=1b862a1b9efda14323f7739a95e0d8cd32f43827-7e-1768931220-1768913220
+https://x4bnd7lq.fubohd.com/foxsports/mono.m3u8?token=5af600c614d9f9f6267a62fd02bd5c28b57d32c6-ca-1768934470-1768916470
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=32ed1af204d186c04a88c76b92b4622de0daef76-b1-1768931232-1768913232
-#EXTINF:-1 group-title="Fijos", Fox Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/foxsports2/mono.m3u8?token=790e0625fc8cde15743c50610fea98b63e2ee6bf-67-1768931243-1768913243
+https://bgfuzq.fubohd.com/foxsports2/mono.m3u8?token=ce7dd3da8ff74ca2f7a58575731d0bd03c223c5a-80-1768934482-1768916482
 #EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Central EspaÃ±ol vs Universidad de Concepcion – Canal 35 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=20.236.100.4&token=b9dd820e0dc3e3691246190a15c228eec4d455ca-60-1768958978-1768904978
+https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=57.151.137.176&token=d5af9e509a1c6db2e941a687106763e55ca9db7a-94-1768962220-1768908220
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Copa Argentina", 19:15 Copa Argentina – Estudiantes vs Ituzaingo – Canal 39 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tyc/tracks-v1a1/mono.m3u8?ip=20.236.100.4&token=393ac1db7003efe7b03394f8cf0365a9575e282a-98-1768959007-1768905007
+https://ccndx.marsrivagg.click/tyc/tracks-v1a1/mono.m3u8?ip=57.151.137.176&token=e22e36374317a3b6d5fafab1b44cda8a6259d015-77-1768962252-1768908252
 #EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Copa Argentina", 19:15 Copa Argentina – Estudiantes vs Ituzaingo – Canal 40 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tycint/tracks-v1a1/mono.m3u8?ip=20.236.100.4&token=0b308bc2dbb2a9ab1ebd7f7dd851c7c1385462b4-19-1768959020-1768905020
+https://ccndx.marsrivagg.click/tycint/tracks-v1a1/mono.m3u8?ip=57.151.137.176&token=cef79ff78c228f9a974d0fc9fe3c5d0f4909c89c-55-1768962264-1768908264
 #EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="CFP National Championship", 19:30 CFP National Championship – Miami vs Indiana – Canal 12 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espndeportes/tracks-v1a1/mono.m3u8?ip=20.236.100.4&token=6f1dbdd1223b959176c8782a3d0a3215c6984489-89-1768959049-1768905049
+https://ccndx.marsrivagg.click/espndeportes/tracks-v1a1/mono.m3u8?ip=57.151.137.176&token=a61463f30ef1c6b5c6219145b8f0f46c01cbe213-54-1768962295-1768908295
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="CFP National Championship", 19:30 CFP National Championship – Miami vs Indiana – Canal 13 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnmx/tracks-v1a1/mono.m3u8?ip=20.236.100.4&token=d7c1e19fcbe7fc9c9d12367fffbb027aad87ce98-ad-1768959060-1768905060
+https://ccndx.marsrivagg.click/espnmx/tracks-v1a1/mono.m3u8?ip=57.151.137.176&token=1477fb9d4c990484d275648dfe4fd15c53e5aba4-df-1768962306-1768908306
