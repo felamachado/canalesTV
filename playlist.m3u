@@ -1,128 +1,134 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fijos", Fox Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/foxsports/mono.m3u8?token=bbce573444935c6fc339f91e7dbb8ccfe37c7786-72-1769110513-1769092513
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/foxsports2/mono.m3u8?token=08c8f8ea8605e2f969ff1fa5f4a6d998248163e6-31-1769110525-1769092525
+https://ym9yzq.fubohd.com/foxsports2/mono.m3u8?token=654355326273309ff056b3e8e8e9480288b2a43b-b0-1769114212-1769096212
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/foxsports2/mono.m3u8?token=76ba6a3854b687a239f282ebc34a178d82671bb6-20-1769110539-1769092539
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=4711206f38d85bd96413de20f40abe60d21d637b-51-1769114223-1769096223
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Eurocopa de Fútbol Sala de la UEFA", 15:00 Eurocopa de Fútbol Sala de la UEFA – Armenia vs Ucrania – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/disney1/mono.m3u8?token=9e5e00f374b04636bbeb8ef184a48fac1d6633a5-c9-1769113261-1769095261
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Eurocopa de Fútbol Sala de la UEFA", 15:00 Eurocopa de Fútbol Sala de la UEFA – Armenia vs Ucrania – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://a2vlca.fubohd.com/disney1/mono.m3u8?token=5b9c78814eed34d0e0a1df51818b077eead93a4b-60-1769113271-1769095271
 #EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Slavia Prague vs Barcelona – Canal 2
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
-https://dwqejs.6522236688.shop:8443/hls/a31q9.m3u8?s=Oi6dcqa47hjGVBkiFslX6w&e=1769114143
+https://pjxvijl.5606087801.art:8443/hls/a31q9.m3u8?s=fH3uTSVTC5tRv0VUwrsSsA&e=1769117791
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Slavia Prague vs Barcelona – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tudnus/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=12161f7160bc311ee9e77c08c6d77c8fda3d03c1-37-1769137564-1769083564
+https://ccndx.marsrivagg.click/tudnus/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=73acdd719bc93424ac3d9adc25472c7483bc6adb-ea-1769141212-1769087212
 #EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Union St.-Gilloise – Canal 2
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
-https://dwqejs.6522236688.shop:8443/hls/a31q9.m3u8?s=aBvd3qhIPoaQr0dZ_AEuMg&e=1769114183
+https://pjxvijl.5606087801.art:8443/hls/a31q9.m3u8?s=p3KCXvB_MDemROgy-rakfw&e=1769117832
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Union St.-Gilloise – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tudnus/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=9a9ad51f47bc09748b96c4c554e0d328d5b104b9-a0-1769137604-1769083604
+https://ccndx.marsrivagg.click/tudnus/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=e2e7b6e5785a9ccd43896e39b82b71734f7ceb46-4e-1769141256-1769087256
 #EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Olympique Marseille vs Liverpool – Canal 2
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
-https://dwqejs.6522236688.shop:8443/hls/a31q9.m3u8?s=6JSqK7X87vXJpW2XLnKsiw&e=1769114224
+https://pjxvijl.5606087801.art:8443/hls/a31q9.m3u8?s=JmI69nj9HfmyRfN8EmBD1A&e=1769117876
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Olympique Marseille vs Liverpool – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/tudnus/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=6d7427bb43adf5ed9d2559f86f563ddc755a3d01-ac-1769137644-1769083644
+https://ccndx.marsrivagg.click/tudnus/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=b2476400d23492dabde8ac47274af655ff6e418e-df-1769141303-1769087303
 #EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Juventus Turin vs Benfica – Canal 2
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
-https://dwqejs.6522236688.shop:8443/hls/wwcujo0oiatyw93.m3u8?s=VxElv94BBL33vICmhhd8Fw&e=1769114265
+https://pjxvijl.5606087801.art:8443/hls/wwcujo0oiatyw93.m3u8?s=RsGgDLBsm4W6nOwSYxo4bg&e=1769117923
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Juventus Turin vs Benfica – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/winplus2/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=13f0b7e19d85ecffe625d6bef6b3742b4d9cbe90-d3-1769137686-1769083686
+https://ccndx.marsrivagg.click/winplus2/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=1fbb8f1fe6034caccfe9b7f44045689487ac65ad-84-1769141343-1769087343
 #EXTINF:-1 tvg-name="Canal 17" group-title="Campeonato Carioca", 17:00 Campeonato Carioca – Botafogo vs Volta Redonda – Canal 17
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=83d53c9c92b54f85c201a71ef18eb2bcee424407-04-1769137704-1769083704
+https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=4f061dc37cf27ffc36af8d6b6cda308437ecdd49-b7-1769141363-1769087363
 #EXTINF:-1 tvg-name="Canal 15" group-title="Campeonato Gaucho", 17:00 Campeonato Gaucho – Internacional vs Inter Santa Maria – Canal 15
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=988336cc37ffb07d7f93fc9857676be74674b009-7f-1769137724-1769083724
+https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=670fc6653328e7969522ce5f6d94aaa927f13011-ad-1769141383-1769087383
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Supercopa de Chile", 17:00 Supercopa de Chile – Coquimbo Unido vs Deportes Limache – Canal 13 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://pecdl1.crackstreamslivehd.com/max5/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=0a643a097e38cd29c45b8aabf635ee19ed3ab198-9c-1769137763-1769083763
-#EXTINF:-1 tvg-name="Canal 19" group-title="Campeonato Paulista", 17:30 Campeonato Paulista – Sao Paulo vs Portuguesa – Canal 19
-#EXTVLCOPT:http-referrer=https://dairytissue.rest/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dairytissue.rest/
-https://dwqejs.6522236688.shop:8443/hls/mxpjkbo9xahma.m3u8?s=rVJnE63-tMYxxVKsjnQAoQ&e=1769114384
+https://99a1.crackstreamslivehd.com/max5/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=8ed1c044564ac63a1b288c4500b964283965fe54-79-1769141426-1769087426
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Fenerbahçe vs Aston Villa – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/tudn/mono.m3u8?token=1cff6a3a28a0170d243e200ddde42013a71988a9-5f-1769109931-1769091931
+https://anvtcax.fubohd.com/espn2mx/mono.m3u8?token=eaee363e06f80c9b5ac0e69b4663c4b43b8c7a22-16-1769113587-1769095587
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Fenerbahçe vs Aston Villa – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/tudn/mono.m3u8?token=671a902c1b6dab387c36625d360f43c52f72dbc2-18-1769113598-1769095598
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Fenerbahçe vs Aston Villa – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://dwqejs.6522236688.shop:8443/hls/l0uhgx6r4cm.m3u8?s=A-UJ7hvrw1wnY4gdSV7mcw&e=1769114443
+https://pjxvijl.5606087801.art:8443/hls/l0uhgx6r4cm.m3u8?s=j15ernJJ36WvgSS_aW-oAg&e=1769118109
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Bologna vs Celtic – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/espn4mx/mono.m3u8?token=018a25ff2fb853e85fc50095893eefcf6d5e01a8-f9-1769110013-1769092013
+https://agvyby.fubohd.com/espn4mx/mono.m3u8?token=56c5a796c3d1c811a966fb04ca3670392d0acf31-4b-1769113679-1769095679
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Fenerbahçe vs Aston Villa – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn2mx/mono.m3u8?token=3fa7857101b2b01b84aa3002e98f7051ea95dee3-21-1769110150-1769092150
+https://x4bnd7lq.fubohd.com/espn2mx/mono.m3u8?token=73502d58a7a00c698805b1393d4e47f2ff0e8d1d-75-1769113817-1769095817
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Fenerbahçe vs Aston Villa – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/tudn/mono.m3u8?token=8ac8c46b9d003e670ab1ed377e6a09bbe4d0a9f3-4e-1769110160-1769092160
+https://anvtcax.fubohd.com/tudn/mono.m3u8?token=b9f8f4c0a14222f5b144d308bd4fc0a01ace3843-52-1769113827-1769095827
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Fenerbahçe vs Aston Villa – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://dwqejs.6522236688.shop:8443/hls/l0uhgx6r4cm.m3u8?s=T8OmVPl_u3ZLoQ4MTMyIAQ&e=1769114672
+https://pjxvijl.5606087801.art:8443/hls/l0uhgx6r4cm.m3u8?s=53Wdx-eXa1EcCsPERIqnvA&e=1769118338
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Bologna vs Celtic – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn4mx/mono.m3u8?token=e0f7df59fd221a4ee4ddfafc7c42f20c0a2f2de8-a4-1769110244-1769092244
+https://x4bnd7lq.fubohd.com/espn4mx/mono.m3u8?token=d7068ba74f59d4c52b1fefafc868f2ac4ea9f4a5-c3-1769113910-1769095910
 #EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Serie Rio de la Plata", 19:00 Serie Rio de la Plata – Colo Colo vs PeÃ±arol – Canal 21 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=478974751814e706538c034dda4007b015f0fd2c-0e-1769138274-1769084274
+https://ccndx.marsrivagg.click/espnpremium/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=88c8b4d3e4b9a57e1fc39eaeb7817ca6c2415b26-3d-1769141959-1769087959
 #EXTINF:-1 tvg-name="Canal 29" group-title="Campeonato Carioca", 19:30 Campeonato Carioca – Flamengo vs Vasco da Gama – Canal 29
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=af1bca5b309a41c0c9e23f6c7c18aafeeba59a44-d1-1769138313-1769084313
+https://ccndx.marsrivagg.click/premiere1/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=1214aa46d493d178d43ba3f96e394e6cb47fffb5-8a-1769142001-1769088001
 #EXTINF:-1 tvg-name="Canal 27" group-title="Campeonato Gaucho", 19:30 Campeonato Gaucho – Guarany de Bage vs Gremio – Canal 27
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=6fab534b20d9586f4af7b338746f5ec482418896-1c-1769138334-1769084334
+https://ccndx.marsrivagg.click/premiere3/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=1492d2632f8046f25f6ff18993472af0a7ab75c1-81-1769142021-1769088021
 #EXTINF:-1 tvg-name="Canal 31" group-title="Campeonato Mineiro", 19:30 Campeonato Mineiro – America Mineiro vs Atletico Mineiro – Canal 31
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/premiere2/tracks-v1a1/mono.m3u8?ip=64.236.169.135&token=7c95bf928fa1bdf362474143abe7ec3168024aa3-68-1769138353-1769084353
+https://ccndx.marsrivagg.click/premiere2/tracks-v1a1/mono.m3u8?ip=172.172.158.5&token=29911e230c8309d05760c5de0ad4f6b870b9df65-95-1769142041-1769088041
