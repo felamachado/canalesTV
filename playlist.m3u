@@ -1,61 +1,61 @@
 #EXTM3U
+#EXTINF:-1 group-title="Fijos", ESPN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=92119a0f960e2ee73852a3fc55ebebc289b65c87-e9-1769358558-1769340558
 #EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn2/mono.m3u8?token=d3c293ed71cb23591c33a461aa508c64ea00a341-1f-1769357366-1769339366
-#EXTINF:-1 group-title="Fijos", ESPN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/espn3/mono.m3u8?token=39ae1fef885dc4dc5dec112ae04f80beeb60c0fe-fa-1769357377-1769339377
+https://ym9yzq.fubohd.com/espn2/mono.m3u8?token=d1073b2ed23d83ed7eb419420e8d543a4726ba30-ad-1769358569-1769340569
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/foxsports/mono.m3u8?token=178c6098894c613935d295dfae6e465b581ea7f9-28-1769357388-1769339388
+https://agvyby.fubohd.com/foxsports/mono.m3u8?token=64acfcaae6da7f57458692ea3fafc9336d2e9eb8-fe-1769358592-1769340592
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/foxsports2/mono.m3u8?token=0ef469896613c17293b9a3e3a9a757470f05dc4d-8-1769357399-1769339399
+https://bgfuzq.fubohd.com/foxsports2/mono.m3u8?token=e47d1ad15e703eb893a1b628aef0f5d36c2802fd-2b-1769358603-1769340603
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/foxsports2/mono.m3u8?token=232f94eb7021ca2d6dadab1ae5f1300fcc0b26df-67-1769357411-1769339411
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=1928a4e437b429eb59b82cdbb5f421eb95b8546e-55-1769358614-1769340614
 #EXTINF:-1 tvg-name="Canal 6" group-title="Eredivisie", 06:15 Eredivisie – Telstar vs AZ Alkmaar – Canal 6
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
-https://ryhmaif.234276133.fit:8443/hls/yy8u716.m3u8?s=Ox1U7f7np-TotzTtfgwwAQ&e=1769361690
+https://vknqgnh.234276133.fit:8443/hls/yy8u716.m3u8?s=oBM6CVhnZAMHprp1Gl0LuQ&e=1769362898
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Eredivisie", 06:15 Eredivisie – Telstar vs AZ Alkmaar – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://8c51.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=135.232.201.84&token=907fbd2f86b4a0e119852184103f24662dfcc709-69-1769385101-1769331101
+https://14c51.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=172.214.47.51&token=ac41b781fb2879daf2a3ce63e8b74e93c404e629-3c-1769386309-1769332309
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Eredivisie", 06:15 Eredivisie – Telstar vs AZ Alkmaar – Canal 8 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/espn4mx/tracks-v1a1/mono.m3u8?ip=135.232.201.84&token=2d589bb06f04dc7d6a3bdf507038f857036826a9-c4-1769385112-1769331112
+https://ccndx.marsrivagg.click/espn4mx/tracks-v1a1/mono.m3u8?ip=172.214.47.51&token=02ed76fe01bb26c448e9e723847c5b9a7c3ff3a0-24-1769386320-1769332320
 #EXTINF:-1 tvg-name="Canal 9" group-title="Serie A", 06:30 Serie A – Sassuolo vs Cremonese – Canal 9
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dawngloom.live/
-https://ryhmaif.234276133.fit:8443/hls/jv27oczy7c.m3u8?s=-6bUxZKeH5CpKdwShng3lQ&e=1769361733
+https://vknqgnh.234276133.fit:8443/hls/jv27oczy7c.m3u8?s=yFMYc8eqHwEf0c_IUwLPEA&e=1769362941
 #EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Serie A", 06:30 Serie A – Sassuolo vs Cremonese – Canal 10 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://14c51.crackstreamslivehd.com/espn4/tracks-v1a1/mono.m3u8?ip=135.232.201.84&token=a3525e6797374ad368c16690c9a8fc33cff02779-0d-1769385144-1769331144
+https://florcd1.crackstreamslivehd.com/espn4/tracks-v1a1/mono.m3u8?ip=172.214.47.51&token=f18acd8dd67ab9c3afcd9c5f6a47e95708c57300-4a-1769386352-1769332352
 #EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Serie A", 06:30 Serie A – Sassuolo vs Cremonese – Canal 11 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/disney2/tracks-v1a1/mono.m3u8?ip=135.232.201.84&token=352bdf752854bf2558a0fac8de5b6fa7013719fd-8d-1769385156-1769331156
+https://ccndx.marsrivagg.click/disney2/tracks-v1a1/mono.m3u8?ip=172.214.47.51&token=a2cfcaaf82128e094a5414d3662a1362d6b39666-c5-1769386363-1769332363
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UFC 324", 21:00 UFC 324 – Justin Gaethje vs Paddy Pimblett – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpcloud.com/
-https://51a1.crackstreamslivehd.com/paramount3/tracks-v1a1/mono.m3u8?ip=135.232.201.84&token=3aa730477b92d6f68b1015afe6370aaf402c1cc0-04-1769385187-1769331187
+https://8c51.crackstreamslivehd.com/paramount3/tracks-v1a1/mono.m3u8?ip=172.214.47.51&token=ada5fc2c68df9b222ec56f3c9713878e1639ebca-b2-1769386393-1769332393
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UFC 324", 21:00 UFC 324 – Justin Gaethje vs Paddy Pimblett – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamvv33.lat/
-https://ccndx.marsrivagg.click/paramount1/tracks-v1a1/mono.m3u8?ip=135.232.201.84&token=6588bd7bd6db3a3e2455d02b6fc0cc50aa26ea60-43-1769385198-1769331198
+https://ccndx.marsrivagg.click/paramount1/tracks-v1a1/mono.m3u8?ip=172.214.47.51&token=698e2d0828a16e5d3d59248985230952d8f74b9b-31-1769386403-1769332403
