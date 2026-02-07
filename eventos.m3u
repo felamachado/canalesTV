@@ -1,96 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera División", 00:30 Primera División – Wanderers vs Defensor Sporting – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/disney11/mono.m3u8?token=6515d8ca0f440a5a4e304fd91dbd95f80d2d3dfa-e3-1770448231-1770430231
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera División", 00:30 Primera División – Wanderers vs Defensor Sporting – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/disney11/mono.m3u8?token=6db66b4e8cb3d40747b7d6867063f4a8986eeae7-66-1770448243-1770430243
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera División", 00:30 Primera División – Wanderers vs Defensor Sporting – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/disney11/mono.m3u8?token=441489f690fc9777d96fa285b9e4ddd9624539ec-e2-1770448253-1770430253
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Campeonato Sub-17 de CONCACAF", 01:00 Campeonato Sub-17 de CONCACAF – El Salvador Sub-17 vs Belice Sub-17 – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/disney13/mono.m3u8?token=dc4dc90ebade3fe5815144596ead91c2dbf1245f-39-1770448276-1770430276
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Campeonato Sub-17 de CONCACAF", 01:00 Campeonato Sub-17 de CONCACAF – El Salvador Sub-17 vs Belice Sub-17 – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/disney13/mono.m3u8?token=b8fb2c875b6e30a9fc22acd6176397a3f810b658-b1-1770448298-1770430298
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Campeonato Sub-17 de CONCACAF", 01:00 Campeonato Sub-17 de CONCACAF – El Salvador Sub-17 vs Belice Sub-17 – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/disney13/mono.m3u8?token=104278134ad7f2a2ea1e98fbd12a2f7454efe49f-bf-1770448320-1770430320
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 01:30 Primera A – Medellín vs Inter Bogotá – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/winsportsplus/mono.m3u8?token=dc6a9ce0b7ed9a81c1a135274a4ef606fc9563d2-aa-1770448331-1770430331
+https://ag9wzq.fubohd.com/winsportsplus/mono.m3u8?token=cf9a85540df7064f71b77c9e5a88989a2d19e005-78-1770455257-1770437257
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 01:30 Primera A – Medellín vs Inter Bogotá – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/winsportsplus/mono.m3u8?token=6b8411d2d755c4741c1148f86914ead3149fb810-c4-1770448365-1770430365
+https://x4bnd7lq.fubohd.com/winsportsplus/mono.m3u8?token=6048b13336537cd5aadc2b0981c1fcc0626b82a6-60-1770455291-1770437291
 #EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera A", 01:30 Primera A – Medellín vs Inter Bogotá – PelotaLibre1 Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/winsportsplus/mono.m3u8?token=e9b43ee8da16fc89014ac6a167bdc40d29aa6aef-ba-1770448399-1770430399
+https://rm8zcvk3.fubohd.com/winsportsplus/mono.m3u8?token=537ff49bf52399a3129cfeee3c67908282b01369-d7-1770455326-1770437326
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 17:00 Liga de Uruguay – Albion FC vs Liverpool – VTV Uruguay
 #EXTVLCOPT:http-referrer=https://toneassertive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://toneassertive.net/
-https://mqf5dt2g.83870203.net:8443/hls/543hcacrbrvfw.m3u8?s=VoWb0S_nmSlxCoLhwrEOfQ&e=1770452933
+https://jp4zhfst.04334746.net:8443/hls/543hcacrbrvfw.m3u8?s=igmOsaxN_sPPTXErx2SP1Q&e=1770459861
 #EXTINF:-1 tvg-name="Canal 35" group-title="Liga de Argentina", 19:00 Liga de Argentina – Central Cordoba vs Union Santa Fe – Canal 35
 #EXTVLCOPT:http-referrer=https://toneassertive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://toneassertive.net/
-https://mqf5dt2g.83870203.net:8443/hls/xkvfhc3.m3u8?s=PB6sZ5X1i6rBVxoigt1XlA&e=1770452984
+https://jp4zhfst.04334746.net:8443/hls/xkvfhc3.m3u8?s=dshwtHJ_oPnnOx90eAuHMQ&e=1770459914
 #EXTINF:-1 tvg-name="Canal 36 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Central Cordoba vs Union Santa Fe – Canal 36 (HD)
 #EXTVLCOPT:http-referrer=https://streamtp10.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtp10.com/
-https://57b1.crackstreamslivehd.com/tntsports/tracks-v1a1/mono.m3u8?ip=64.236.160.16&token=d755ae18e50863725845c96188a4560081a03edb-56-1770476395-1770422395
+https://florcd1.crackstreamslivehd.com/tntsports/tracks-v1a1/mono.m3u8?ip=52.159.244.85&token=061deed6b05692506faf2a02f08ed5c6abda4b93-48-1770483325-1770429325
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Central Cordoba vs Union Santa Fe – Canal 37 (HD)
 #EXTVLCOPT:http-referrer=https://streamx10.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://ssout.marsrivagg.click/tycint/tracks-v1a1/mono.m3u8?ip=64.236.160.16&token=e1c25c012226c8ef7a9eabb5802ed1d107b49c9b-a9-1770476406-1770422406
+https://ssout.marsrivagg.click/tycint/tracks-v1a1/mono.m3u8?ip=52.159.244.85&token=d65787426f762b3556409c94b7af59525d26aca1-74-1770483336-1770429336
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 19:30 Liga de Uruguay – Wanderers vs Defensor Sporting – VTV Uruguay
 #EXTVLCOPT:http-referrer=https://toneassertive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://toneassertive.net/
-https://mqf5dt2g.83870203.net:8443/hls/543hcacrbrvfw.m3u8?s=sg0tiNEiMpTKXdjjJJpKfQ&e=1770453017
-#EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Liga de Uruguay", 19:30 Liga de Uruguay – Wanderers vs Defensor Sporting – Canal 39 (HD)
-#EXTVLCOPT:http-referrer=https://streamtp10.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtp10.com/
-https://99a1.crackstreamslivehd.com/disney1/tracks-v1a1/mono.m3u8?ip=64.236.160.16&token=1aa44ac4aeb60201a7b0a20cb304a2f728cbe675-91-1770476437-1770422437
+https://jp4zhfst.04334746.net:8443/hls/543hcacrbrvfw.m3u8?s=7IW_RDVXlK8fI8U2MCiubQ&e=1770459947
 #EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Liga de Uruguay", 19:30 Liga de Uruguay – Wanderers vs Defensor Sporting – Canal 40 (HD)
 #EXTVLCOPT:http-referrer=https://streamx10.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://ssout.marsrivagg.click/disney1/tracks-v1a1/mono.m3u8?ip=64.236.160.16&token=c4910468592db044d95113911a210537d9e88b50-e4-1770476447-1770422447
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 23:20 Primera A – Deportivo Pasto vs Atlético Bucaramanga – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/winsportsplus/mono.m3u8?token=019bb7f3ee98ef9e851e9929985a540e4caaaa3f-f7-1770448700-1770430700
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 23:20 Primera A – Deportivo Pasto vs Atlético Bucaramanga – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/winsportsplus/mono.m3u8?token=f1dd79640cc5292d526bdd3d24b192dad2542625-96-1770448734-1770430734
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera A", 23:20 Primera A – Deportivo Pasto vs Atlético Bucaramanga – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/winsportsplus/mono.m3u8?token=939015489af205346e5e6d1110fa4ff54a2933db-ac-1770448768-1770430768
+https://ssout.marsrivagg.click/disney1/tracks-v1a1/mono.m3u8?ip=52.159.244.85&token=b3d3d981728fa6d60574c260b3a310ced05f89d3-0a-1770483379-1770429379
