@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga de Expansión MX", 03:00 Liga de Expansión MX – Dorados vs CA La Paz – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn2mx/mono.m3u8?token=01d00152ebf5d3e8f6554ba9e7a80420da5ba5c5-eb-1770544324-1770526324
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga de Expansión MX", 03:00 Liga de Expansión MX – Dorados vs CA La Paz – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/espn2mx/mono.m3u8?token=3d5698ca2bae86ca1201744f2998a43513f6e75a-ad-1770544346-1770526346
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga de Expansión MX", 03:00 Liga de Expansión MX – Dorados vs CA La Paz – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/espn2mx/mono.m3u8?token=e82c1af99e61c613d32fdd0435890c759236a2f5-6c-1770544368-1770526368
