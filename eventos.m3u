@@ -1,91 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga 1", 00:00 Liga 1 – Cienciano vs Alianza Atlético – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/liga1max/mono.m3u8?token=e9df5dc7fffc2c819313b97ea25ba35ee078baa8-7b-1771744727-1771726727
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga 1", 00:00 Liga 1 – Cienciano vs Alianza Atlético – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/u7tdyo.m3u8?s=nw-YWfIC36SnU3HjWab02g&e=1771749240
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga 1", 00:00 Liga 1 – Cienciano vs Alianza Atlético – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/liga1max/mono.m3u8?token=bd872ddd2c1ad732b2139a6bf46253dbd6ecd587-53-1771744751-1771726751
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga 1", 00:00 Liga 1 – Cienciano vs Alianza Atlético – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/u7tdyo.m3u8?s=RRihP1iQ1lNRcq5B3GZgnA&e=1771749264
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 00:30 Liga Profesional – Central Córdoba SdE vs Tigre – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=6290497acc862a71e3e1747de649c8b8896334b6-23-1771744786-1771726786
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 00:30 Liga Profesional – Central Córdoba SdE vs Tigre – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/o9mkcz3mo.m3u8?s=IUe3SwxE0JYoLHnrvllmOg&e=1771749300
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga Profesional", 00:30 Liga Profesional – Central Córdoba SdE vs Tigre – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/espnpremium/mono.m3u8?token=8bf3349144144d9c5dd788d93cf1767a4cd4e05e-4b-1771744822-1771726822
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga Profesional", 00:30 Liga Profesional – Central Córdoba SdE vs Tigre – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/o9mkcz3mo.m3u8?s=HuQAUWQP_CeoBAt0YdKRig&e=1771749335
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 01:30 Primera A – Inter Bogotá vs Millonarios – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/winsportsplus/mono.m3u8?token=56f6d37d13fc1a4fc4c4220fd9274918fd18ca40-db-1771744846-1771726846
+https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=d3f10198e9a898c40690251dc0a40ad64077ae52-7a-1771753151-1771735151
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 01:30 Primera A – Inter Bogotá vs Millonarios – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/wtydmql3.m3u8?s=3Z3QuwGakF_aD8hGDUZs-w&e=1771749370
+https://5n7r9jbt.83870203.net:8443/hls/wtydmql3.m3u8?s=pgHRDRcStd6HodGVa0Lu3w&e=1771757674
 #EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera A", 01:30 Primera A – Inter Bogotá vs Millonarios – PelotaLibre1 Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/winsportsplus/mono.m3u8?token=969804c3c13799ff870f060100603ff6506913c6-41-1771744881-1771726881
+https://qzv4jmsc.fubohd.com/winsportsplus/mono.m3u8?token=0d10de4bd79b3a43b6f329e3ba808ea0fe0c6737-35-1771753185-1771735185
 #EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera A", 01:30 Primera A – Inter Bogotá vs Millonarios – PelotaLibre1 Stream
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/wtydmql3.m3u8?s=TuIDTU8NcPxp_oh2eu87TQ&e=1771749405
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 23:20 Primera A – Atlético Nacional vs Alianza – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/winsportsplus/mono.m3u8?token=51fa4d3a29b1b346f5d5b15ca9655c66b723221c-63-1771745049-1771727049
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 23:20 Primera A – Atlético Nacional vs Alianza – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/wtydmql3.m3u8?s=Oe8yTreRZQBBHVcPAOwM8w&e=1771749573
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera A", 23:20 Primera A – Atlético Nacional vs Alianza – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=9067ab267e4be17c6be8f664da635dd5bff47e2a-58-1771745084-1771727084
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera A", 23:20 Primera A – Atlético Nacional vs Alianza – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://8nwwqrar.12703830.net:8443/hls/wtydmql3.m3u8?s=hRCIBLyqeev0-KTboYVizw&e=1771749608
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera División", 23:30 Primera División – Universidad Católica vs Coquimbo Unido – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/tntsportschile/mono.m3u8?token=fb47077c53e3c07d135011eb746f5afd7e81df5f-82-1771745130-1771727130
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Primera División", 23:30 Primera División – Universidad Católica vs Coquimbo Unido – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/tntsportschile/mono.m3u8?token=48f5b3b033acf9ead5718642479c407f99972786-9a-1771745163-1771727163
+https://5n7r9jbt.83870203.net:8443/hls/wtydmql3.m3u8?s=GyWZMOIWd-_iocB0QyzA3w&e=1771757709
