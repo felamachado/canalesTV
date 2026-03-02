@@ -1,11 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 17:30 Serie A – Pisa vs Bologna – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://rm8zcvk3.fubohd.com/espn2/mono.m3u8?token=42ea600506d1d5e0a30158853e778a232e169827-5a-1772484492-1772466492
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Pisa vs Bologna – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/espn2/mono.m3u8?token=cd9cc1943e8f68c214bcb2c70f5e2ee073f607ec-7e-1772481244-1772463244
+https://bgfuzq.fubohd.com/espn2/mono.m3u8?token=6b0795c9810484fbb184ffe379397624fe940037-b-1772484529-1772466529
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga", 20:00 LaLiga – Real Madrid vs Getafe – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ag9wzq.fubohd.com/espn/mono.m3u8?token=ac3d1bbd9d3c083441c2ff9515949b3af42145e9-8b-1772484654-1772466654
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 20:00 LaLiga – Real Madrid vs Getafe – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/espn/mono.m3u8?token=0f3b046fa5387a20a4bc16714117ee8daceb396b-60-1772481323-1772463323
+https://rm8zcvk3.fubohd.com/espn/mono.m3u8?token=08ce840f185c85e80a28a0cb3d90e7fef4a44fa2-50-1772484689-1772466689
