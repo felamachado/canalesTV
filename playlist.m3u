@@ -2,28 +2,48 @@
 #EXTINF:-1 group-title="Fijos", DirectTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/dsports/mono.m3u8?token=4031959889e722f5de1324b2a59aa9fa69c77769-2f-1772469621-1772451621
+https://wp9xqedt.fubohd.com/dsports/mono.m3u8?token=f3f98a68e9699d430cbcb9de6186b6436e27d085-5a-1772474120-1772456120
 #EXTINF:-1 group-title="Fijos", ESPN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn/mono.m3u8?token=3a9b58288dbcbd22c837ab968150a02a0a290caf-a7-1772469633-1772451633
+https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=9c420aa615894b9c65caf105466c27844ac7467b-9b-1772474132-1772456132
 #EXTINF:-1 group-title="Fijos", ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn2/mono.m3u8?token=d5127c1abd34bf3b4cb5e07bf3e6025177cbd235-3e-1772469645-1772451645
+https://anvtcax.fubohd.com/espn2/mono.m3u8?token=3f642a6ec1edb1842a07b76e2974adad807405db-d1-1772474143-1772456143
 #EXTINF:-1 group-title="Fijos", ESPN3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/espn3/mono.m3u8?token=d41ff9e5600abc62759ccce1cac40f21540f76ed-d9-1772469656-1772451656
+https://a2vlca.fubohd.com/espn3/mono.m3u8?token=3eee904f77879df6b460276b8a8bc3258ce39866-66-1772474154-1772456154
 #EXTINF:-1 group-title="Fijos", Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/foxsports/mono.m3u8?token=e9258c26808e293a09db87867cd3c1ce80debc79-f0-1772469668-1772451668
+https://wp9xqedt.fubohd.com/foxsports/mono.m3u8?token=e1b97aee29376cd5f3617a59366c838101b4baa9-89-1772474166-1772456166
 #EXTINF:-1 group-title="Fijos", Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/foxsports2/mono.m3u8?token=67d010854ac598553c46e5527057e3fa80cb9e2b-ae-1772469680-1772451680
+https://tyg2mnl9.fubohd.com/foxsports2/mono.m3u8?token=c09c4d8a4732d2a22830226b075c78c5e122600d-a4-1772474177-1772456177
 #EXTINF:-1 group-title="Fijos", Fox Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/foxsports2/mono.m3u8?token=b2c932cfdc0350139c9945662833e63856d72688-e5-1772469691-1772451691
+https://tyg2mnl9.fubohd.com/foxsports2/mono.m3u8?token=17351b2723c6aa06562e7bb90a8322ae7100212e-f5-1772474188-1772456188
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Pisa vs Bologna – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://a2vlca.fubohd.com/espn2/mono.m3u8?token=0761026c1a4bb40b2d4097c265559ccc3549f623-cc-1772473993-1772455993
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 17:30 Serie A – Pisa vs Bologna – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://builddiamond.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://builddiamond.net/
+https://mqf5dt2g.83870203.net:8443/hls/ecef5nnc.m3u8?s=m4BIgLqOgndBphL68uyHXA&e=1772478516
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 20:00 LaLiga – Real Madrid vs Getafe – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://x4bnd7lq.fubohd.com/espn/mono.m3u8?token=536d69c406f4b5faba3a0d0c4b9b85cc5763e303-22-1772474070-1772456070
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 20:00 LaLiga – Real Madrid vs Getafe – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://builddiamond.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://builddiamond.net/
+https://mqf5dt2g.83870203.net:8443/hls/tyh9ei.m3u8?s=Kb9W1q-xYSXKJ1ChgAsRMw&e=1772478593
