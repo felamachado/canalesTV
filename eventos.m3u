@@ -1,16 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa Sudamericana", 02:00 Copa Sudamericana – Deportivo Cuenca vs Libertad – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/dsports_eventos/mono.m3u8?token=fe2f1afd5dca896bab1f37083d8d784df0d5e73f-1c-1772702142-1772684142
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa Sudamericana", 02:00 Copa Sudamericana – Deportivo Cuenca vs Libertad – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/dsports_eventos/mono.m3u8?token=d18f218dcd1cd0919f1c34d102d174c8d487657b-11-1772702153-1772684153
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Copa Sudamericana", 02:00 Copa Sudamericana – Deportivo Cuenca vs Libertad – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/145.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/dsports_eventos/mono.m3u8?token=cc0142ccdf3451aa6e3d8d8d46362a82a4ff6b01-e4-1772702164-1772684164
