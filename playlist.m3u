@@ -1,94 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 01:15 Liga Profesional – Instituto vs Independiente – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=52232a804539dfceef51ec8dba81d23a37a062e8-20-1773738953-1773720953
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 01:15 Liga Profesional – Instituto vs Independiente – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/tntsports/mono.m3u8?token=6d46ba67f6f80d4fa33a12b5e019703734b1ae22-3b-1773738973-1773720973
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 13:30 Liga de Argentina – Barracas Central vs Atletico Tucuman – TNT Sports Argentina
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=rPEyQ-87WDt3FBiaFL4Osw&expires=1773729092
-#EXTINF:-1 tvg-name="Canal 6" group-title="Liga de Argentina", 13:30 Liga de Argentina – Barracas Central vs Atletico Tucuman – Canal 6
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/g6auvbu66y.m3u8?s=2nkBtRfb6_wlo93qnMDeoQ&e=1773743507
+https://n5.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=VnhMA64JfuLVnWZHucv89A&expires=1773733533
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Argentina", 13:30 Liga de Argentina – Barracas Central vs Atletico Tucuman – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Argentina", 13:30 Liga de Argentina – Barracas Central vs Atletico Tucuman – Canal 8 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/espnmx/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=47564b45258f80b1bb011a99e4aa6bd3c3ffa350-bd-1773766933-1773712933
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espnmx/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=05f01e35339008ed6804fef513262282947bd43d-70-1773771368-1773717368
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 13:30 Liga de Argentina – Aldosivi vs Huracan – ESPN Premium
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n6.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=0oemkYaZllmEWenQ3BLKMQ&expires=1773729144
+https://n4.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=xg4zyvmvc92bSHsuR4e7-w&expires=1773733578
 #EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Argentina", 13:30 Liga de Argentina – Aldosivi vs Huracan – Canal 10 (HD)
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb2.strmd.top/secure/qnupPHRuJMSmobJmauALNtrAhMwmYcMQ/admin/stream/ppv-dallas-mavericks-vs-new-orleans-pelicans/1/playlist.m3u8
+https://lb9.strmd.top/secure/WuFChhGVwwhemXHCZXcvqvZSaTPbEYLU/admin/stream/ppv-dallas-mavericks-vs-new-orleans-pelicans/1/playlist.m3u8
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:30 LaLiga 2 – Albacete vs Las Palmas – Deportes Plus
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.sanwalyaarpya.com:1686/hls/capoplus.m3u8?md5=AQFVy4U1PXYxd7AOSn_M_g&expires=1773729202
-#EXTINF:-1 tvg-name="Canal 12" group-title="LaLiga 2", 14:30 LaLiga 2 – Albacete vs Las Palmas – Canal 12
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb3.strmd.top/secure/sRYAeJhWWMvusnlsCmSVtWvtJMZEqTrA/admin/stream/ppv-memphis-grizzlies-vs-chicago-bulls/1/playlist.m3u8
+https://n1.sanwalyaarpya.com:1686/hls/capoplus.m3u8?md5=1DBVtTsSETFOhN-fzsN57Q&expires=1773733625
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Albacete vs Las Palmas – Canal 13 (HD)
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/xkvfhc3.m3u8?s=W5-LHwpwoFORuXntM_5OAw&e=1773743629
+https://y44kn4nu.83870203.net:8443/hls/xkvfhc3.m3u8?s=OisMIhWunxCif1oQaWvyOw&e=1773748046
 #EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="LaLiga 2", 14:30 LaLiga 2 – Albacete vs Las Palmas – Canal 14 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=65abc13c3044654f08a72ad281e7881aed353c8f-e5-1773767039-1773713039
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=ea22101fe41ac180dee2f8ff9770465edaf80664-5a-1773771458-1773717458
 #EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Serie A", 14:45 Serie A – Cremonese vs Fiorentina – Canal 16 (HD)
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/22hothctx.m3u8?s=ptgeTdi5r80yIVm4ikwdDQ&e=1773743682
+https://y44kn4nu.83870203.net:8443/hls/22hothctx.m3u8?s=Rw7X1bGzQR9i3l8MtwK7Zw&e=1773748089
 #EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Serie A", 14:45 Serie A – Cremonese vs Fiorentina – Canal 17 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/espn2mx/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=1c24c39ddd957300dd07a428e6fc9f0e8b3bf544-be-1773767095-1773713095
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espn2mx/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=137b317abc6bdc90e5507fa09a074bf19b93c101-46-1773771501-1773717501
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Levante – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n6.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=4yI40RrrStGYxL9jvR9Ggg&expires=1773729307
+https://n5.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=nhxMGczQjFy1ySmQuHSY4A&expires=1773733712
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Levante – Canal 2
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/wlloso4ptv7ory.m3u8?s=zNP0ACJt591BUMgKyH4e1Q&e=1773743720
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Levante – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://streamtp10.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtp10.com/
-https://pecdl1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=90aac385bae545cfbc85c49a3d3af700307fcb71-3c-1773767130-1773713130
+https://y44kn4nu.83870203.net:8443/hls/wlloso4ptv7ory.m3u8?s=q-shuxveNNiXVFNBImCOdw&e=1773748124
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Levante – Canal 4 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/espndeportes/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=c876d1927b7e251e87d0d435cf70a046e02cf2a6-d6-1773767141-1773713141
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espndeportes/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=4d8ac442e9bbe4169cd67abb1be1dcec0a519cf3-17-1773771547-1773717547
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 15:00 LaLiga – Rayo Vallecano vs Levante – Canal 5 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -98,119 +73,84 @@ https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/vwq77hfgzw/out/v1/b8
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n6.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=vFdQzFb54rwMC2IiikMvwA&expires=1773729367
+https://n3.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=hOmYGZKZwiIFdLaU8ainwQ&expires=1773733761
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 15:00 Liga de Uruguay – Danubio vs Juventud – VTV Uruguay
 #EXTVLCOPT:http-referrer=https://increasecattle.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://increasecattle.net/
-https://9pcjk5cj.04334746.net:8443/hls/yp6y5.m3u8?s=dqq0Go5NsX8Ospi9V9c5vA&e=1773743780
-#EXTINF:-1 tvg-name="Canal 18" group-title="Premier League", 15:00 Premier League – Brentford vs Wolverhampton Wanderers – Canal 18
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb5.strmd.top/secure/JAITzFBjcFrtcQqHcTPTRsrgqvmYseFF/admin/stream/ppv-los-angeles-lakers-vs-houston-rockets/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Premier League", 15:00 Premier League – Brentford vs Wolverhampton Wanderers – Canal 19 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/mlosangelesclippers.m3u8?md5=tm0wSlubPZWKCBmGtZouDw&expires=1773729469
+https://y44kn4nu.83870203.net:8443/hls/yp6y5.m3u8?s=G695jpFAuotrfq9MzfYbyA&e=1773748180
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Premier League", 15:00 Premier League – Brentford vs Wolverhampton Wanderers – Canal 20 (HD)
-#EXTVLCOPT:http-referrer=https://pooembed.eu/
+#EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://pooembed.eu/
-https://lb3.modifiles.fans/secure/wORWuaDjZpreBNldJEyzcjTzLrxrBAfa/1773702000/1773730080/laclippers/tracks-v1a1/mono.ts.m3u8
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+https://lb9.strmd.top/secure/BejthrhqWXBvQqLIFmkwzjhdYuEySVGK/admin/stream/ppv-san-antonio-spurs-vs-la-clippers/1/playlist.m3u8
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 16:30 Liga de Argentina – San Lorenzo vs Defensa y Justicia – TNT Sports Argentina
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=2GRWF9Owwwc-CVasPXf4mw&expires=1773729497
-#EXTINF:-1 tvg-name="Canal 27" group-title="Liga de Argentina", 16:30 Liga de Argentina – San Lorenzo vs Defensa y Justicia – Canal 27
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/xkvfhc3.m3u8?s=Y3aw0yJRlXz_8TucdN3Crw&e=1773743910
+https://n6.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=74c9m9nls4y8E2IsrD7mOw&expires=1773733858
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Liga de Argentina", 16:30 Liga de Argentina – San Lorenzo vs Defensa y Justicia – Canal 28 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=b1439956620767ca632dd5b1eb78ef5076122c04-76-1773767321-1773713321
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=b23d5cad5356e3d83c43e99fe60a09012dd794c1-67-1773771686-1773717686
 #EXTINF:-1 tvg-name="Liga 1 Max Peru" group-title="Brasileirao", 18:00 Brasileirao – Chapecoense vs Gremio – Liga 1 Max Peru
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.sanwalyaarpya.com:1686/hls/capligamax.m3u8?md5=eUAZMxWlFpbbWqSlZS7xfg&expires=1773729548
-#EXTINF:-1 tvg-name="Canal 36" group-title="Brasileirao", 18:00 Brasileirao – Chapecoense vs Gremio – Canal 36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/x3hh2e9pop.m3u8?s=iKGoeIlIg_uzmsCbj4QCHA&e=1773743961
+https://n9.sanwalyaarpya.com:1686/hls/capligamax.m3u8?md5=4aVPOWkWcDzeUOvIHAiEjw&expires=1773733909
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Brasileirao", 18:00 Brasileirao – Chapecoense vs Gremio – Canal 37 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=b95fd92022a406ee54117484a278ab8b7940572d-4a-1773767372-1773713372
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=2350b0ae99fdcdc2ca718478371ec5ca0979a1d4-01-1773771730-1773717730
 #EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="Brasileirao", 18:00 Brasileirao – Chapecoense vs Gremio – Canal 38 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/liga1max/mono.m3u8?token=5e2478e303d5da2eb9559772a6b2fa54ee9298b5-8-1773739484-1773721484
+https://anvtcax.fubohd.com/liga1max/mono.m3u8?token=74a548b36667836ea5309a1aeffda17f82797384-23-1773743841-1773725841
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:00 Liga de Argentina – Racing Club vs Estudiantes de Rio Cuarto – ESPN Premium
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n1.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=f7laVS6e8strOqU_rcgmlw&expires=1773729612
-#EXTINF:-1 tvg-name="Canal 30" group-title="Liga de Argentina", 18:00 Liga de Argentina – Racing Club vs Estudiantes de Rio Cuarto – Canal 30
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/eka6jtsowcqgv6.m3u8?s=CiSEaq2X7VvoVMjHU0borw&e=1773744027
+https://n2.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=icOQkxlLF3Z31peaGx0pAg&expires=1773733952
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Racing Club vs Estudiantes de Rio Cuarto – Canal 31 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/espnpremium/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=8f67487584f23ab7924ad2236ebcda3a205b8a14-12-1773767441-1773713441
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espnpremium/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=0d16cbfa1332d2f300a3b260cb564a20f37b226c-67-1773771773-1773717773
 #EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Liverpool Montevideo vs Montevideo City Torque – VTV Uruguay
 #EXTVLCOPT:http-referrer=https://increasecattle.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://increasecattle.net/
-https://9pcjk5cj.04334746.net:8443/hls/yp6y5.m3u8?s=x4czfVI2l8_F4SJGi-f0jA&e=1773744084
-#EXTINF:-1 tvg-name="Canal 33" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Liverpool Montevideo vs Montevideo City Torque – Canal 33
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://y44kn4nu.83870203.net:8443/hls/yp6y5.m3u8?s=YjtQka_BUgj1aIuPRbMZzg&e=1773748396
+#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Liverpool Montevideo vs Montevideo City Torque – Canal 34 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/543hcacrbrvfw.m3u8?s=CVLCnBsTf8v7tQkGn682rw&e=1773744099
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/disney1/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=f5b08f87642388b9d3d286d5eb469d6b0979c942-97-1773771817-1773717817
 #EXTINF:-1 tvg-name="Capo Deportes" group-title="Clasico Mundial de Beisbo", 19:00 Clasico Mundial de Beisbo – Venezuela vs Italia – Capo Deportes
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=Kd3ziGPNGcB7jlHtz-aW5Q&expires=1773729756
-#EXTINF:-1 tvg-name="Canal 6" group-title="Clasico Mundial de Beisbo", 19:00 Clasico Mundial de Beisbo – Venezuela vs Italia – Canal 6
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/g6auvbu66y.m3u8?s=Vtl4NVZpm32Gr3h0bj7rlw&e=1773744183
+https://n6.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=C9y22vcMkRZnxh5S9gxaiQ&expires=1773734039
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Clasico Mundial de Beisbo", 19:00 Clasico Mundial de Beisbo – Venezuela vs Italia – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Clasico Mundial de Beisbo", 19:00 Clasico Mundial de Beisbo – Venezuela vs Italia – Canal 8 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/espnmx/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=b2046e92b5bd6f3fe89ed635736dd48fde76c703-ec-1773767608-1773713608
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espnmx/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=3aa5c6e13545dc27343405408a15d2415ef53fec-22-1773771873-1773717873
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 20:15 Liga de Argentina – Instituto vs Independiente – TNT Sports Argentina
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=sa06osgOHjbOTJdAlAT13A&expires=1773729821
-#EXTINF:-1 tvg-name="Canal 13" group-title="Liga de Argentina", 20:15 Liga de Argentina – Instituto vs Independiente – Canal 13
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://9pcjk5cj.04334746.net:8443/hls/xkvfhc3.m3u8?s=ozizXaUZ5VfvAbuvJkrQog&e=1773744235
+https://n2.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=aNxDhQiAF_mHPM0N65jqJQ&expires=1773734084
 #EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Instituto vs Independiente – Canal 14 (HD)
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx10.cloud/
-https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=20.236.100.10&token=14ebd64283b526942a344aead5064c307af634cf-02-1773767646-1773713646
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=172.182.212.3&token=b3cf972000214f798fe512694f65e71c109b0373-d5-1773771904-1773717904
