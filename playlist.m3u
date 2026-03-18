@@ -3,12 +3,12 @@
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=HoejS6VTbFAQjGzdodpr-Q&expires=1773869384
+https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=r0-UqfCxC0UFPutz5Mz_Hw&expires=1773871314
 #EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 12:45 UEFA Champions League – Barcelona vs Newcastle United – Canal 2
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://sea3mr6j.83870203.net:8443/hls/fewijyc9.m3u8?s=U0SNR6zLRsVmdj6v35ssfg&e=1773883804
+https://py3hsjj2.04334746.net:8443/hls/fewijyc9.m3u8?s=eFSLLevSUCRasgGouWFSig&e=1773885729
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UEFA Champions League", 12:45 UEFA Champions League – Barcelona vs Newcastle United – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -18,7 +18,7 @@ https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/in
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=68.220.60.228&token=e112e186be30eee4ce03f1d648744d2e822b5342-9a-1773907225-1773853225
+https://244pl.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=76fa86f1f0678f31acd7319b923fcc9b2dead83b-55-1773909153-1773855153
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Champions League", 12:45 UEFA Champions League – Barcelona vs Newcastle United – Canal 5 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -28,109 +28,294 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fb6jy4
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=pahI8_sIjKZCOzKkxred_g&expires=1773869444
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=-A3-sAcGIGitVVOdww8fcg&expires=1773871374
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="UEFA Champions League", 12:45 UEFA Champions League – Barcelona vs Newcastle United – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamtp10.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtp10.com/
-https://51a1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=68.220.60.228&token=d7a392f6adea526b2a7409d1848faa1f4533a72b-a2-1773907259-1773853259
+https://pecdl1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=efd6a3c19985daa200d76b96274a12f485230cd4-06-1773909195-1773855195
+#EXTINF:-1 tvg-name="Canal 1" group-title="UEFA Champions League", 15:00 UEFA Champions League – Liverpool vs Galatasaray – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n6.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=JGH8qb-ks4grpNXhDyrRJQ&expires=1773871404
+#EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Liverpool vs Galatasaray – Canal 2
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://py3hsjj2.04334746.net:8443/hls/fewijyc9.m3u8?s=VAxNhiJ-B08oiJxasC4NPg&e=1773885819
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Liverpool vs Galatasaray – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/espn2/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=22bef5557e8d81fc315a3f1290506f6a3fe38fc9-7a-1773909262-1773855262
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Liverpool vs Galatasaray – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://streamtp10.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp10.com/
+https://8c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=162170390f88cb2fb5ef07d3d10020b0b2956887-ed-1773909275-1773855275
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Liverpool vs Galatasaray – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=tryBuRwLCJrHAl2nuyHW5A&expires=1773871484
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Liverpool vs Galatasaray – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/disney8/mono.m3u8?token=28becdf42900e4f9e6a61be7e5f0481a12f2932e-70-1773881413-1773863413
+#EXTINF:-1 tvg-name="Canal 1" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n2.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=7dED9TYBQb8XuJwYpEgDWQ&expires=1773871518
+#EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 2
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://py3hsjj2.04334746.net:8443/hls/a31q9.m3u8?s=aMKSh7AldCKxolIgmPOQ7g&e=1773885951
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=cc86571ac7dd5eaa506ee3eee0e83b6225b86953-e6-1773909393-1773855393
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://streamtp10.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtp10.com/
+https://8c51.streameasthd.net/max1/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=c1dbf776650be46fdf93adfee280f13de1edfba6-78-1773909409-1773855409
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=k6h8DH87_NSkF3wvKc0MuQ&expires=1773871618
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Bayern Munich vs Atalanta – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://bgfuzq.fubohd.com/disney7/mono.m3u8?token=6d70a8ff15ac5a5fe2ebd4c8ade969eae3a91232-c9-1773881532-1773863532
+#EXTINF:-1 tvg-name="Canal 1" group-title="UEFA Champions League", 15:00 UEFA Champions League – Tottenham Hotspur vs Atletico Madrid – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n7.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=ML1HgjbleQrMXW1zDVnO-w&expires=1773871659
+#EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Champions League", 15:00 UEFA Champions League – Tottenham Hotspur vs Atletico Madrid – Canal 2
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://py3hsjj2.04334746.net:8443/hls/mr8x6tqp6c4d.m3u8?s=Uy65xBKnBc7r5kjsPzrqfA&e=1773886075
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Tottenham Hotspur vs Atletico Madrid – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/index/index_8_0.m3u8
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Tottenham Hotspur vs Atletico Madrid – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espn5/tracks-v1a1/mono.m3u8?ip=20.29.53.18&token=6bd0317d099e9e8eaf3699b25affcadf25adf311-ba-1773909501-1773855501
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Tottenham Hotspur vs Atletico Madrid – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/xvg3cuxjpm/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="UEFA Champions League", 15:00 UEFA Champions League – Tottenham Hotspur vs Atletico Madrid – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=w--vky82jbItfRqCkJFe_A&expires=1773871739
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=92b8e7180ea5384062b604108817f8e40058d353-ce-1773879379-1773861379
+https://agvyby.fubohd.com/espn/mono.m3u8?token=7d86021471c0a7589c8c5c7e745777eb96df0732-5f-1773881663-1773863663
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/disney4/mono.m3u8?token=816b1483a233cd7d4a72e45e434aca431f2deaf8-da-1773879390-1773861390
+https://bgfuzq.fubohd.com/disney4/mono.m3u8?token=570670b96c778c72d53586fcaeff77c3ecbe450b-24-1773881674-1773863674
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/foxsports/mono.m3u8?token=58510055460eda96ca277add7d6444981c69bc60-bd-1773879410-1773861410
+https://bgfuzq.fubohd.com/foxsports/mono.m3u8?token=2813dccf35aceaec0a86f9a0a426014452bf8d14-18-1773881694-1773863694
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/tudn/mono.m3u8?token=21623867aad1cc47369a0ecb8ca050f7cf3a421f-2c-1773879421-1773861421
+https://x4bnd7lq.fubohd.com/tudn/mono.m3u8?token=81cf9e3ac53ad0f4eaabbde94bc92bbb365eb1b6-20-1773881705-1773863705
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/espn/mono.m3u8?token=8838fdcf8eeadccf5bbf70d0e96d273165d5f0cc-9a-1773879450-1773861450
+https://ag9wzq.fubohd.com/espn/mono.m3u8?token=db0df159ce6f4b164ad6024fe9c4b97b0263741b-57-1773881734-1773863734
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/disney4/mono.m3u8?token=bc814430dabbad6c1d60d2fe4e1c45564502856e-4f-1773879461-1773861461
+https://aw1wcm92zq.fubohd.com/disney4/mono.m3u8?token=a534cd316c6cd3a6f73c2d60300feaa7f2e5b677-60-1773881745-1773863745
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/foxsports/mono.m3u8?token=a33f99d730674e53119967df5d5ed09101e54e4d-f0-1773879482-1773861482
+https://ag9wzq.fubohd.com/foxsports/mono.m3u8?token=da919b20f0fb92b0fd16c30311422f3ee93cf7b1-ed-1773881768-1773863768
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 17:45 UEFA Champions League – Barcelona vs Newcastle United – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/tudn/mono.m3u8?token=37e564355e8d5a570684a9694ebd4bf47d194e72-fa-1773879493-1773861493
+https://a2vlca.fubohd.com/tudn/mono.m3u8?token=9da93d0e9c890492c3d52a408268614a5b848c09-ba-1773881778-1773863778
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa del Rey de Arabia Saudita", 19:00 Copa del Rey de Arabia Saudita – Al-Ahli vs Al Hilal – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/foxdeportes/mono.m3u8?token=2c8ca08bc0d8dd74afdcf719702077f9ab7b0935-a9-1773879513-1773861513
+https://x4bnd7lq.fubohd.com/foxdeportes/mono.m3u8?token=1dc1c0f479738f66c46a85f8dfdbd2d9f171b6b0-9b-1773881798-1773863798
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa del Rey de Arabia Saudita", 19:00 Copa del Rey de Arabia Saudita – Al-Ahli vs Al Hilal – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/foxdeportes/mono.m3u8?token=55c3c2f8117de5904554a72b745dde5d5550ac6f-b8-1773879533-1773861533
+https://bgfuzq.fubohd.com/foxdeportes/mono.m3u8?token=f58b0a5cd56368353ba7614aee2b90a374dd6a57-22-1773881820-1773863820
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa de la Reina", 20:00 Copa de la Reina – Barcelona vs Badalona – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/disney11/mono.m3u8?token=23e6a6ced4e13c83caaf9d51e221cb98eeeeb03f-61-1773881840-1773863840
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa de la Reina", 20:00 Copa de la Reina – Barcelona vs Badalona – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ym9yzq.fubohd.com/disney11/mono.m3u8?token=8180b2c2d18ce6d3aae74485d6ecbebef5a634f7-4c-1773881851-1773863851
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="League Two", 20:00 League Two – Milton Keynes Dons vs Colchester United – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://a2vlca.fubohd.com/disney10/mono.m3u8?token=13e493bc413bd7046865c87ccacb628ebd41e226-bd-1773881862-1773863862
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="League Two", 20:00 League Two – Milton Keynes Dons vs Colchester United – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/disney10/mono.m3u8?token=2ac171c911399ecd2e1ff27d5e81ba5066dafb41-16-1773881873-1773863873
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Liverpool vs Galatasaray – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn2/mono.m3u8?token=e3c02e406445526423b8800953c3826020014d8e-78-1773879597-1773861597
+https://qzv4jmsc.fubohd.com/espn2/mono.m3u8?token=ffb0f5da8166fa617e0d50dc1c4ed54e3d5321b1-eb-1773881884-1773863884
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Liverpool vs Galatasaray – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/tudn/mono.m3u8?token=93925582491eda95175972c134b4efcb9d626142-c1-1773879628-1773861628
+https://tyg2mnl9.fubohd.com/disney8/mono.m3u8?token=84ea5237d9d5dd22b9c047c512569ef01b9fa10f-f-1773881895-1773863895
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Liverpool vs Galatasaray – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://tyg2mnl9.fubohd.com/tudn/mono.m3u8?token=a739f3047d9f70e45f357888b89604a22e4ceeaf-f4-1773881915-1773863915
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Bayern München vs Atalanta – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=66d3113449ff0bd27e24226bdbaf7728007d08b8-9b-1773879647-1773861647
+https://aw1wcm92zq.fubohd.com/espn/mono.m3u8?token=b4e62e7929ed7c331b92def41839a2b24f00ecd5-38-1773881935-1773863935
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Bayern München vs Atalanta – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/foxsports2/mono.m3u8?token=2454ceb9da9e80bae6228d57ec2c38dff3f76eb3-8e-1773879678-1773861678
+https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=b73e23bb254309bc659a52e3a4bb1db67b061287-68-1773881946-1773863946
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Bayern München vs Atalanta – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=32c2b57c20d1a0d41bffc2e09301e34ac7e98cf4-f9-1773881966-1773863966
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Tottenham Hotspur vs Atlético Madrid – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn5/mono.m3u8?token=ce872912903336e491bc249d2a49d065add4cd51-66-1773879689-1773861689
+https://ym9yzq.fubohd.com/espn5/mono.m3u8?token=69dda53cf4b9c038f4276a261d220baf59dfb60f-8a-1773881977-1773863977
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Tottenham Hotspur vs Atlético Madrid – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://a2vlca.fubohd.com/disney9/mono.m3u8?token=400b55f4ce95304e8a346a27efca1d788a64e38a-c-1773881988-1773863988
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Liverpool vs Galatasaray – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espn2/mono.m3u8?token=f66c01add39193d1ff45bfd79c414f738eacadda-86-1773879720-1773861720
+https://a2vlca.fubohd.com/espn2/mono.m3u8?token=4bfc604f773cb239bb069e9a2b6d3819b286b482-cd-1773882008-1773864008
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Liverpool vs Galatasaray – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/tudn/mono.m3u8?token=0caeca62acfae30a4e1950f5f6226b43df83a8f1-a4-1773879752-1773861752
+https://tyg2mnl9.fubohd.com/disney8/mono.m3u8?token=25e8b127297bede42881a52199f2f07e3d080e55-c1-1773882019-1773864019
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Liverpool vs Galatasaray – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ym9yzq.fubohd.com/tudn/mono.m3u8?token=8c37735560d8548641ed989489086d7cddb90d95-a7-1773882039-1773864039
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Bayern München vs Atalanta – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn/mono.m3u8?token=2f45ff3e36e4075fc71c64ef143e6077695a6e96-87-1773879772-1773861772
+https://anvtcax.fubohd.com/espn/mono.m3u8?token=17e56910ecc3b9f9fc8902ae619a1224ed45c0e0-71-1773882059-1773864059
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Bayern München vs Atalanta – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/foxsports2/mono.m3u8?token=fe29bbb719ab492c2438fda1caa05c8d58fc0525-70-1773879803-1773861803
+https://tyg2mnl9.fubohd.com/disney7/mono.m3u8?token=695124959c0e00877f176199460f5f410a27b279-3a-1773882070-1773864070
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Bayern München vs Atalanta – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://a2vlca.fubohd.com/foxsports2/mono.m3u8?token=312b38e37a1f1fdfb6c80c82275bc48053c898d8-6e-1773882090-1773864090
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Tottenham Hotspur vs Atlético Madrid – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/espn5/mono.m3u8?token=922916e530c897ef4b267d9f53794e08d387503f-6a-1773879813-1773861813
+https://qzv4jmsc.fubohd.com/espn5/mono.m3u8?token=88691eef0eb2dc4e32841eb11064ed5f04d9763d-0-1773882101-1773864101
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Champions League", 20:00 UEFA Champions League – Tottenham Hotspur vs Atlético Madrid – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/disney9/mono.m3u8?token=480eb7c3170e9a864dc87172cb64c455bcfc150d-9-1773882112-1773864112
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga BetPlay", 21:15 Liga BetPlay – Deportivo Pasto vs Boyacá Chicó – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/winsportsplus/mono.m3u8?token=fece3117038329cd312e951d466e8ef024d70258-ab-1773882136-1773864136
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga BetPlay", 21:15 Liga BetPlay – Deportivo Pasto vs Boyacá Chicó – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/winsports2/mono.m3u8?token=62440f3f500f2e5bfcd4c2da09ed093bb3d4e657-d7-1773882147-1773864147
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga BetPlay", 21:15 Liga BetPlay – Deportivo Pasto vs Boyacá Chicó – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://increasecattle.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://increasecattle.net/
+https://py3hsjj2.04334746.net:8443/hls/wtydmql3.m3u8?s=v3sL4O2Obt-Cqw739iBGXg&e=1773886660
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga BetPlay", 21:15 Liga BetPlay – Deportivo Pasto vs Boyacá Chicó – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/winsportsplus/mono.m3u8?token=997709fe29ec2e123d6add681092188dff13a49a-56-1773882171-1773864171
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga BetPlay", 21:15 Liga BetPlay – Deportivo Pasto vs Boyacá Chicó – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ym9yzq.fubohd.com/winsports2/mono.m3u8?token=733b6b7666ddb63bd52178a8cedd66623e909819-7f-1773882182-1773864182
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga BetPlay", 21:15 Liga BetPlay – Deportivo Pasto vs Boyacá Chicó – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://increasecattle.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://increasecattle.net/
+https://py3hsjj2.04334746.net:8443/hls/wtydmql3.m3u8?s=BFwWkxSHmBiHfr4DMhQQDQ&e=1773886695
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Brasileirão", 22:00 Brasileirão – Palmeiras vs Botafogo – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://bgfuzq.fubohd.com/winsports/mono.m3u8?token=3322818f2aa61558a2bc18f2a59e51270255c132-3a-1773882206-1773864206
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Brasileirão", 22:00 Brasileirão – Palmeiras vs Botafogo – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://bgfuzq.fubohd.com/winsports/mono.m3u8?token=02d6b47cbd8908ea1fb6b20004d23e161698bb4e-d-1773882217-1773864217
