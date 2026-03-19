@@ -1,76 +1,236 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – Rakow Czestochowa vs Fiorentina – Liga de Campeones 7
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n1.sanwalyaarpya.com:1686/hls/capocampeones7.m3u8?md5=l8BlZcEtAgaSE6nrHiE9dw&expires=1773950087
+#EXTINF:-1 tvg-name="Canal 12" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – Rakow Czestochowa vs Fiorentina – Canal 12
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/fuge8n.m3u8?s=pjH31VYzKNJ62kP4XiZYpw&e=1773964500
+#EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – Rakow Czestochowa vs Fiorentina – Canal 14 (HD)
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+https://lb8.strmd.top/secure/SGHurgKkSzzjMEoMdTbRwhEJxqluXdjs/delta/stream/live_uefa-europa-conference-league-knockout-stage_rakow-fiorentina-live-streaming-515511648/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Liga de Campeones 8" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Larnaca vs Crystal Palace – Liga de Campeones 8
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n2.sanwalyaarpya.com:1686/hls/capocampeones8.m3u8?md5=twOgh4F5fN8Pk30bCN6TQQ&expires=1773950135
+#EXTINF:-1 tvg-name="Canal 15" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Larnaca vs Crystal Palace – Canal 15
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/yryis2n8r5q.m3u8?s=Einzm5QtAQ3MGtBGm7ioqg&e=1773964555
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Larnaca vs Crystal Palace – Canal 17 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-name="Liga de Campeones 9" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Athens vs NK Celje – Liga de Campeones 9
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n1.sanwalyaarpya.com:1686/hls/capocampeones9.m3u8?md5=bf1zbLDcqfcQU7nTdNTFsw&expires=1773950189
+#EXTINF:-1 tvg-name="Canal 18" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Athens vs NK Celje – Canal 18
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/s5b4t8j9cwh4cjy.m3u8?s=jb-XuvQTGkL5lmwcmNuNcQ&e=1773964601
+#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Athens vs NK Celje – Canal 19 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espn2mx/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=174f80e18153e6b6bc651a659752cadf842f6b41-7d-1773988012-1773934012
+#EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – AEK Athens vs NK Celje – Canal 20 (HD)
+#EXTVLCOPT:http-referrer=https://pooembed.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://pooembed.eu/
+https://lb2.modifiles.fans/secure/AcSmffcccyBEORNTokItHUEKflszfukz/1773931500/1773960300/uecl_aek/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Liga de Campeones 10" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – Mainz 05 vs Sigma Olomouc – Liga de Campeones 10
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n6.sanwalyaarpya.com:1686/hls/capocampeones10.m3u8?md5=_H64Pi1PpnxbpFfwXYdecA&expires=1773950237
+#EXTINF:-1 tvg-name="Canal 21" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – Mainz 05 vs Sigma Olomouc – Canal 21
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/cv6msc.m3u8?s=3NSZqyShzhGK9_MtOegRpw&e=1773964658
+#EXTINF:-1 tvg-name="Canal 23 (HD)" group-title="UEFA Europa Conference League", 12:45 UEFA Europa Conference League – Mainz 05 vs Sigma Olomouc – Canal 23 (HD)
+#EXTVLCOPT:http-referrer=https://pooembed.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://pooembed.eu/
+https://lb2.modifiles.fans/secure/tNEjWVOxlHWpfPbkpxlOQfqEdaDfkGZG/1773931500/1773960300/uecl_mai/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Canal 1" group-title="UEFA Europa League", 12:45 UEFA Europa League – Olympique Lyon vs Celta Vigo – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n6.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=SkCj9OfCBbKjcv4A60GKXA&expires=1773950292
+#EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Europa League", 12:45 UEFA Europa League – Olympique Lyon vs Celta Vigo – Canal 2
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/pu1sgwiscq0e.m3u8?s=wn4a5ttk01lPlsvfLASbkA&e=1773964708
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Olympique Lyon vs Celta Vigo – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espn2/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=234f00f3b8511bef61708567f179b1d03ffe422e-39-1773988118-1773934118
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Olympique Lyon vs Celta Vigo – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Olympique Lyon vs Celta Vigo – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://51a1.streameasthd.net/disney2/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=41bdea9511505cca99c53d7a93667fab59567965-35-1773988142-1773934142
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Olympique Lyon vs Celta Vigo – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n3.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=fF9-yRXY13wCMKhf3ems6Q&expires=1773950352
+#EXTINF:-1 tvg-name="Canal 1" group-title="UEFA Europa League", 12:45 UEFA Europa League – Midtjylland vs Nottingham Forest – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n9.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=m0vQFJpXLa_xF-OHcPmAYQ&expires=1773950371
+#EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Europa League", 12:45 UEFA Europa League – Midtjylland vs Nottingham Forest – Canal 2
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/a31q9.m3u8?s=WKje4pzKCkKYmM52pAkVig&e=1773964787
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Midtjylland vs Nottingham Forest – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=e44e94d98af403d010f35c90d68ae793a6d1b935-c1-1773988197-1773934197
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Midtjylland vs Nottingham Forest – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Midtjylland vs Nottingham Forest – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://pecdl1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=94a2d3ee14f333b047f74b6cfa195ab22171ea18-fc-1773988221-1773934221
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Midtjylland vs Nottingham Forest – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n1.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=O-yJ48NEiZhCOgtNRq07tg&expires=1773950423
+#EXTINF:-1 tvg-name="Canal 1" group-title="UEFA Europa League", 12:45 UEFA Europa League – Freiburg vs Racing Genk – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=RX70L3aaJzYteI7uLbt4kg&expires=1773950440
+#EXTINF:-1 tvg-name="Canal 2" group-title="UEFA Europa League", 12:45 UEFA Europa League – Freiburg vs Racing Genk – Canal 2
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://gt7gapsu.39564828.net:8443/hls/wlloso4ptv7ory.m3u8?s=0tXRu9jZFMMFIhBtyB3SnA&e=1773964855
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Freiburg vs Racing Genk – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/espn3/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=c9ec32df737c3daf6ea2cab1a0c29d4fdb81b758-8e-1773988268-1773934268
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Freiburg vs Racing Genk – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://doc1.streameasthd.net/disney3/tracks-v1a1/mono.m3u8?ip=128.24.162.1&token=718c8a5d511556ec288d2f982705178f6a21b256-5f-1773988279-1773934279
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Freiburg vs Racing Genk – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=GoqjP4SKguElVQQSnMuadg&expires=1773950487
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="UEFA Europa League", 12:45 UEFA Europa League – Freiburg vs Racing Genk – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ag9wzq.fubohd.com/espn3/mono.m3u8?token=f3b85cb3e31094f442a78ccbf2fbf6e21a9ed00b-46-1773960402-1773942402
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Olympique Lyonnais vs Celta de Vigo – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn2/mono.m3u8?token=55e9a8d0f64674c27db9aa80b305e0a445906fe4-32-1773955037-1773937037
+https://ag9wzq.fubohd.com/espn2/mono.m3u8?token=f59f53fb8e99ccef448af925add6b8901da4bb97-88-1773960414-1773942414
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Olympique Lyonnais vs Celta de Vigo – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/disney3/mono.m3u8?token=80388fd064a084a89fc3455b75448f0fabfcfdcc-65-1773960425-1773942425
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Freiburg vs Genk – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/espn3/mono.m3u8?token=9030e57e985e862450dbf1e3823eb81333636b6d-52-1773955068-1773937068
+https://bgfuzq.fubohd.com/espn3/mono.m3u8?token=0f1d07daf9a22b6d4aa2451f4bd51a6cb7ee821c-d5-1773960446-1773942446
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Freiburg vs Genk – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://wp9xqedt.fubohd.com/disney2/mono.m3u8?token=5bd68ff8bd62d56519030401063e6054f60657ef-61-1773960457-1773942457
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Midtjylland vs Nottingham Forest – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=7a158af927cacca372663f446fc35a6458ffdf60-5c-1773955099-1773937099
+https://tyg2mnl9.fubohd.com/espn/mono.m3u8?token=af7c6710c7019183fb89ebbe7c6bdcd5b8d1026d-31-1773960478-1773942478
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 17:45 Liga Europa de la UEFA – Midtjylland vs Nottingham Forest – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://x4bnd7lq.fubohd.com/disney4/mono.m3u8?token=5a491a768329aa99ff4dce44c30e5d41d6733fa8-37-1773960489-1773942489
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga de la Conferencia de la UEFA", 17:45 Liga de la Conferencia de la UEFA – AEK Athens vs Celje – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/disney5/mono.m3u8?token=a1da8c5f8f19609973906bc43cc78b849d0166d1-7a-1773960509-1773942509
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga de la Conferencia de la UEFA", 17:45 Liga de la Conferencia de la UEFA – Raków Częstochowa vs Fiorentina – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ag9wzq.fubohd.com/disney8/mono.m3u8?token=10cad02e6e135b089a58b41ac6b6c6ffd8c6f6ed-77-1773960521-1773942521
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga de la Conferencia de la UEFA", 17:45 Liga de la Conferencia de la UEFA – AEK Larnaca vs Crystal Palace – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://wp9xqedt.fubohd.com/disney1/mono.m3u8?token=446e337df0a30ff6b694cd061b6fa32f6794cdbe-cf-1773960532-1773942532
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga de la Conferencia de la UEFA", 17:45 Liga de la Conferencia de la UEFA – Mainz 05 vs Sigma Olomouc – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://wp9xqedt.fubohd.com/disney7/mono.m3u8?token=e65514da587efbb26e1bb4d87393e3adc9ca52c8-35-1773960543-1773942543
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 20:00 Liga Europa de la UEFA – Porto vs Stuttgart – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn4/mono.m3u8?token=b24dec5759772c334a0375339b72eb8d13c661ee-eb-1773955184-1773937184
+https://ym9yzq.fubohd.com/espn4/mono.m3u8?token=cc98d8e8e6c1ab45b9a3197997b9bf78e70789aa-dd-1773960565-1773942565
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 20:00 Liga Europa de la UEFA – Roma vs Bologna – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/espn3/mono.m3u8?token=40228e83e6fa392570bf2a69c718fa51bb643250-3d-1773955214-1773937214
+https://anvtcax.fubohd.com/espn3/mono.m3u8?token=7255dff2bc35a3fbc604ec78175dd28ea326afcb-d2-1773960597-1773942597
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 20:00 Liga Europa de la UEFA – Roma vs Bologna – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/tudn/mono.m3u8?token=ca4b65498ac8aa3ce461ae5854e690f4d4a26a31-9-1773955245-1773937245
+https://ym9yzq.fubohd.com/tudn/mono.m3u8?token=675cc449597a9725500a2e8fa2ed99e0906ebbaa-d3-1773960627-1773942627
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 20:00 Liga Europa de la UEFA – Real Betis vs Panathinaikos – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/espn/mono.m3u8?token=a85c01d4becad6babfa6789fa10bc794e3808a2b-4b-1773955265-1773937265
+https://bgfuzq.fubohd.com/espn/mono.m3u8?token=e29fcd2026add41758dfc394db912e2ecde34f56-55-1773960648-1773942648
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Europa de la UEFA", 20:00 Liga Europa de la UEFA – Real Betis vs Panathinaikos – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/espn2mx/mono.m3u8?token=257128b213771a8d121e18b24afcd6fe49b11095-cb-1773955296-1773937296
-#EXTINF:-1 tvg-name="Canal 1" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs San Diego FC – Canal 1
-#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://rm8zcvk3.fubohd.com/espn2mx/mono.m3u8?token=902401720f2ed93bfa2e12cc4a7b317112f434f5-21-1773960680-1773942680
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="UEFA Europa League", 20:00 UEFA Europa League – Aston Villa vs Lille – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=DVVVijleV7SvTKuqZ6BU9w&expires=1773945406
-#EXTINF:-1 tvg-name="Canal 2" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs San Diego FC – Canal 2
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://goalwagon.net/
-https://cqr2aqt6.58103793.net:8443/hls/fewijyc9.m3u8?s=ZFT1BbmmX_9KFMOVO6OviQ&e=1773959818
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs San Diego FC – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/14e6849c-eb4d-4a87-80ab-307b1d815e74/DASH/master.mpd
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs San Diego FC – Canal 4 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tudnus/tracks-v1a1/mono.m3u8?ip=172.184.219.80&token=466f0438d45bb5cfa04349a0b5758d0565b8fb7f-3f-1773983239-1773929239
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs San Diego FC – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=8VhOcl4aVmMV05w2zN6uwA&expires=1773945449
-#EXTINF:-1 tvg-name="Capo Deportes 3" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Seattle Sounders vs Vancouver Whitecaps – Capo Deportes 3
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=gDt6Idbk-Rqm2JHFM9gHeA&expires=1773945471
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Seattle Sounders vs Vancouver Whitecaps – Canal 19 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/1b49ab6d-49bb-405c-b663-474cf966ac75/DASH/master.mpd
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://x4bnd7lq.fubohd.com/espn2/mono.m3u8?token=c824ace997ca52b41a364e922091e109cb0bc585-61-1773960691-1773942691
