@@ -3,49 +3,54 @@
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=C8VfrnQ_eEQTRkfGvOOLMw&expires=1774089538
+https://n7.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=vLKfj2vlq8MTDZ6ooCKpbg&expires=1774093006
+#EXTINF:-1 tvg-name="Canal 33" group-title="Liga de Argentina", 19:00 Liga de Argentina – Atletico Tucuman vs Gimnasia La Plata – Canal 33
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://jp4zhfst.04334746.net:8443/hls/eka6jtsowcqgv6.m3u8?s=pI_D-sLKD_3hh04xlv0FDg&e=1774107418
 #EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Atletico Tucuman vs Gimnasia La Plata – Canal 34 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/fanatiz4/tracks-v1a1/mono.m3u8?ip=52.154.132.164&token=c081682d3d241fc3645ded9136df554731351756-66-1774127362-1774073362
+https://doc1.streameasthd.net/fanatiz4/tracks-v1a1/mono.m3u8?ip=20.55.15.3&token=d2b2c97c0d95c3331ea1ddf18365af07fe402199-c9-1774130829-1774076829
 #EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Atletico Tucuman vs Gimnasia La Plata – Canal 35 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/espnpremium/tracks-v1a1/mono.m3u8?ip=52.154.132.164&token=2ac534795bd3a3e5606081ec9da937e0404c7bc7-9b-1774127373-1774073373
+https://cc324.streamingtv339.com/espnpremium/tracks-v1a1/mono.m3u8?ip=20.55.15.3&token=827da52d70001202c3ba267a81ab4835e9eabcd7-7f-1774130839-1774076839
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Banfield vs Tigre – TNT Sports Argentina
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=pc0R66GhamxFcP1LUtOXmw&expires=1774089585
+https://n2.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=LNQbap1AnaGGovk7IsaL4A&expires=1774093050
 #EXTINF:-1 tvg-name="Canal 37 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Banfield vs Tigre – Canal 37 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/fanatiz3/tracks-v1a1/mono.m3u8?ip=52.154.132.164&token=de2d97fa831909a366add273fa740f1e3fee7552-45-1774127409-1774073409
+https://doc1.streameasthd.net/fanatiz3/tracks-v1a1/mono.m3u8?ip=20.55.15.3&token=e248602a0f18865d926cfe2f2bc9fd914eac0e76-05-1774130872-1774076872
 #EXTINF:-1 tvg-name="Canal 38 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Banfield vs Tigre – Canal 38 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=52.154.132.164&token=76e71d3c94de3e0a7d388a8ca90f0c0d69d8bdc3-18-1774127421-1774073421
+https://cc324.streamingtv339.com/tntar/tracks-v1a1/mono.m3u8?ip=20.55.15.3&token=35c2a129adb96889bb3c4318e624ca7e5ed7ba09-72-1774130883-1774076883
 #EXTINF:-1 tvg-name="TyC Sports" group-title="Copa Argentina", 19:15 Copa Argentina – San Lorenzo vs Deportivo Rincon – TyC Sports
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capotyc.m3u8?md5=D5ljB6OO-ydEc6p8oooeWw&expires=1774089632
+https://n3.sanwalyaarpya.com:1686/hls/capotyc.m3u8?md5=SsundQ1sMgi0b2b54mZn-w&expires=1774093093
+#EXTINF:-1 tvg-name="Canal 45" group-title="Copa Argentina", 19:15 Copa Argentina – San Lorenzo vs Deportivo Rincon – Canal 45
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://goalwagon.net/
+https://jp4zhfst.04334746.net:8443/hls/neo2gy.m3u8?s=mIJf8wNQ4a7WBOdJkZd8NQ&e=1774107505
 #EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="Copa Argentina", 19:15 Copa Argentina – San Lorenzo vs Deportivo Rincon – Canal 46 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/fanatiz5/tracks-v1a1/mono.m3u8?ip=52.154.132.164&token=9600a633f31f9bc73bf7a8a53b0f2b1a338ee6d7-0f-1774127456-1774073456
+https://98ca2.streameasthd.net/fanatiz5/tracks-v1a1/mono.m3u8?ip=20.55.15.3&token=cad61fe21cf927e6d0366c6d925c02a1df252e8f-2f-1774130915-1774076915
 #EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Copa Argentina", 19:15 Copa Argentina – San Lorenzo vs Deportivo Rincon – Canal 47 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tyc/tracks-v1a1/mono.m3u8?ip=52.154.132.164&token=018fec28315442e947a283ff97765245a1a74335-f7-1774127466-1774073466
-#EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Uruguay", 19:30 Liga de Uruguay – Defensor Sporting vs Nacional – Canal 48
-#EXTVLCOPT:http-referrer=https://increasecattle.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://increasecattle.net/
-https://y4mpwzd7.12703830.net:8443/hls/yp6y5.m3u8?s=5zwQnonRKoxt6Uerkz1nIw&e=1774104090
+https://cc324.streamingtv339.com/tyc/tracks-v1a1/mono.m3u8?ip=20.55.15.3&token=bf6bf7877deea1f7b883ec83bb76143f8f2237e4-cd-1774130926-1774076926
