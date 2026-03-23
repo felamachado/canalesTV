@@ -1,166 +1,176 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 24" group-title="Liga de Argentina", 18:00 Liga de Argentina – Boca Juniors vs Instituto – Canal 24
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 00:15 Liga Profesional – Huracán vs Barracas Central – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/a31q9.m3u8?s=01-moU4dxBnSIKoAecaXbA&e=1774315790
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ym9yzq.fubohd.com/tntsports/mono.m3u8?token=b87afadbea540471812660f640432ba62ecd329e-f2-1774313414-1774295414
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 00:15 Liga Profesional – Huracán vs Barracas Central – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=70e5f761d0bac81716a051d241b59afe4673cf3d-86-1774313434-1774295434
+#EXTINF:-1 tvg-name="Canal 24" group-title="Liga de Argentina", 18:00 Liga de Argentina – Boca Juniors vs Instituto – Canal 24
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://cqr2aqt6.58103793.net:8443/hls/a31q9.m3u8?s=SQFYAV_n7Q0vZtknPb-TqQ&e=1774317965
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Boca Juniors vs Instituto – Canal 25 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=57.151.128.199&token=f976aa7778c749adbb6a9dd0b3d42f6e4b5e6354-d0-1774339202-1774285202
+https://24a1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=172.184.219.162&token=697b0f4c92d970defeba99dd71f2aac565b7c82f-30-1774341377-1774287377
 #EXTINF:-1 tvg-name="Win Sports" group-title="Brasileirao", 18:30 Brasileirao – Corinthians vs Flamengo – Win Sports
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.sanwalyaarpya.com:1686/hls/winsports.m3u8?md5=DzbQ8yzKzuzJzhVQ4Gcgwg&expires=1774301434
+https://n2.sanwalyaarpya.com:1686/hls/winsports.m3u8?md5=4FO3J2R_ye4o24CfXi8v3Q&expires=1774303607
 #EXTINF:-1 tvg-name="Canal 33" group-title="Brasileirao", 18:30 Brasileirao – Corinthians vs Flamengo – Canal 33
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
+#EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/l99bacdw776ns.m3u8?s=vNfS02VJ-FFtRkIpSWqg6A&e=1774315847
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://cqr2aqt6.58103793.net:8443/hls/l99bacdw776ns.m3u8?s=8Buri-ctpTjqeqxlc5sxRA&e=1774318019
 #EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Brasileirao", 18:30 Brasileirao – Corinthians vs Flamengo – Canal 34 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/winsports/tracks-v1a1/mono.m3u8?ip=57.151.128.199&token=c2eeaf374f5abc7ed6b993d8a1ad03ea389fa756-bf-1774339257-1774285257
+https://cc324.streamingtv339.com/winsports/tracks-v1a1/mono.m3u8?ip=172.184.219.162&token=1310cf90e33f91c477551e1f4efae3c6bbf57500-39-1774341431-1774287431
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 19:00 Primera A – Boyacá Chicó vs Deportes Tolima – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/winsportsplus/mono.m3u8?token=16fccd3c37f1ced453caca53da0d0b3e3c531716-85-1774311382-1774293382
+https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=6eb28ad0152e84d78b5c9411de8874d49478cdd8-dc-1774313555-1774295555
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 19:00 Primera A – Boyacá Chicó vs Deportes Tolima – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/winsports2/mono.m3u8?token=046a3f20865fd224eb6839961ea35ff4a37289d8-7c-1774311393-1774293393
+https://anvtcax.fubohd.com/winsports2/mono.m3u8?token=9563d36bbb9b3137441db646a195698bdb6add9f-21-1774313566-1774295566
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 19:00 Primera A – Boyacá Chicó vs Deportes Tolima – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/wtydmql3.m3u8?s=JLsIqrBlWcsg8zXnE4-mOw&e=1774315908
+https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=RK_Ta1cBv4_ORbGvuY6ySQ&e=1774318080
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 19:00 Primera A – Boyacá Chicó vs Deportes Tolima – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/winsportsplus/mono.m3u8?token=69accf59cb6295969bc76caa61cf0edd1dcfda93-7f-1774311419-1774293419
+https://anvtcax.fubohd.com/winsportsplus/mono.m3u8?token=8b23612984cc00b23879033a2a5107a544baf95a-f0-1774313592-1774295592
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 19:00 Primera A – Boyacá Chicó vs Deportes Tolima – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/winsports2/mono.m3u8?token=bcebf3d468665e6d8c7f9673aae0e57fa9b1e9b6-ee-1774311431-1774293431
+https://rm8zcvk3.fubohd.com/winsports2/mono.m3u8?token=33a3ee1456d3a0f45bc33172845446405c64a513-1-1774313603-1774295603
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 19:00 Primera A – Boyacá Chicó vs Deportes Tolima – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/wtydmql3.m3u8?s=-Bt4k_0m3ydR57HjPjFylw&e=1774315945
+https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=Ky1K9A_et4UVVXjwxPhFAw&e=1774318117
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga 2", 19:30 LaLiga 2 – CD Castellon vs Cultural Leonesa – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/hypermotion1/mono.m3u8?token=27a33106228eb80e00888bd78449c91acf9ac001-cf-1774311468-1774293468
+https://qzv4jmsc.fubohd.com/hypermotion1/mono.m3u8?token=f5faf4285beced4dbecf209b96038f703e8ee4eb-eb-1774313639-1774295639
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga 2", 19:30 LaLiga 2 – CD Castellon vs Cultural Leonesa – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/hypermotion1/mono.m3u8?token=20436e078021ef7673d99d737b84f80ae20b2056-fd-1774311491-1774293491
+https://bgfuzq.fubohd.com/hypermotion1/mono.m3u8?token=df4c5f63397dd41c7f2999af2f1f7ff5ff00e039-9e-1774313661-1774295661
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 20:15 Liga de Argentina – Argentinos Juniors vs Platense – TNT Sports Argentina
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=ys5IXXas184BhdgOkyur_g&expires=1774301602
+https://n5.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=zR2hF1EmMpKhq11TOvQiWA&expires=1774303772
 #EXTINF:-1 tvg-name="Canal 43" group-title="Liga de Argentina", 20:15 Liga de Argentina – Argentinos Juniors vs Platense – Canal 43
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
+#EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/xkvfhc3.m3u8?s=tN6_XrsAz30kZP1ErYQG0Q&e=1774316014
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://cqr2aqt6.58103793.net:8443/hls/xkvfhc3.m3u8?s=Be7yKWveUuQTcenZ0UsPjw&e=1774318184
 #EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Argentinos Juniors vs Platense – Canal 44 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=57.151.128.199&token=87caaedb539ba64734ca915fde63bae4e5880bd3-f3-1774339426-1774285426
+https://24a1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=172.184.219.162&token=5ba7353ce7dd6b59438e550d30769c4d1ab1eebf-45-1774341595-1774287595
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 20:15 Liga de Argentina – Independiente Rivadavia vs Rosario Central – ESPN Premium
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=mj_9117cdWN0m3d9epO-gw&expires=1774301652
+https://n8.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=D5nI7dwX5DH-Es1DXhvQ0g&expires=1774303818
 #EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Argentina", 20:15 Liga de Argentina – Independiente Rivadavia vs Rosario Central – Canal 48
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
+#EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/eka6jtsowcqgv6.m3u8?s=odrLGlCdOq93hqj3FoaLKw&e=1774316064
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://cqr2aqt6.58103793.net:8443/hls/eka6jtsowcqgv6.m3u8?s=62q2mqNeEkRTEgWd-Wa5nw&e=1774318230
 #EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Independiente Rivadavia vs Rosario Central – Canal 49 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=57.151.128.199&token=3068722d70479ef0236ec03382cc589030e7aef8-24-1774339476-1774285476
+https://51a1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=172.184.219.162&token=5adde84a672847213278b775ff4c38a498a0f436-f5-1774341641-1774287641
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 21:10 Primera A – Santa Fe vs Medellín – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/winsportsplus/mono.m3u8?token=c61567322418e65cc56973283e306f1cb1623292-39-1774311601-1774293601
+https://ag9wzq.fubohd.com/winsportsplus/mono.m3u8?token=a23a17bf269087e7d55c152bbe0066239e0b30ab-e0-1774313765-1774295765
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 21:10 Primera A – Santa Fe vs Medellín – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/winsports2/mono.m3u8?token=2dd8ae0d979ace75d6b2c5a9e96e5106520b63b6-a8-1774311613-1774293613
+https://ym9yzq.fubohd.com/winsports2/mono.m3u8?token=bc2e73e8d8fcead4b5b7753c1f19d9291f456055-ca-1774313776-1774295776
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 21:10 Primera A – Santa Fe vs Medellín – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/wtydmql3.m3u8?s=N8iL7q_dSlKL4x8vTtcRbQ&e=1774316127
+https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=f3unkBkOdhD-ESsBs5ApPA&e=1774318290
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 21:10 Primera A – Santa Fe vs Medellín – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/winsportsplus/mono.m3u8?token=928109c64521e6868f2540fa0ed51ea5764df938-25-1774311643-1774293643
+https://tyg2mnl9.fubohd.com/winsportsplus/mono.m3u8?token=9ab290aaba18f4a59210ee86c5d60ef51ddad668-f2-1774313801-1774295801
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 21:10 Primera A – Santa Fe vs Medellín – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/winsports2/mono.m3u8?token=c7a226ef39dfec500b8f8614aa76df3c8a103a3a-16-1774311655-1774293655
+https://a2vlca.fubohd.com/winsports2/mono.m3u8?token=3b405e7adcba4ec4ff256f2ed2879902907aea5c-bc-1774313812-1774295812
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 21:10 Primera A – Santa Fe vs Medellín – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/wtydmql3.m3u8?s=UrbLtAb7KCet6HJ85kocNA&e=1774316169
+https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=tYeUjJsT3MIH-lyjeEGAug&e=1774318326
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 22:00 Liga Profesional – Estudiantes vs Central Córdoba SdE – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=13dd46cf76e7dce059376690a6c3a05a2f358b74-c5-1774311680-1774293680
+https://anvtcax.fubohd.com/espnpremium/mono.m3u8?token=61b2d09e81e63195ab1971d4c724b48b4e6d57ec-38-1774313837-1774295837
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 22:00 Liga Profesional – Estudiantes vs Central Córdoba SdE – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=acb77ea1c32bbada92153f5e75003de6075aad63-4c-1774311713-1774293713
+https://a2vlca.fubohd.com/espnpremium/mono.m3u8?token=1e4d6bbd17728cb93c5167750ada995fbf0aeb7b-43-1774313868-1774295868
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 23:20 Primera A – Jaguares de Córdoba vs Rionegro Águilas – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/winsportsplus/mono.m3u8?token=db51e9cef4e2e071e46b61c69efe5203d4918c2d-a8-1774311745-1774293745
+https://ag9wzq.fubohd.com/winsportsplus/mono.m3u8?token=d7eee7cfeca54eb844be5190eaeff51090d53582-9e-1774313898-1774295898
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 23:20 Primera A – Jaguares de Córdoba vs Rionegro Águilas – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/winsports2/mono.m3u8?token=11b1177242a0a5eb568b31e9d18cb1fde09808e3-a5-1774311756-1774293756
+https://aw1wcm92zq.fubohd.com/winsports2/mono.m3u8?token=78d7b1b61da5e13a921dba398a1f2bf9130c08e8-cc-1774313909-1774295909
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 23:20 Primera A – Jaguares de Córdoba vs Rionegro Águilas – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/wtydmql3.m3u8?s=3lxVoNMBkbtUbFIXnublZQ&e=1774316278
+https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=ct3zLh01DXuGr36Dc2E5jQ&e=1774318423
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 23:20 Primera A – Jaguares de Córdoba vs Rionegro Águilas – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/winsportsplus/mono.m3u8?token=bc26672410781f8e2a849ff87e72efa8cc2d1e48-3-1774311789-1774293789
+https://a2vlca.fubohd.com/winsportsplus/mono.m3u8?token=8446660282294393d8a0539b7569a2b6eb5f62b9-39-1774313935-1774295935
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 23:20 Primera A – Jaguares de Córdoba vs Rionegro Águilas – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/winsports2/mono.m3u8?token=61b84329e8aa561e14848768c769f98b17320d4a-ab-1774311800-1774293800
+https://wp9xqedt.fubohd.com/winsports2/mono.m3u8?token=ec623a3923f881fad0ac5035c9c71296ae5c5698-e4-1774313946-1774295946
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 23:20 Primera A – Jaguares de Córdoba vs Rionegro Águilas – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://b84gdva8.39564828.net:8443/hls/wtydmql3.m3u8?s=Bywm6iT-5ZkihpVgzeEZDg&e=1774316314
+https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=nhsSQ1DitUSMCxcoRZYAcg&e=1774318460
