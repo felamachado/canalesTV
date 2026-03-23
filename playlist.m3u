@@ -1,61 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Capo Deportes 3" group-title="Liga de Argentina", 18:00 Liga de Argentina – Boca Juniors vs Instituto – Capo Deportes 3
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n6.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=HIBfAmyC8cAT7a2z-cCuiA&expires=1774270544
 #EXTINF:-1 tvg-name="Canal 24" group-title="Liga de Argentina", 18:00 Liga de Argentina – Boca Juniors vs Instituto – Canal 24
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://gt7gapsu.39564828.net:8443/hls/a31q9.m3u8?s=9CKXPWMyevZ_SxNQ8zwphw&e=1774284957
+https://2smh3wve.58103793.net:8443/hls/a31q9.m3u8?s=Fpyzyct3wifvAhle4hT-9Q&e=1774288084
 #EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Liga de Argentina", 18:00 Liga de Argentina – Boca Juniors vs Instituto – Canal 25 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=64.236.135.118&token=dcb7f3c02001ed797c26a8ac5fe1dbdca0363755-ad-1774308368-1774254368
+https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=20.163.83.241&token=af3a6505f9925c3ed7db111cb06f4b93cf08dc6d-ca-1774311496-1774257496
 #EXTINF:-1 tvg-name="Win Sports" group-title="Brasileirao", 18:30 Brasileirao – Corinthians vs Flamengo – Win Sports
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/winsports.m3u8?md5=7WA1hnbZU9u7RJGQolAgJA&expires=1774270595
+https://n5.sanwalyaarpya.com:1686/hls/winsports.m3u8?md5=KfCl3Zm9S5bT4McGZBg7vQ&expires=1774273725
 #EXTINF:-1 tvg-name="Canal 33" group-title="Brasileirao", 18:30 Brasileirao – Corinthians vs Flamengo – Canal 33
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://gt7gapsu.39564828.net:8443/hls/l99bacdw776ns.m3u8?s=2y-QndKMtwRlyu6L4j10xQ&e=1774285007
+https://2smh3wve.58103793.net:8443/hls/l99bacdw776ns.m3u8?s=IXsfAwhKnjvXtDKaSGc33A&e=1774288152
 #EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Brasileirao", 18:30 Brasileirao – Corinthians vs Flamengo – Canal 34 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/winsports/tracks-v1a1/mono.m3u8?ip=64.236.135.118&token=590635159c9717f4249b7158e3239d93b55b94bd-c2-1774308418-1774254418
+https://cc324.streamingtv339.com/winsports/tracks-v1a1/mono.m3u8?ip=20.163.83.241&token=1628bfefc14293138cc7aeb700e5a6c3d2145e55-86-1774311563-1774257563
 #EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 20:15 Liga de Argentina – Argentinos Juniors vs Platense – TNT Sports Argentina
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=duXLcVgE2LlxUSS4BhI8sg&expires=1774270642
+https://n4.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=4zXMYy0f0-OmZFC77EXBRg&expires=1774273789
 #EXTINF:-1 tvg-name="Canal 43" group-title="Liga de Argentina", 20:15 Liga de Argentina – Argentinos Juniors vs Platense – Canal 43
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://gt7gapsu.39564828.net:8443/hls/xkvfhc3.m3u8?s=vrokQr2ntofRYOL5uBHwxQ&e=1774285055
+https://2smh3wve.58103793.net:8443/hls/xkvfhc3.m3u8?s=DAyGazd_gDZv6VmhJ2sk_g&e=1774288214
 #EXTINF:-1 tvg-name="Canal 44 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Argentinos Juniors vs Platense – Canal 44 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=64.236.135.118&token=df487bb59443e49f3aca4cab3ab14871529b22c2-11-1774308466-1774254466
+https://51a1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=20.163.83.241&token=3676e6a0f6612c1e7212cd0c470c631d20b15a44-37-1774311628-1774257628
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 20:15 Liga de Argentina – Independiente Rivadavia vs Rosario Central – ESPN Premium
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=8h4wczIRSI_zYI-F-AsRfw&expires=1774270688
+https://n4.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=mvqBMyVLztfDE2bx89aXYw&expires=1774273857
 #EXTINF:-1 tvg-name="Canal 48" group-title="Liga de Argentina", 20:15 Liga de Argentina – Independiente Rivadavia vs Rosario Central – Canal 48
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://extinctdeprive.net/
-https://gt7gapsu.39564828.net:8443/hls/eka6jtsowcqgv6.m3u8?s=amo4j25oNb9_IaMq6fnD4g&e=1774285100
+https://2smh3wve.58103793.net:8443/hls/eka6jtsowcqgv6.m3u8?s=-MIlvzmdsoyQ4tQquF-PMg&e=1774288273
 #EXTINF:-1 tvg-name="Canal 49 (HD)" group-title="Liga de Argentina", 20:15 Liga de Argentina – Independiente Rivadavia vs Rosario Central – Canal 49 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=64.236.135.118&token=181e14785455d6b70417f1140211c7d7c037e086-b4-1774308511-1774254511
+https://24a1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=20.163.83.241&token=49c9f854ed86c758d118e0158ab69f0eea5dee6c-26-1774311686-1774257686
