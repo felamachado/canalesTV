@@ -1,46 +1,86 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 14" group-title="Liga de Uruguay", 15:00 Liga de Uruguay – Liverpool Montevideo vs Central Español – Canal 14
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/543hcacrbrvfw.m3u8?s=MIrkUfoO4FZWsKYZkxoLiA&e=1774476881
-#EXTINF:-1 tvg-name="Canal 20" group-title="Chile Copa de la Liga", 16:00 Chile Copa de la Liga – Universidad de Chile vs Union La Calera – Canal 20
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/xzgyn9ofmet.m3u8?s=v9UzH9XXzqmQp-D4KEP4eg&e=1774476924
-#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="Chile Copa de la Liga", 16:00 Chile Copa de la Liga – Universidad de Chile vs Union La Calera – Canal 21 (HD)
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Liga de Uruguay", 12:00 Liga de Uruguay – Albion FC vs Montevideo Wanderers – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/max1/tracks-v1a1/mono.m3u8?ip=57.151.121.203&token=79b7fc19fa91e216ed21cb98884191e5fc3e77f2-49-1774500335-1774446335
-#EXTINF:-1 tvg-name="Canal 31" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Deportes Concepcion vs Colo Colo – Canal 31
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/xzgyn9ofmet.m3u8?s=gIJ9FsgmplpjoWFwd6DNAw&e=1774476998
-#EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Deportes Concepcion vs Colo Colo – Canal 32 (HD)
+https://51a1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=629c125055669cd81547a2845581f0a0b23894d2-ca-1774505209-1774451209
+#EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Liga de Uruguay", 15:00 Liga de Uruguay – Cerro vs Juventud – Canal 10 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/max2/tracks-v1a1/mono.m3u8?ip=57.151.121.203&token=2be850d7e9515c1fd7d19ac345ca5a3161a8dcc3-63-1774500408-1774446408
-#EXTINF:-1 tvg-name="Canal 28" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Nacional vs Cerro Largo – Canal 28
-#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://24a1.streameasthd.net/disney2/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=2bd00f9bd275b737d50e16f9aca851d317f1ee4a-7e-1774505250-1774451250
+#EXTINF:-1 tvg-name="TNT Sports Chile" group-title="Chile Copa de la Liga", 16:00 Chile Copa de la Liga – Ñublense vs Universidad Catolica – TNT Sports Chile
+#EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/543hcacrbrvfw.m3u8?s=bLkk5LLQKyCWybECHpS_rA&e=1774477038
-#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Nacional vs Cerro Largo – Canal 29 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n1.sanwalyaarpya.com:1686/hls/captntchil.m3u8?md5=oYMFlmYi0pbqaWuFoCQBTg&expires=1774467470
+#EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Chile Copa de la Liga", 16:00 Chile Copa de la Liga – Ñublense vs Universidad Catolica – Canal 13 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=57.151.121.203&token=56bf90f01eb12b2b7d33538095affc746199fa9b-bf-1774500449-1774446449
+https://pecdl1.streameasthd.net/max2/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=0f0e261a31bfb19ee79462996108906af696a22e-45-1774505293-1774451293
+#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Copa Argentina", 17:00 Copa Argentina – Atletico Tucuman vs Sportivo Barrancas – Canal 19 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://8c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=ff1fcab97fc179dded294d7ba2b298ee6f6fe52e-db-1774505333-1774451333
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs San Lorenzo – ESPN Premium
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n6.sanwalyaarpya.com:1686/hls/capespnprem.m3u8?md5=XAdN3AD6n24DHvMAGKpbgg&expires=1774467553
+#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="Liga de Argentina", 17:00 Liga de Argentina – Deportivo Riestra vs San Lorenzo – Canal 16 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://24a1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=3c4508a388d316169f05e5d769e15c6bfb07fc58-09-1774505375-1774451375
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera División", 17:00 Primera División – Albion vs Wanderers – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://wp9xqedt.fubohd.com/disney2/mono.m3u8?token=76b2ae28c87a3e16ab5056a9ac81d873c121b783-42-1774477494-1774459494
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera División", 17:00 Primera División – Albion vs Wanderers – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/disney2/mono.m3u8?token=bb2343d40274cfbbdaef46289df4b904c71bb44d-26-1774477506-1774459506
+#EXTINF:-1 tvg-name="TNT Sports Chile" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Audax Italiano vs La Serena – TNT Sports Chile
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n4.sanwalyaarpya.com:1686/hls/captntchil.m3u8?md5=iRFIPSPS7rsJOk9dP1wg2g&expires=1774467616
+#EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Audax Italiano vs La Serena – Canal 32 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://51a1.streameasthd.net/max2/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=76fd18e7fec65172d47df4e4ccff46595aecb962-b8-1774505443-1774451443
+#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Liga de Uruguay", 18:30 Liga de Uruguay – Boston River vs Peñarol – Canal 29 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://doc1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=a055026a9c5fea53e385c48386adf4c4a6fcf8ef-98-1774505503-1774451503
+#EXTINF:-1 tvg-name="Canal 40" group-title="Copa Argentina", 19:15 Copa Argentina – Banfield vs Real Pilar – Canal 40
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://pecdl1.streameasthd.net/winplus2/tracks-v1a1/mono.m3u8?ip=172.182.195.35&token=96543783a557bf37b4568bfcfee39ab74b1aff00-9c-1774505535-1774451535
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera División", 20:00 Primera División – Cerro vs Juventud – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/disney2/mono.m3u8?token=f3fe0b804948c0dcd03608312cd374ae311ca57d-2e-1774477674-1774459674
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera División", 20:00 Primera División – Cerro vs Juventud – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/disney2/mono.m3u8?token=6fc3e26070fa50d02450a2482282a40f279b8193-a6-1774477685-1774459685
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa de la Liga", 21:00 Copa de la Liga – Huachipato vs Coquimbo Unido – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/tntsportschile/mono.m3u8?token=94cf5736cb4817108857744c61ba0cd204558795-cf-1774472589-1774454589
+https://ym9yzq.fubohd.com/tntsportschile/mono.m3u8?token=1e98230a9fc1f610fca40cd107e69e84c6be8b49-36-1774477696-1774459696
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa de la Liga", 21:00 Copa de la Liga – Huachipato vs Coquimbo Unido – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/tntsportschile/mono.m3u8?token=c7fae5e46c73353689a89d8dd58e8ad2eb1b3202-da-1774472602-1774454602
+https://tyg2mnl9.fubohd.com/tntsportschile/mono.m3u8?token=91379e7ee628ed77f409dcfa507c6adeffe51ac0-39-1774477707-1774459707
