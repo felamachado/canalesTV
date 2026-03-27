@@ -1,171 +1,141 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 00:00 Liga Profesional – Argentinos Juniors vs Lanús – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ag9wzq.fubohd.com/tntsports/mono.m3u8?token=2d711a8b946847bdb85421d36f07998a8c31ce0f-ea-1774596524-1774578524
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 00:00 Liga Profesional – Argentinos Juniors vs Lanús – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://c2nvdxq.fubohd.com/tntsports/mono.m3u8?token=f83346d82593a67a711e87ea19363cc5ae1bf5c8-bd-1774596535-1774578535
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 01:00 Formula 1 – Gran Premio de Mexico, Practicas Libres 2 – Formula 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n4.sanwalyaarpya.com:1686/hls/capodeportes5.m3u8?md5=1_Zp9Ci-Z-aFimeNjZLm3Q&expires=1774586638
+#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 01:00 Formula 1 – Gran Premio de Mexico, Practicas Libres 2 – Canal 6
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://9pcjk5cj.04334746.net:8443/hls/2twhx.m3u8?s=-ZOkaxg-DvS7uD6-DlO14g&e=1774601057
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 01:00 Formula 1 – Gran Premio de Mexico, Practicas Libres 2 – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://14c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=fb4ce87c954a5223bc4dd3d6f58c92bec37bad6e-49-1774624468-1774570468
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 01:00 Formula 1 – Gran Premio de Mexico, Practicas Libres 2 – Canal 8 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/fox1ar/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=9d06c8d1acf2c664b6b12c47f39b53fedf3bcec9-8d-1774624478-1774570478
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 01:00 Formula 1 – Gran Premio de Mexico, Practicas Libres 2 – Canal 9 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=8592d6784c7b3f7d748ec0c181318d08ba3f4630-71-1774624489-1774570489
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Clasificación Mundial", 03:00 Clasificación Mundial – Nueva Caledonia vs Jamaica – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/dsports/mono.m3u8?token=7dfe140218dbd7bdef6583f72a216ba10068683e-b8-1774585345-1774567345
+https://qzv4jmsc.fubohd.com/dsports/mono.m3u8?token=631057229b75e4fd2c1aa9592703a86634fddb7d-cb-1774596600-1774578600
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Clasificación Mundial", 03:00 Clasificación Mundial – Nueva Caledonia vs Jamaica – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/winsports/mono.m3u8?token=b7a75f0528071da7ee27666b0702905b07a4f82e-f2-1774585356-1774567356
+https://aw1wcm92zq.fubohd.com/winsports/mono.m3u8?token=04d92fa686502967b7e59ce2d18311e50c5094bc-c4-1774596611-1774578611
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Clasificación Mundial", 03:00 Clasificación Mundial – Nueva Caledonia vs Jamaica – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/dsports/mono.m3u8?token=d2a77670ba2f6db1cb4b333efc8ddf0c0364134d-8f-1774585377-1774567377
+https://rm8zcvk3.fubohd.com/dsports/mono.m3u8?token=f19abffd05fc29f94187e36d0c0eb69d0c1287a8-5-1774596630-1774578630
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Clasificación Mundial", 03:00 Clasificación Mundial – Nueva Caledonia vs Jamaica – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/winsports/mono.m3u8?token=2514f9daca275fcb5aa8946accc1087356922fcd-e4-1774585388-1774567388
-#EXTINF:-1 tvg-name="Canal 1" group-title="Repechaje Intercontinental", 17:00 Repechaje Intercontinental – Bolivia vs Surinam – Canal 1
+https://rm8zcvk3.fubohd.com/winsports/mono.m3u8?token=7e3be1807d841b15c0635165d720e9afd19f9ae0-45-1774596641-1774578641
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 1 – Formula 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=oM7E96xi-vt2zPmvDwjSpQ&expires=1774575503
-#EXTINF:-1 tvg-name="Canal 2" group-title="Repechaje Intercontinental", 17:00 Repechaje Intercontinental – Bolivia vs Surinam – Canal 2
+https://n1.sanwalyaarpya.com:1686/hls/capodeportes5.m3u8?md5=gb5MGx9rqKrBr7ypViNyEA&expires=1774586754
+#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 1 – Canal 6
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://k7h2hupk.58103793.net:8443/hls/fewijyc9.m3u8?s=gzhX673VADWZxgVVoGBdDA&e=1774589922
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Repechaje Intercontinental", 17:00 Repechaje Intercontinental – Bolivia vs Surinam – Canal 3 (HD)
+https://9pcjk5cj.04334746.net:8443/hls/2twhx.m3u8?s=xjx8ZQPIgqxudmNKs5oM6g&e=1774601171
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 1 – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=b71b6d4a906421a39a173f76e83018ae447a3e7b-66-1774613335-1774559335
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Repechaje Intercontinental", 17:00 Repechaje Intercontinental – Bolivia vs Surinam – Canal 4 (HD)
+https://24a1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=c9599d55f96695470d9d53c18966fd1715ea5e3d-b2-1774624582-1774570582
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 1 – Canal 8 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=807aa09791eff3213a314f3d8a4645920d2aecc1-3a-1774613349-1774559349
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Repechaje Intercontinental", 17:00 Repechaje Intercontinental – Bolivia vs Surinam – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Repechaje Intercontinental", 17:00 Repechaje Intercontinental – Bolivia vs Surinam – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/winsports/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=bf48d968f59a0c8aa3f584bc53d66519a21eccd4-1f-1774613376-1774559376
-#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 18:30 Amistoso Internacional – Colombia vs Croacia – Canal 1
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=GDtJp0Zu9YQIwREtTGmKUA&expires=1774575581
-#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 18:30 Amistoso Internacional – Colombia vs Croacia – Canal 2
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://k7h2hupk.58103793.net:8443/hls/nuida5ghu466j.m3u8?s=o137_UEMa53L8DzsCGa8hA&e=1774590003
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 18:30 Amistoso Internacional – Colombia vs Croacia – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/caracoltv/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=36ee1ea9ebd324be6ab148c12eca292ccad874a6-db-1774613417-1774559417
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 18:30 Amistoso Internacional – Colombia vs Croacia – Canal 4 (HD)
+https://244pl.streamingtv339.com/fox1ar/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=67cfd7516466f3caa585840551290c6d5cfa4480-ec-1774624592-1774570592
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 1 – Canal 9 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/caracoltv/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=7323a2317e9aeb1374f99318931a84e4d380c0ba-7b-1774613432-1774559432
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 18:30 Amistoso Internacional – Colombia vs Croacia – Canal 6 (HD)
+https://cc324.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=d42c94a25f3ee5e35f4b481b53986eb2ca4af023-19-1774624602-1774570602
+#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 22:00 Amistoso Internacional – Chile vs Cabo Verde – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=j5De9IRSqJauv0ujeh6bDA&expires=1774575651
-#EXTINF:-1 tvg-name="TNT Sports Chile" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Everton vs O'Higgins – TNT Sports Chile
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/captntchil.m3u8?md5=EbgoMvnV82vGTu5iu2bBww&expires=1774575672
-#EXTINF:-1 tvg-name="Canal 30" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Everton vs O'Higgins – Canal 30
+https://n6.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=7PWyrh5W6En_d9ddGfAp2g&expires=1774586812
+#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 22:00 Amistoso Internacional – Chile vs Cabo Verde – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://k7h2hupk.58103793.net:8443/hls/xzgyn9ofmet.m3u8?s=k5sWlPCSBlJR39Otzn2ufQ&e=1774590098
-#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Everton vs O'Higgins – Canal 31 (HD)
+https://9pcjk5cj.04334746.net:8443/hls/nuida5ghu466j.m3u8?s=uNaV5skyEgR-cqrg_K5naQ&e=1774601223
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 22:00 Amistoso Internacional – Chile vs Cabo Verde – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/max2/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=70b6d273a3eeff637cf8dd9eedadead63fbcbb6a-fa-1774613510-1774559510
-#EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="Chile Copa de la Liga", 18:30 Chile Copa de la Liga – Everton vs O'Higgins – Canal 32 (HD)
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/tntsportschile/mono.m3u8?token=70909e86ab5c8220904b599593256255eafea426-8b-1774585626-1774567626
-#EXTINF:-1 tvg-name="TNT Sports Argentina" group-title="Liga de Argentina", 19:00 Liga de Argentina – Argentinos Juniors vs Lanus – TNT Sports Argentina
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/captntarg.m3u8?md5=HW7QadmJEZDA4tsmsmHulA&expires=1774575738
-#EXTINF:-1 tvg-name="Canal 33" group-title="Liga de Argentina", 19:00 Liga de Argentina – Argentinos Juniors vs Lanus – Canal 33
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://k7h2hupk.58103793.net:8443/hls/xkvfhc3.m3u8?s=h52jDwh4FvqwJpZJO37P8g&e=1774590151
-#EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Argentinos Juniors vs Lanus – Canal 34 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=68e1bec44a8cbf38cac0073ed50e6167b5dbcf2f-02-1774613566-1774559566
-#EXTINF:-1 tvg-name="Canal 35 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Argentinos Juniors vs Lanus – Canal 35 (HD)
+https://24a1.streameasthd.net/eventos4/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=0265e65c18c7653ed35d2b25018351511b3ac50b-91-1774624633-1774570633
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 22:00 Amistoso Internacional – Chile vs Cabo Verde – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/fanatiz3/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=b7b7ca0f016c703aa3d6aa734545ef18566966b1-2b-1774613578-1774559578
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Clasificación Mundial", 22:00 Clasificación Mundial – Bolivia vs Surinam – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/dsports/mono.m3u8?token=f94c1d2cc0d5a7afc6930767a83721f6691790a0-3a-1774585695-1774567695
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Clasificación Mundial", 22:00 Clasificación Mundial – Bolivia vs Surinam – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/winsports/mono.m3u8?token=a804eca5deadad1f503fe3afeee8012ad8910728-d2-1774585706-1774567706
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Clasificación Mundial", 22:00 Clasificación Mundial – Bolivia vs Surinam – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/dsports/mono.m3u8?token=dd50d3385a7eb6cbabd7cea94702c8659a89f3be-49-1774585727-1774567727
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Clasificación Mundial", 22:00 Clasificación Mundial – Bolivia vs Surinam – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/winsports/mono.m3u8?token=4c88da8f0eaf56c87ffe6696014117d5dd9187c5-f7-1774585738-1774567738
+https://244pl.streamingtv339.com/fifaplus1/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=2debeb42d4add9160967700ef294a3c58d2d092c-be-1774624643-1774570643
 #EXTINF:-1 tvg-name="Canal 1" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=cNGhFApf1j_dlBXPufgv-A&expires=1774575853
+https://n1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=dQPU9_bugqQKJedXFDncGQ&expires=1774586873
 #EXTINF:-1 tvg-name="Canal 2" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://k7h2hupk.58103793.net:8443/hls/fewijyc9.m3u8?s=ifA_Myw5T09DsPb1hRGDuw&e=1774590271
+https://9pcjk5cj.04334746.net:8443/hls/fewijyc9.m3u8?s=9IRU1vfMthqcANekWuwI8A&e=1774601284
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=ab977ced363c10d500f85fbe8f2a080aeaa8d220-b9-1774613683-1774559683
+https://51a1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=16f38e11e84bb460df0e2cfd5b074ed1be68c6e0-6c-1774624694-1774570694
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=20.3.221.186&token=16516cbdcba77edd7218c4bbbed78c405035882f-bb-1774613696-1774559696
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://244pl.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=172.214.47.54&token=4f52a709178238d682c963e344131e8b6ca0bac4-12-1774624704-1774570704
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=K391sMy9iTI4Yh7SwFRrdw&expires=1774575921
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Repechaje Intercontinental", 22:00 Repechaje Intercontinental – Nueva Caledonia vs Jamaica – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://a2vlca.fubohd.com/winsports/mono.m3u8?token=fe19a2130f5c4c3b93491e20ef303ee2cbe7a1e9-6b-1774596825-1774578825
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 23:30 Amistoso – Colombia vs Croacia – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/caracol/mono.m3u8?token=828556d802b3f4a3f61b337882d23bae0f0ec0f7-2b-1774585839-1774567839
+https://c2nvdxq.fubohd.com/caracol/mono.m3u8?token=cb7f34a472feb266e6a6a837b634ce54a8cbb1bc-71-1774596836-1774578836
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 23:30 Amistoso – Colombia vs Croacia – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/caracol/mono.m3u8?token=3236767e8ae1e58fd99bf3e76ed3cbebc75af5b4-6c-1774585850-1774567850
+https://dw5pdgvk.fubohd.com/caracol/mono.m3u8?token=7fa75a71d966353b225f44dd9adcf82bf3174dca-a7-1774596847-1774578847
