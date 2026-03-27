@@ -1,359 +1,179 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Formula 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n3.sanwalyaarpya.com:1686/hls/capodeportes5.m3u8?md5=MvbG0wu9XF0lwUR7te9gwA&expires=1774658228
+#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 6
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://jp4zhfst.04334746.net:8443/hls/2twhx.m3u8?s=sZTAxCE71gLWCpP_y87Xrw&e=1774672642
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://24a1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=4b69ad6c51fbcea946494ec44f914b1ff88a6436-f6-1774696053-1774642053
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 8 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/fox1ar/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=1d5f7aafbd9299825266daf6d73b4d1676df63c2-2d-1774696065-1774642065
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Mexico, Clasificacion – Canal 9 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=618837799a8a30ea2a1666f4a1190c320ebeac3b-88-1774696076-1774642076
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 01:10 Primera A – Atlético Bucaramanga vs Santa Fe – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/winsportsplus/mono.m3u8?token=a99485df9eab971a0bce84179e5b945689b4d220-d6-1774664728-1774646728
+https://c2nvdxq.fubohd.com/winsportsplus/mono.m3u8?token=7454590aa56990b9c72fa22744d3296899a1ac42-18-1774668210-1774650210
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 01:10 Primera A – Atlético Bucaramanga vs Santa Fe – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/winsports2/mono.m3u8?token=69cf90d68479c15dddf543044a023807cd1edecc-9d-1774664741-1774646741
+https://anvtcax.fubohd.com/winsports2/mono.m3u8?token=48b810bf5045cd48473f62ad08dd632ec01e2ef6-de-1774668222-1774650222
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 01:10 Primera A – Atlético Bucaramanga vs Santa Fe – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=MPjU1xp79vh4Mr6_sMZhPA&e=1774669254
+https://jp4zhfst.04334746.net:8443/hls/wtydmql3.m3u8?s=t5khvjUv7kQ-MVom1ionAg&e=1774672736
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 01:10 Primera A – Atlético Bucaramanga vs Santa Fe – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://dw5pdgvk.fubohd.com/winsportsplus/mono.m3u8?token=28f2377eb1724e68bf996edd115054efbb5b15ad-b6-1774664765-1774646765
+https://x4bnd7lq.fubohd.com/winsportsplus/mono.m3u8?token=1139c42c106a50e79ca005da36d18e084a3e2ca0-d-1774668247-1774650247
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 01:10 Primera A – Atlético Bucaramanga vs Santa Fe – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/winsports2/mono.m3u8?token=99457dea7c09af334d1246260c8a407cf5bc3d14-ab-1774664776-1774646776
+https://tyg2mnl9.fubohd.com/winsports2/mono.m3u8?token=0723c0c43845a96b81056f1c63891d57f48b063d-de-1774668259-1774650259
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 01:10 Primera A – Atlético Bucaramanga vs Santa Fe – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=7XsI0tEYH5T3vk_J4Hkjog&e=1774669288
+https://jp4zhfst.04334746.net:8443/hls/wtydmql3.m3u8?s=j68JHuL_2bi0BfDKchCJDA&e=1774672773
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa Argentina", 01:15 Copa Argentina – Belgrano vs Atlético Rafaela – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/tycinternacional/mono.m3u8?token=0e1c32e916ea78d825a7fb4fc651c9ee6b491368-89-1774664799-1774646799
+https://agvyby.fubohd.com/tycinternacional/mono.m3u8?token=637384a3b956676470d66110f10b950614722278-5d-1774668284-1774650284
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa Argentina", 01:15 Copa Argentina – Belgrano vs Atlético Rafaela – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/tycinternacional/mono.m3u8?token=082e01869d47e5ebbe544cb6e4d53023dc75ca42-3f-1774664810-1774646810
-#EXTINF:-1 tvg-name="Capo Deportes" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Sudafrica vs Panama – Capo Deportes
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=uYyYwJBqUcHNhG9kkVZv-Q&expires=1774654920
-#EXTINF:-1 tvg-name="Canal 10" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Sudafrica vs Panama – Canal 10
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/wz71up1ag8.m3u8?s=VmZbOIMRZwIS5n0a467ebg&e=1774669332
-#EXTINF:-1 tvg-name="Canal 11 (HD)" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Sudafrica vs Panama – Canal 11 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=zbHq8MbxSdRshnnNb5_Meg&expires=1774654942
-#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Sudafrica vs Panama – Canal 12 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=J6f2DN8-Zwr7RsjKflSvrw&expires=1774654953
-#EXTINF:-1 tvg-name="Canal 13" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Austria vs Ghana – Canal 13
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/disney2/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=9d49f9a5095994813ce03f368427368ae748b478-e5-1774692771-1774638771
-#EXTINF:-1 tvg-name="Canal 14" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Austria vs Ghana – Canal 14
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#EXTINF:-1 tvg-name="Canal 15" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Montenegro vs Andorra – Canal 15
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/disney3/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=de5757f852d9024145cca1300682013a52447acd-5c-1774692794-1774638794
-#EXTINF:-1 tvg-name="Canal 16" group-title="Amistoso Internacional", 12:00 Amistoso Internacional – Montenegro vs Andorra – Canal 16
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb8.strmd.top/secure/UgMdHHrORTpBzEDyskfqFAnouQQpNDmI/admin/stream/ppv-montenegro-vs-andorra/3/playlist.m3u8
-#EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Amistoso Internacional", 12:30 Amistoso Internacional – Jordania vs Costa Rica – Capo Deportes 2
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=_lsfg1sHZfXPJbvaUoD2JA&expires=1774655019
-#EXTINF:-1 tvg-name="Canal 17" group-title="Amistoso Internacional", 12:30 Amistoso Internacional – Jordania vs Costa Rica – Canal 17
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/4tb29.m3u8?s=BjBFQiVy3IZgNlfsA3bjnQ&e=1774669430
-#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Amistoso Internacional", 12:30 Amistoso Internacional – Jordania vs Costa Rica – Canal 18 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/teletica/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=3f58d44a846d6c0cb1e7b9e316c6625f8e2f7c77-52-1774692857-1774638857
-#EXTINF:-1 tvg-name="Canal 19 (HD)" group-title="Amistoso Internacional", 12:30 Amistoso Internacional – Jordania vs Costa Rica – Canal 19 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/eventos4/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=c3946868389f061feaf05e5df3c98f3b01b54efc-1e-1774692868-1774638868
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 13:00 LaLiga 2 – Cordoba vs Mirandes – Deportes Plus
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capoplus.m3u8?md5=Lta7_F3RaD7bsyDDjLLEpw&expires=1774655079
-#EXTINF:-1 tvg-name="Canal 20" group-title="LaLiga 2", 13:00 LaLiga 2 – Cordoba vs Mirandes – Canal 20
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/s6kdue.m3u8?s=P9fGaFj7VUMRW3KHeY7vaQ&e=1774669491
-#EXTINF:-1 tvg-name="Canal 21 (HD)" group-title="LaLiga 2", 13:00 LaLiga 2 – Cordoba vs Mirandes – Canal 21 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/hyper1/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=6d04b7aeb81cfaec6b7a194faeb67d61955ea8e3-67-1774692901-1774638901
-#EXTINF:-1 tvg-name="Liga de Campeones 6" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Grecia vs Paraguay – Liga de Campeones 6
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.sanwalyaarpya.com:1686/hls/capocampeones6.m3u8?md5=VoI-YsLGVEN3-QddJuKgKA&expires=1774655125
-#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Grecia vs Paraguay – Canal 24 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=3c2e16f6d32d06e14119326f6e498fbe5b0c38aa-8c-1774692948-1774638948
-#EXTINF:-1 tvg-name="Canal 25 (HD)" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Grecia vs Paraguay – Canal 25 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/foxdeportes/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=fe2aff2287f91342c53491da22a1c4994e7ba4ed-09-1774692958-1774638958
-#EXTINF:-1 tvg-name="Liga de Campeones 7" group-title="Amistoso Internacional", 14:30 Amistoso Internacional – Argelia vs Guatemala – Liga de Campeones 7
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capocampeones7.m3u8?md5=dxyMYjTbKdV-AFblDWokhQ&expires=1774655169
-#EXTINF:-1 tvg-name="Canal 26" group-title="Amistoso Internacional", 14:30 Amistoso Internacional – Argelia vs Guatemala – Canal 26
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/47vpt.m3u8?s=jWqiLrEAieJBYHDlXP278A&e=1774669580
-#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Amistoso Internacional", 14:30 Amistoso Internacional – Argelia vs Guatemala – Canal 27 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-#EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Amistoso Internacional", 14:30 Amistoso Internacional – Argelia vs Guatemala – Canal 28 (HD)
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb10.strmd.top/secure/JnHvbQZPyGQZuLlJAZjhrPxKqJDchYwP/admin/stream/ppv-greece-vs-paraguay/3/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Inglaterra vs Uruguay – Canal 1
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=bjcOlWrwaPzfJ68t6qy0kQ&expires=1774655215
-#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Inglaterra vs Uruguay – Canal 2
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/a31q9.m3u8?s=L4bBKuUtzIsDENKwPGiHzA&e=1774669627
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Inglaterra vs Uruguay – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=9f502e4dedb4947e90e5ee22e0f308cc6d6f2ec2-38-1774693037-1774639037
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Inglaterra vs Uruguay – Canal 4 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/index/index_3.m3u8
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Inglaterra vs Uruguay – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=7UBYfe8FufggnU77nXbfDQ&expires=1774655267
-#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Suiza vs Alemania – Canal 1
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/capodeportes4.m3u8?md5=KYSM5BT8vMEr0LRIcJ4taw&expires=1774655278
-#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Suiza vs Alemania – Canal 2
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/wlloso4ptv7ory.m3u8?s=2M8dq9CGJ57VEyJSJ9Ad2w&e=1774669689
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Suiza vs Alemania – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://8c51.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=dd7325e21e641675db5825758e452a4468dfbfe1-4c-1774693100-1774639100
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Suiza vs Alemania – Canal 4 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Suiza vs Alemania – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/disney7/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=2997a1480592f1b15e213ee0fc118422e06a6b48-48-1774693120-1774639120
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Suiza vs Alemania – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.sanwalyaarpya.com:1686/hls/capodeportes4.m3u8?md5=-E7zTfGhUpoHd1HwTzpDQA&expires=1774655330
-#EXTINF:-1 tvg-name="Liga de Campeones 8" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Paises Bajos vs Noruega – Liga de Campeones 8
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.sanwalyaarpya.com:1686/hls/capocampeones8.m3u8?md5=M3PwniQKnBHUK_-IKaMW1A&expires=1774655340
-#EXTINF:-1 tvg-name="Canal 29" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Paises Bajos vs Noruega – Canal 29
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/yri09.m3u8?s=ZALbBpzkYfO2T6MEyTenDQ&e=1774669752
-#EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Paises Bajos vs Noruega – Canal 30 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/disney6/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=bd00534113d5bca99b1bc9e4403bb33d654c8866-cb-1774693163-1774639163
-#EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Amistoso Internacional", 14:45 Amistoso Internacional – Paises Bajos vs Noruega – Canal 31 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 15:00 Amistoso Internacional – España vs Serbia – Canal 1
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n6.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=8RTLD8KsblGRxA9k6DnCDQ&expires=1774655388
-#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 15:00 Amistoso Internacional – España vs Serbia – Canal 2
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/pu1sgwiscq0e.m3u8?s=BfIYoY1OeGILSJFQ6YNvSw&e=1774669799
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 15:00 Amistoso Internacional – España vs Serbia – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 15:00 Amistoso Internacional – España vs Serbia – Canal 4 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=298f3b99c190eab3c4777c149879db88c5f2fbe8-c2-1774693220-1774639220
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso Internacional", 15:00 Amistoso Internacional – España vs Serbia – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/disney8/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=0bddf6a91155e3c726347c75916e32408541104e-36-1774693230-1774639230
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 15:00 Amistoso Internacional – España vs Serbia – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/capodeportes2.m3u8?md5=fkqiS594nY_y2Xy1wrxeSg&expires=1774655440
+https://bgfuzq.fubohd.com/tycinternacional/mono.m3u8?token=338ff48ee69f3d7118e92c0d2133f867d9972536-a7-1774668295-1774650295
 #EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 15:15 Amistoso Internacional – Marruecos vs Ecuador – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=PSGZHvKdFJ1Xx5is9jbzrA&expires=1774655451
+https://n5.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=d5dbmFCnAUrpW5o76iLg0g&expires=1774658406
 #EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 15:15 Amistoso Internacional – Marruecos vs Ecuador – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/lf445b.m3u8?s=NTSJ_6TjzbqoPMbAkLUGAg&e=1774669862
+https://jp4zhfst.04334746.net:8443/hls/lf445b.m3u8?s=WphS9MV9ubxw_D0NAF-N0A&e=1774672819
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 15:15 Amistoso Internacional – Marruecos vs Ecuador – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/espndeportes/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=97d2b3604e3232e6d1413b13ece0a034860693b8-9b-1774693272-1774639272
+https://244pl.streamingtv339.com/espndeportes/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=592948c939df5ca729198014027c8c0598134a22-e5-1774696229-1774642229
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 15:15 Amistoso Internacional – Marruecos vs Ecuador – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso Internacional", 15:15 Amistoso Internacional – Marruecos vs Ecuador – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb3.strmd.top/secure/aIfEnEPcbkjIeLaxXxZypbXCUcpCwOtV/echo/stream/morocco-vs-ecuador-football-1522229/2/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 15:15 Amistoso Internacional – Marruecos vs Ecuador – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/eventos2/tracks-v1a1/mono.m3u8?ip=20.55.213.193&token=2a5a73d77c3c463b6e9c4a196aa395bef6b417a4-bd-1774693307-1774639307
+https://51a1.streameasthd.net/eventos2/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=5b49bfc77e6e1c2fdc580968bff113a7b6a45179-b5-1774696271-1774642271
+#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 18:15 Amistoso Internacional – Argentina vs Mauritania – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n9.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=u7zskbp19DvBOdOY5B268A&expires=1774658484
+#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 18:15 Amistoso Internacional – Argentina vs Mauritania – Canal 2
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://jp4zhfst.04334746.net:8443/hls/fewijyc9.m3u8?s=VG_APbaNacJ7xttALi75RA&e=1774672896
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 18:15 Amistoso Internacional – Argentina vs Mauritania – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=90a98884a583e50fbefcc721be44a4168946e44e-b7-1774696307-1774642307
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso Internacional", 18:15 Amistoso Internacional – Argentina vs Mauritania – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 18:15 Amistoso Internacional – Argentina vs Mauritania – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://pecdl1.streameasthd.net/fanatiz2/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=0a045b87cb5091e6c35fa1776402aa4be360bb9e-0c-1774696341-1774642341
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:30 Amistoso – Argelia vs Guatemala – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/foxdeportes/mono.m3u8?token=8ac0306d4a18a5d2b97ea00bad55341c02af5728-22-1774665440-1774647440
+https://wp9xqedt.fubohd.com/foxdeportes/mono.m3u8?token=17ed61b81aeeb52709427913d795a60943cb8bb8-9c-1774668453-1774650453
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:30 Amistoso – Argelia vs Guatemala – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/foxdeportes/mono.m3u8?token=9666682c4b7f5459c1cf23b758afa15ca3d0401b-7f-1774665460-1774647460
+https://wp9xqedt.fubohd.com/foxdeportes/mono.m3u8?token=ba034b3b94370c724a27d19e5a2a5ae3c89f0c3a-ed-1774668474-1774650474
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:45 Amistoso – Países Bajos vs Noruega – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/sportv/mono.m3u8?token=a54a32c90a1ed2d5f8f67f3f28111b13f9545c58-2b-1774665490-1774647490
+https://tyg2mnl9.fubohd.com/sportv/mono.m3u8?token=6f0b2130b077378a8918d78782c33c09ab71e3bc-83-1774668505-1774650505
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:45 Amistoso – Suiza vs Alemania – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://cgxheq.fubohd.com/espn3/mono.m3u8?token=e96c9f22ed3aecb4356cff65dc60843dd14a50c7-9a-1774665501-1774647501
+https://aw1wcm92zq.fubohd.com/espn3/mono.m3u8?token=ea8a9545b4cf1e67b59c52127a3965c54ba059d0-1a-1774668517-1774650517
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:45 Amistoso – Suiza vs Alemania – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/disney7/mono.m3u8?token=3f4b92d9dce559fdebd1d4564c1c6da8af576e72-16-1774665511-1774647511
+https://wp9xqedt.fubohd.com/disney7/mono.m3u8?token=6b6a3f68831554f54ae554531835580a81e356c9-c8-1774668528-1774650528
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:45 Amistoso – Inglaterra vs Uruguay – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/espn/mono.m3u8?token=3cbf681a8828e174c95f3588f542b2bf74d70c10-4b-1774665531-1774647531
+https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=0c8fb53ae2f7cb016e3fd0befdf37fd131818973-ed-1774668547-1774650547
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:45 Amistoso – Inglaterra vs Uruguay – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/disney5/mono.m3u8?token=ec6fad364d53d44903b5277a6289df9de2cfdca6-cf-1774665541-1774647541
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 19:45 Amistoso – Inglaterra vs Uruguay – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/foxsports1_usa/mono.m3u8?token=d48969bfdfcc0da882f6dc7f52216c40fe3436de-a9-1774665552-1774647552
+https://tyg2mnl9.fubohd.com/foxsports1_usa/mono.m3u8?token=5249dddd8e61397329ca9b0911c4a84100d19d6e-9c-1774668569-1774650569
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:45 Amistoso – Países Bajos vs Noruega – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/sportv/mono.m3u8?token=e7cc88a35c08836b924b5d32103acb7c381caefa-f9-1774665582-1774647582
+https://agvyby.fubohd.com/sportv/mono.m3u8?token=3f928713af73e76ad03a2c6323d3551cf0953583-f1-1774668600-1774650600
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:45 Amistoso – Suiza vs Alemania – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://cgxheq.fubohd.com/espn3/mono.m3u8?token=2536d99ff4320e041443aea177908da46f918cc8-cc-1774665593-1774647593
+https://a2vlca.fubohd.com/espn3/mono.m3u8?token=595a9b491268fdb3120d26179b0d0efb984b200a-f-1774668611-1774650611
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:45 Amistoso – Suiza vs Alemania – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/disney7/mono.m3u8?token=0ad4d6db8a460711ab52b984f6ef1748f776b500-98-1774665604-1774647604
+https://x4bnd7lq.fubohd.com/disney7/mono.m3u8?token=8953b21a87b2291578267ca99ae8973b0a3f1ff8-85-1774668622-1774650622
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:45 Amistoso – Inglaterra vs Uruguay – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=9fa8674b61163817c13938758b2a427378dbdc87-50-1774665623-1774647623
+https://anvtcax.fubohd.com/espn/mono.m3u8?token=3b0921aee20153e6e0c512aea5da82be9c1f0ba0-ab-1774668642-1774650642
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:45 Amistoso – Inglaterra vs Uruguay – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/disney5/mono.m3u8?token=9d97e8d6f54bb913d4bd88bf444254e38839fbe5-56-1774665634-1774647634
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 19:45 Amistoso – Inglaterra vs Uruguay – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/foxsports1_usa/mono.m3u8?token=d9445f9b1901bbe3735bce12d924e3e623b68ac2-48-1774665645-1774647645
+https://anvtcax.fubohd.com/foxsports1_usa/mono.m3u8?token=13cbe8ebc82655006978a28b2eb4a1b24f60364a-c8-1774668664-1774650664
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 20:00 Amistoso – España vs Serbia – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://tv.la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -363,12 +183,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espn2/mono.m3u8?token=eea0a1180698f85e19f828aed3badfc23f730d68-f1-1774665675-1774647675
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 20:00 Amistoso – España vs Serbia – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/disney8/mono.m3u8?token=e622417da402b6270d93e05b1aab89622f987057-55-1774665686-1774647686
+https://tyg2mnl9.fubohd.com/espn2/mono.m3u8?token=f3328da8ee1bb27e859035b9c9e5b98047722c4a-75-1774668696-1774650696
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 20:00 Amistoso – España vs Serbia – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://tv.la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -378,109 +193,129 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/espn2/mono.m3u8?token=ef3a9314645b6a437863b4d5f4b634344e07c64d-58-1774665716-1774647716
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 20:00 Amistoso – España vs Serbia – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/disney8/mono.m3u8?token=b1e6c8a246d6bdac33bbb2cbef78630314849f02-86-1774665727-1774647727
+https://anvtcax.fubohd.com/espn2/mono.m3u8?token=584ef3b4fdf626a11055a43cc58b39010332ddd3-83-1774668737-1774650737
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Copa Argentina", 20:00 Copa Argentina – Independiente vs Atenas – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/tycinternacional/mono.m3u8?token=72e8161d1aef118c1deec03df5c8e7a4ad2cdbe7-28-1774665746-1774647746
+https://wp9xqedt.fubohd.com/tycinternacional/mono.m3u8?token=1b01263a9a483f60237142022590d24ae2a0653d-ba-1774668768-1774650768
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Copa Argentina", 20:00 Copa Argentina – Independiente vs Atenas – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/tycinternacional/mono.m3u8?token=1ccd9c02d4cfe67f030e70eb3677461aed0c4853-35-1774665757-1774647757
+https://wp9xqedt.fubohd.com/tycinternacional/mono.m3u8?token=13bfd37859b114d3531c52a5ae92afedc621d4f0-9-1774668779-1774650779
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 20:15 Amistoso – Marruecos vs Ecuador – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/espndeportes/mono.m3u8?token=9b5b6d11447926005a421c1e81365b6a70110f69-22-1774665768-1774647768
+https://dw5pdgvk.fubohd.com/espndeportes/mono.m3u8?token=b5dc518930aa85ae9a5689aa372b69fa249ceaa2-d5-1774668790-1774650790
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 20:15 Amistoso – Marruecos vs Ecuador – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/ecdf_ligapro/mono.m3u8?token=b45315c1bf5d64d5bc2d1b2024c1230996152839-cf-1774665778-1774647778
+https://c2nvdxq.fubohd.com/ecdf_ligapro/mono.m3u8?token=15965ef55345df9548ee2c7dd5a5401d5096cfcd-6d-1774668801-1774650801
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 20:15 Amistoso – Marruecos vs Ecuador – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espndeportes/mono.m3u8?token=9946c8ff976420918671bacf02fe392ced525774-f7-1774665789-1774647789
+https://dw5pdgvk.fubohd.com/espndeportes/mono.m3u8?token=611af99a78cec436b7a71c18dd031e1ca8cabba6-95-1774668812-1774650812
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 20:15 Amistoso – Marruecos vs Ecuador – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/ecdf_ligapro/mono.m3u8?token=9628b62b14b78794151dff7c9330d15ff2f1f147-90-1774665800-1774647800
+https://c2nvdxq.fubohd.com/ecdf_ligapro/mono.m3u8?token=40c0dc5f904a632944bb658541fd806a56256b38-e-1774668822-1774650822
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 21:00 Primera A – Rionegro Águilas vs Alianza – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://dw5pdgvk.fubohd.com/winsportsplus/mono.m3u8?token=544e80ca48fbac4b1e416a14f1f93cbe993734b8-d6-1774665811-1774647811
+https://x4bnd7lq.fubohd.com/winsportsplus/mono.m3u8?token=cf756e7c47a34c55cfe85136e0bb184c0e46afdd-61-1774668834-1774650834
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 21:00 Primera A – Rionegro Águilas vs Alianza – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://cgxheq.fubohd.com/winsports2/mono.m3u8?token=0e54dfa8a9fb9ba5314c2b7d2ac8d505fc9e2b2b-1b-1774665822-1774647822
+https://a2vlca.fubohd.com/winsports2/mono.m3u8?token=534124e607eb218307c67c320a3711828b38ffdc-f3-1774668845-1774650845
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera A", 21:00 Primera A – Rionegro Águilas vs Alianza – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=QFTDkwu1U7vbHLKMM3QS5Q&e=1774670335
+https://jp4zhfst.04334746.net:8443/hls/wtydmql3.m3u8?s=C7zALxnW__MA_Y1jLilduw&e=1774673360
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 21:00 Primera A – Rionegro Águilas vs Alianza – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/winsportsplus/mono.m3u8?token=f81a9a8aaed551bedea3c0efbcf2a42c8ab02f14-67-1774665846-1774647846
+https://cgxheq.fubohd.com/winsportsplus/mono.m3u8?token=b2d557d14e5e3118070b4523ba52048f5f383dcc-e1-1774668872-1774650872
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 21:00 Primera A – Rionegro Águilas vs Alianza – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/winsports2/mono.m3u8?token=426b710b57d2438e013e033907bb5c34596fa245-6a-1774665856-1774647856
+https://dw5pdgvk.fubohd.com/winsports2/mono.m3u8?token=42fe17d91763ecf84a608c153247e9ea174b57ea-15-1774668883-1774650883
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera A", 21:00 Primera A – Rionegro Águilas vs Alianza – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://cqr2aqt6.58103793.net:8443/hls/wtydmql3.m3u8?s=Ll3Eli1v4JaB5DA9X8LLbg&e=1774670369
+https://jp4zhfst.04334746.net:8443/hls/wtydmql3.m3u8?s=14qXqTHcQAhD2xPgBEwEcA&e=1774673398
+#EXTINF:-1 tvg-name="Formula 1" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 3 – Formula 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n7.sanwalyaarpya.com:1686/hls/capodeportes5.m3u8?md5=JW_l57MiSSAMEpdOfqCdTg&expires=1774659009
+#EXTINF:-1 tvg-name="Canal 6" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 3 – Canal 6
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://jp4zhfst.04334746.net:8443/hls/2twhx.m3u8?s=AF2Kifdx4R_hxkfxifCWRw&e=1774673423
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 3 – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://pecdl1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=55992ace1067e44761dfbab72cf147c1b11e96c5-be-1774696834-1774642834
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 3 – Canal 8 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/fox1ar/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=18e4b5f7b92738ca5b42373cd3e5675f607fef3a-94-1774696846-1774642846
+#EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Formula 1", 21:30 Formula 1 – Gran Premio de Mexico, Practicas Libres 3 – Canal 9 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?ip=128.24.161.21&token=a405e27f12f079e34424a5e495f25b1d53d7add8-e5-1774696857-1774642857
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/dsports/mono.m3u8?token=bcbcb924bafe926cc75dd5e090feee5fbf08279d-af-1774665881-1774647881
+https://a2vlca.fubohd.com/dsports/mono.m3u8?token=ddd52a00a98a10dac066460892c8317416946ecc-73-1774668970-1774650970
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/telefe/mono.m3u8?token=de87f8c2ce6b938a0789fa75791b3adb85ac9576-29-1774665891-1774647891
+https://qzv4jmsc.fubohd.com/telefe/mono.m3u8?token=77328acec54d929bb57125c652c85856f6bfbed7-8d-1774668981-1774650981
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/tycsports/mono.m3u8?token=f72d5ddc15855ecb9bf567942ed4f6c6200bf0f7-29-1774665902-1774647902
+https://agvyby.fubohd.com/tycsports/mono.m3u8?token=4f123f5f0ca4087e3a48f42e9edd413e2cddd771-27-1774668992-1774650992
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/foxsports2_usa/mono.m3u8?token=78d1d89fb59f4bd959ca74585483f4465ef1a20b-79-1774665913-1774647913
+https://qzv4jmsc.fubohd.com/foxsports2_usa/mono.m3u8?token=91af722571e8e7b902b3f1aa3851968a0cab3ae4-22-1774669003-1774651003
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/dsports/mono.m3u8?token=db1900a65968b141547bcd70b5993416da2af0a9-3-1774665932-1774647932
+https://aw1wcm92zq.fubohd.com/dsports/mono.m3u8?token=65e50589245b381f1dbb21b0a7a4aee1adfaf350-f8-1774669023-1774651023
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/telefe/mono.m3u8?token=649c603a28b97b9f5fca42ef5b9c56f96328c47a-77-1774665943-1774647943
+https://c2nvdxq.fubohd.com/telefe/mono.m3u8?token=db13546aa90ac2c6339362b3c6c3199690160051-25-1774669035-1774651035
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/tycsports/mono.m3u8?token=af84186032243d9bbc8ebbdc471806ea13c15d1b-1b-1774665954-1774647954
+https://a2vlca.fubohd.com/tycsports/mono.m3u8?token=a7ef63b4e47ea51c7937333fd17fd885824d4e50-a-1774669046-1774651046
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 23:15 Amistoso – Argentina vs Mauritania – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/foxsports2_usa/mono.m3u8?token=98a9e9cf09b33282df9eae3f923b5468e5f8decf-f1-1774665964-1774647964
+https://tyg2mnl9.fubohd.com/foxsports2_usa/mono.m3u8?token=f43facd5defc4d2c17a5873e50899d1270384579-49-1774669057-1774651057
