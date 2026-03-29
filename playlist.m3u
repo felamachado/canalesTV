@@ -3,22 +3,22 @@
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=uXeZpu6vz8LJYUG97ZHV9w&expires=1774773732
+https://n6.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=XLkvzgyR3fBp4v99Y4AZOw&expires=1774778026
 #EXTINF:-1 tvg-name="Canal 2" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Japon, Carrera – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://d8vgvfuq.39564828.net:8443/hls/2twhx.m3u8?s=-ctjVctdrV35Sx7mUMqwKA&e=1774788143
+https://cqr2aqt6.58103793.net:8443/hls/2twhx.m3u8?s=B4qlVEeScwNhYxqCOgQYhA&e=1774792439
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Japon, Carrera – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://51a1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=dad3ba532b3d4ed2dc5fbfe4e5d3cb2c6b3b9358-8a-1774811554-1774757554
+https://8c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=f3e735ce5460329fce84924bc18e2b7a9d2f60a5-c4-1774815850-1774761850
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Japon, Carrera – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=6fa50b0aa04ac7e784ee47a979c7674198a1ee75-12-1774811563-1774757563
+https://cc324.streamingtv339.com/daznf1/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=38bfd12ec946bd7959c1249c7fb962cb634f52fc-85-1774815860-1774761860
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Japon, Carrera – Canal 5 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -28,27 +28,17 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=8K5ppySlXfxj1C7sCXcWAg&expires=1774773784
+https://n1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=E_phLlF_d7ltaGy--yQurg&expires=1774778083
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Formula 1", 00:00 Formula 1 – Gran Premio de Japon, Carrera – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://51a1.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=e5b73caa225cc2351898acf21d57ed442a552fc1-7b-1774811594-1774757594
-#EXTINF:-1 tvg-name="Capo Deportes 3" group-title="UFC Fight Night", 16:00 UFC Fight Night – Israel Adesanya vs Joe Pyfer – Capo Deportes 3
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n9.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=PbsrGgP4Lp-04wTf8juNLw&expires=1774773805
-#EXTINF:-1 tvg-name="Canal 30" group-title="UFC Fight Night", 16:00 UFC Fight Night – Israel Adesanya vs Joe Pyfer – Canal 30
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n8.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=-Ed6LuzTvIFAKiconOK_Lw&expires=1774773815
+https://8c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=33355df29b397a4b5f7b64188f0a7e0fb8572764-bb-1774815895-1774761895
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="UFC Fight Night", 16:00 UFC Fight Night – Israel Adesanya vs Joe Pyfer – Canal 31 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/paramount1/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=80d806536fa8bc096089911ffc57764a0ac1d139-cb-1774811625-1774757625
+https://14c51.streameasthd.net/paramount1/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=8e4c9e3376620884e500adfc57568266cf27fbe3-26-1774815929-1774761929
 #EXTINF:-1 tvg-name="Canal 32 (HD)" group-title="UFC Fight Night", 16:00 UFC Fight Night – Israel Adesanya vs Joe Pyfer – Canal 32 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -58,37 +48,37 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/clleki
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/disney6/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=5184a753cd3497198a21603972385c3e5cbe63b0-ae-1774811669-1774757669
+https://24a1.streameasthd.net/disney6/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=441275362cecf72c401fc75be63172d12cf57885-fc-1774815977-1774761977
 #EXTINF:-1 tvg-name="Canal 7" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs San Martin Formosa – Canal 7
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://d8vgvfuq.39564828.net:8443/hls/xkvfhc3.m3u8?s=ZDcmTgW3lf80H56m09Hyxg&e=1774788301
+https://cqr2aqt6.58103793.net:8443/hls/xkvfhc3.m3u8?s=um6dXpn0AsqI-prKSZAdOQ&e=1774792612
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs San Martin Formosa – Canal 8 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=3d9628b517caf413dd5064512c6857039b587010-d6-1774811711-1774757711
+https://14c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=8fa3c44736b0d4fd2daaeee5fce57b7ec51bc5c7-a1-1774816023-1774762023
 #EXTINF:-1 tvg-name="Canal 9 (HD)" group-title="Liga de Argentina", 19:15 Liga de Argentina – Racing Club vs San Martin Formosa – Canal 9 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tycint/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=aeda49a7db9d2c898d662d0ab44b03591262c056-a8-1774811721-1774757721
+https://cc324.streamingtv339.com/tycint/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=b502feb9e48b670c08def14d146ef9c188048d08-cf-1774816033-1774762033
 #EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 20:00 Amistoso Internacional – Mexico vs Portugal – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=sD5xsDRiu4AoniJPbV86uw&expires=1774773932
+https://n8.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=yfJBLM8i46cqfqzsk5jxew&expires=1774778245
 #EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 20:00 Amistoso Internacional – Mexico vs Portugal – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://d8vgvfuq.39564828.net:8443/hls/2twhx.m3u8?s=MmhKTEoPG7ClqfJnJt0vQw&e=1774788343
+https://cqr2aqt6.58103793.net:8443/hls/2twhx.m3u8?s=n4KCqhhVzYAKnsGdM5nS3A&e=1774792657
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 20:00 Amistoso Internacional – Mexico vs Portugal – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=172.214.44.50&token=50a1c5166c0a1e2e5329e0164bfb43bcc89f30c4-53-1774811753-1774757753
+https://14c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=64.236.131.211&token=673125cd2670323f13e38d3b8774a43e23ed41c7-d5-1774816068-1774762068
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 20:00 Amistoso Internacional – Mexico vs Portugal – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -98,4 +88,4 @@ https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=u77ftVW71-2tDkV3mF2R1Q&expires=1774773984
+https://n7.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=o134dQTO9EaJ99yv1DvLoA&expires=1774778302
