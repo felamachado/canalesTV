@@ -1,121 +1,101 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Capo Deportes 3" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Capo Deportes 3
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=NEkpf1DEqDwHFrL8R2TZJw&expires=1774885320
 #EXTINF:-1 tvg-name="Canal 16" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Canal 16
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://y4mpwzd7.12703830.net:8443/hls/fewijyc9.m3u8?s=7Q02ibqaqqIRoIg386AKGg&e=1774899732
+https://2smh3wve.58103793.net:8443/hls/fewijyc9.m3u8?s=2I-hV0P8dIuRezzR8QeaKA&e=1774904813
 #EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Canal 17 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/chilevision/tracks-v1a1/mono.m3u8?ip=172.182.225.131&token=f570b47696813c348b1734a9c8708174aa8abf18-59-1774923144-1774869144
-#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Canal 18 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=Nkayw21eKtRvvvW7a5Wwow&expires=1774885357
+https://cc324.streamingtv339.com/chilevision/tracks-v1a1/mono.m3u8?ip=64.236.160.23&token=903da3a54ccf57befabc16a156b7f4d6f20a2f5d-51-1774928224-1774874224
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 13:45 Amistoso – Uzbekistán vs Venezuela – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/eventos10/mono.m3u8?token=55224c55b026b97599bf124155880d2a9135f4d8-d0-1774895269-1774877269
+https://a2vlca.fubohd.com/eventos10/mono.m3u8?token=c908aa9448d58bb8c5164c7a0610f308ed271f73-4e-1774900347-1774882347
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 13:45 Amistoso – Uzbekistán vs Venezuela – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/eventos10/mono.m3u8?token=69ea5aafe91351149a34f3f334dd7677235bfbfd-b-1774895280-1774877280
+https://qzv4jmsc.fubohd.com/eventos10/mono.m3u8?token=c7ff3ce8b8f392f0579747663f5a51a357c15fc8-57-1774900358-1774882358
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 16:00 Amistoso – Chipre vs Moldavia – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/foxsports2_usa/mono.m3u8?token=e77644ac12a22eb17984f249018f97bd57425611-4a-1774895325-1774877325
+https://anvtcax.fubohd.com/foxsports2_usa/mono.m3u8?token=e7e8b637ee2a16224f5173073568f10f6ec8abd1-72-1774900401-1774882401
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 16:00 Amistoso – Chipre vs Moldavia – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/foxsports2_usa/mono.m3u8?token=b28ad6530ad5d5780739274123a15b7bc7c35b5c-fc-1774895345-1774877345
+https://cgxheq.fubohd.com/foxsports2_usa/mono.m3u8?token=184bb5d09d1a6bfae2f3d071f646f0643f02134e-fc-1774900423-1774882423
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 18:45 Amistoso – Alemania vs Ghana – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/espn/mono.m3u8?token=053790f930104baabfdf209a59f730eb8594d1a1-b2-1774895356-1774877356
+https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=7b6d008cd8315d6ce73990b004116db456797b20-55-1774900433-1774882433
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 18:45 Amistoso – Alemania vs Ghana – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://x4bnd7lq.fubohd.com/foxsports1_usa/mono.m3u8?token=e0a4e996176b8bf4f797b703bf0d6d43cc4893cf-5c-1774895386-1774877386
+https://tyg2mnl9.fubohd.com/foxsports1_usa/mono.m3u8?token=8c778783228cc39fbf3efbc19fb330b33c2b3fb1-2e-1774900464-1774882464
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 18:45 Amistoso – Alemania vs Ghana – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/espn/mono.m3u8?token=8a31a1c03fdcf7d4bcb30362b320495606d300af-70-1774895397-1774877397
+https://aw1wcm92zq.fubohd.com/espn/mono.m3u8?token=5e864d7a58f32262dad9a3f200c2ead3dbeb17c0-48-1774900474-1774882474
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 18:45 Amistoso – Alemania vs Ghana – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/foxsports1_usa/mono.m3u8?token=e5f6cef7758763181d7f2409bd0c8674d9804cad-e6-1774895428-1774877428
-#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 1
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=epHShd62xTb2Qx0mKkZEJA&expires=1774885539
+https://aw1wcm92zq.fubohd.com/foxsports1_usa/mono.m3u8?token=37cca3dd26bee2caebf900e22afa80cdd823b1f5-20-1774900504-1774882504
 #EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://y4mpwzd7.12703830.net:8443/hls/fewijyc9.m3u8?s=Mw4HCbZOyeGV_mIx_vWBsQ&e=1774899951
+https://2smh3wve.58103793.net:8443/hls/fewijyc9.m3u8?s=IBpJ3QOIX0KEthq4fKoPMg&e=1774905026
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=172.182.225.131&token=c90a7e5d2bcfa9671a004ac642a7d5f81acd875a-02-1774923362-1774869362
+https://14c51.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=64.236.160.23&token=cab4425a75ea6fbba32422c973058a7003e4084d-30-1774928437-1774874437
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=172.182.225.131&token=5b65f22a9b82015434e1b438845b2e99e9463ec9-93-1774923373-1774869373
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=hHs55sEXuQL_uFTub5Owkw&expires=1774885584
+https://244pl.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=64.236.160.23&token=234bfcb031762419b4b3200d8e2e7dbd482e4336-24-1774928447-1774874447
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/tudn/mono.m3u8?token=392a88a77961bf6e55b5af2cbd1e80a5adf301ee-5c-1774895496-1774877496
+https://bgfuzq.fubohd.com/tudn/mono.m3u8?token=82b6fafbc705b6e489f38f8b626837b1da46a13c-72-1774900569-1774882569
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Categoría Primera A", 23:10 Categoría Primera A – Medellín vs América de Cali – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/winsportsplus/mono.m3u8?token=47bab12052677793cd7bb06c8d81566a1001430c-6a-1774895529-1774877529
+https://ym9yzq.fubohd.com/winsportsplus/mono.m3u8?token=87b2ad203992cfae583f67bb4587b99ea04664a9-f2-1774900602-1774882602
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Categoría Primera A", 23:10 Categoría Primera A – Medellín vs América de Cali – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/winsports2/mono.m3u8?token=fdaeaae61502d5ae20f0a5f3dc4b23a14a401404-9d-1774895539-1774877539
+https://anvtcax.fubohd.com/winsports2/mono.m3u8?token=7c055b9bf8a0a674f6cb20216bfc5ca1d4c75b3c-e9-1774900613-1774882613
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Categoría Primera A", 23:10 Categoría Primera A – Medellín vs América de Cali – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://y4mpwzd7.12703830.net:8443/hls/wtydmql3.m3u8?s=_YLkb3qykr9FNRPej8BY1g&e=1774900055
+https://2smh3wve.58103793.net:8443/hls/wtydmql3.m3u8?s=5FC8x_j9AkF8D0H3GkCFrg&e=1774905126
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Categoría Primera A", 23:10 Categoría Primera A – Medellín vs América de Cali – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/winsportsplus/mono.m3u8?token=5cec7bd03e283e133bf60b4f2073b8063377bbdc-88-1774895566-1774877566
+https://aw1wcm92zq.fubohd.com/winsportsplus/mono.m3u8?token=4e1e9513f0ebd8300320180981e8fe8358978eb2-e9-1774900642-1774882642
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Categoría Primera A", 23:10 Categoría Primera A – Medellín vs América de Cali – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/winsports2/mono.m3u8?token=27bd9a624ac58c6e7725662dc44f76f092b4fdb4-75-1774895577-1774877577
+https://agvyby.fubohd.com/winsports2/mono.m3u8?token=0e9765c5767230b2a1d219e0d66bb83bfbfb3474-fd-1774900653-1774882653
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Categoría Primera A", 23:10 Categoría Primera A – Medellín vs América de Cali – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://y4mpwzd7.12703830.net:8443/hls/wtydmql3.m3u8?s=usVZnMSLtJzczvWs3aardg&e=1774900092
+https://2smh3wve.58103793.net:8443/hls/wtydmql3.m3u8?s=wWZ_X0GHM3SfeVf5KDjjAA&e=1774905165
