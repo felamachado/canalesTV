@@ -1,171 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 00:00 Amistoso – Atlas vs Guadalajara – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/tudn/mono.m3u8?token=9ccb03935b3697f6e3602e4850f7ac03ad2e6262-a2-1774856118-1774838118
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 00:00 Amistoso – Atlas vs Guadalajara – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/tudn/mono.m3u8?token=de8456392355226f8464784ca4a045aeec7c33f0-bd-1774856137-1774838137
 #EXTINF:-1 tvg-name="Capo Deportes 3" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Capo Deportes 3
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=omIasi39oV8gy_6Uti1CHg&expires=1774846256
+https://ns1.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=2bFmC9z2augYNvJz2_z_VA&expires=1774855746
 #EXTINF:-1 tvg-name="Canal 16" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Canal 16
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://gt7gapsu.39564828.net:8443/hls/fewijyc9.m3u8?s=mn3l5IsicIFWj3HTiFLRQg&e=1774870165
+#EXTINF:-1 tvg-name="Canal 17 (HD)" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Canal 17 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/hyper1/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=a38383961a0e0a4d3178205774320a86a5d3e0db-09-1774884066-1774830066
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga BetPlay", 01:30 Liga BetPlay – Llaneros vs Once Caldas – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/winsports2/mono.m3u8?token=574229faeca232f131440e097566084c974c5acd-52-1774856203-1774838203
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga BetPlay", 01:30 Liga BetPlay – Llaneros vs Once Caldas – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/winsportsplus/mono.m3u8?token=ce182ebc3868cf296851fc5f36828a94d0891e97-9b-1774856213-1774838213
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga BetPlay", 01:30 Liga BetPlay – Llaneros vs Once Caldas – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/wtydmql3.m3u8?s=ySmo8Er4sURODtsgHeXtgA&e=1774860726
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga BetPlay", 01:30 Liga BetPlay – Llaneros vs Once Caldas – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/winsports2/mono.m3u8?token=adc6ac0b128df365e79385971d56973786cdac00-c4-1774856237-1774838237
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga BetPlay", 01:30 Liga BetPlay – Llaneros vs Once Caldas – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/winsportsplus/mono.m3u8?token=9b4170b7557dd0f7d14a3b72d93c0f84d1abb77c-69-1774856247-1774838247
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga BetPlay", 01:30 Liga BetPlay – Llaneros vs Once Caldas – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/wtydmql3.m3u8?s=RRWSKdwthqAfuKfe1lmQsw&e=1774860760
-#EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Colombia vs Francia – Canal 1
+https://cc324.streamingtv339.com/chilevision/tracks-v1a1/mono.m3u8?ip=135.232.224.161&token=bab94f470204626bf169f406684fa69d2a7e4e00-c0-1774893577-1774839577
+#EXTINF:-1 tvg-name="Canal 18 (HD)" group-title="Amistoso", 01:00 Amistoso – Nueva Zelanda vs Chile – Canal 18 (HD)
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=RhxHhz3ieB4sRiAydL7oXA&expires=1774846363
-#EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Colombia vs Francia – Canal 2
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/fewijyc9.m3u8?s=xZUsbRH-dTi1E58hAfE1lQ&e=1774860780
-#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Colombia vs Francia – Canal 3 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(KDEN)/master.mpd
-#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Colombia vs Francia – Canal 4 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://8c51.streameasthd.net/caracoltv/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=6f21a60e818325b6fa72a3b10595348a3007cd99-0d-1774884201-1774830201
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Colombia vs Francia – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
-#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso Internacional", 14:00 Amistoso Internacional – Colombia vs Francia – Canal 6 (HD)
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=wcIXBqigpnfkcEFKCzV_9A&expires=1774846422
-#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 14:00 LaLiga 2 – Almeria vs Real Sociedad B – Deportes Plus
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capoplus.m3u8?md5=XerT6dGi62srfk4qkqEWQw&expires=1774846433
-#EXTINF:-1 tvg-name="Canal 15" group-title="LaLiga 2", 14:00 LaLiga 2 – Almeria vs Real Sociedad B – Canal 15
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-https://lb3.strmd.top/secure/MlSJkTtLAZJGUctVuXNoxEbTfbJwSasc/rtmp/stream/denvernuggets/1/playlist.m3u8
-#EXTINF:-1 tvg-name="Canal 16 (HD)" group-title="LaLiga 2", 14:00 LaLiga 2 – Almeria vs Real Sociedad B – Canal 16 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/hyper1/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=7b1f4026134726bfe22e99df666c1eb214f1c7ba-67-1774884256-1774830256
-#EXTINF:-1 tvg-name="TyC Sports" group-title="Liga de Argentina", 16:00 Liga de Argentina – Huracan vs Olimpo – TyC Sports
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capotyc.m3u8?md5=Sd3deDwAbrIJujOef74gyw&expires=1774846479
-#EXTINF:-1 tvg-name="Canal 23" group-title="Liga de Argentina", 16:00 Liga de Argentina – Huracan vs Olimpo – Canal 23
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/neo2gy.m3u8?s=_sZRssG_Epz_Hv8G8glaZQ&e=1774860890
-#EXTINF:-1 tvg-name="Canal 24 (HD)" group-title="Liga de Argentina", 16:00 Liga de Argentina – Huracan vs Olimpo – Canal 24 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://8c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=da0d04c78c892d5047229f0b8dbafa69ab01a89f-df-1774884301-1774830301
-#EXTINF:-1 tvg-name="Canal 42" group-title="Brasileirao", 17:30 Brasileirao – Atletico Paranaense vs Botafogo – Canal 42
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/premiere1/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=1b85636b5d75ec8511cd17bb4f917c42c3aeb207-e0-1774884325-1774830325
-#EXTINF:-1 tvg-name="Capo Deportes 3" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Peñarol vs Racing Montevideo – Capo Deportes 3
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=8rr_PTOhC6qjdeKhbUWLLg&expires=1774846547
-#EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Liga de Uruguay", 17:30 Liga de Uruguay – Peñarol vs Racing Montevideo – Canal 40 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/disney2/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=46b0c291eea6cd0aeb9a1e470079be5006f147e9-a1-1774884369-1774830369
-#EXTINF:-1 tvg-name="TyC Sports" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Acassuso – TyC Sports
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capotyc.m3u8?md5=F7m9dOm_jq7yovMPEYY4-g&expires=1774846590
-#EXTINF:-1 tvg-name="Canal 46" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Acassuso – Canal 46
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/neo2gy.m3u8?s=vClLz-w6dxCT9wnlBsydaA&e=1774861001
-#EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="Liga de Argentina", 18:15 Liga de Argentina – Newell's Old Boys vs Acassuso – Canal 47 (HD)
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=10574d8c5d25fa945f00fbfb8cc6d7f93a4646f2-b3-1774884412-1774830412
+https://ns1.sanwalyaarpya.com:1686/hls/capodeportes3.m3u8?md5=JXtAP9V3R6al8bpd6jIIjw&expires=1774855785
 #EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=JRT2HuN-9TpHL42ywOt_Og&expires=1774846635
+https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=P0v32itNBQdgQv-27h_c1A&expires=1774855800
 #EXTINF:-1 tvg-name="Canal 2" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/fewijyc9.m3u8?s=PGH8bGsOvVfTZb_GDU_M9g&e=1774861045
+https://gt7gapsu.39564828.net:8443/hls/fewijyc9.m3u8?s=lmItvzj2VHpOy0Vl2kvALg&e=1774870212
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=03e6bdd77e250fc95fcbb11cf6abb8c84d77b550-b0-1774884456-1774830456
+https://98ca2.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=135.232.224.161&token=c659a83c317fc596e69cc5d2e1f6fc00f09906cf-1b-1774893623-1774839623
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=172.203.212.197&token=2031572bfd0c487eac4af3697bed2d88b8aee55f-83-1774884465-1774830465
+https://cc324.streamingtv339.com/tudnmx/tracks-v1a1/mono.m3u8?ip=135.232.224.161&token=65a4464b2c7d022cbece0a8befa0872523c6a0e6-41-1774893633-1774839633
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 5 (HD)
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=xR0JRmegwnWzQQDK5lisYw&expires=1774846673
+https://ns1.sanwalyaarpya.com:1686/hls/capodeportes.m3u8?md5=epmDoPhnBc0bK7wBQOMFyw&expires=1774855844
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Amistoso", 19:00 Amistoso – Atlas vs Guadalajara Chivas – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/tudn/mono.m3u8?token=070e2bc4700947766668ee6bc7d28abe558f7814-ad-1774856586-1774838586
+https://c2nvdxq.fubohd.com/tudn/mono.m3u8?token=81b38cec256aabecd5aa66ff1c7808caf2a5a924-39-1774865756-1774847756
