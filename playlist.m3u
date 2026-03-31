@@ -3,32 +3,57 @@
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=0IcK0ZKHZ5iCqzp5-0qrAg&expires=1774965258
+https://n5.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=um_zqgbDAlfKpN4gt8jQ5g&expires=1774970911
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Amistoso Internacional", 11:00 Amistoso Internacional – Chipre vs Moldavia – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=172.203.196.182&token=6d2df0b827c3a51f8acc5b18127140664a6ddfd4-b4-1775003091-1774949091
+https://pecdl1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=52.154.20.198&token=a5d88f0165d64d0cd746aecb9dfc3bf2daa2ef39-e7-1775008744-1774954744
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Amistoso Internacional", 11:00 Amistoso Internacional – Chipre vs Moldavia – Canal 8 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 12:00 Amistoso – Kazajstán vs Comoras – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://rm8zcvk3.fubohd.com/disney1/mono.m3u8?token=32e06d4e554715746ac3e244daaa7c606a5fc363-3e-1774980867-1774962867
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 12:00 Amistoso – Kazajstán vs Comoras – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/disney1/mono.m3u8?token=cf6596c0b114c3415eec7144c71288a5c6433aa3-c1-1774980879-1774962879
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Juventud vs Boston River – VTV Uruguay
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://2smh3wve.58103793.net:8443/hls/543hcacrbrvfw.m3u8?s=yh4MTFjBAzxv520Dl7G4KA&e=1774985390
+#EXTINF:-1 tvg-name="Canal 9" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Juventud vs Boston River – Canal 9
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+https://n5.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=x9IqJQlcr13T-U7mg10V3w&expires=1774971003
 #EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Uruguay", 13:00 Liga de Uruguay – Juventud vs Boston River – Canal 14 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=172.203.196.182&token=493655ae2bc3f49d7ff9fd79d37dc428f6c4bacd-f6-1775003151-1774949151
+https://doc1.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=52.154.20.198&token=166ebf531690094c50c1df178a4609abaed3975a-e5-1775008826-1774954826
 #EXTINF:-1 tvg-name="Canal 1" group-title="Amistoso Internacional", 13:45 Amistoso Internacional – Alemania vs Ghana – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=_quF6BMD9fytLwo_oUPEhg&expires=1774965358
+https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=5ZATXOKLrWQPNHZ5_oLSEw&expires=1774971038
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Amistoso Internacional", 13:45 Amistoso Internacional – Alemania vs Ghana – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://cc324.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=52.154.20.198&token=fe1e62207fb8610d7de542fd0ea9f0d330eb01e6-a8-1775008861-1774954861
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Amistoso Internacional", 13:45 Amistoso Internacional – Alemania vs Ghana – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
-https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/index/index_6_0.m3u8
+https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/index/index_8_0.m3u8
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Amistoso Internacional", 13:45 Amistoso Internacional – Alemania vs Ghana – Canal 5 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -38,44 +63,84 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=wGdYHgi_m1JESISkYTGZ3w&expires=1774965413
+https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=qMPLjOdVMCBqXdV8eWUwbw&expires=1774971095
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 16:00 Amistoso – Noruega vs Suiza – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/espn2/mono.m3u8?token=6cfff6ccecd1c5b39e0e2dd8fc4dd93e64df0551-1-1774981008-1774963008
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Amistoso", 16:00 Amistoso – Noruega vs Suiza – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://bgfuzq.fubohd.com/foxsports2_usa/mono.m3u8?token=a401570671ce33204c2662d29495e140234a1071-36-1774981039-1774963039
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 16:00 Amistoso – Noruega vs Suiza – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/espn2/mono.m3u8?token=b7627217f526e4e87e35c6ffa4b7e2850b20368e-ba-1774981072-1774963072
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Amistoso", 16:00 Amistoso – Noruega vs Suiza – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://tyg2mnl9.fubohd.com/foxsports2_usa/mono.m3u8?token=d8e54cd149008ab054a4929812b2e350ff988d72-31-1774981107-1774963107
 #EXTINF:-1 tvg-name="TNT Sports Chile" group-title="Copa de Chile", 16:00 Copa de Chile – Cobresal vs Universidad Catolica – TNT Sports Chile
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.zohanayaan.com:1686/hls/captntchil.m3u8?md5=JDVVPk2uBPPTp9V9ZTivwg&expires=1774965424
+https://n1.zohanayaan.com:1686/hls/captntchil.m3u8?md5=gB0rFnnA77-ZUsZWeK_NjA&expires=1774971240
 #EXTINF:-1 tvg-name="Canal 18" group-title="Copa de Chile", 16:00 Copa de Chile – Cobresal vs Universidad Catolica – Canal 18
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://mqf5dt2g.83870203.net:8443/hls/xzgyn9ofmet.m3u8?s=NrGLWxrnCepvm6DF1KVeEQ&e=1774979835
+https://2smh3wve.58103793.net:8443/hls/xzgyn9ofmet.m3u8?s=8hUBhpYjbT-yHhbzFZYiaA&e=1774985653
 #EXTINF:-1 tvg-name="Canal 20 (HD)" group-title="Copa de Chile", 16:00 Copa de Chile – Cobresal vs Universidad Catolica – Canal 20 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/tntsportschile/mono.m3u8?token=2b8c685a66330ea6254a620f8fd38beb74011c0b-da-1774975356-1774957356
+https://x4bnd7lq.fubohd.com/tntsportschile/mono.m3u8?token=da4e90a1a7f96114f6c59453abb36ad2f4896f52-ad-1774981176-1774963176
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Cerro Largo vs Danubio – VTV Uruguay
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://2smh3wve.58103793.net:8443/hls/543hcacrbrvfw.m3u8?s=-Dykce2DaHEavUHKcRIbfg&e=1774985732
+#EXTINF:-1 tvg-name="Canal 15" group-title="Liga de Uruguay", 16:00 Liga de Uruguay – Cerro Largo vs Danubio – Canal 15
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+https://n2.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=HMIX8BSaNaJRgvMBkXB_WQ&expires=1774971344
 #EXTINF:-1 tvg-name="TNT Sports Chile" group-title="Copa de Chile", 18:30 Copa de Chile – Universidad de Concepcion vs Ñublense – TNT Sports Chile
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n1.zohanayaan.com:1686/hls/captntchil.m3u8?md5=9CPDsQCxNUVG-ThaxDjWaQ&expires=1774965511
+https://n4.zohanayaan.com:1686/hls/captntchil.m3u8?md5=rFTrXqxG2Wm-2quViE9Hvw&expires=1774971378
 #EXTINF:-1 tvg-name="Canal 27" group-title="Copa de Chile", 18:30 Copa de Chile – Universidad de Concepcion vs Ñublense – Canal 27
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://mqf5dt2g.83870203.net:8443/hls/xzgyn9ofmet.m3u8?s=KzavJ0ziMGK1xHY72Envhg&e=1774979922
+https://2smh3wve.58103793.net:8443/hls/xzgyn9ofmet.m3u8?s=zLvq9lU4phm1W6Uleu6Utw&e=1774985790
 #EXTINF:-1 tvg-name="Canal 28 (HD)" group-title="Copa de Chile", 18:30 Copa de Chile – Universidad de Concepcion vs Ñublense – Canal 28 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/max2/tracks-v1a1/mono.m3u8?ip=172.203.196.182&token=6c55dd1f130b53d23e71ac3da30b0fdd0c12c984-ef-1775003337-1774949337
+https://98ca2.streameasthd.net/max2/tracks-v1a1/mono.m3u8?ip=52.154.20.198&token=e2d233f10d813054eb4ba1525d7ef86f282172eb-70-1775009202-1774955202
 #EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Copa de Chile", 18:30 Copa de Chile – Universidad de Concepcion vs Ñublense – Canal 29 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/tntsportschile/mono.m3u8?token=1939dd2dbedbaa6c3926f2f0fcfd5c6951c18cec-63-1774975448-1774957448
+https://aw1wcm92zq.fubohd.com/tntsportschile/mono.m3u8?token=ad1d0a3a6970d988fca05883c2e291bddac1d75b-75-1774981313-1774963313
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Central Español vs Deportivo Maldonado – VTV Uruguay
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://2smh3wve.58103793.net:8443/hls/543hcacrbrvfw.m3u8?s=3zGCLg9rFER0fDq7cymj-Q&e=1774985825
+#EXTINF:-1 tvg-name="Canal 32" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Central Español vs Deportivo Maldonado – Canal 32
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+https://n1.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=Vo-zj3FzyDvCWL-F-4cKqQ&expires=1774971437
 #EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Liga de Uruguay", 19:00 Liga de Uruguay – Central Español vs Deportivo Maldonado – Canal 33 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=172.203.196.182&token=c18f4b8950feda9269b2cebd14dd099b664ce38e-fb-1775003385-1774949385
+https://doc1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=52.154.20.198&token=b34e89b0e2528ef18e286c67e6e2cc59a8a49c78-bc-1775009254-1774955254
