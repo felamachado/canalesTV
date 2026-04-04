@@ -3,47 +3,37 @@
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=EiJ7usoFp65XW6tHENa4FA&expires=1775315040
-#EXTINF:-1 tvg-name="Canal 2" group-title="FA Cup", 06:45 FA Cup – Manchester City vs Liverpool – Canal 2
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hutweed.net/
-https://b84gdva8.39564828.net:8443/hls/fewijyc9.m3u8?s=2P9l-nimM8meeGL5lwavCQ&e=1775329455
+https://n1.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=dJ5aILRsRGsZopZbTeIJLA&expires=1775318796
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="FA Cup", 06:45 FA Cup – Manchester City vs Liverpool – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=a85aff2f213aaca20cca3cb49a94f24f31e00b5c-1a-1775352866-1775298866
+https://98ca2.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=94f2d01e8981de3d6f33738c34385c2d01bb227d-cd-1775356619-1775302619
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="FA Cup", 06:45 FA Cup – Manchester City vs Liverpool – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="FA Cup", 06:45 FA Cup – Manchester City vs Liverpool – Canal 5 (HD)
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/max1/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=eb4894f54e61936ea5c0ce26c85247722aec9ca4-4a-1775352888-1775298888
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="FA Cup", 06:45 FA Cup – Manchester City vs Liverpool – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n1.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=0MZCe_YIXx-SR5LqrszBqg&expires=1775315093
+https://n1.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=gu6NbpyWBzz4qQSOc_4lDw&expires=1775318846
 #EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Levante – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n1.zohanayaan.com:1686/hls/capodeportes2.m3u8?md5=9V4XqnKOvK75sGNVZiaWyQ&expires=1775315110
+https://n5.zohanayaan.com:1686/hls/capodeportes2.m3u8?md5=Q9z26cNeC0Xq5JF3RMPMbQ&expires=1775318857
 #EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Levante – Canal 2
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://b84gdva8.39564828.net:8443/hls/4jva7tj642f9b.m3u8?s=I2prVCquRqT6egFHZ6E5Mg&e=1775329527
+https://y44kn4nu.83870203.net:8443/hls/4jva7tj642f9b.m3u8?s=_79ZyEZcAzdCq48J8MSNWw&e=1775333279
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Levante – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=162af0399088f90b66acd954db482c2b49fbc1ce-f6-1775352938-1775298938
+https://98ca2.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=3a3dc58b506538ec2ea6ac2bce0e29b28dcb839e-be-1775356690-1775302690
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Levante – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -53,47 +43,57 @@ https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k0duzgfejg/o
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=O9GxBAqDQLPcDrmQzLsuvQ&expires=1775315164
+https://n4.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=UwQVsNqh0VxHTekNVUGUYw&expires=1775318917
 #EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 07:00 LaLiga 2 – Cadiz vs Cordoba – Deportes Plus
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capoplus.m3u8?md5=9o3MwzQpOHI8X-muMeYUiA&expires=1775315182
+https://n2.zohanayaan.com:1686/hls/capoplus.m3u8?md5=qHUz5YPZLSi5zecqJIW4gg&expires=1775318936
 #EXTINF:-1 tvg-name="Canal 6" group-title="LaLiga 2", 07:00 LaLiga 2 – Cadiz vs Cordoba – Canal 6
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://b84gdva8.39564828.net:8443/hls/s6kdue.m3u8?s=BKEn9za9aQE30LDf784Hjg&e=1775329594
+https://y44kn4nu.83870203.net:8443/hls/s6kdue.m3u8?s=NCqINZ4XECH8P0hlFZzagg&e=1775333348
 #EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="LaLiga 2", 07:00 LaLiga 2 – Cadiz vs Cordoba – Canal 7 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/hyper1/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=aec315cd986545880fbe43dc51ea893c95e67dfb-c9-1775353005-1775299005
+https://cc324.streamingtv339.com/hyper1/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=f21b068675e5dc461e9b812b0b4641c996ee385d-92-1775356761-1775302761
 #EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="LaLiga 2", 07:00 LaLiga 2 – Cadiz vs Cordoba – Canal 8 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/hypermotion1/mono.m3u8?token=e227132b8b14e57a48ecc7c3a9ec29c80cc9b730-f3-1775325116-1775307116
+https://ym9yzq.fubohd.com/hypermotion1/mono.m3u8?token=a1a02f4fb7dc9128c00d53b0774288de38e07581-17-1775328873-1775310873
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – Racing Montevideo vs Juventud – VTV Uruguay
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://y44kn4nu.83870203.net:8443/hls/543hcacrbrvfw.m3u8?s=_o8av6T0gxpLyhn6r4zkow&e=1775333385
+#EXTINF:-1 tvg-name="Canal 12" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – Racing Montevideo vs Juventud – Canal 12
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+https://n4.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=TISUqX7kAD0WnL-NbACMpA&expires=1775318997
 #EXTINF:-1 tvg-name="Canal 13 (HD)" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – Racing Montevideo vs Juventud – Canal 13 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/disney3/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=0471436fa58ecc2cc408e2ec1bb553dea352f2a6-6e-1775353051-1775299051
+https://24a1.streameasthd.net/disney3/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=66d0bc6d0fda177ea2b86dac1be8b5dbd93c564a-83-1775356808-1775302808
 #EXTINF:-1 tvg-name="Canal 14 (HD)" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – Racing Montevideo vs Juventud – Canal 14 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/disney3/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=b43c9621108de5adff08012605ea152b3d2c1e4f-58-1775353061-1775299061
+https://244pl.streamingtv339.com/disney3/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=f31d4e2673df4767a5914742115563e0899cc78a-ba-1775356819-1775302819
 #EXTINF:-1 tvg-name="Liga de Campeones 3" group-title="Serie A", 08:00 Serie A – Sassuolo vs Cagliari – Liga de Campeones 3
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.zohanayaan.com:1686/hls/capocampeones3.m3u8?md5=Y0T904WFjVVxrXTNH6UyVw&expires=1775315272
+https://n3.zohanayaan.com:1686/hls/capocampeones3.m3u8?md5=XdXMrYoVOjCWAAhyPaHMbg&expires=1775319027
 #EXTINF:-1 tvg-name="Canal 9" group-title="Serie A", 08:00 Serie A – Sassuolo vs Cagliari – Canal 9
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://b84gdva8.39564828.net:8443/hls/wlloso4ptv7ory.m3u8?s=Aq7dYMhS93fWUpZuZW7Wkg&e=1775329685
+https://y44kn4nu.83870203.net:8443/hls/wlloso4ptv7ory.m3u8?s=1AB7EndWqcLlY5BxZjOyDA&e=1775333444
 #EXTINF:-1 tvg-name="Canal 10 (HD)" group-title="Serie A", 08:00 Serie A – Sassuolo vs Cagliari – Canal 10 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -103,124 +103,304 @@ https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=64.236.133.128&token=70154eb3bd9e27c9fbef245b086b4d19c189ee35-0d-1775353109-1775299109
+https://98ca2.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=ee91d3b76ec7a16e93ae0dc8f73862a5b7ea8d90-3a-1775356869-1775302869
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 09:15 LaLiga – Mallorca vs Real Madrid – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n1.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=zzAk9_781Cpq2aZveZz1Vw&expires=1775319077
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 09:15 LaLiga – Mallorca vs Real Madrid – Canal 2
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://y44kn4nu.83870203.net:8443/hls/fewijyc9.m3u8?s=vkye77SEYXi0a-fmUjcb0w&e=1775333492
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 09:15 LaLiga – Mallorca vs Real Madrid – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://51a1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=92be1c8e198a391576f6ad49dd8ea3dd72851b89-42-1775356903-1775302903
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="LaLiga", 09:15 LaLiga – Mallorca vs Real Madrid – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://otte.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 09:15 LaLiga – Mallorca vs Real Madrid – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://98ca2.streameasthd.net/espndeportes/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=f1b74c5206001f4e569e9c503c610db44d371441-5f-1775356926-1775302926
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 09:15 LaLiga – Mallorca vs Real Madrid – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n4.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=JhunMghQwiqJWlFnQmhPdw&expires=1775319137
+#EXTINF:-1 tvg-name="Deportes Plus" group-title="LaLiga 2", 09:15 LaLiga 2 – Albacete vs Burgos – Deportes Plus
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n2.zohanayaan.com:1686/hls/capoplus.m3u8?md5=X-eWvygiJyoFCADNwjUaBA&expires=1775319153
+#EXTINF:-1 tvg-name="Canal 25" group-title="LaLiga 2", 09:15 LaLiga 2 – Albacete vs Burgos – Canal 25
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://y44kn4nu.83870203.net:8443/hls/s6kdue.m3u8?s=nCy7qJ3Ty1H2ku28V-rv9A&e=1775333565
+#EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Albacete vs Burgos – Canal 26 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/hyper1/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=468d58dfe0ee8de034a7544d4879cb06ae35358e-eb-1775356976-1775302976
+#EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="LaLiga 2", 09:15 LaLiga 2 – Albacete vs Burgos – Canal 27 (HD)
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+https://lb10.strmd.top/secure/BwaRvPFyfomCbaFfacmXWUtHKgbqOQCw/echo/stream/albacete-vs-burgos-football-1392137/2/playlist.m3u8
+#EXTINF:-1 tvg-name="Capo Deportes 2" group-title="Eredivisie", 09:30 Eredivisie – PSV Eindhoven vs Utrecht – Capo Deportes 2
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n1.zohanayaan.com:1686/hls/capodeportes2.m3u8?md5=5jlPubfcW4gY8Q-Sf1lCsQ&expires=1775319197
+#EXTINF:-1 tvg-name="Canal 28" group-title="Eredivisie", 09:30 Eredivisie – PSV Eindhoven vs Utrecht – Canal 28
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://y44kn4nu.83870203.net:8443/hls/pu1sgwiscq0e.m3u8?s=YbLOdV-2-_vLhI2beEzfbQ&e=1775333618
+#EXTINF:-1 tvg-name="Canal 29 (HD)" group-title="Eredivisie", 09:30 Eredivisie – PSV Eindhoven vs Utrecht – Canal 29 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://pecdl1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=172.182.213.69&token=dee6527e7eb753f1a2e2921d46c7a18b9670add1-5f-1775357030-1775303030
+#EXTINF:-1 tvg-name="Canal 31" group-title="Liga Portugal", 09:30 Liga Portugal – CD Nacional vs Estrela – Canal 31
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://y44kn4nu.83870203.net:8443/hls/vlxrv0an8sz.m3u8?s=djQKqoXBieo0mkQxWsx37g&e=1775333655
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="FA Cup", 12:00 FA Cup – Manchester City vs Liverpool – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/espn/mono.m3u8?token=38b1f10e3af1df4a32be9d6620808412476ff986-c-1775325220-1775307220
+https://bgfuzq.fubohd.com/espn/mono.m3u8?token=ff4c833aa8e7f99f1c49b6f0edd81b7ac7bc0b56-a2-1775329178-1775311178
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="FA Cup", 12:00 FA Cup – Manchester City vs Liverpool – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/disney1/mono.m3u8?token=c0278167c002e00c8cd18e33e4ed32554de5fcf9-fa-1775325231-1775307231
+https://dw5pdgvk.fubohd.com/disney1/mono.m3u8?token=3f3503994a93a9fbaed45c614043c5f601498d73-28-1775329189-1775311189
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="FA Cup", 12:00 FA Cup – Manchester City vs Liverpool – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/espndeportes/mono.m3u8?token=16b0df439dc7dd71e6f6fc98e30ad8f18f104fae-ca-1775325251-1775307251
+https://c2nvdxq.fubohd.com/espndeportes/mono.m3u8?token=94fb4f2e00144e3c726986ab849862596eb763e0-1b-1775329209-1775311209
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="FA Cup", 12:00 FA Cup – Manchester City vs Liverpool – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/espn/mono.m3u8?token=74d24d5ec4d5396bdde1f939a6dbabd5be738b66-7-1775325262-1775307262
+https://c2nvdxq.fubohd.com/espn/mono.m3u8?token=633b1b0f815f500a17a9480fd45995496de982d0-cf-1775329220-1775311220
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="FA Cup", 12:00 FA Cup – Manchester City vs Liverpool – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/disney1/mono.m3u8?token=5837c6d58d99a276a8c2f040e58aafeff8058173-1-1775325272-1775307272
+https://rm8zcvk3.fubohd.com/disney1/mono.m3u8?token=767e23057800560a1ecc7eb423a01ac54affdf6a-9f-1775329231-1775311231
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="FA Cup", 12:00 FA Cup – Manchester City vs Liverpool – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/espndeportes/mono.m3u8?token=13419853a2aaccb0383a954ed61fb6a3f3d1d928-af-1775325292-1775307292
+https://agvyby.fubohd.com/espndeportes/mono.m3u8?token=c6ade88fe84f0e0d13d2ecffd5566d20dcaa3780-85-1775329251-1775311251
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga", 12:00 LaLiga – Real Sociedad vs Levante – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/dsports/mono.m3u8?token=1f3bf4ac35728410dc50c0d19fcc9eec6a268008-5b-1775325303-1775307303
+https://dw5pdgvk.fubohd.com/dsports/mono.m3u8?token=f161706d9997df30ab34662532d37d888ecef802-4a-1775329262-1775311262
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 12:00 LaLiga – Real Sociedad vs Levante – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://dw5pdgvk.fubohd.com/dsports/mono.m3u8?token=fa38f72a448bb518cbfeec5809304ae9fc30b1c8-78-1775325322-1775307322
+https://c2nvdxq.fubohd.com/dsports/mono.m3u8?token=36902d3d8d95befb6d1d8831527b86e08e3dda8a-ee-1775329283-1775311283
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga SmartBank", 12:00 LaLiga SmartBank – Cádiz vs Córdoba – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/hypermotion1/mono.m3u8?token=25b98873b87f328e63d9b6e3e8c790924d4cfd46-db-1775325342-1775307342
+https://tyg2mnl9.fubohd.com/hypermotion1/mono.m3u8?token=f46cd67ed57b8c2aa08450b260f8c6e00413a90f-c2-1775329302-1775311302
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga SmartBank", 12:00 LaLiga SmartBank – Cádiz vs Córdoba – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/hypermotion1/mono.m3u8?token=27eeffb86c5ca664294a53f1e6a9d7ad0a7a3907-e3-1775325353-1775307353
+https://cgxheq.fubohd.com/hypermotion1/mono.m3u8?token=704bfa27d4632771089464de3d684d008fbb992d-34-1775329313-1775311313
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Primera División", 13:00 Primera División – Racing vs Juventud – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ag9wzq.fubohd.com/disney7/mono.m3u8?token=0d42f504c1906c30a436cfbb1aaa079cc52e1dec-2d-1775325364-1775307364
+https://ym9yzq.fubohd.com/disney7/mono.m3u8?token=6f712cc9812ed95709f39b6b6b21f79a509aebbf-e2-1775329324-1775311324
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Primera División", 13:00 Primera División – Racing vs Juventud – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/disney7/mono.m3u8?token=dfdaee1207db170a6fb29ed6ca1e6672d3c78ea0-58-1775325374-1775307374
+https://rm8zcvk3.fubohd.com/disney7/mono.m3u8?token=07aa85aafe648d476259edf1a60f635c65734fb8-23-1775329335-1775311335
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 13:00 Serie A – Sassuolo vs Cagliari – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://c2nvdxq.fubohd.com/espn3/mono.m3u8?token=b134dc44a4c06a6674ec25f13b855738d8eedb64-8c-1775325385-1775307385
+https://rm8zcvk3.fubohd.com/espn3/mono.m3u8?token=b0645bc7af9d3370c3d1dc860279f72a47591f61-c1-1775329346-1775311346
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 13:00 Serie A – Sassuolo vs Cagliari – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/disney6/mono.m3u8?token=e92c9d759ea8abf889790969ff098bad6cc65f09-93-1775325396-1775307396
+https://a2vlca.fubohd.com/disney6/mono.m3u8?token=8190eab583366782eca5117272b6fa419aea3064-7e-1775329357-1775311357
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 13:00 Serie A – Sassuolo vs Cagliari – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://dw5pdgvk.fubohd.com/foxdeportes/mono.m3u8?token=1a1150a897a49811e77c161820c58f9ca1a4e69e-a0-1775329377-1775311377
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 13:00 Serie A – Sassuolo vs Cagliari – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espn3/mono.m3u8?token=bf576a59a58dd001dd6f35b7639ccab68a175359-4e-1775325435-1775307435
+https://anvtcax.fubohd.com/espn3/mono.m3u8?token=7ee12a3a913ea4c6c85c73010c28cd98474f709f-c4-1775329396-1775311396
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 13:00 Serie A – Sassuolo vs Cagliari – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://ym9yzq.fubohd.com/disney6/mono.m3u8?token=27b8ca74dfbd1c793395aecb7333f7c24f8fdff6-83-1775325445-1775307445
+https://agvyby.fubohd.com/disney6/mono.m3u8?token=b626eb87aab4fdb0b38b2a57c8b12bccf21bfc0f-c2-1775329407-1775311407
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 13:00 Serie A – Sassuolo vs Cagliari – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/foxdeportes/mono.m3u8?token=e0fe332a9f9a631cd1ab0b21ed44da81eafe211d-b5-1775329427-1775311427
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga", 14:15 LaLiga – Mallorca vs Real Madrid – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/dsports/mono.m3u8?token=942ddf0e842fad5ec04a7350d3f8b546e6d8fec9-4d-1775325484-1775307484
+https://anvtcax.fubohd.com/dsports/mono.m3u8?token=ea97688ec1469ca4046f7060075b540aeac8b940-2c-1775329447-1775311447
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga", 14:15 LaLiga – Mallorca vs Real Madrid – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://tyg2mnl9.fubohd.com/espndeportes/mono.m3u8?token=b01bcccff81efea2e807e258e58475cc5112a8c1-51-1775325495-1775307495
+https://x4bnd7lq.fubohd.com/espndeportes/mono.m3u8?token=d47707ab650c532fc0da74812b6dfa07963b5588-40-1775329457-1775311457
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga", 14:15 LaLiga – Mallorca vs Real Madrid – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://qzv4jmsc.fubohd.com/sky_sports_laliga/mono.m3u8?token=bd4f70f9ec17d23fb365553ba4c0d56edb54d1de-5c-1775325514-1775307514
+https://aw1wcm92zq.fubohd.com/sky_sports_laliga/mono.m3u8?token=80ea61782fc35942ac9e8fd5d4048443cde31634-3b-1775329477-1775311477
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 14:15 LaLiga – Mallorca vs Real Madrid – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://anvtcax.fubohd.com/dsports/mono.m3u8?token=727758a6896b954d8c6706c8a16a933bc56b6d24-78-1775325525-1775307525
+https://rm8zcvk3.fubohd.com/dsports/mono.m3u8?token=ee48ac11489c730ec7c66a971546c00c699d0b74-25-1775329488-1775311488
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 14:15 LaLiga – Mallorca vs Real Madrid – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://wp9xqedt.fubohd.com/espndeportes/mono.m3u8?token=9149ad1901af025ce128ad1d15d7346e2f4c914c-a0-1775325536-1775307536
+https://aw1wcm92zq.fubohd.com/espndeportes/mono.m3u8?token=75bd518f4186c3ad9a69816d0943b7f06616bbaf-f3-1775329499-1775311499
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 14:15 LaLiga – Mallorca vs Real Madrid – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/sky_sports_laliga/mono.m3u8?token=e84617d8409dccd5b263d254ee004abdb941ec03-de-1775325555-1775307555
+https://qzv4jmsc.fubohd.com/sky_sports_laliga/mono.m3u8?token=c31a28891ab3ebdfd69944e0b3ff368bfaf79a73-7f-1775329519-1775311519
 #EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga 2", 14:15 LaLiga 2 – Albacete vs Burgos – FutbolLibre Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://dw5pdgvk.fubohd.com/hypermotion1/mono.m3u8?token=867e14c199561d6f809d98090253811a0ce6d817-db-1775325576-1775307576
+https://agvyby.fubohd.com/disney14/mono.m3u8?token=bd6634649bfb8cbb7bd67d787a5399fd4d49b515-ca-1775329530-1775311530
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga 2", 14:15 LaLiga 2 – Albacete vs Burgos – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/hypermotion1/mono.m3u8?token=9aa2e628828a74a7947b0a472d0a1d27cb31012d-60-1775329541-1775311541
 #EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga 2", 14:15 LaLiga 2 – Albacete vs Burgos – LibrePelota Stream
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/hypermotion1/mono.m3u8?token=cb1f225583110edc22227be4ebfdb1019ad2f02e-d7-1775325598-1775307598
+https://wp9xqedt.fubohd.com/disney14/mono.m3u8?token=f217d24ac66dcc00c160c5d3581ccfc4230ca7dc-c-1775329552-1775311552
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga 2", 14:15 LaLiga 2 – Albacete vs Burgos – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://dw5pdgvk.fubohd.com/hypermotion1/mono.m3u8?token=22fdadb1898b046040dd4b58a12c45114e8d8051-0-1775329562-1775311562
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Eredivisie", 14:30 Eredivisie – PSV vs Utrecht – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/espn2/mono.m3u8?token=47911ddb1cba35f333a6146e78f1253ea419bb48-e-1775329573-1775311573
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Eredivisie", 14:30 Eredivisie – PSV vs Utrecht – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/espn2/mono.m3u8?token=798c2ed9116314239880ed36341c7682a3cc11e5-be-1775329604-1775311604
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga", 16:30 LaLiga – Real Betis vs Espanyol – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://tyg2mnl9.fubohd.com/hypermotion2/mono.m3u8?token=231a529f6e4034332ff59648ebb7720cb08dfd04-86-1775329678-1775311678
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga", 16:30 LaLiga – Real Betis vs Espanyol – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://rm8zcvk3.fubohd.com/hypermotion2/mono.m3u8?token=1dd4320a6011ae790e9e6380aa8bdc59e03eafcf-9c-1775329689-1775311689
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga 2", 16:30 LaLiga 2 – Deportivo La Coruña vs Málaga – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://cgxheq.fubohd.com/hypermotion1/mono.m3u8?token=20480ce9e38d35044814a72bf0fad5d47059a687-7c-1775329700-1775311700
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="LaLiga 2", 16:30 LaLiga 2 – Cultural Leonesa vs Real Valladolid – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://tyg2mnl9.fubohd.com/hypermotion2/mono.m3u8?token=822fce6e3d1ef5ff08972848d524a2bfb5f72417-c5-1775329710-1775311710
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga 2", 16:30 LaLiga 2 – Deportivo La Coruña vs Málaga – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://rm8zcvk3.fubohd.com/hypermotion1/mono.m3u8?token=995fbc616419fdd1a3c74b6b730c28cf43a095d1-51-1775329721-1775311721
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="LaLiga 2", 16:30 LaLiga 2 – Cultural Leonesa vs Real Valladolid – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://dw5pdgvk.fubohd.com/hypermotion2/mono.m3u8?token=98b4fa766ba0285299d5ab9bae75e1c818f4f78c-94-1775329732-1775311732
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 16:30 Liga Profesional – Aldosivi vs Estudiantes Río Cuarto – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=5740fcb07c17566bc87f404e29846c00dfca3d1d-c3-1775329754-1775311754
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 16:30 Liga Profesional – Aldosivi vs Estudiantes Río Cuarto – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/espnpremium/mono.m3u8?token=51dd50e3e5c5ed5ca12617ca65c28696db9f1e37-73-1775329784-1775311784
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Eredivisie", 16:45 Eredivisie – AZ vs Fortuna Sittard – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://ym9yzq.fubohd.com/disney1/mono.m3u8?token=a47b53370eb67e294e8a36a95af03e7cdad9587e-bd-1775329803-1775311803
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Eredivisie", 16:45 Eredivisie – AZ vs Fortuna Sittard – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://rm8zcvk3.fubohd.com/disney1/mono.m3u8?token=3109d4084a5bea8f857598dd2f7ad06d87472eb3-a1-1775329814-1775311814
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga 1", 18:15 Liga 1 – Deportivo Garcilaso vs Sport Boys – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/liga1max/mono.m3u8?token=b73e2b9376ca6366eb5f0decd2b2b8a3eed67366-8f-1775329825-1775311825
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga 1", 18:15 Liga 1 – Deportivo Garcilaso vs Sport Boys – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/liga1max/mono.m3u8?token=a3273f164b5aeec0d9e5b0e363e537b59b936d33-4c-1775329845-1775311845
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 18:45 Serie A – Lazio vs Parma – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://bgfuzq.fubohd.com/espn3/mono.m3u8?token=ca7e70ab0230b3def5c7163b9515b08eec50f555-2e-1775329886-1775311886
+#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Serie A", 18:45 Serie A – Lazio vs Parma – FutbolLibre Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/disney6/mono.m3u8?token=75d0bb3d964eaae5885da8303eaf1f8bf109e614-ac-1775329897-1775311897
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 18:45 Serie A – Lazio vs Parma – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/espn3/mono.m3u8?token=0bdd054cf15308b5154ccb6ab146a5ec170b26b7-f4-1775329916-1775311916
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 18:45 Serie A – Lazio vs Parma – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://wp9xqedt.fubohd.com/disney6/mono.m3u8?token=9630a4a2c16ed8b04cf5b1a324ec575220a26ec8-1e-1775329927-1775311927
