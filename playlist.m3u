@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Capo Deportes 4" group-title="UFC Fight Night", 18:00 UFC Fight Night – Renato Moicano vs Chris Duncan – Capo Deportes 4
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.zohanayaan.com:1686/hls/capodeportes4.m3u8?md5=0jk1nlf61QThlIMLIoICjQ&expires=1775373398
-#EXTINF:-1 tvg-name="Canal 45" group-title="UFC Fight Night", 18:00 UFC Fight Night – Renato Moicano vs Chris Duncan – Canal 45
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capodeportes4.m3u8?md5=SF87z6Mfr0VAspLhKFC18Q&expires=1775373416
 #EXTINF:-1 tvg-name="Canal 46 (HD)" group-title="UFC Fight Night", 18:00 UFC Fight Night – Renato Moicano vs Chris Duncan – Canal 46 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/paramount1/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=6b231c6c46a7f2d2869aae8334bd0a2b693a972f-82-1775411245-1775357245
+https://98ca2.streameasthd.net/paramount1/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=c143611df36c668ac75e5d8aac23ba1c3ce4dfb6-2d-1775416448-1775362448
 #EXTINF:-1 tvg-name="Canal 47 (HD)" group-title="UFC Fight Night", 18:00 UFC Fight Night – Renato Moicano vs Chris Duncan – Canal 47 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
@@ -23,34 +13,34 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fb6jy4
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://98ca2.streameasthd.net/fanatiz9/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=c96628610da90a6fae443b05b55691161cfce452-98-1775411271-1775357271
+https://pecdl1.streameasthd.net/fanatiz9/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=480538412a25580b7c6d51847a33a4f3dfc4a0c8-5b-1775416469-1775362469
 #EXTINF:-1 tvg-name="Canal 24" group-title="Brasileirao", 18:30 Brasileirao – Coritiba vs Fluminense – Canal 24
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/premiere2/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=b8cad2cf39f950ad64f818601c68177b5565e7a2-16-1775411296-1775357296
+https://cc324.streamingtv339.com/premiere2/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=57b42631f049acc32a9ed9208443060d631b6578-ec-1775416480-1775362480
 #EXTINF:-1 tvg-name="Canal 31" group-title="Brasileirao", 19:00 Brasileirao – Vasco da Gama vs Botafogo – Canal 31
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://8c51.streameasthd.net/fanatiz10/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=69406fb2875aa17eb6205533cb860205c0a299c6-12-1775411309-1775357309
+https://8c51.streameasthd.net/fanatiz10/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=2e990b56001737f16dd0fdc0840923950ebe51d2-86-1775416490-1775362490
 #EXTINF:-1 tvg-name="Canal 32" group-title="Brasileirao", 19:00 Brasileirao – Vasco da Gama vs Botafogo – Canal 32
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://244pl.streamingtv339.com/premiere1/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=27e4167d5e25e4b9ec66d7b32a06e4d67b4c6d6e-12-1775411320-1775357320
+https://cc324.streamingtv339.com/premiere1/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=3c99b9a42cce2fac2697fc1a190788d69879497c-06-1775416501-1775362501
 #EXTINF:-1 tvg-name="Canal 25" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs Atletico Tucuman – Canal 25
 #EXTVLCOPT:http-referrer=https://hutweed.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hutweed.net/
-https://py3hsjj2.04334746.net:8443/hls/xkvfhc3.m3u8?s=NTu3gn-zZ6CjBNaKwGVQAQ&e=1775387951
+https://8nwwqrar.12703830.net:8443/hls/xkvfhc3.m3u8?s=SgmO44Vp3hLK0vKK3dNKrA&e=1775393124
 #EXTINF:-1 tvg-name="Canal 26 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs Atletico Tucuman – Canal 26 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=fc1a4dd168fbf5dc7a832c4f99be2ea64d638256-3b-1775411363-1775357363
+https://98ca2.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=8c041fc9b255a3b1ce9b713cf67925b5a55ac294-c4-1775416534-1775362534
 #EXTINF:-1 tvg-name="Canal 27 (HD)" group-title="Liga de Argentina", 19:00 Liga de Argentina – Rosario Central vs Atletico Tucuman – Canal 27 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tycint/tracks-v1a1/mono.m3u8?ip=20.169.75.193&token=b55df70d0b41850d53172d7cb8bb2e2624165935-83-1775411375-1775357375
+https://cc324.streamingtv339.com/tycint/tracks-v1a1/mono.m3u8?ip=20.106.182.98&token=a2d5b0076676b5fb754d516d0b0b84bff2924945-36-1775416545-1775362545
