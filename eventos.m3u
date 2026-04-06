@@ -3,29 +3,39 @@
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.zohanayaan.com:1686/hls/capligamax.m3u8?md5=yT3gEEm8wSYedFgwCJnSfA&expires=1775472843
+https://n2.zohanayaan.com:1686/hls/capligamax.m3u8?md5=VhpGDPvsKpkQ2_KodGmMlA&expires=1775477587
+#EXTINF:-1 tvg-name="Canal 32" group-title="Brasileirao", 18:30 Brasileirao – Gremio vs Remo – Canal 32
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://d8vgvfuq.39564828.net:8443/hls/x3hh2e9pop.m3u8?s=yeHV3f3ZvXqdMckYhDzcXA&e=1775492002
 #EXTINF:-1 tvg-name="Canal 33 (HD)" group-title="Brasileirao", 18:30 Brasileirao – Gremio vs Remo – Canal 33 (HD)
 #EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://la14hd.com/
-https://a2vlca.fubohd.com/liga1max/mono.m3u8?token=0e5a91cb83f773f51560190817df789cf7188beb-1b-1775482766-1775464766
+https://x4bnd7lq.fubohd.com/liga1max/mono.m3u8?token=9ea244a5006c3d7306d1e4666a600391f47df0fa-c4-1775487513-1775469513
 #EXTINF:-1 tvg-name="Canal 34 (HD)" group-title="Brasileirao", 18:30 Brasileirao – Gremio vs Remo – Canal 34 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8?ip=57.151.137.181&token=ea6a39ce90b3a5822936330f20dfda4c71415c30-6b-1775510676-1775456676
+https://cc324.streamingtv339.com/fanatiz2/tracks-v1a1/mono.m3u8?ip=20.236.100.3&token=1168624a213862f510a3e7253b985d409aed9668-c2-1775515426-1775461426
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:30 Liga de Argentina – Central Cordoba vs Newell's Old Boys – ESPN Premium
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capespnprem.m3u8?md5=3mHPOnkcAJwyoIdOyPHlgA&expires=1775472888
+https://n2.zohanayaan.com:1686/hls/capespnprem.m3u8?md5=za2KlEUpgIn8ijYpbtDLRw&expires=1775477641
+#EXTINF:-1 tvg-name="Canal 29" group-title="Liga de Argentina", 18:30 Liga de Argentina – Central Cordoba vs Newell's Old Boys – Canal 29
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hutweed.net/
+https://d8vgvfuq.39564828.net:8443/hls/eka6jtsowcqgv6.m3u8?s=7f1r33hvl-08NsNhDrM1bw&e=1775492056
 #EXTINF:-1 tvg-name="Canal 30 (HD)" group-title="Liga de Argentina", 18:30 Liga de Argentina – Central Cordoba vs Newell's Old Boys – Canal 30 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://doc1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=57.151.137.181&token=b1b935e7f4cf307c98905dac4f8404a259fbc940-16-1775510709-1775456709
+https://doc1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=20.236.100.3&token=cfb27f3723f3afe0cdcd97a98386d3b57e746da7-a7-1775515467-1775461467
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Liga de Argentina", 18:30 Liga de Argentina – Central Cordoba vs Newell's Old Boys – Canal 31 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/tycint/tracks-v1a1/mono.m3u8?ip=57.151.137.181&token=7580f5c55930d5a3797571340ee3ebd23319ad35-22-1775510719-1775456719
+https://cc324.streamingtv339.com/tycint/tracks-v1a1/mono.m3u8?ip=20.236.100.3&token=e26a0782d3bfb02e28811dbde0c446d9f5d28965-05-1775515481-1775461481
