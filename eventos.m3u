@@ -3,57 +3,62 @@
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=172.203.195.2&token=08863cebaf8ca8a83c7cf9cfbc29909c43c6c212-6f-1775769712-1775715712
+https://14c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=168ec0f57bf639cf92a16d36c1d69bce4b733cee-b4-1775774765-1775720765
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Copa Libertadores", 19:30 Copa Libertadores – Atletico Junior vs Palmeiras – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://c2nvdxq.fubohd.com/foxsports3/mono.m3u8?token=d752b043e03d5b42275e22dfdda1bf82267997fc-75-1775746885-1775728885
 #EXTINF:-1 tvg-name="Canal 1" group-title="Copa Libertadores", 19:30 Copa Libertadores – Cusco FC vs Flamengo – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capocampeones7.m3u8?md5=FYv8jlTuLJTbXZ4XZnzvYw&expires=1775731954
+https://n2.zohanayaan.com:1686/hls/capocampeones7.m3u8?md5=yvUUCNMeA7AAaN8kQ96l9w&expires=1775737007
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Copa Libertadores", 19:30 Copa Libertadores – Cusco FC vs Flamengo – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=172.203.195.2&token=3e4c7d5aeb130af86a0819de49e831f540760094-91-1775769774-1775715774
+https://51a1.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=606cb0009e4df2e49a44e0613325c3586a3fae28-75-1775774829-1775720829
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Copa Libertadores", 19:30 Copa Libertadores – Cusco FC vs Flamengo – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://aw1wcm92zq.fubohd.com/foxsports2/mono.m3u8?token=61c0ade535f200dc22c7f8629d5aa416cb0cf9db-a7-1775746949-1775728949
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Copa Libertadores", 19:30 Copa Libertadores – Cusco FC vs Flamengo – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.zohanayaan.com:1686/hls/capocampeones7.m3u8?md5=IzHlOCnR9f5kpdPmU-I0Lw&expires=1775732004
+https://n2.zohanayaan.com:1686/hls/capocampeones7.m3u8?md5=t_WEIWN7gby2E-ItdLOa1w&expires=1775737059
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Copa Sudamericana", 19:30 Copa Sudamericana – Blooming vs River Plate (Arg) – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://pecdl1.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=172.203.195.2&token=99bfd729b0cea9ba6b24322925ee4047283e9a23-3e-1775769834-1775715834
+https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=9c63707a65e7cbf229c94bbd708fd8440765a27f-2e-1775774891-1775720891
 #EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Copa Sudamericana", 19:30 Copa Sudamericana – Blooming vs River Plate (Arg) – Canal 4 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/fanatiz10/tracks-v1a1/mono.m3u8?ip=172.203.195.2&token=94d413f036a8cae39687b3d70fb26505cd8b52ff-c3-1775769844-1775715844
+https://cc324.streamingtv339.com/fanatiz10/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=f3f504e3f8a363745943af8cd727907dee5a8f77-24-1775774901-1775720901
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Copa Sudamericana", 19:30 Copa Sudamericana – Blooming vs River Plate (Arg) – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=eOLRIicbIo9JrFLPEwu7pA&expires=1775732064
-#EXTINF:-1 tvg-name="Liga de Campeones 3" group-title="Copa Sudamericana", 19:30 Copa Sudamericana – Montevideo City Torque vs Gremio – Liga de Campeones 3
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n5.zohanayaan.com:1686/hls/capocampeones3.m3u8?md5=LEghsjjWwRqchzzio-BPaQ&expires=1775732075
+https://n3.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=SF2ytDKDCgVCVCGwpPjxjA&expires=1775737123
 #EXTINF:-1 tvg-name="Canal 31 (HD)" group-title="Copa Sudamericana", 19:30 Copa Sudamericana – Montevideo City Torque vs Gremio – Canal 31 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://51a1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=172.203.195.2&token=358bb70465bab279c66a81d858054280bf58da9b-59-1775769895-1775715895
+https://8c51.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=b35c1acb5524c04e88d4062fad57f02174aba246-5d-1775774955-1775720955
 #EXTINF:-1 tvg-name="Canal 1" group-title="CONCACAF Champions Cup", 20:00 CONCACAF Champions Cup – Tigres UANL vs Seattle Sounders – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=BrYwAhaQpun9GvR_nlsqdw&expires=1775732115
+https://n3.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=VUuYOkzmwCnNtJTyg-rRjA&expires=1775737176
 #EXTINF:-1 tvg-name="Canal 2" group-title="CONCACAF Champions Cup", 20:00 CONCACAF Champions Cup – Tigres UANL vs Seattle Sounders – Canal 2
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
-https://8nwwqrar.12703830.net:8443/hls/ii3hr0p2u.m3u8?s=f-_3MhNB5JDG_K_dFVrCSA&e=1775746527
+https://b84gdva8.39564828.net:8443/hls/ii3hr0p2u.m3u8?s=tl1OuzNOiTVZlz-SxzRn6Q&e=1775751589
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="CONCACAF Champions Cup", 20:00 CONCACAF Champions Cup – Tigres UANL vs Seattle Sounders – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
@@ -63,52 +68,57 @@ https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/d7a1a1e5-d7ce-42ad-
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://51a1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=172.203.195.1&token=16148b86f1feb213459fa79e06f5958423f4e8fe-da-1775769948-1775715948
+https://pecdl1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=87e9eecb2e01fa69d07ea25f0bfcd7c40950b0c5-c8-1775775010-1775721010
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="CONCACAF Champions Cup", 20:00 CONCACAF Champions Cup – Tigres UANL vs Seattle Sounders – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://cgxheq.fubohd.com/dsports/mono.m3u8?token=41ab61512bb3781ec0e34021811243733fe8b0a4-80-1775747130-1775729130
 #EXTINF:-1 tvg-name="Canal 1" group-title="Copa Libertadores", 21:00 Copa Libertadores – Sporting Cristal vs Cerro Porteño – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n4.zohanayaan.com:1686/hls/capodeportes4.m3u8?md5=ah0HBeS0xiXyEQFEMEiiTg&expires=1775732179
+https://n3.zohanayaan.com:1686/hls/capodeportes4.m3u8?md5=F7O9_4gPRQig6NpnHKnXJw&expires=1775737241
 #EXTINF:-1 tvg-name="Canal 2" group-title="Copa Libertadores", 21:00 Copa Libertadores – Sporting Cristal vs Cerro Porteño – Canal 2
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
-https://8nwwqrar.12703830.net:8443/hls/pu1sgwiscq0e.m3u8?s=GjNC2m6f46qJgdbRsH9A5A&e=1775746590
+https://b84gdva8.39564828.net:8443/hls/pu1sgwiscq0e.m3u8?s=0pHDb6U5lXnuAUX1VKLMpg&e=1775751653
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Copa Libertadores", 21:00 Copa Libertadores – Sporting Cristal vs Cerro Porteño – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://8c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=172.203.195.1&token=3395f8eb31cf56c612ae8ce3ecbcf109cdf74ca2-62-1775770001-1775716001
-#EXTINF:-1 tvg-name="Liga de Campeones 5" group-title="Copa Sudamericana", 21:00 Copa Sudamericana – Academia Puerto Cabello vs Atletico Mineiro – Liga de Campeones 5
-#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://24a1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=7313bcc758e702946098130ed37e37a62d53220c-b1-1775775063-1775721063
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Copa Libertadores", 21:00 Copa Libertadores – Sporting Cristal vs Cerro Porteño – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://la14hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capocampeones5.m3u8?md5=hsOyDotm8hF0k2UEHmRd9Q&expires=1775732242
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=13dc5076f70c24999adf4b7be2683deca22779f6-89-1775747183-1775729183
 #EXTINF:-1 tvg-name="Canal 38" group-title="Copa Sudamericana", 21:00 Copa Sudamericana – Academia Puerto Cabello vs Atletico Mineiro – Canal 38
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
-https://8nwwqrar.12703830.net:8443/hls/mr8x6tqp6c4d.m3u8?s=VLHK1F2a8xehEpXfYXF6pg&e=1775746653
+https://b84gdva8.39564828.net:8443/hls/mr8x6tqp6c4d.m3u8?s=5yTid1uxGrMGDgvKM0fCqg&e=1775751718
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Copa Sudamericana", 21:00 Copa Sudamericana – Academia Puerto Cabello vs Atletico Mineiro – Canal 39 (HD)
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx339.cloud/
-https://cc324.streamingtv339.com/espn5/tracks-v1a1/mono.m3u8?ip=172.203.195.1&token=b64297f27b0a17483aee89c439642d5eb16ebe72-8b-1775770063-1775716063
+https://cc324.streamingtv339.com/espn5/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=7aaa210062bfa9f49e763cc10705fd2939416ca1-6d-1775775128-1775721128
 #EXTINF:-1 tvg-name="Canal 40 (HD)" group-title="Copa Sudamericana", 21:00 Copa Sudamericana – Academia Puerto Cabello vs Atletico Mineiro – Canal 40 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://14c51.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=172.203.195.1&token=02069ccd9f153393003388cbd3c139c8ff2fa4da-6a-1775770074-1775716074
+https://8c51.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=df6c5da92f31806799e90780bf4c9d4154c1ea21-bd-1775775139-1775721139
 #EXTINF:-1 tvg-name="Canal 1" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs LA Galaxy – Canal 1
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=5hbhcWf3uB9G0dA_EYN8Ig&expires=1775732285
+https://n4.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=lHsP2TsC3Qg1xA6TeMKv7Q&expires=1775737351
 #EXTINF:-1 tvg-name="Canal 2" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs LA Galaxy – Canal 2
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
-https://8nwwqrar.12703830.net:8443/hls/ii3hr0p2u.m3u8?s=7LjoK7lASVzBQ6lkPjiiww&e=1775746696
+https://b84gdva8.39564828.net:8443/hls/ii3hr0p2u.m3u8?s=7Vpabvny9e_QW1LFv8NSJA&e=1775751763
 #EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs LA Galaxy – Canal 3 (HD)
 #EXTVLCOPT:http-referrer=https://www.capoplay.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
@@ -118,14 +128,14 @@ https://cdn-calisports-pri-01.vos360.video/Content/LiveEvent/0e5c751e-bb39-4b3a-
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://51a1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=172.203.195.1&token=edb2046ea74a8a2526cfbe49654a22c098689d1d-de-1775770117-1775716117
+https://24a1.streameasthd.net/tudn_usa/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=91bb9d3122536c51d9ea8a576f0cbace373fc282-d7-1775775184-1775721184
 #EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs LA Galaxy – Canal 5 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://8c51.streameasthd.net/disney5/tracks-v1a1/mono.m3u8?ip=172.203.195.1&token=d694f3e2aa182c809c9a307452fef14b9067cd3f-ec-1775770127-1775716127
+https://8c51.streameasthd.net/disney5/tracks-v1a1/mono.m3u8?ip=4.246.135.36&token=3afa12e10f5785d77c373f3b98d049f390100bc4-53-1775775194-1775721194
 #EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="CONCACAF Champions Cup", 22:00 CONCACAF Champions Cup – Toluca vs LA Galaxy – Canal 6 (HD)
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=hmwbiY1oi2tmq9fCxQhEWQ&expires=1775732337
+https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=kRFMHJavJ0aQBt-qxJ5kpw&expires=1775737398
