@@ -1,1 +1,91 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Canal 1" group-title="Premier League", 06:30 Premier League – Arsenal vs Bournemouth – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n4.zohanayaan.com:1686/hls/capodeportes2.m3u8?md5=GGhxIFrIPZEHPdvKdVgebQ&expires=1775914490
+#EXTINF:-1 tvg-name="Canal 2" group-title="Premier League", 06:30 Premier League – Arsenal vs Bournemouth – Canal 2
+#EXTVLCOPT:http-referrer=https://eveningbad.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://eveningbad.net/
+https://96px249x.58103793.net:8443/hls/a31q9.m3u8?s=0ev6PZor7Y4xhS64dSgUTw&e=1775928913
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Bournemouth – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-name="Canal 4 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Bournemouth – Canal 4 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://24a1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=dc1eaaf727dfead0e28424c26fd70ac998d69b7d-62-1775952350-1775898350
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Bournemouth – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamx339.cloud/
+https://244pl.streamingtv339.com/max1/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=17b6616a005902e3cca89fc63ab92e17e759ca9e-ce-1775952361-1775898361
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="Premier League", 06:30 Premier League – Arsenal vs Bournemouth – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 1" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Deportivo Alaves – Canal 1
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n4.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=kzxkcuYFIX_DklJjIkAGkA&expires=1775914586
+#EXTINF:-1 tvg-name="Canal 2" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Deportivo Alaves – Canal 2
+#EXTVLCOPT:http-referrer=https://eveningbad.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://eveningbad.net/
+https://96px249x.58103793.net:8443/hls/jv27oczy7c.m3u8?s=TgBfTQwC8jeNgvabRj9R4A&e=1775929000
+#EXTINF:-1 tvg-name="Canal 3 (HD)" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Deportivo Alaves – Canal 3 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://pecdl1.streameasthd.net/espn4/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=bb28059ce6922c617368a93e081e5613888be5fb-fb-1775952410-1775898410
+#EXTINF:-1 tvg-name="Canal 5 (HD)" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Deportivo Alaves – Canal 5 (HD)
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n2.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=cEjU7eUS3Htw2YokEitoog&expires=1775914648
+#EXTINF:-1 tvg-name="Canal 6 (HD)" group-title="LaLiga", 07:00 LaLiga – Real Sociedad vs Deportivo Alaves – Canal 6 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://51a1.streameasthd.net/disney3/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=2674537a68757ab363ab8eb1a7fb24b1da709f00-d6-1775952461-1775898461
+#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – Montevideo City Torque vs Albion FC – VTV Uruguay
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hoca6.com/
+https://n3.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=UMN8mfkPFo5Lw7h60kj91Q&expires=1775914676
+#EXTINF:-1 tvg-name="Canal 12 (HD)" group-title="Liga de Uruguay", 08:00 Liga de Uruguay – Montevideo City Torque vs Albion FC – Canal 12 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://51a1.streameasthd.net/disney6/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=1284f9d2df1961d6c5c1d603665368a508f92e96-e4-1775952515-1775898515
+#EXTINF:-1 tvg-name="Capo Deportes 4" group-title="Serie A", 08:00 Serie A – Torino vs Hellas Verona – Capo Deportes 4
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://capo7play.com/
+https://n2.zohanayaan.com:1686/hls/capodeportes4.m3u8?md5=lQ1PtgdmnD5ixMrSVaPcFA&expires=1775914739
+#EXTINF:-1 tvg-name="Canal 6" group-title="Serie A", 08:00 Serie A – Torino vs Hellas Verona – Canal 6
+#EXTVLCOPT:http-referrer=https://eveningbad.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://eveningbad.net/
+https://96px249x.58103793.net:8443/hls/g6auvbu66y.m3u8?s=F0iiGlZQnoKvsUWXGPZ0Tg&e=1775929164
+#EXTINF:-1 tvg-name="Canal 7 (HD)" group-title="Serie A", 08:00 Serie A – Torino vs Hellas Verona – Canal 7 (HD)
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.capoplay.net/
+https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#EXTINF:-1 tvg-name="Canal 8 (HD)" group-title="Serie A", 08:00 Serie A – Torino vs Hellas Verona – Canal 8 (HD)
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://51a1.streameasthd.net/disney5/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=ed755efd8223a2bde016693cc9c2578c83148e8f-d6-1775952592-1775898592
+#EXTINF:-1 tvg-name="Canal 9" group-title="Serie A", 08:00 Serie A – Cagliari vs Cremonese – Canal 9
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamtpnew.com/
+https://98ca2.streameasthd.net/disney4/tracks-v1a1/mono.m3u8?ip=20.98.23.161&token=cd968c287464ff184e407172db558fe57a726eb4-0d-1775952608-1775898608
