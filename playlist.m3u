@@ -1,76 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="VTV Uruguay" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Albion FC vs Central Español – VTV Uruguay
-#EXTVLCOPT:http-referrer=https://hoca6.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoca6.com/
-https://n3.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=Bt7MNQXk1GjOxCaYQXSeNQ&expires=1776487565
-#EXTINF:-1 tvg-name="Canal 38" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Albion FC vs Central Español – Canal 38
-#EXTVLCOPT:http-referrer=https://hoca6.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hoca6.com/
-https://n3.zohanayaan.com:1686/hls/wsmkmlfeed109.m3u8?md5=2lFdrg96oJ3_QjEVKyMvbA&expires=1776487577
 #EXTINF:-1 tvg-name="Canal 39 (HD)" group-title="Liga de Uruguay", 18:00 Liga de Uruguay – Albion FC vs Central Español – Canal 39 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://51a1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=52.159.226.3&token=2286cf0782f946a522c1fe73a18a1d82b2d0c547-f6-1776525389-1776471389
+https://pecdl1.streameasthd.net/disney1/tracks-v1a1/mono.m3u8?ip=172.214.44.148&token=93842016e538f9b18ceda8e2279120b3a9d090ad-f9-1776534081-1776480081
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="Liga de Argentina", 18:30 Liga de Argentina – Union Santa Fe vs Newell's Old Boys – ESPN Premium
 #EXTVLCOPT:http-referrer=https://capo7play.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://capo7play.com/
-https://n3.zohanayaan.com:1686/hls/capespnprem.m3u8?md5=mYAI-v5_dsjIhHzzZTLafw&expires=1776487611
+https://n5.zohanayaan.com:1686/hls/capespnprem.m3u8?md5=W5pAU71zKnaDbnfURtvoBA&expires=1776496302
 #EXTINF:-1 tvg-name="Canal 41" group-title="Liga de Argentina", 18:30 Liga de Argentina – Union Santa Fe vs Newell's Old Boys – Canal 41
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://eveningbad.net/
-https://cqr2aqt6.58103793.net:8443/hls/eka6jtsowcqgv6.m3u8?s=fb9g_t7OSxj6lFvMvROwow&e=1776502023
+https://qeksce9q.80386851.net:8443/hls/eka6jtsowcqgv6.m3u8?s=1svXRh_J1Jl1pPUewga0Rw&e=1776510712
 #EXTINF:-1 tvg-name="Canal 42 (HD)" group-title="Liga de Argentina", 18:30 Liga de Argentina – Union Santa Fe vs Newell's Old Boys – Canal 42 (HD)
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamtpnew.com/
-https://24a1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=52.159.226.3&token=02c5a626284a6d84ad400cc9e8a346e62b9b54cf-33-1776525434-1776471434
+https://doc1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=172.214.44.148&token=67256753a85fbb853c71adec1e7e362848448de1-4e-1776534124-1776480124
 #EXTINF:-1 tvg-name="Canal 43 (HD)" group-title="Liga de Argentina", 18:30 Liga de Argentina – Union Santa Fe vs Newell's Old Boys – Canal 43 (HD)
 #EXTVLCOPT:http-referrer=https://streamx550.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamx550.com/
-https://244pl.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8?ip=52.159.226.3&token=85ce88fabd0e1b49aba1cf438fdb70c17c360d6e-e1-1776525445-1776471445
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://cgxheq.fubohd.com/espnpremium/mono.m3u8?token=98d4dca0407ab2c7f56184f0c114e9689a34d79f-2b-1776497556-1776479556
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://agvyby.fubohd.com/disney13/mono.m3u8?token=09f1d84f4b2c7d0da3363e8a44f18a31698c632c-4f-1776497567-1776479567
-#EXTINF:-1 tvg-name="FutbolLibre Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – FutbolLibre Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://cqr2aqt6.58103793.net:8443/hls/o9mkcz3mo.m3u8?s=XBAqBhDVPuWDHE9tQEev7g&e=1776502081
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=ce906e886e5b9cdd6903ca545c0336536bdf7e4c-cc-1776497603-1776479603
-#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – LibrePelota Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://cgxheq.fubohd.com/disney13/mono.m3u8?token=1465084ca28a8d99d1fe9a509a07a3567ee75530-8a-1776497614-1776479614
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://dw5pdgvk.fubohd.com/espnpremium/mono.m3u8?token=fdb7cfc1a007b9d452911b4cb81273d60365ef7c-41-1776497646-1776479646
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://aw1wcm92zq.fubohd.com/disney13/mono.m3u8?token=cd72089f5998a9488fcf0da0470cdce975c9d02d-91-1776497657-1776479657
-#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga Profesional", 23:30 Liga Profesional – Unión Santa Fe vs Newell's Old Boys – PelotaLibre1 Stream
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://builddiamond.net/
-https://cqr2aqt6.58103793.net:8443/hls/o9mkcz3mo.m3u8?s=Yg2xnyIFrYLVWV27YzH3jQ&e=1776502171
+https://cc324.streamingtv339.com/fanatiz5/tracks-v1a1/mono.m3u8?ip=172.214.44.148&token=c8460c0f88540c20ccc020eba779371b20a4b2b1-2c-1776534134-1776480134
