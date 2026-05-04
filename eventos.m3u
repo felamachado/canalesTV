@@ -1,1 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Premier League", 14:00 Premier League – Chelsea vs Nottingham Forest – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Premier League", 14:00 Premier League – Chelsea vs Nottingham Forest – PelotaLibre1 Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 16:30 Serie A – Cremonese vs Lazio – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://anvtcax.fubohd.com/espn2mx/mono.m3u8?token=459887375c28bd9f12ad8981e83955423d7007c1-b-1777917570-1777899570
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Serie A", 16:30 Serie A – Cremonese vs Lazio – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://c2nvdxq.fubohd.com/foxdeportes/mono.m3u8?token=55d3ba3f2b1ea1ed0742b1dabbc65111fdfeb631-f9-1777917591-1777899591
+#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Serie A", 16:30 Serie A – Cremonese vs Lazio – PelotaLibre1 Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://cgxheq.fubohd.com/espn2mx/mono.m3u8?token=d33cb7f9a7361f10b96f205e7b55ea8ec6827c9c-c2-1777917633-1777899633
+#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Serie A", 16:30 Serie A – Cremonese vs Lazio – PelotaLibre1 Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://agvyby.fubohd.com/foxdeportes/mono.m3u8?token=bce7ad14cd98e67a72134b30e630a6b3070d0351-39-1777917654-1777899654
+#EXTINF:-1 tvg-name="LibrePelota Stream" group-title="Liga 1", 18:00 Liga 1 – Los Chankas vs Deportivo Garcilaso – LibrePelota Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://c2nvdxq.fubohd.com/liga1max/mono.m3u8?token=590575dde7109bed9f90bdc0ff524bb100bafcd9-6-1777917675-1777899675
+#EXTINF:-1 tvg-name="PelotaLibre1 Stream" group-title="Liga 1", 18:00 Liga 1 – Los Chankas vs Deportivo Garcilaso – PelotaLibre1 Stream
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://la14hd.com/
+https://qzv4jmsc.fubohd.com/liga1max/mono.m3u8?token=800ac0b4ed087f78efb457e0e03fc12c9ef69ffe-75-1777917723-1777899723
