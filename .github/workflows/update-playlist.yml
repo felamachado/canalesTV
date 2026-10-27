@@ -29,18 +29,14 @@ jobs:
         
     - name: Install Chrome and ChromeDriver
       run: |
-        # Install Chrome
-        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
-        sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+        # Install Chrome (modern signing; apt-key removed from Ubuntu runners)
         sudo apt-get update
-        sudo apt-get install -y google-chrome-stable xvfb
-        
-        # Get Chrome version and install matching ChromeDriver
-        CHROME_VERSION=$(google-chrome --version | cut -d " " -f3 | cut -d "." -f1-3)
-        echo "Chrome version: $CHROME_VERSION"
-        
-        # Download and install ChromeDriver using webdriver-manager approach
-        mkdir -p /home/runner/.wdm/drivers/chromedriver/linux64/
+        sudo apt-get install -y wget gnupg xvfb
+        wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/googlechrome-linux-keyring.gpg
+        echo "deb [arch=amd64 signed-by=/usr/share/keyrings/googlechrome-linux-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+        sudo apt-get update
+        sudo apt-get install -y google-chrome-stable
+        google-chrome --version
         
     - name: Install Python dependencies
       run: |
@@ -61,8 +57,9 @@ jobs:
         Xvfb :99 -screen 0 1920x1080x24 > /dev/null 2>&1 &
         sleep 3
         
-        # Install ChromeDriver using webdriver-manager
-        python3 -c "from webdriver_manager.chrome import ChromeDriverManager; ChromeDriverManager().install()"
+        # Install ChromeDriver using webdriver-manager and put it on PATH
+        python3 -c "import shutil; from webdriver_manager.chrome import ChromeDriverManager; p=ChromeDriverManager().install(); shutil.copy(p, '/usr/local/bin/chromedriver'); print('chromedriver at', p)"
+        sudo chmod +x /usr/local/bin/chromedriver
         
         # Run the script
         python3 pelota_builder.py

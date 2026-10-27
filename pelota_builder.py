@@ -52,6 +52,7 @@ def init_driver() -> webdriver.Chrome:
     paths = [
         '/home/felipe/.wdm/drivers/chromedriver/linux64/143.0.7499.192/chromedriver-linux64/chromedriver',
         '/home/felipe/.wdm/drivers/chromedriver/linux64/139.0.7258.138/chromedriver-linux64/chromedriver',
+        '/usr/local/bin/chromedriver',
         '/usr/bin/chromedriver'
     ]
     
