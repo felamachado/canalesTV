@@ -164,17 +164,25 @@ def resolve_source(key, data):
     query = info.get("query", key)
     for domain in candidates:
         url = f"https://{domain}/"
+        print(f"  trying {url} ...", end=" ")
         if _domain_ok(url, marker):
+            print("OK")
             return url, data
-    for domain in _search_ddg(query):
+        print("FAIL")
+    ddg_domains = _search_ddg(query)
+    print(f"  DDG returned: {ddg_domains}")
+    for domain in ddg_domains:
         url = f"https://{domain}/"
+        print(f"  trying {url} ...", end=" ")
         if _domain_ok(url, marker):
+            print("OK")
             if domain not in candidates:
                 candidates.insert(0, domain)
             info["candidates"] = candidates
             data[key] = info
             save_sources(data)
             return url, data
+        print("FAIL")
     print(f"Warning: could not resolve source {key}")
     return None, data
 
@@ -185,6 +193,7 @@ def get_roja_events(url: str) -> list:
         print(f"Scraping RojaDirecta: {url}")
         resp = requests.get(url, timeout=10)
         soup = BeautifulSoup(resp.text, "html.parser")
+        print(f"  Roja li count: {len(soup.select('ul.menu > li'))}")
         
         for li in soup.select("ul.menu > li"):
             t = li.find("span", class_="t")
@@ -213,10 +222,15 @@ def get_futbollibre_style_events(url: str, source_name: str) -> list:
         print(f"Scraping {source_name}: {url}")
         driver.get(url)
         time.sleep(5) # Esperar carga de JS
+        try:
+            print(f"  page title: {driver.title}")
+        except Exception:
+            pass
         
         # Buscar enlaces que contengan un tiempo
         # Estrategia: Buscar todos los 'a', chequear si tienen hijo 'time' o texto tipo XX:XX
         links = driver.find_elements(By.TAG_NAME, "a")
+        print(f"  total links: {len(links)}")
         
         for a in links:
             try:
@@ -387,9 +401,13 @@ def extract_m3u8(url: str) -> dict:
 def main():
     # 1. Descubrir URLs actuales de las fuentes
     sources = load_sources()
+    print("Resolving roja...")
     roja_url, sources = resolve_source("roja", sources)
+    print("Resolving futlib...")
     futlib_url, sources = resolve_source("futlib", sources)
+    print("Resolving libpel...")
     libpel_url, sources = resolve_source("libpel", sources)
+    print("Resolving pelota1...")
     pelota1_url, sources = resolve_source("pelota1", sources)
 
     all_events = []
