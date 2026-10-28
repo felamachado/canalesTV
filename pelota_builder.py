@@ -158,12 +158,38 @@ def _search_ddg(query, limit=5):
     try:
         resp = requests.get("https://html.duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
         print(f"    ddg status={resp.status_code} len={len(resp.text)} result_a_count={resp.text.count('result__a')}")
-        print(f"    ddg sample: {resp.text[:400].replace(chr(10), ' ')}")
         doms = _extract_ddg_domains(resp.text, limit)
         print(f"    ddg parsed={doms}")
         return doms
     except Exception as e:
         print(f"    ddg error={e}")
+        return []
+
+def _search_bing(query, limit=5):
+    from urllib.parse import urlparse
+    try:
+        resp = requests.get("https://www.bing.com/search", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        print(f"    bing status={resp.status_code} len={len(resp.text)}")
+        domains = []
+        seen = set()
+        soup = BeautifulSoup(resp.text, "html.parser")
+        for a in soup.select("li.b_algo h2 a, h2 a"):
+            host = urlparse(a.get("href", "")).netloc
+            if not host or "bing.com" in host:
+                continue
+            host = host.lower()
+            if host.startswith("www."):
+                host = host[4:]
+            if host in seen:
+                continue
+            seen.add(host)
+            domains.append(host)
+            if len(domains) >= limit:
+                break
+        print(f"    bing parsed={domains}")
+        return domains
+    except Exception as e:
+        print(f"    bing error={e}")
         return []
 
 def resolve_source(key, data):
@@ -179,7 +205,10 @@ def resolve_source(key, data):
             return url, data
         print("FAIL")
     ddg_domains = _search_ddg(query)
-    print(f"  DDG returned: {ddg_domains}")
+    if not ddg_domains:
+        print("  DDG empty, trying Bing...")
+        ddg_domains = _search_bing(query)
+    print(f"  search returned: {ddg_domains}")
     for domain in ddg_domains:
         url = f"https://{domain}/"
         print(f"  trying {url} ...", end=" ")
