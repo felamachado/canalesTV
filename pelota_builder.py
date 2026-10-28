@@ -115,8 +115,11 @@ def save_sources(data):
 def _domain_ok(url, marker):
     try:
         resp = requests.get(url, timeout=10, allow_redirects=True, headers={"User-Agent": "Mozilla/5.0"})
-        ok = resp.status_code == 200 and marker.lower() in resp.text.lower()
-        print(f"    status={resp.status_code} marker={'yes' if marker.lower() in resp.text.lower() else 'no'} len={len(resp.text)}")
+        has_time = re.search(r'\d{2}:\d{2}', resp.text) is not None
+        blocked = any(b in resp.text.lower() for b in ["no longer available", "alliance for creativity", "access denied"])
+        marker_ok = marker.lower() in resp.text.lower()
+        ok = resp.status_code == 200 and marker_ok and has_time and not blocked
+        print(f"    status={resp.status_code} marker={'yes' if marker_ok else 'no'} time={'yes' if has_time else 'no'} blocked={'yes' if blocked else 'no'} len={len(resp.text)}")
         return ok
     except Exception as e:
         print(f"    error={e}")
@@ -155,6 +158,7 @@ def _search_ddg(query, limit=5):
     try:
         resp = requests.get("https://duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
         print(f"    ddg status={resp.status_code} len={len(resp.text)}")
+        print(f"    ddg sample: {resp.text[:400].replace(chr(10), ' ')}")
         doms = _extract_ddg_domains(resp.text, limit)
         print(f"    ddg parsed={doms}")
         return doms
