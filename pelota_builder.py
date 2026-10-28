@@ -120,6 +120,11 @@ def _domain_ok(url, marker):
         marker_ok = marker.lower() in resp.text.lower()
         ok = resp.status_code == 200 and marker_ok and has_time and not blocked
         print(f"    status={resp.status_code} marker={'yes' if marker_ok else 'no'} time={'yes' if has_time else 'no'} blocked={'yes' if blocked else 'no'} len={len(resp.text)}")
+        if marker_ok and not has_time:
+            from bs4 import BeautifulSoup as _BS
+            _s = _BS(resp.text, "html.parser")
+            print(f"    title={_s.title.string if _s.title else None}")
+            print(f"    sample={resp.text[:300].replace(chr(10), ' ')}")
         return ok
     except Exception as e:
         print(f"    error={e}")
