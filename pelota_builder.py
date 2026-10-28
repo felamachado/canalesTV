@@ -124,7 +124,8 @@ def _domain_ok(url, marker):
             from bs4 import BeautifulSoup as _BS
             _s = _BS(resp.text, "html.parser")
             print(f"    title={_s.title.string if _s.title else None}")
-            print(f"    sample={resp.text[:300].replace(chr(10), ' ')}")
+            print(f"    links={resp.text.count('<a ')} partido={'yes' if 'partido' in resp.text.lower() else 'no'}")
+            print(f"    sample={resp.text[:1500].replace(chr(10), ' ')}")
         return ok
     except Exception as e:
         print(f"    error={e}")
