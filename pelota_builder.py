@@ -170,7 +170,8 @@ def _search_bing(query, limit=5):
     try:
         resp = requests.get("https://www.bing.com/search", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
         print(f"    bing status={resp.status_code} len={len(resp.text)} b_algo={resp.text.count('b_algo')}")
-        print(f"    bing sample: {resp.text[:500].replace(chr(10), ' ')}")
+        idx = resp.text.find("b_algo")
+        print(f"    bing ctx: {resp.text[max(0,idx-80):idx+260].replace(chr(10), ' ')}")
         domains = []
         seen = set()
         soup = BeautifulSoup(resp.text, "html.parser")
