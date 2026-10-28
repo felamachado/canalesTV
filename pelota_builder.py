@@ -115,10 +115,11 @@ def save_sources(data):
 def _domain_ok(url, marker):
     try:
         resp = requests.get(url, timeout=10, allow_redirects=True, headers={"User-Agent": "Mozilla/5.0"})
-        if resp.status_code != 200:
-            return False
-        return marker.lower() in resp.text.lower()
-    except Exception:
+        ok = resp.status_code == 200 and marker.lower() in resp.text.lower()
+        print(f"    status={resp.status_code} marker={'yes' if marker.lower() in resp.text.lower() else 'no'} len={len(resp.text)}")
+        return ok
+    except Exception as e:
+        print(f"    error={e}")
         return False
 
 def _extract_ddg_domains(html, limit=5):
@@ -153,8 +154,12 @@ def _extract_ddg_domains(html, limit=5):
 def _search_ddg(query, limit=5):
     try:
         resp = requests.get("https://duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-        return _extract_ddg_domains(resp.text, limit)
-    except Exception:
+        print(f"    ddg status={resp.status_code} len={len(resp.text)}")
+        doms = _extract_ddg_domains(resp.text, limit)
+        print(f"    ddg parsed={doms}")
+        return doms
+    except Exception as e:
+        print(f"    ddg error={e}")
         return []
 
 def resolve_source(key, data):
@@ -193,7 +198,9 @@ def get_roja_events(url: str) -> list:
         print(f"Scraping RojaDirecta: {url}")
         resp = requests.get(url, timeout=10)
         soup = BeautifulSoup(resp.text, "html.parser")
+        print(f"  Roja status={resp.status_code} len={len(resp.text)} title={soup.title.string if soup.title else None}")
         print(f"  Roja li count: {len(soup.select('ul.menu > li'))}")
+        print(f"  Roja text sample: {resp.text[:300].replace(chr(10), ' ')}")
         
         for li in soup.select("ul.menu > li"):
             t = li.find("span", class_="t")
