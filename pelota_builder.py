@@ -175,14 +175,15 @@ def _search_bing(query, limit=5):
         domains = []
         seen = set()
         soup = BeautifulSoup(resp.text, "html.parser")
-        for a in soup.select("li.b_algo h2 a, h2 a"):
-            host = urlparse(a.get("href", "")).netloc
-            if not host or "bing.com" in host:
+        for cite in soup.find_all("cite"):
+            text = cite.get_text(" ", strip=True)
+            m = re.search(r'([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}', text)
+            if not m:
                 continue
-            host = host.lower()
+            host = m.group(0).lower()
             if host.startswith("www."):
                 host = host[4:]
-            if host in seen:
+            if "bing.com" in host or host in seen:
                 continue
             seen.add(host)
             domains.append(host)
