@@ -1,21 +1,30 @@
 {
   "roja": {
-    "candidates": ["rojadirectaenvivo.pl"],
+    "candidates": [
+      "rojadirectaenvivo.pl"
+    ],
     "query": "rojadirecta en vivo",
     "marker": "rojadirecta"
   },
   "futlib": {
-    "candidates": ["futbollibre.mx"],
+    "candidates": [
+      "librefutbol.cloud",
+      "futbollibre.mx"
+    ],
     "query": "futbollibre en vivo",
     "marker": "futbollibre"
   },
   "libpel": {
-    "candidates": ["librepelota.com"],
+    "candidates": [
+      "librepelota.com"
+    ],
     "query": "librepelota en vivo",
     "marker": "librepelota"
   },
   "pelota1": {
-    "candidates": ["pelotalibre1.pe"],
+    "candidates": [
+      "pelotalibre1.pe"
+    ],
     "query": "pelotalibre en vivo",
     "marker": "pelotalibre"
   }
