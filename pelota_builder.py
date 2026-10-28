@@ -118,21 +118,8 @@ def _domain_ok(url, marker):
         has_time = re.search(r'\d{2}:\d{2}', resp.text) is not None
         blocked = any(b in resp.text.lower() for b in ["no longer available", "alliance for creativity", "access denied"])
         marker_ok = marker.lower() in resp.text.lower()
-        ok = resp.status_code == 200 and marker_ok and has_time and not blocked
-        print(f"    status={resp.status_code} marker={'yes' if marker_ok else 'no'} time={'yes' if has_time else 'no'} blocked={'yes' if blocked else 'no'} len={len(resp.text)}")
-        if marker_ok and not has_time:
-            from bs4 import BeautifulSoup as _BS
-            _s = _BS(resp.text, "html.parser")
-            print(f"    title={_s.title.string if _s.title else None}")
-            print(f"    links={resp.text.count('<a ')} partido={'yes' if 'partido' in resp.text.lower() else 'no'}")
-            from bs4 import BeautifulSoup as _BS
-            _s = _BS(resp.text, "html.parser")
-            _hrefs = [a.get('href') for a in _s.find_all('a') if a.get('href')]
-            print(f"    hrefs={_hrefs}")
-            print(f"    sample={resp.text[:800].replace(chr(10), ' ')}")
-        return ok
-    except Exception as e:
-        print(f"    error={e}")
+        return resp.status_code == 200 and marker_ok and has_time and not blocked
+    except Exception:
         return False
 
 def _extract_ddg_domains(html, limit=5):
@@ -167,21 +154,14 @@ def _extract_ddg_domains(html, limit=5):
 def _search_ddg(query, limit=5):
     try:
         resp = requests.get("https://html.duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-        print(f"    ddg status={resp.status_code} len={len(resp.text)} result_a_count={resp.text.count('result__a')}")
-        doms = _extract_ddg_domains(resp.text, limit)
-        print(f"    ddg parsed={doms}")
-        return doms
-    except Exception as e:
-        print(f"    ddg error={e}")
+        return _extract_ddg_domains(resp.text, limit)
+    except Exception:
         return []
 
 def _search_bing(query, limit=5):
     from urllib.parse import urlparse
     try:
         resp = requests.get("https://www.bing.com/search", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-        print(f"    bing status={resp.status_code} len={len(resp.text)} b_algo={resp.text.count('b_algo')}")
-        idx = resp.text.find("<cite")
-        print(f"    bing cite ctx: {resp.text[max(0,idx-20):idx+120].replace(chr(10), ' ')}")
         domains = []
         seen = set()
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -203,10 +183,8 @@ def _search_bing(query, limit=5):
             domains.append(host)
             if len(domains) >= limit:
                 break
-        print(f"    bing parsed={domains}")
         return domains
-    except Exception as e:
-        print(f"    bing error={e}")
+    except Exception:
         return []
 
 def resolve_source(key, data):
@@ -216,28 +194,20 @@ def resolve_source(key, data):
     query = info.get("query", key)
     for domain in candidates:
         url = f"https://{domain}/"
-        print(f"  trying {url} ...", end=" ")
         if _domain_ok(url, marker):
-            print("OK")
             return url, data
-        print("FAIL")
     ddg_domains = _search_ddg(query)
     if not ddg_domains:
-        print("  DDG empty, trying Bing...")
         ddg_domains = _search_bing(query)
-    print(f"  search returned: {ddg_domains}")
     for domain in ddg_domains:
         url = f"https://{domain}/"
-        print(f"  trying {url} ...", end=" ")
         if _domain_ok(url, marker):
-            print("OK")
             if domain not in candidates:
                 candidates.insert(0, domain)
             info["candidates"] = candidates
             data[key] = info
             save_sources(data)
             return url, data
-        print("FAIL")
     print(f"Warning: could not resolve source {key}")
     return None, data
 
@@ -248,9 +218,6 @@ def get_roja_events(url: str) -> list:
         print(f"Scraping RojaDirecta: {url}")
         resp = requests.get(url, timeout=10)
         soup = BeautifulSoup(resp.text, "html.parser")
-        print(f"  Roja status={resp.status_code} len={len(resp.text)} title={soup.title.string if soup.title else None}")
-        print(f"  Roja li count: {len(soup.select('ul.menu > li'))}")
-        print(f"  Roja text sample: {resp.text[:300].replace(chr(10), ' ')}")
         
         for li in soup.select("ul.menu > li"):
             t = li.find("span", class_="t")
@@ -279,15 +246,10 @@ def get_futbollibre_style_events(url: str, source_name: str) -> list:
         print(f"Scraping {source_name}: {url}")
         driver.get(url)
         time.sleep(5) # Esperar carga de JS
-        try:
-            print(f"  page title: {driver.title}")
-        except Exception:
-            pass
         
         # Buscar enlaces que contengan un tiempo
         # Estrategia: Buscar todos los 'a', chequear si tienen hijo 'time' o texto tipo XX:XX
         links = driver.find_elements(By.TAG_NAME, "a")
-        print(f"  total links: {len(links)}")
         
         for a in links:
             try:
@@ -458,13 +420,9 @@ def extract_m3u8(url: str) -> dict:
 def main():
     # 1. Descubrir URLs actuales de las fuentes
     sources = load_sources()
-    print("Resolving roja...")
     roja_url, sources = resolve_source("roja", sources)
-    print("Resolving futlib...")
     futlib_url, sources = resolve_source("futlib", sources)
-    print("Resolving libpel...")
     libpel_url, sources = resolve_source("libpel", sources)
-    print("Resolving pelota1...")
     pelota1_url, sources = resolve_source("pelota1", sources)
 
     all_events = []
