@@ -6,15 +6,23 @@ pelota_builder.py – Generador de eventos.m3u desde múltiples fuentes
 import re
 import time
 import os
+import json
 from pathlib import Path
 from git import Repo, exc as git_exc
 import requests
 from bs4 import BeautifulSoup
-from seleniumwire import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.common.by import By
+try:
+    from seleniumwire import webdriver
+    from selenium.webdriver.chrome.options import Options
+    from selenium.webdriver.chrome.service import Service
+    from webdriver_manager.chrome import ChromeDriverManager
+    from selenium.webdriver.common.by import By
+except Exception:  # allow importing helpers (e.g. tests) without selenium
+    webdriver = None
+    Options = None
+    Service = None
+    ChromeDriverManager = None
+    By = None
 
 # ───────────── Configuración ─────────────
 ROJA_URL       = "https://www.rojadirectaenvivo.pl/"
@@ -38,7 +46,7 @@ EXCLUDED_LEAGUES = [
 ]
 
 # ───────────── Drivers ─────────────
-def init_driver() -> webdriver.Chrome:
+def init_driver() -> "webdriver.Chrome":
     opts = Options()
     opts.add_argument("--headless=new")
     opts.add_argument("--disable-gpu")
@@ -83,12 +91,99 @@ def normalize(url: str) -> str:
     if not url.startswith("http"): return "https://" + url.lstrip("/")
     return url
 
-def get_roja_events() -> list:
+# ───────────── Descubrimiento de fuentes ─────────────
+SOURCES_FILE = REPO_DIR / "sources.json"
+
+DEFAULT_SOURCES = {
+    "roja": {"candidates": ["rojadirectaenvivo.pl"], "query": "rojadirecta en vivo", "marker": "rojadirecta"},
+    "futlib": {"candidates": ["futbollibre.mx"], "query": "futbollibre en vivo", "marker": "futbollibre"},
+    "libpel": {"candidates": ["librepelota.com"], "query": "librepelota en vivo", "marker": "librepelota"},
+    "pelota1": {"candidates": ["pelotalibre1.pe"], "query": "pelotalibre en vivo", "marker": "pelotalibre"},
+}
+
+def load_sources():
+    if SOURCES_FILE.exists():
+        try:
+            return json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+        except Exception:
+            pass
+    return {k: dict(v) for k, v in DEFAULT_SOURCES.items()}
+
+def save_sources(data):
+    SOURCES_FILE.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+def _domain_ok(url, marker):
+    try:
+        resp = requests.get(url, timeout=10, allow_redirects=True, headers={"User-Agent": "Mozilla/5.0"})
+        if resp.status_code != 200:
+            return False
+        return marker.lower() in resp.text.lower()
+    except Exception:
+        return False
+
+def _extract_ddg_domains(html, limit=5):
+    from urllib.parse import urlparse, parse_qs, unquote
+    domains = []
+    seen = set()
+    soup = BeautifulSoup(html, "html.parser")
+    for a in soup.select("a.result__a"):
+        href = a.get("href", "")
+        parsed = urlparse(href)
+        host = None
+        if "uddg" in parsed.query:
+            qs = parse_qs(parsed.query)
+            if "uddg" in qs:
+                real = unquote(qs["uddg"][0])
+                host = urlparse(real).netloc
+        else:
+            host = parsed.netloc
+        if not host or "duckduckgo.com" in host:
+            continue
+        host = host.lower()
+        if host.startswith("www."):
+            host = host[4:]
+        if host in seen:
+            continue
+        seen.add(host)
+        domains.append(host)
+        if len(domains) >= limit:
+            break
+    return domains
+
+def _search_ddg(query, limit=5):
+    try:
+        resp = requests.get("https://duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        return _extract_ddg_domains(resp.text, limit)
+    except Exception:
+        return []
+
+def resolve_source(key, data):
+    info = data.get(key, {})
+    candidates = list(info.get("candidates", []))
+    marker = info.get("marker", key)
+    query = info.get("query", key)
+    for domain in candidates:
+        url = f"https://{domain}/"
+        if _domain_ok(url, marker):
+            return url, data
+    for domain in _search_ddg(query):
+        url = f"https://{domain}/"
+        if _domain_ok(url, marker):
+            if domain not in candidates:
+                candidates.insert(0, domain)
+            info["candidates"] = candidates
+            data[key] = info
+            save_sources(data)
+            return url, data
+    print(f"Warning: could not resolve source {key}")
+    return None, data
+
+def get_roja_events(url: str) -> list:
     """Scraper original de RojaDirecta (basado en HTML estatico si es posible)"""
     events = []
     try:
-        print(f"Scraping RojaDirecta: {ROJA_URL}")
-        resp = requests.get(ROJA_URL, timeout=10)
+        print(f"Scraping RojaDirecta: {url}")
+        resp = requests.get(url, timeout=10)
         soup = BeautifulSoup(resp.text, "html.parser")
         
         for li in soup.select("ul.menu > li"):
@@ -290,13 +385,22 @@ def extract_m3u8(url: str) -> dict:
 # ───────────── Main ─────────────
 
 def main():
+    # 1. Descubrir URLs actuales de las fuentes
+    sources = load_sources()
+    roja_url, sources = resolve_source("roja", sources)
+    futlib_url, sources = resolve_source("futlib", sources)
+    libpel_url, sources = resolve_source("libpel", sources)
+    pelota1_url, sources = resolve_source("pelota1", sources)
+
     all_events = []
-    
-    # 1. Obtener eventos de todas las fuentes
-    all_events.extend(get_roja_events())
-    all_events.extend(get_futbollibre_style_events(FUTLIB_URL, "FutbolLibre"))
-    all_events.extend(get_futbollibre_style_events(LIBPEL_URL, "LibrePelota"))
-    all_events.extend(get_futbollibre_style_events(PELOTA1_URL, "PelotaLibre1"))
+    if roja_url:
+        all_events.extend(get_roja_events(roja_url))
+    if futlib_url:
+        all_events.extend(get_futbollibre_style_events(futlib_url, "FutbolLibre"))
+    if libpel_url:
+        all_events.extend(get_futbollibre_style_events(libpel_url, "LibrePelota"))
+    if pelota1_url:
+        all_events.extend(get_futbollibre_style_events(pelota1_url, "PelotaLibre1"))
     
     # 2. Filtrar y ordenar
     unique_events = {} # Key: (hora, partido) -> data
@@ -356,7 +460,10 @@ def main():
     print(f"Guardado {out_file} con {processed_count} eventos.")
     
     # 4. Canales Fijos (LibrePelota)
-    fixed_channels = get_fixed_channels(LIBPEL_URL)
+    if libpel_url:
+        fixed_channels = get_fixed_channels(libpel_url)
+    else:
+        fixed_channels = []
     fixed_entries = []
     print(f"Procesando {len(fixed_channels)} canales fijos...")
     
@@ -400,7 +507,7 @@ def main():
     # 6. Git Push
     try:
         repo = Repo(REPO_DIR)
-        repo.index.add([str(out_file), str(combo_file)])
+        repo.index.add([str(out_file), str(combo_file), str(SOURCES_FILE)])
         repo.index.commit(f'Update playlist: {processed_count} events + {len(fixed_entries)//2} fixed')
         repo.remote('origin').push()
         print("Pushed to GitHub.")
