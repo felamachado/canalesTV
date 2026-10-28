@@ -156,8 +156,8 @@ def _extract_ddg_domains(html, limit=5):
 
 def _search_ddg(query, limit=5):
     try:
-        resp = requests.get("https://duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-        print(f"    ddg status={resp.status_code} len={len(resp.text)}")
+        resp = requests.get("https://html.duckduckgo.com/html/", params={"q": query}, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        print(f"    ddg status={resp.status_code} len={len(resp.text)} result_a_count={resp.text.count('result__a')}")
         print(f"    ddg sample: {resp.text[:400].replace(chr(10), ' ')}")
         doms = _extract_ddg_domains(resp.text, limit)
         print(f"    ddg parsed={doms}")
