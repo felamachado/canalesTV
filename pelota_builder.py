@@ -177,13 +177,17 @@ def _search_bing(query, limit=5):
         soup = BeautifulSoup(resp.text, "html.parser")
         for cite in soup.find_all("cite"):
             text = cite.get_text(" ", strip=True)
-            m = re.search(r'([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}', text)
-            if not m:
-                continue
-            host = m.group(0).lower()
+            m = re.search(r'https?://([a-zA-Z0-9.-]+)', text)
+            if m:
+                host = m.group(1)
+            else:
+                token = text.split()[0] if text.split() else ""
+                token = token.split("›")[0].strip()
+                host = token
+            host = host.lower().strip(".")
             if host.startswith("www."):
                 host = host[4:]
-            if "bing.com" in host or host in seen:
+            if not host or "." not in host or "bing.com" in host or host in seen:
                 continue
             seen.add(host)
             domains.append(host)
